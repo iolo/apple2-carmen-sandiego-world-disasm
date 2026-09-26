@@ -1,0 +1,517 @@
+{
+  "file_offset": 1469,
+  "entries": [
+    {
+      "byte": 128,
+      "word": "a"
+    },
+    {
+      "byte": 129,
+      "word": "about"
+    },
+    {
+      "byte": 130,
+      "word": "address"
+    },
+    {
+      "byte": 131,
+      "word": "an"
+    },
+    {
+      "byte": 132,
+      "word": "ancestors"
+    },
+    {
+      "byte": 133,
+      "word": "and"
+    },
+    {
+      "byte": 134,
+      "word": "article"
+    },
+    {
+      "byte": 135,
+      "word": "at"
+    },
+    {
+      "byte": 136,
+      "word": "bag"
+    },
+    {
+      "byte": 137,
+      "word": "been"
+    },
+    {
+      "byte": 138,
+      "word": "between"
+    },
+    {
+      "byte": 139,
+      "word": "biography"
+    },
+    {
+      "byte": 140,
+      "word": "black"
+    },
+    {
+      "byte": 141,
+      "word": "blue"
+    },
+    {
+      "byte": 142,
+      "word": "book"
+    },
+    {
+      "byte": 143,
+      "word": "briefcase"
+    },
+    {
+      "byte": 144,
+      "word": "business"
+    },
+    {
+      "byte": 145,
+      "word": "by"
+    },
+    {
+      "byte": 146,
+      "word": "car"
+    },
+    {
+      "byte": 147,
+      "word": "catch"
+    },
+    {
+      "byte": 148,
+      "word": "character"
+    },
+    {
+      "byte": 149,
+      "word": "Communist"
+    },
+    {
+      "byte": 150,
+      "word": "compartment"
+    },
+    {
+      "byte": 151,
+      "word": "containing"
+    },
+    {
+      "byte": 152,
+      "word": "country"
+    },
+    {
+      "byte": 153,
+      "word": "countries"
+    },
+    {
+      "byte": 154,
+      "word": "cross"
+    },
+    {
+      "byte": 155,
+      "word": "discover"
+    },
+    {
+      "byte": 156,
+      "word": "Europe"
+    },
+    {
+      "byte": 157,
+      "word": "family"
+    },
+    {
+      "byte": 158,
+      "word": "find"
+    },
+    {
+      "byte": 159,
+      "word": "flag"
+    },
+    {
+      "byte": 160,
+      "word": "for"
+    },
+    {
+      "byte": 161,
+      "word": "found"
+    },
+    {
+      "byte": 162,
+      "word": "from"
+    },
+    {
+      "byte": 163,
+      "word": "genealogist"
+    },
+    {
+      "byte": 164,
+      "word": "German"
+    },
+    {
+      "byte": 165,
+      "word": "going"
+    },
+    {
+      "byte": 166,
+      "word": "government"
+    },
+    {
+      "byte": 167,
+      "word": "guide"
+    },
+    {
+      "byte": 168,
+      "word": "had"
+    },
+    {
+      "byte": 169,
+      "word": "has"
+    },
+    {
+      "byte": 170,
+      "word": "heading"
+    },
+    {
+      "byte": 171,
+      "word": "head"
+    },
+    {
+      "byte": 172,
+      "word": "hear"
+    },
+    {
+      "byte": 173,
+      "word": "heard"
+    },
+    {
+      "byte": 174,
+      "word": "hide"
+    },
+    {
+      "byte": 175,
+      "word": "I"
+    },
+    {
+      "byte": 176,
+      "word": "if"
+    },
+    {
+      "byte": 177,
+      "word": "in"
+    },
+    {
+      "byte": 178,
+      "word": "industries"
+    },
+    {
+      "byte": 179,
+      "word": "inside"
+    },
+    {
+      "byte": 180,
+      "word": "intercepted"
+    },
+    {
+      "byte": 181,
+      "word": "is"
+    },
+    {
+      "byte": 182,
+      "word": "island"
+    },
+    {
+      "byte": 183,
+      "word": "islands"
+    },
+    {
+      "byte": 184,
+      "word": "it"
+    },
+    {
+      "byte": 185,
+      "word": "job"
+    },
+    {
+      "byte": 186,
+      "word": "largest"
+    },
+    {
+      "byte": 187,
+      "word": "language"
+    },
+    {
+      "byte": 188,
+      "word": "languages"
+    },
+    {
+      "byte": 189,
+      "word": "learned"
+    },
+    {
+      "byte": 190,
+      "word": "letter"
+    },
+    {
+      "byte": 191,
+      "word": "low"
+    },
+    {
+      "byte": 192,
+      "word": "map"
+    },
+    {
+      "byte": 193,
+      "word": "me"
+    },
+    {
+      "byte": 194,
+      "word": "Mediterranean"
+    },
+    {
+      "byte": 195,
+      "word": "membership"
+    },
+    {
+      "byte": 196,
+      "word": "music"
+    },
+    {
+      "byte": 197,
+      "word": "nation"
+    },
+    {
+      "byte": 198,
+      "word": "newspaper"
+    },
+    {
+      "byte": 199,
+      "word": "night"
+    },
+    {
+      "byte": 200,
+      "word": "north"
+    },
+    {
+      "byte": 201,
+      "word": "Norwegian"
+    },
+    {
+      "byte": 202,
+      "word": "notebook"
+    },
+    {
+      "byte": 203,
+      "word": "notice"
+    },
+    {
+      "byte": 204,
+      "word": "noticed"
+    },
+    {
+      "byte": 205,
+      "word": "of"
+    },
+    {
+      "byte": 206,
+      "word": "on"
+    },
+    {
+      "byte": 207,
+      "word": "one"
+    },
+    {
+      "byte": 208,
+      "word": "out"
+    },
+    {
+      "byte": 209,
+      "word": "overdue"
+    },
+    {
+      "byte": 210,
+      "word": "paintings"
+    },
+    {
+      "byte": 211,
+      "word": "party"
+    },
+    {
+      "byte": 212,
+      "word": "person"
+    },
+    {
+      "byte": 213,
+      "word": "planned"
+    },
+    {
+      "byte": 214,
+      "word": "planning"
+    },
+    {
+      "byte": 215,
+      "word": "plans"
+    },
+    {
+      "byte": 216,
+      "word": "postage"
+    },
+    {
+      "byte": 217,
+      "word": "postcard"
+    },
+    {
+      "byte": 218,
+      "word": "red"
+    },
+    {
+      "byte": 219,
+      "word": "reading"
+    },
+    {
+      "byte": 220,
+      "word": "said"
+    },
+    {
+      "byte": 221,
+      "word": "say"
+    },
+    {
+      "byte": 222,
+      "word": "Sea"
+    },
+    {
+      "byte": 223,
+      "word": "search"
+    },
+    {
+      "byte": 224,
+      "word": "seen"
+    },
+    {
+      "byte": 225,
+      "word": "ski"
+    },
+    {
+      "byte": 226,
+      "word": "smallest"
+    },
+    {
+      "byte": 227,
+      "word": "some"
+    },
+    {
+      "byte": 228,
+      "word": "someone"
+    },
+    {
+      "byte": 229,
+      "word": "suitcase"
+    },
+    {
+      "byte": 230,
+      "word": "suspect"
+    },
+    {
+      "byte": 231,
+      "word": "suspicious"
+    },
+    {
+      "byte": 232,
+      "word": "Switzerland"
+    },
+    {
+      "byte": 233,
+      "word": "taking"
+    },
+    {
+      "byte": 234,
+      "word": "tape"
+    },
+    {
+      "byte": 235,
+      "word": "that"
+    },
+    {
+      "byte": 236,
+      "word": "the"
+    },
+    {
+      "byte": 237,
+      "word": "there"
+    },
+    {
+      "byte": 238,
+      "word": "thief"
+    },
+    {
+      "byte": 239,
+      "word": "ticket"
+    },
+    {
+      "byte": 240,
+      "word": "to"
+    },
+    {
+      "byte": 241,
+      "word": "told"
+    },
+    {
+      "byte": 242,
+      "word": "travel"
+    },
+    {
+      "byte": 243,
+      "word": "traveling"
+    },
+    {
+      "byte": 244,
+      "word": "understand"
+    },
+    {
+      "byte": 245,
+      "word": "wallet"
+    },
+    {
+      "byte": 246,
+      "word": "wanted"
+    },
+    {
+      "byte": 247,
+      "word": "was"
+    },
+    {
+      "byte": 248,
+      "word": "wearing"
+    },
+    {
+      "byte": 249,
+      "word": "white"
+    },
+    {
+      "byte": 250,
+      "word": "with"
+    },
+    {
+      "byte": 251,
+      "word": "word"
+    },
+    {
+      "byte": 252,
+      "word": "world"
+    },
+    {
+      "byte": 253,
+      "word": "written"
+    },
+    {
+      "byte": 254,
+      "word": "you"
+    },
+    {
+      "byte": 255,
+      "word": "your"
+    }
+  ]
+}

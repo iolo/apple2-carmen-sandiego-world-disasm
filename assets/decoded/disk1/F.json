@@ -1,0 +1,123 @@
+{
+  "record_size": 19,
+  "slots": [
+    {
+      "slot": 0,
+      "offset": 0,
+      "name": "Chris Sherman",
+      "empty": false,
+      "rank_index": 0,
+      "cases_solved": 0,
+      "saved_case": 0
+    },
+    {
+      "slot": 1,
+      "offset": 19,
+      "name": "hawk eye",
+      "empty": false,
+      "rank_index": 0,
+      "cases_solved": 0,
+      "saved_case": 0
+    },
+    {
+      "slot": 2,
+      "offset": 38,
+      "name": "ROCKY",
+      "empty": false,
+      "rank_index": 0,
+      "cases_solved": 0,
+      "saved_case": 0
+    },
+    {
+      "slot": 3,
+      "offset": 57,
+      "name": "TROY H",
+      "empty": false,
+      "rank_index": 1,
+      "cases_solved": 1,
+      "saved_case": 0
+    },
+    {
+      "slot": 4,
+      "offset": 76,
+      "name": "MRS. M.",
+      "empty": false,
+      "rank_index": 1,
+      "cases_solved": 1,
+      "saved_case": 0
+    },
+    {
+      "slot": 5,
+      "offset": 95,
+      "name": "no",
+      "empty": false,
+      "rank_index": 0,
+      "cases_solved": 0,
+      "saved_case": 0
+    },
+    {
+      "slot": 6,
+      "offset": 114,
+      "name": "SNAKE EYES",
+      "empty": false,
+      "rank_index": 3,
+      "cases_solved": 12,
+      "saved_case": 0
+    },
+    {
+      "slot": 7,
+      "offset": 133,
+      "name": "Bryan",
+      "empty": false,
+      "rank_index": 1,
+      "cases_solved": 1,
+      "saved_case": 0
+    },
+    {
+      "slot": 8,
+      "offset": 152,
+      "name": "MRS. MALY",
+      "empty": false,
+      "rank_index": 2,
+      "cases_solved": 5,
+      "saved_case": 0
+    },
+    {
+      "slot": 9,
+      "offset": 171,
+      "name": "Mark",
+      "empty": false,
+      "rank_index": 1,
+      "cases_solved": 1,
+      "saved_case": 0
+    },
+    {
+      "slot": 10,
+      "offset": 190,
+      "name": "dm",
+      "empty": false,
+      "rank_index": 0,
+      "cases_solved": 0,
+      "saved_case": 0
+    },
+    {
+      "slot": 11,
+      "offset": 209,
+      "name": "IOLO",
+      "empty": false,
+      "rank_index": 0,
+      "cases_solved": 0,
+      "saved_case": 0
+    },
+    {
+      "slot": 12,
+      "offset": 228,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    }
+  ],
+  "tail_hex": "ffffffffffffffffff"
+}

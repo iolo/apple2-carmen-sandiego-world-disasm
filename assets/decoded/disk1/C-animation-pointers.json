@@ -1,0 +1,229 @@
+{
+  "base_address": 3584,
+  "entries": [
+    {
+      "index": 0,
+      "module": "T",
+      "sprite_number": 0,
+      "pointer_address": 3584,
+      "glyph_index": 137
+    },
+    {
+      "index": 1,
+      "module": "T",
+      "sprite_number": 1,
+      "pointer_address": 4334,
+      "glyph_index": 138
+    },
+    {
+      "index": 2,
+      "module": "T",
+      "sprite_number": 2,
+      "pointer_address": 5084,
+      "glyph_index": 139
+    },
+    {
+      "index": 3,
+      "module": "T",
+      "sprite_number": 3,
+      "pointer_address": 5834,
+      "glyph_index": 140
+    },
+    {
+      "index": 4,
+      "module": "T",
+      "sprite_number": 4,
+      "pointer_address": 6584,
+      "glyph_index": 141
+    },
+    {
+      "index": 5,
+      "module": "U",
+      "sprite_number": 0,
+      "pointer_address": 3584,
+      "glyph_index": 142
+    },
+    {
+      "index": 6,
+      "module": "U",
+      "sprite_number": 1,
+      "pointer_address": 3873,
+      "glyph_index": 143
+    },
+    {
+      "index": 7,
+      "module": "U",
+      "sprite_number": 2,
+      "pointer_address": 3952,
+      "glyph_index": 144
+    },
+    {
+      "index": 8,
+      "module": "U",
+      "sprite_number": 3,
+      "pointer_address": 4034,
+      "glyph_index": 145
+    },
+    {
+      "index": 9,
+      "module": "U",
+      "sprite_number": 4,
+      "pointer_address": 4116,
+      "glyph_index": 146
+    },
+    {
+      "index": 10,
+      "module": "U",
+      "sprite_number": 5,
+      "pointer_address": 4188,
+      "glyph_index": 147
+    },
+    {
+      "index": 11,
+      "module": "U",
+      "sprite_number": 6,
+      "pointer_address": 4260,
+      "glyph_index": 148
+    },
+    {
+      "index": 12,
+      "module": "U",
+      "sprite_number": 8,
+      "pointer_address": 4656,
+      "glyph_index": 149
+    },
+    {
+      "index": 13,
+      "module": "U",
+      "sprite_number": 11,
+      "pointer_address": 4860,
+      "glyph_index": 150
+    },
+    {
+      "index": 14,
+      "module": "U",
+      "sprite_number": 7,
+      "pointer_address": 4591,
+      "glyph_index": 151
+    },
+    {
+      "index": 15,
+      "module": "U",
+      "sprite_number": 10,
+      "pointer_address": 4786,
+      "glyph_index": 152
+    },
+    {
+      "index": 16,
+      "module": "U",
+      "sprite_number": 9,
+      "pointer_address": 4721,
+      "glyph_index": 153
+    },
+    {
+      "index": 17,
+      "module": "U",
+      "sprite_number": 12,
+      "pointer_address": 4925,
+      "glyph_index": 154
+    },
+    {
+      "index": 18,
+      "module": "U",
+      "sprite_number": 14,
+      "pointer_address": 5343,
+      "glyph_index": 155
+    },
+    {
+      "index": 19,
+      "module": "U",
+      "sprite_number": 13,
+      "pointer_address": 5251,
+      "glyph_index": 156
+    },
+    {
+      "index": 20,
+      "module": "U",
+      "sprite_number": 17,
+      "pointer_address": 5613,
+      "glyph_index": 157
+    },
+    {
+      "index": 21,
+      "module": "U",
+      "sprite_number": 16,
+      "pointer_address": 5521,
+      "glyph_index": 158
+    },
+    {
+      "index": 22,
+      "module": "U",
+      "sprite_number": 15,
+      "pointer_address": 5435,
+      "glyph_index": 159
+    },
+    {
+      "index": 23,
+      "module": "U",
+      "sprite_number": 18,
+      "pointer_address": 5699,
+      "glyph_index": 160
+    },
+    {
+      "index": 24,
+      "module": "U",
+      "sprite_number": 19,
+      "pointer_address": 5893,
+      "glyph_index": 161
+    },
+    {
+      "index": 25,
+      "module": "U",
+      "sprite_number": 20,
+      "pointer_address": 5991,
+      "glyph_index": 162
+    },
+    {
+      "index": 26,
+      "module": "U",
+      "sprite_number": 21,
+      "pointer_address": 6089,
+      "glyph_index": 163
+    },
+    {
+      "index": 27,
+      "module": "U",
+      "sprite_number": 22,
+      "pointer_address": 6187,
+      "glyph_index": 164
+    },
+    {
+      "index": 28,
+      "module": "U",
+      "sprite_number": 23,
+      "pointer_address": 6285,
+      "glyph_index": 165
+    },
+    {
+      "index": 29,
+      "module": "U",
+      "sprite_number": 24,
+      "pointer_address": 6383,
+      "glyph_index": 166
+    },
+    {
+      "index": 30,
+      "module": "U",
+      "sprite_number": 25,
+      "pointer_address": 6673,
+      "glyph_index": 167
+    },
+    {
+      "index": 31,
+      "module": null,
+      "sprite_number": null,
+      "pointer_address": 0,
+      "glyph_index": 168
+    }
+  ]
+}

@@ -1,0 +1,1539 @@
+{
+  "records": [
+    {
+      "number": 0,
+      "file_offset": 0,
+      "load_address": 57344,
+      "segments": [
+        {
+          "text": "Version:  2.00"
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "file_offset": 15,
+      "load_address": 57359,
+      "segments": [
+        {
+          "text": "Sleeping..."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "file_offset": 27,
+      "load_address": 57371,
+      "segments": [
+        {
+          "text": "HEADQUARTERS"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "file_offset": 40,
+      "load_address": 57384,
+      "segments": [
+        {
+          "text": "Please insert"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "file_offset": 54,
+      "load_address": 57398,
+      "segments": [
+        {
+          "text": "Where In The World"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "file_offset": 73,
+      "load_address": 57417,
+      "segments": [
+        {
+          "text": "Is Carmen Sandiego?"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "file_offset": 93,
+      "load_address": 57437,
+      "segments": [
+        {
+          "text": "Side A"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "file_offset": 100,
+      "load_address": 57444,
+      "segments": [
+        {
+          "text": "Side B"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "file_offset": 107,
+      "load_address": 57451,
+      "segments": [
+        {
+          "text": "and press "
+        },
+        {
+          "byte": 129
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "file_offset": 119,
+      "load_address": 57463,
+      "segments": [
+        {
+          "text": "Press a key"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "file_offset": 131,
+      "load_address": 57475,
+      "segments": [
+        {
+          "text": "or button to"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "file_offset": 144,
+      "load_address": 57488,
+      "segments": [
+        {
+          "text": "continue"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "file_offset": 153,
+      "load_address": 57497,
+      "segments": [
+        {
+          "text": "Press "
+        },
+        {
+          "byte": 129
+        },
+        {
+          "text": " to continue"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "file_offset": 173,
+      "load_address": 57517,
+      "segments": [
+        {
+          "byte": 129
+        },
+        {
+          "text": " to delete   "
+        },
+        {
+          "byte": 130
+        },
+        {
+          "text": " to cancel"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "file_offset": 199,
+      "load_address": 57543,
+      "segments": [
+        {
+          "text": "ACME DETECTIVE AGENCY HALL OF FAME"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "file_offset": 234,
+      "load_address": 57578,
+      "segments": [
+        {
+          "text": "ACME DETECTIVE AGENCY ROSTER"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "file_offset": 263,
+      "load_address": 57607,
+      "segments": [
+        {
+          "text": "Name"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "file_offset": 268,
+      "load_address": 57612,
+      "segments": [
+        {
+          "text": "Rank"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "file_offset": 273,
+      "load_address": 57617,
+      "segments": [
+        {
+          "text": "# Cases"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "file_offset": 281,
+      "load_address": 57625,
+      "segments": [
+        {
+          "text": "Detective at keyboard, please identify yourself:"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "file_offset": 330,
+      "load_address": 57674,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "You have a criminal record. Access denied."
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "file_offset": 377,
+      "load_address": 57721,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "No record of your name on file.  Are you new here? (Y/N)"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "file_offset": 436,
+      "load_address": 57780,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "No room for more detectives.  Please delete one by pressing Control-D."
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "file_offset": 510,
+      "load_address": 57854,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "Please type in the name you normally use."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "file_offset": 554,
+      "load_address": 57898,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "You have been identified, "
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "file_offset": 583,
+      "load_address": 57927,
+      "segments": [
+        {
+          "text": ".  Your current rank is:"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "file_offset": 608,
+      "load_address": 57952,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Do you wish to resume your saved game (if not, it will be erased)? (Y/N)"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "file_offset": 682,
+      "load_address": 58026,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "*** FLASH ***"
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "National treasure stolen from "
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "file_offset": 730,
+      "load_address": 58074,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "The treasure has been identified as: "
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "file_offset": 769,
+      "load_address": 58113,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Male"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "file_offset": 775,
+      "load_address": 58119,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Female"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "file_offset": 783,
+      "load_address": 58127,
+      "segments": [
+        {
+          "text": " suspect reported at the scene."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "file_offset": 815,
+      "load_address": 58159,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Your job:  Track the thief from "
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "file_offset": 849,
+      "load_address": 58193,
+      "segments": [
+        {
+          "text": "to "
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "file_offset": 853,
+      "load_address": 58197,
+      "segments": [
+        {
+          "text": "hideout and arrest "
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "file_offset": 873,
+      "load_address": 58217,
+      "segments": [
+        {
+          "text": "You must apprehend the thief by "
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "file_offset": 906,
+      "load_address": 58250,
+      "segments": [
+        {
+          "text": ".  Good luck, "
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "file_offset": 921,
+      "load_address": 58265,
+      "segments": [
+        {
+          "text": "."
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 128
+        },
+        {
+          "text": "     The Chief"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "file_offset": 940,
+      "load_address": 58284,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "You are a famous Super Sleuth!"
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "Your name could be on a hit list somewhere...."
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "You had better sign on under an assumed name."
+        },
+        {
+          "byte": 141
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "file_offset": 1070,
+      "load_address": 58414,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "file_offset": 1074,
+      "load_address": 58418,
+      "segments": [
+        {
+          "text": "Really save case?"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "file_offset": 1092,
+      "load_address": 58436,
+      "segments": [
+        {
+          "text": "To cancel:  Press "
+        },
+        {
+          "byte": 130
+        },
+        {
+          "text": "."
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "To save:  Insert side A into"
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "drive 1 and press "
+        },
+        {
+          "byte": 129
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "file_offset": 1163,
+      "load_address": 58507,
+      "segments": [
+        {
+          "text": "A V.I.L.E. henchman!"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "file_offset": 1184,
+      "load_address": 58528,
+      "segments": [
+        {
+          "text": "You must be on"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "file_offset": 1199,
+      "load_address": 58543,
+      "segments": [
+        {
+          "text": "the right track!"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "file_offset": 1216,
+      "load_address": 58560,
+      "segments": [
+        {
+          "text": "There goes"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "file_offset": 1227,
+      "load_address": 58571,
+      "segments": [
+        {
+          "text": "the suspect!"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "file_offset": 1240,
+      "load_address": 58584,
+      "segments": [
+        {
+          "text": "You're getting too close, shamus."
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "file_offset": 1274,
+      "load_address": 58618,
+      "segments": [
+        {
+          "text": "No one like that has been seen around here."
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "file_offset": 1318,
+      "load_address": 58662,
+      "segments": [
+        {
+          "text": "See Connections"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "file_offset": 1334,
+      "load_address": 58678,
+      "segments": [
+        {
+          "text": "Depart by Plane"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "file_offset": 1350,
+      "load_address": 58694,
+      "segments": [
+        {
+          "text": "Investigate"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "file_offset": 1362,
+      "load_address": 58706,
+      "segments": [
+        {
+          "text": "Visit Interpol"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "file_offset": 1377,
+      "load_address": 58721,
+      "segments": [
+        {
+          "text": "Hide Connections"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "file_offset": 1394,
+      "load_address": 58738,
+      "segments": [
+        {
+          "text": "Use Computer"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "file_offset": 1407,
+      "load_address": 58751,
+      "segments": [
+        {
+          "text": "Save Case"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "file_offset": 1417,
+      "load_address": 58761,
+      "segments": [
+        {
+          "text": "  "
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "file_offset": 1420,
+      "load_address": 58764,
+      "segments": [
+        {
+          "text": ","
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "file_offset": 1422,
+      "load_address": 58766,
+      "segments": [
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "file_offset": 1424,
+      "load_address": 58768,
+      "segments": [
+        {
+          "text": "He "
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "file_offset": 1428,
+      "load_address": 58772,
+      "segments": [
+        {
+          "text": "She "
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "file_offset": 1433,
+      "load_address": 58777,
+      "segments": [
+        {
+          "text": "Ready."
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "file_offset": 1440,
+      "load_address": 58784,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "Warrant issued for arrest of:"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "file_offset": 1472,
+      "load_address": 58816,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Suspects follow:"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "file_offset": 1490,
+      "load_address": 58834,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "The information provided eliminates all possible suspects."
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "file_offset": 1550,
+      "load_address": 58894,
+      "segments": [
+        {
+          "text": "male"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "file_offset": 1555,
+      "load_address": 58899,
+      "segments": [
+        {
+          "text": "female"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "file_offset": 1562,
+      "load_address": 58906,
+      "segments": [
+        {
+          "text": "he"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "file_offset": 1565,
+      "load_address": 58909,
+      "segments": [
+        {
+          "text": "she"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "file_offset": 1569,
+      "load_address": 58913,
+      "segments": [
+        {
+          "text": "him."
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "file_offset": 1574,
+      "load_address": 58918,
+      "segments": [
+        {
+          "text": "her."
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "file_offset": 1579,
+      "load_address": 58923,
+      "segments": [
+        {
+          "text": "day, "
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "file_offset": 1585,
+      "load_address": 58929,
+      "segments": [
+        {
+          "text": " am"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "file_offset": 1589,
+      "load_address": 58933,
+      "segments": [
+        {
+          "text": " pm"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "file_offset": 1593,
+      "load_address": 58937,
+      "segments": [
+        {
+          "text": "Bravo!  You caught the ringleader of V.I.L.E., Carmen Sandiego!"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "file_offset": 1657,
+      "load_address": 59001,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "You have been promoted to Super Sleuth and honorably retired to the agency's Hall of Fame."
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "file_offset": 1749,
+      "load_address": 59093,
+      "segments": [
+        {
+          "text": "Attention, "
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "file_offset": 1761,
+      "load_address": 59105,
+      "segments": [
+        {
+          "text": "Thanks to your help, the "
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "file_offset": 1787,
+      "load_address": 59131,
+      "segments": [
+        {
+          "text": " police apprehended "
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "file_offset": 1808,
+      "load_address": 59152,
+      "segments": [
+        {
+          "text": " had the loot, "
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "file_offset": 1824,
+      "load_address": 59168,
+      "segments": [
+        {
+          "text": ", which will be returned to the grateful residents of "
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "file_offset": 1879,
+      "load_address": 59223,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "We here at Interpol thank you for your good work on this case."
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "file_offset": 1943,
+      "load_address": 59287,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Your success will be noted on your record."
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "file_offset": 1987,
+      "load_address": 59331,
+      "segments": [
+        {
+          "text": "Interpol here."
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "file_offset": 2004,
+      "load_address": 59348,
+      "segments": [
+        {
+          "text": "You have trailed "
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "file_offset": 2022,
+      "load_address": 59366,
+      "segments": [
+        {
+          "text": " correctly."
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "file_offset": 2034,
+      "load_address": 59378,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Unfortunately, you have a warrant for "
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "file_offset": 2074,
+      "load_address": 59418,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Be careful, we could all be sued for false arrest!  We hope you do better next time."
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "file_offset": 2160,
+      "load_address": 59504,
+      "segments": [
+        {
+          "text": "You have caught up with "
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "file_offset": 2185,
+      "load_address": 59529,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "However, without a warrant we cannot make a legal arrest."
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "file_offset": 2245,
+      "load_address": 59589,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "It looks like Carmen's gang has gotten away with another caper."
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "file_offset": 2310,
+      "load_address": 59654,
+      "segments": [
+        {
+          "text": "Bad news..."
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "We've just received word that "
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "file_offset": 2354,
+      "load_address": 59698,
+      "segments": [
+        {
+          "text": " slipped through your fingers because your investigation took too long!"
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "file_offset": 2426,
+      "load_address": 59770,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Ready for your next case, "
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "file_offset": 2454,
+      "load_address": 59798,
+      "segments": [
+        {
+          "text": "? (Y/N)"
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "file_offset": 2462,
+      "load_address": 59806,
+      "segments": [
+        {
+          "text": " until your next promotion."
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "file_offset": 2490,
+      "load_address": 59834,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "text": "Congratulations! You have earned a promotion!  Your new rank is:  "
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "file_offset": 2558,
+      "load_address": 59902,
+      "segments": [
+        {
+          "text": "Please disable"
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "file_offset": 2573,
+      "load_address": 59917,
+      "segments": [
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "text": "Acme deeply appreciates your outstanding service to the Agency."
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 141
+        },
+        {
+          "byte": 128
+        },
+        {
+          "text": "      The Chief"
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "file_offset": 2657,
+      "load_address": 60001,
+      "segments": [
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "file_offset": 2659,
+      "load_address": 60003,
+      "segments": [
+        {
+          "text": "her "
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "file_offset": 2664,
+      "load_address": 60008,
+      "segments": [
+        {
+          "text": "his "
+        }
+      ]
+    },
+    {
+      "number": 102,
+      "file_offset": 2669,
+      "load_address": 60013,
+      "segments": [
+        {
+          "byte": 141
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "file_offset": 2671,
+      "load_address": 60015,
+      "segments": [
+        {
+          "text": "his"
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "file_offset": 2675,
+      "load_address": 60019,
+      "segments": [
+        {
+          "text": "her"
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "file_offset": 2679,
+      "load_address": 60023,
+      "segments": [
+        {
+          "text": "him"
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "file_offset": 2683,
+      "load_address": 60027,
+      "segments": [
+        {
+          "text": " more case"
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "file_offset": 2694,
+      "load_address": 60038,
+      "segments": [
+        {
+          "text": "One"
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "file_offset": 2698,
+      "load_address": 60042,
+      "segments": [
+        {
+          "text": "Two"
+        }
+      ]
+    },
+    {
+      "number": 109,
+      "file_offset": 2702,
+      "load_address": 60046,
+      "segments": [
+        {
+          "text": "Three"
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "file_offset": 2708,
+      "load_address": 60052,
+      "segments": [
+        {
+          "text": "Four"
+        }
+      ]
+    },
+    {
+      "number": 111,
+      "file_offset": 2713,
+      "load_address": 60057,
+      "segments": [
+        {
+          "text": "Five"
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "file_offset": 2718,
+      "load_address": 60062,
+      "segments": [
+        {
+          "text": "Six"
+        }
+      ]
+    },
+    {
+      "number": 113,
+      "file_offset": 2722,
+      "load_address": 60066,
+      "segments": [
+        {
+          "text": "Seven"
+        }
+      ]
+    },
+    {
+      "number": 114,
+      "file_offset": 2728,
+      "load_address": 60072,
+      "segments": [
+        {
+          "text": "Eight"
+        }
+      ]
+    },
+    {
+      "number": 115,
+      "file_offset": 2734,
+      "load_address": 60078,
+      "segments": [
+        {
+          "text": "Nine"
+        }
+      ]
+    },
+    {
+      "number": 116,
+      "file_offset": 2739,
+      "load_address": 60083,
+      "segments": [
+        {
+          "text": "Ten"
+        }
+      ]
+    },
+    {
+      "number": 117,
+      "file_offset": 2743,
+      "load_address": 60087,
+      "segments": [
+        {
+          "text": "write protection"
+        }
+      ]
+    },
+    {
+      "number": 118,
+      "file_offset": 2760,
+      "load_address": 60104,
+      "segments": [
+        {
+          "text": "Bank"
+        }
+      ]
+    },
+    {
+      "number": 119,
+      "file_offset": 2765,
+      "load_address": 60109,
+      "segments": [
+        {
+          "text": "Hotel"
+        }
+      ]
+    },
+    {
+      "number": 120,
+      "file_offset": 2771,
+      "load_address": 60115,
+      "segments": [
+        {
+          "text": "Museum"
+        }
+      ]
+    },
+    {
+      "number": 121,
+      "file_offset": 2778,
+      "load_address": 60122,
+      "segments": [
+        {
+          "text": "Sport Club"
+        }
+      ]
+    },
+    {
+      "number": 122,
+      "file_offset": 2789,
+      "load_address": 60133,
+      "segments": [
+        {
+          "text": "Library"
+        }
+      ]
+    },
+    {
+      "number": 123,
+      "file_offset": 2797,
+      "load_address": 60141,
+      "segments": [
+        {
+          "text": "Airport"
+        }
+      ]
+    },
+    {
+      "number": 124,
+      "file_offset": 2805,
+      "load_address": 60149,
+      "segments": [
+        {
+          "text": "Harbor"
+        }
+      ]
+    },
+    {
+      "number": 125,
+      "file_offset": 2812,
+      "load_address": 60156,
+      "segments": [
+        {
+          "text": "River Front"
+        }
+      ]
+    },
+    {
+      "number": 126,
+      "file_offset": 2824,
+      "load_address": 60168,
+      "segments": [
+        {
+          "text": "Palace"
+        }
+      ]
+    },
+    {
+      "number": 127,
+      "file_offset": 2831,
+      "load_address": 60175,
+      "segments": [
+        {
+          "text": "Stock Exchange"
+        }
+      ]
+    },
+    {
+      "number": 128,
+      "file_offset": 2846,
+      "load_address": 60190,
+      "segments": [
+        {
+          "text": "Marketplace"
+        }
+      ]
+    },
+    {
+      "number": 129,
+      "file_offset": 2858,
+      "load_address": 60202,
+      "segments": [
+        {
+          "text": "Foreign Ministry"
+        }
+      ]
+    }
+  ],
+  "padding_length": 197
+}

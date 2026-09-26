@@ -1,0 +1,167 @@
+{
+  "snapshot_range": "$00-$20",
+  "trait_filter_order": [
+    "sex",
+    "hobbies",
+    "hair",
+    "features",
+    "vehicles",
+    "food"
+  ],
+  "slots": [
+    {
+      "slot": 0,
+      "detective": "Pam capolino",
+      "unused": false,
+      "case_state": {
+        "suspect": 1,
+        "route_graph_index": 7,
+        "route_index": 3,
+        "route_slots": [
+          14,
+          25,
+          17,
+          5,
+          8,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hideout_city": 1,
+        "current_city": 17,
+        "day": 4,
+        "hour": 17,
+        "deadline_day": 5,
+        "deadline_hour": 9,
+        "city_investigation_count": 1,
+        "warrant_suspect": 1,
+        "sound_enabled": 1,
+        "treasure_text_index": 44,
+        "city_menu_selection": 3,
+        "trait_filters": [
+          1,
+          255,
+          0,
+          255,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "slot": 1,
+      "detective": "PAM",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 2,
+      "detective": "Alex Lee",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 3,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 4,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 5,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 6,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 7,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 8,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 9,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 10,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 11,
+      "detective": "",
+      "unused": false,
+      "case_state": {
+        "suspect": 9,
+        "route_graph_index": 4,
+        "route_index": 1,
+        "route_slots": [
+          13,
+          10,
+          14,
+          1,
+          11,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hideout_city": 1,
+        "current_city": 13,
+        "day": 0,
+        "hour": 16,
+        "deadline_day": 6,
+        "deadline_hour": 16,
+        "city_investigation_count": 0,
+        "warrant_suspect": 255,
+        "sound_enabled": 1,
+        "treasure_text_index": 39,
+        "city_menu_selection": 3,
+        "trait_filters": [
+          255,
+          255,
+          255,
+          255,
+          255,
+          255
+        ]
+      }
+    },
+    {
+      "slot": 12,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    }
+  ]
+}

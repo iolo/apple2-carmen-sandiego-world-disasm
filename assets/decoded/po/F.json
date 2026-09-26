@@ -1,0 +1,123 @@
+{
+  "record_size": 19,
+  "slots": [
+    {
+      "slot": 0,
+      "offset": 0,
+      "name": "Pam capolino",
+      "empty": false,
+      "rank_index": 3,
+      "cases_solved": 12,
+      "saved_case": 0
+    },
+    {
+      "slot": 1,
+      "offset": 19,
+      "name": "PAM",
+      "empty": false,
+      "rank_index": 2,
+      "cases_solved": 7,
+      "saved_case": 0
+    },
+    {
+      "slot": 2,
+      "offset": 38,
+      "name": "Alex Lee",
+      "empty": false,
+      "rank_index": 0,
+      "cases_solved": 0,
+      "saved_case": 0
+    },
+    {
+      "slot": 3,
+      "offset": 57,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 4,
+      "offset": 76,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 5,
+      "offset": 95,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 6,
+      "offset": 114,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 7,
+      "offset": 133,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 8,
+      "offset": 152,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 9,
+      "offset": 171,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 10,
+      "offset": 190,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 11,
+      "offset": 209,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    },
+    {
+      "slot": 12,
+      "offset": 228,
+      "name": "",
+      "empty": true,
+      "rank_index": null,
+      "cases_solved": null,
+      "saved_case": null
+    }
+  ],
+  "tail_hex": "ffffffffffffffffff"
+}

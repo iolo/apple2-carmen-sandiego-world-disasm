@@ -1,0 +1,106 @@
+{
+  "sex": [
+    {
+      "file_offset": 2940,
+      "label": "Male"
+    },
+    {
+      "file_offset": 2945,
+      "label": "Female"
+    }
+  ],
+  "hobbies": [
+    {
+      "file_offset": 2952,
+      "label": "Tennis"
+    },
+    {
+      "file_offset": 2959,
+      "label": "Music"
+    },
+    {
+      "file_offset": 2965,
+      "label": "Mt.Climbing"
+    },
+    {
+      "file_offset": 2977,
+      "label": "Skydiving"
+    },
+    {
+      "file_offset": 2987,
+      "label": "Swimming"
+    },
+    {
+      "file_offset": 2996,
+      "label": "Croquet"
+    }
+  ],
+  "hair": [
+    {
+      "file_offset": 3004,
+      "label": "Brown"
+    },
+    {
+      "file_offset": 3010,
+      "label": "Blond"
+    },
+    {
+      "file_offset": 3016,
+      "label": "Red"
+    },
+    {
+      "file_offset": 3020,
+      "label": "Black"
+    }
+  ],
+  "features": [
+    {
+      "file_offset": 3026,
+      "label": "Limps"
+    },
+    {
+      "file_offset": 3032,
+      "label": "Ring"
+    },
+    {
+      "file_offset": 3037,
+      "label": "Tattoo"
+    },
+    {
+      "file_offset": 3044,
+      "label": "Scar"
+    },
+    {
+      "file_offset": 3049,
+      "label": "Jewelry"
+    }
+  ],
+  "vehicles": [
+    {
+      "file_offset": 3057,
+      "label": "Convertible"
+    },
+    {
+      "file_offset": 3069,
+      "label": "Limousine"
+    },
+    {
+      "file_offset": 3079,
+      "label": "Racecar"
+    },
+    {
+      "file_offset": 3087,
+      "label": "Motorcycle"
+    }
+  ],
+  "food": [
+    {
+      "file_offset": 3098,
+      "label": "Mexican"
+    },
+    {
+      "file_offset": 3106,
+      "label": "Seafood"
+    }
+  ]
+}

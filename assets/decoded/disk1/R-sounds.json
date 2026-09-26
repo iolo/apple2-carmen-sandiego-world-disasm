@@ -1,0 +1,231 @@
+{
+  "periods": [
+    0,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    96,
+    104,
+    112,
+    120,
+    128,
+    136,
+    144,
+    152,
+    160,
+    168,
+    176
+  ],
+  "default_duration": 20,
+  "tracks": [
+    {
+      "id": 0,
+      "address": 25328,
+      "commands": [
+        {
+          "duration": 20
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 27,
+          "period": 136
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 25,
+          "period": 120
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 20,
+          "period": 84
+        },
+        {
+          "note": 27,
+          "period": 136
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 25,
+          "period": 120
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 21,
+          "period": 88
+        },
+        {
+          "note": 27,
+          "period": 136
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 25,
+          "period": 120
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 22,
+          "period": 96
+        },
+        {
+          "note": 16,
+          "period": 68
+        },
+        {
+          "note": 17,
+          "period": 72
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "note": 22,
+          "period": 96
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "note": 20,
+          "period": 84
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "duration": 96
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "address": 25365,
+      "commands": [
+        {
+          "duration": 48
+        },
+        {
+          "note": 10,
+          "period": 44
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "note": 10,
+          "period": 44
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "note": 10,
+          "period": 44
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "note": 10,
+          "period": 44
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "duration": 24
+        }
+      ]
+    }
+  ]
+}

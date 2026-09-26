@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-26",
+  "emulator": "Apple2TS",
+  "machine": "APPLE2EE",
+  "mounted_drive": "hd1",
+  "uploaded_image_sha256": "f26314bf001753720298c212eddf5e8a9ff971fb99ecce597a21bc1d85fb4757",
+  "uploaded_image_bytes": 819200,
+  "registered_detective": "ADT",
+  "observations": [
+    "Reached detective sign-in after boot",
+    "Registered a rookie detective",
+    "Case briefing identified Paris and the elevator from the Eiffel Tower",
+    "Paris screen displayed landmark image and city description",
+    "Investigate > Bank displayed: He changed his money to dollars. He had a nice convertible."
+  ],
+  "screenshots": [
+    "po-paris-investigation.png",
+    "po-paris-clue.png"
+  ],
+  "case_memory": {
+    "address": 0,
+    "length": 33,
+    "bytes": [
+      8,
+      5,
+      1,
+      20,
+      18,
+      21,
+      4,
+      255,
+      255,
+      255,
+      255,
+      255,
+      255,
+      255,
+      255,
+      255,
+      4,
+      20,
+      6,
+      13,
+      5,
+      12,
+      1,
+      255,
+      1,
+      61,
+      2,
+      255,
+      255,
+      255,
+      255,
+      255,
+      255
+    ],
+    "requestedSpace": "active",
+    "effectiveAuxBank": 0,
+    "effectiveSegments": [
+      {
+        "address": 0,
+        "length": 33,
+        "space": "aux",
+        "auxBank": 0
+      }
+    ],
+    "mapping": {
+      "RAMRD": false,
+      "RAMWRT": false,
+      "ALTZP": true,
+      "80STORE": false,
+      "PAGE2": false,
+      "HIRES": true
+    }
+  },
+  "session_cleanup": "private session stopped",
+  "limits": [
+    "No full-case completion check",
+    "No save/resume check",
+    "No audio capture",
+    "No physical UniDisk or AppleDisk controller-path check"
+  ],
+  "case_route": [
+    "Paris",
+    "New York",
+    "Beijing",
+    "Budapest"
+  ],
+  "case_start_city": "Paris",
+  "case_hideout_city": "Budapest",
+  "case_current_city": "Paris"
+}

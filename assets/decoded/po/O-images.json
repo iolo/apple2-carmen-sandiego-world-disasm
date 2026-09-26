@@ -1,0 +1,54 @@
+[
+  {
+    "number": 2,
+    "loaded_address": 42752,
+    "x_start": 1,
+    "x_end": 19,
+    "y_start": 151,
+    "y_end": 187,
+    "scanline_stride": 1,
+    "file_offset": 0,
+    "compressed_length": 358,
+    "padding_length": 2,
+    "marker": 1
+  },
+  {
+    "number": 4,
+    "loaded_address": 43112,
+    "x_start": 21,
+    "x_end": 38,
+    "y_start": 12,
+    "y_end": 137,
+    "scanline_stride": 1,
+    "file_offset": 360,
+    "compressed_length": 1220,
+    "padding_length": 4,
+    "marker": 1
+  },
+  {
+    "number": 3,
+    "loaded_address": 44336,
+    "x_start": 7,
+    "x_end": 32,
+    "y_start": 104,
+    "y_end": 185,
+    "scanline_stride": 1,
+    "file_offset": 1584,
+    "compressed_length": 1066,
+    "padding_length": 6,
+    "marker": 1
+  },
+  {
+    "number": 1,
+    "loaded_address": 45408,
+    "x_start": 1,
+    "x_end": 19,
+    "y_start": 3,
+    "y_end": 34,
+    "scanline_stride": 1,
+    "file_offset": 2656,
+    "compressed_length": 159,
+    "padding_length": 1,
+    "marker": 1
+  }
+]

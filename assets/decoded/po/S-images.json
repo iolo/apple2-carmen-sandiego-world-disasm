@@ -1,0 +1,62 @@
+[
+  {
+    "number": 0,
+    "file_offset": 0,
+    "loaded_address": 30720,
+    "compressed_length": 986,
+    "padding_length": 6,
+    "x_start": 6,
+    "x_end": 31,
+    "y_start": 66,
+    "y_end": 134,
+    "marker": 1,
+    "scanline_stride": 1,
+    "unused_copies_in_final_run": 246,
+    "missing_pixels_at_eof": 0
+  },
+  {
+    "number": 1,
+    "file_offset": 992,
+    "loaded_address": 31712,
+    "compressed_length": 954,
+    "padding_length": 6,
+    "x_start": 0,
+    "x_end": 39,
+    "y_start": 140,
+    "y_end": 191,
+    "marker": 0,
+    "scanline_stride": 2,
+    "unused_copies_in_final_run": 0,
+    "missing_pixels_at_eof": 0
+  },
+  {
+    "number": 2,
+    "file_offset": 1952,
+    "loaded_address": 32672,
+    "compressed_length": 1969,
+    "padding_length": 15,
+    "x_start": 0,
+    "x_end": 39,
+    "y_start": 8,
+    "y_end": 116,
+    "marker": 2,
+    "scanline_stride": 1,
+    "unused_copies_in_final_run": 0,
+    "missing_pixels_at_eof": 0
+  },
+  {
+    "number": 3,
+    "file_offset": 3936,
+    "loaded_address": 34656,
+    "compressed_length": 2653,
+    "padding_length": 3,
+    "x_start": 4,
+    "x_end": 34,
+    "y_start": 27,
+    "y_end": 149,
+    "marker": 4,
+    "scanline_stride": 2,
+    "unused_copies_in_final_run": 0,
+    "missing_pixels_at_eof": 0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "number": 0,
+    "loaded_address": 4353,
+    "x_start": 1,
+    "x_end": 19,
+    "y_start": 38,
+    "y_end": 187,
+    "scanline_stride": 0,
+    "file_offset": 1,
+    "compressed_length_to_end": 267,
+    "effective_scanline_stride": 24,
+    "marker": 37,
+    "unused_copies_in_final_run": 0
+  },
+  {
+    "number": 5,
+    "loaded_address": 4357,
+    "x_start": 22,
+    "x_end": 35,
+    "y_start": 7,
+    "y_end": 131,
+    "scanline_stride": 2,
+    "file_offset": 5,
+    "compressed_length_to_end": 1055,
+    "effective_scanline_stride": 2,
+    "marker": 1,
+    "unused_copies_in_final_run": 253
+  }
+]

@@ -1,0 +1,1125 @@
+{
+  "format": 1,
+  "images": {
+    "disk1": {
+      "directory_inventory": {
+        "declared_file_count": 21,
+        "directory_blocks": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "files": [
+          "PRODOS",
+          "WORLD.SYSTEM",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "N",
+          "O",
+          "P",
+          "Q",
+          "R",
+          "S",
+          "T",
+          "U"
+        ],
+        "malformed_unused_entries": [
+          {
+            "block": 5,
+            "entry_hex": "ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac00ac",
+            "slot": 12,
+            "storage_byte": 172
+          }
+        ],
+        "volume": "CARMEN.WORLD"
+      },
+      "files": {
+        "A": {
+          "asset": "assets/disk1/A.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "FF1F00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "A",
+            "min_version": "00",
+            "modified": "95AF0000",
+            "version": "07"
+          },
+          "sha256": "e6ea432bfa215397163f79b0c7fce3bcc74a20e492d1871b6374117775a14670",
+          "size": 8191
+        },
+        "B": {
+          "asset": "assets/disk1/B.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0098",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "7A0400",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "B",
+            "min_version": "00",
+            "modified": "0FB32207",
+            "version": "07"
+          },
+          "sha256": "68864657be18ca2bae058fbe482f86747f7fc431d0b261c9f488991c1c158cf4",
+          "size": 1146
+        },
+        "C": {
+          "asset": "assets/disk1/C.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "00D2",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "792700",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "C",
+            "min_version": "00",
+            "modified": "06B33410",
+            "version": "07"
+          },
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "size": 10105
+        },
+        "D": {
+          "asset": "assets/disk1/D.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "00B9",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "C30500",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "D",
+            "min_version": "00",
+            "modified": "9CB1110A",
+            "version": "07"
+          },
+          "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762",
+          "size": 1475
+        },
+        "E": {
+          "asset": "assets/disk1/E.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "000700",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "E",
+            "min_version": "00",
+            "modified": "C2AE0000",
+            "version": "07"
+          },
+          "sha256": "2ead67e72e3109f60036c59931119a0dbe715155f80655e8ab35e16a77c6cd62",
+          "size": 1792
+        },
+        "F": {
+          "asset": "assets/disk1/F.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "000100",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "F",
+            "min_version": "00",
+            "modified": "D9C2140C",
+            "version": "07"
+          },
+          "sha256": "81938e88b87716d9193a3ff35ba46c6eed6aa2ebfda8192323f660f6d2ab462d",
+          "size": 256
+        },
+        "G": {
+          "asset": "assets/disk1/G.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "000100",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "G",
+            "min_version": "00",
+            "modified": "0FB30208",
+            "version": "07"
+          },
+          "sha256": "3d6876a0146de8576eb2395a858de1213d1b92c65b779df3a331cfd5a4584546",
+          "size": 256
+        },
+        "H": {
+          "asset": "assets/disk1/H.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "000D00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "H",
+            "min_version": "00",
+            "modified": "10B3120D",
+            "version": "07"
+          },
+          "sha256": "5f9c282393e9e0ed6a4331933b154edb7bbc9a5aa0842a972fca7b299c9503cb",
+          "size": 3328
+        },
+        "I": {
+          "asset": "assets/disk1/I.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "770800",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "I",
+            "min_version": "00",
+            "modified": "F2B2120C",
+            "version": "07"
+          },
+          "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd",
+          "size": 2167
+        },
+        "J": {
+          "asset": "assets/disk1/J.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "000800",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "J",
+            "min_version": "00",
+            "modified": "ABB22107",
+            "version": "07"
+          },
+          "sha256": "774fb15630eeee2525f7dc530083e9b7b6d4a7695b7e57acfa4a7405fbdbc2b6",
+          "size": 2048
+        },
+        "K": {
+          "asset": "assets/disk1/K.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0080",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "FB0400",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "K",
+            "min_version": "00",
+            "modified": "F2B20E07",
+            "version": "07"
+          },
+          "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a",
+          "size": 1275
+        },
+        "N": {
+          "asset": "assets/disk1/N.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0060",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "DC2E00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "N",
+            "min_version": "00",
+            "modified": "0FB32207",
+            "version": "07"
+          },
+          "sha256": "293137de334e724d69bb6437dc7925da628dbb0187e683100d8d04c0fc6f8389",
+          "size": 11996
+        },
+        "O": {
+          "asset": "assets/disk1/O.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "000B00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "O",
+            "min_version": "00",
+            "modified": "BAB23B14",
+            "version": "07"
+          },
+          "sha256": "d42f4225746b280acf347a5bcf75d3156bac4b1e9e3094c579ad8ccac0ace90e",
+          "size": 2816
+        },
+        "P": {
+          "asset": "assets/disk1/P.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0060",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "240400",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "P",
+            "min_version": "00",
+            "modified": "B2B2300E",
+            "version": "07"
+          },
+          "sha256": "2bc9b66538d34e2294a8e9cc083b1f6560640337c2cdad73ef6a5e5411c3eecc",
+          "size": 1060
+        },
+        "PRODOS": {
+          "asset": "assets/disk1/PRODOS.bin",
+          "classification": "system",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0000",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "7D3C00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "FF",
+            "full_path": "PRODOS",
+            "min_version": "00",
+            "modified": "09B10B08",
+            "version": "07"
+          },
+          "sha256": "eac4a7f69ad2cae48b825407f908fb0afa8ead3e036ab4e7e8ea6272b4aa6383",
+          "size": 15485
+        },
+        "Q": {
+          "asset": "assets/disk1/Q.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "001F",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "FC0000",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "Q",
+            "min_version": "00",
+            "modified": "03B31811",
+            "version": "07"
+          },
+          "sha256": "d68f742f3df0c3bbc2b6ba5fc333152f3f7b9dbd1154981f3684e579116382b5",
+          "size": 252
+        },
+        "R": {
+          "asset": "assets/disk1/R.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0060",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "E61300",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "R",
+            "min_version": "00",
+            "modified": "0FB30807",
+            "version": "07"
+          },
+          "sha256": "7519dc80037293ffb3b6b0f0777a73617bdd7965d54112a87905eb5b29d52229",
+          "size": 5094
+        },
+        "S": {
+          "asset": "assets/disk1/S.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "C01900",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "S",
+            "min_version": "00",
+            "modified": "03B32E0D",
+            "version": "07"
+          },
+          "sha256": "2d25d8b1b644fb9fbad012d49dae7000a06057ad724d65bb057803f2e5a5ccb4",
+          "size": 6592
+        },
+        "T": {
+          "asset": "assets/disk1/T.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "000E",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "A60E00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "T",
+            "min_version": "00",
+            "modified": "06B33410",
+            "version": "07"
+          },
+          "sha256": "fdde2f5c24e12c6293e0e62085c5433813f5783db802834002128c3fbd8d363e",
+          "size": 3750
+        },
+        "U": {
+          "asset": "assets/disk1/U.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "000E",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "330D00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "U",
+            "min_version": "00",
+            "modified": "06B33410",
+            "version": "07"
+          },
+          "sha256": "7acb695a017698b441060c41eb37e8101c29850549bf4f9648342e683eb760c0",
+          "size": 3379
+        },
+        "WORLD.SYSTEM": {
+          "asset": "assets/disk1/WORLD.SYSTEM.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "0FB30808",
+            "eof": "C10400",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "FF",
+            "full_path": "WORLD.SYSTEM",
+            "min_version": "00",
+            "modified": "EDB23909",
+            "version": "07"
+          },
+          "sha256": "c1b476648350bc2352bb63574aae31ca213378603b58763e956344e8e5431842",
+          "size": 1217
+        }
+      },
+      "input": "carmen-world-disk1.dsk",
+      "sha256": "d322484a14f53ab9ed0bc8e3ac2b046250d775dd52eb956dbac578e13912afd2"
+    },
+    "disk2": {
+      "directory_inventory": {
+        "declared_file_count": 2,
+        "directory_blocks": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "files": [
+          "DATA.S2",
+          "FINDER.DATA"
+        ],
+        "malformed_unused_entries": [],
+        "volume": "CARMEN.WORLD.S2"
+      },
+      "files": {
+        "DATA.S2": {
+          "asset": "assets/disk2/DATA.S2.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0000",
+            "chunk_len": 512,
+            "created": "0FB3100B",
+            "eof": "347901",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "DATA.S2",
+            "min_version": "00",
+            "modified": "0FB3120B",
+            "version": "07"
+          },
+          "sha256": "a61e68fc1ddd66772d8c404533fb356c1fe01b192ee86fd6f8223480e11922b2",
+          "size": 96564
+        },
+        "FINDER.DATA": {
+          "asset": "assets/disk2/FINDER.DATA.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E7",
+            "accessed": "",
+            "aux": "0000",
+            "chunk_len": 512,
+            "created": "10B32009",
+            "eof": "280000",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "C9",
+            "full_path": "FINDER.DATA",
+            "min_version": "BE",
+            "modified": "10B32009",
+            "version": "70"
+          },
+          "sha256": "e7056c6a6c2aa0cd6dc47961bc79c6ce4aa5e922c15c0c11dad622fd9c0887c9",
+          "size": 40
+        }
+      },
+      "input": "carmen-world-disk2.dsk",
+      "sha256": "caf57f337eeb72860aa51e993b9ea99d9bd2b76a2bb8f49c4cf36d462a71800e"
+    },
+    "po": {
+      "directory_inventory": {
+        "declared_file_count": 25,
+        "directory_blocks": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "files": [
+          "PRODOS",
+          "WORLD.SYSTEM",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "N",
+          "O",
+          "P",
+          "Q",
+          "R",
+          "S",
+          "T",
+          "U",
+          "Z",
+          "S2",
+          "FINDER.ROOT",
+          "FINDER.DATA"
+        ],
+        "malformed_unused_entries": [],
+        "volume": "CARMEN.WORLD"
+      },
+      "files": {
+        "A": {
+          "asset": "assets/po/A.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "FF1F00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "A",
+            "min_version": "00",
+            "modified": "95AF0000",
+            "version": "07"
+          },
+          "sha256": "e6ea432bfa215397163f79b0c7fce3bcc74a20e492d1871b6374117775a14670",
+          "size": 8191
+        },
+        "B": {
+          "asset": "assets/po/B.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0098",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "720400",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "B",
+            "min_version": "00",
+            "modified": "1EB3290A",
+            "version": "07"
+          },
+          "sha256": "f6c4e2c8baab89f1be78a181a69ba0db824c96131b1e8b2970848db99436c3e6",
+          "size": 1138
+        },
+        "C": {
+          "asset": "assets/po/C.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "00D2",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "792700",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "C",
+            "min_version": "00",
+            "modified": "1EB3250A",
+            "version": "07"
+          },
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "size": 10105
+        },
+        "D": {
+          "asset": "assets/po/D.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "00B9",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "C30500",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "D",
+            "min_version": "00",
+            "modified": "9CB1110A",
+            "version": "07"
+          },
+          "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762",
+          "size": 1475
+        },
+        "E": {
+          "asset": "assets/po/E.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "000700",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "E",
+            "min_version": "00",
+            "modified": "C2AE0000",
+            "version": "07"
+          },
+          "sha256": "2ead67e72e3109f60036c59931119a0dbe715155f80655e8ab35e16a77c6cd62",
+          "size": 1792
+        },
+        "F": {
+          "asset": "assets/po/F.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "000100",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "F",
+            "min_version": "00",
+            "modified": "E61C3211",
+            "version": "07"
+          },
+          "sha256": "2904e1e80c33a02d99bc4959cde2cd0360b4ae70366643d5f407c0c2908c8c47",
+          "size": 256
+        },
+        "FINDER.DATA": {
+          "asset": "assets/po/FINDER.DATA.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E7",
+            "accessed": "",
+            "aux": "0000",
+            "chunk_len": 512,
+            "created": "9AC13708",
+            "eof": "380100",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "C9",
+            "full_path": "FINDER.DATA",
+            "min_version": "BE",
+            "modified": "E61C3211",
+            "version": "70"
+          },
+          "sha256": "0a23b9f556483ebecea6efdaceeba0c4563b3d2e278e1e02f32ba94d7a892d86",
+          "size": 312
+        },
+        "FINDER.ROOT": {
+          "asset": "assets/po/FINDER.ROOT.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E7",
+            "accessed": "",
+            "aux": "0000",
+            "chunk_len": 512,
+            "created": "6FC21D11",
+            "eof": "090000",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "C9",
+            "full_path": "FINDER.ROOT",
+            "min_version": "BE",
+            "modified": "E61C3211",
+            "version": "70"
+          },
+          "sha256": "afac9310ec54c9ae3f7d5bdb798afce7add0d18444f1f985a34425e66260b6b2",
+          "size": 9
+        },
+        "G": {
+          "asset": "assets/po/G.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "000100",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "G",
+            "min_version": "00",
+            "modified": "03B32F0E",
+            "version": "07"
+          },
+          "sha256": "3d6876a0146de8576eb2395a858de1213d1b92c65b779df3a331cfd5a4584546",
+          "size": 256
+        },
+        "H": {
+          "asset": "assets/po/H.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "000D00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "H",
+            "min_version": "00",
+            "modified": "2AC21816",
+            "version": "07"
+          },
+          "sha256": "9da5e1c1719c20a3f05f58e6ad60256834659bcb9824952e66c4fb900e0804fc",
+          "size": 3328
+        },
+        "I": {
+          "asset": "assets/po/I.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "770800",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "I",
+            "min_version": "00",
+            "modified": "F2B2120C",
+            "version": "07"
+          },
+          "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd",
+          "size": 2167
+        },
+        "J": {
+          "asset": "assets/po/J.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "000800",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "J",
+            "min_version": "00",
+            "modified": "ABB22107",
+            "version": "07"
+          },
+          "sha256": "774fb15630eeee2525f7dc530083e9b7b6d4a7695b7e57acfa4a7405fbdbc2b6",
+          "size": 2048
+        },
+        "K": {
+          "asset": "assets/po/K.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0080",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "FB0400",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "K",
+            "min_version": "00",
+            "modified": "F2B20E07",
+            "version": "07"
+          },
+          "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a",
+          "size": 1275
+        },
+        "N": {
+          "asset": "assets/po/N.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0060",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "E02E00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "N",
+            "min_version": "00",
+            "modified": "1EB3290A",
+            "version": "07"
+          },
+          "sha256": "05b53463af7f031fe24716c6633e29a131e05abec541570b9a2b066d4ee5d0c1",
+          "size": 12000
+        },
+        "O": {
+          "asset": "assets/po/O.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "000B00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "O",
+            "min_version": "00",
+            "modified": "BAB23B14",
+            "version": "07"
+          },
+          "sha256": "d42f4225746b280acf347a5bcf75d3156bac4b1e9e3094c579ad8ccac0ace90e",
+          "size": 2816
+        },
+        "P": {
+          "asset": "assets/po/P.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0060",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "240400",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "P",
+            "min_version": "00",
+            "modified": "B2B2300E",
+            "version": "07"
+          },
+          "sha256": "2bc9b66538d34e2294a8e9cc083b1f6560640337c2cdad73ef6a5e5411c3eecc",
+          "size": 1060
+        },
+        "PRODOS": {
+          "asset": "assets/po/PRODOS.bin",
+          "classification": "system",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0000",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "7D3C00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "FF",
+            "full_path": "PRODOS",
+            "min_version": "00",
+            "modified": "09B10B08",
+            "version": "07"
+          },
+          "sha256": "31b9b273310f18f34d5ef576d5fd630f7557e2deff744c075c178ed92c4be187",
+          "size": 15485
+        },
+        "Q": {
+          "asset": "assets/po/Q.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "001F",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "FC0000",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "Q",
+            "min_version": "00",
+            "modified": "03B31811",
+            "version": "07"
+          },
+          "sha256": "d68f742f3df0c3bbc2b6ba5fc333152f3f7b9dbd1154981f3684e579116382b5",
+          "size": 252
+        },
+        "R": {
+          "asset": "assets/po/R.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0060",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "E61300",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "R",
+            "min_version": "00",
+            "modified": "1EB3270A",
+            "version": "07"
+          },
+          "sha256": "7519dc80037293ffb3b6b0f0777a73617bdd7965d54112a87905eb5b29d52229",
+          "size": 5094
+        },
+        "S": {
+          "asset": "assets/po/S.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "C01900",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "S",
+            "min_version": "00",
+            "modified": "03B32E0D",
+            "version": "07"
+          },
+          "sha256": "2d25d8b1b644fb9fbad012d49dae7000a06057ad724d65bb057803f2e5a5ccb4",
+          "size": 6592
+        },
+        "S2": {
+          "asset": "assets/po/S2.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0000",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "367901",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "S2",
+            "min_version": "00",
+            "modified": "15B33006",
+            "version": "07"
+          },
+          "sha256": "614ea24906c4f5a6dd9d13d6868c92e7ac843e9e053c4025e97bbb509786e0d4",
+          "size": 96566
+        },
+        "T": {
+          "asset": "assets/po/T.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "000E",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "A60E00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "T",
+            "min_version": "00",
+            "modified": "1EB3250A",
+            "version": "07"
+          },
+          "sha256": "fdde2f5c24e12c6293e0e62085c5433813f5783db802834002128c3fbd8d363e",
+          "size": 3750
+        },
+        "U": {
+          "asset": "assets/po/U.bin",
+          "classification": "data",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "000E",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "330D00",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "U",
+            "min_version": "00",
+            "modified": "1EB3250A",
+            "version": "07"
+          },
+          "sha256": "7acb695a017698b441060c41eb37e8101c29850549bf4f9648342e683eb760c0",
+          "size": 3379
+        },
+        "WORLD.SYSTEM": {
+          "asset": "assets/po/WORLD.SYSTEM.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0020",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "410500",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "FF",
+            "full_path": "WORLD.SYSTEM",
+            "min_version": "00",
+            "modified": "15B32107",
+            "version": "07"
+          },
+          "sha256": "dde949dbffe987e862544ac8e737214ec05b95b671d37cdaac7b3373168c224b",
+          "size": 1345
+        },
+        "Z": {
+          "asset": "assets/po/Z.bin",
+          "classification": "code",
+          "file_image": {
+            "access": "E3",
+            "accessed": "",
+            "aux": "0040",
+            "chunk_len": 512,
+            "created": "00000000",
+            "eof": "150400",
+            "file_system": "prodos",
+            "fimg_version": "2.1.0",
+            "fs_type": "06",
+            "full_path": "Z",
+            "min_version": "00",
+            "modified": "58B10507",
+            "version": "07"
+          },
+          "sha256": "68e8757759051ad499c595036871fc1bc607f44b56d862220e1d675f2a9473f2",
+          "size": 1045
+        }
+      },
+      "input": "carmen-world.po",
+      "sha256": "d9557dfed56f35de21350b3bbcddcd38af99a1629ffc80a578fef797dda9a091"
+    }
+  }
+}

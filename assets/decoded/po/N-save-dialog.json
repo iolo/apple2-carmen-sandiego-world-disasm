@@ -1,0 +1,32 @@
+{
+  "load_address": 34481,
+  "segments": [
+    {
+      "text": "To cancel:  Press "
+    },
+    {
+      "byte": 130
+    },
+    {
+      "text": "."
+    },
+    {
+      "byte": 141
+    },
+    {
+      "text": "To save:  Insert the disk"
+    },
+    {
+      "byte": 141
+    },
+    {
+      "text": "and press "
+    },
+    {
+      "byte": 129
+    },
+    {
+      "text": "."
+    }
+  ]
+}

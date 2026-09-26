@@ -1,0 +1,51 @@
+[
+  {
+    "page": 0,
+    "offset": 0,
+    "first_half": "(input << shift) & 0x7f",
+    "second_half": "input >> (7 - shift)",
+    "input_range_per_half": "0x00-0x7f"
+  },
+  {
+    "page": 1,
+    "offset": 256,
+    "first_half": "(input << shift) & 0x7f",
+    "second_half": "input >> (7 - shift)",
+    "input_range_per_half": "0x00-0x7f"
+  },
+  {
+    "page": 2,
+    "offset": 512,
+    "first_half": "(input << shift) & 0x7f",
+    "second_half": "input >> (7 - shift)",
+    "input_range_per_half": "0x00-0x7f"
+  },
+  {
+    "page": 3,
+    "offset": 768,
+    "first_half": "(input << shift) & 0x7f",
+    "second_half": "input >> (7 - shift)",
+    "input_range_per_half": "0x00-0x7f"
+  },
+  {
+    "page": 4,
+    "offset": 1024,
+    "first_half": "(input << shift) & 0x7f",
+    "second_half": "input >> (7 - shift)",
+    "input_range_per_half": "0x00-0x7f"
+  },
+  {
+    "page": 5,
+    "offset": 1280,
+    "first_half": "(input << shift) & 0x7f",
+    "second_half": "input >> (7 - shift)",
+    "input_range_per_half": "0x00-0x7f"
+  },
+  {
+    "page": 6,
+    "offset": 1536,
+    "first_half": "(input << shift) & 0x7f",
+    "second_half": "input >> (7 - shift)",
+    "input_range_per_half": "0x00-0x7f"
+  }
+]

@@ -1,0 +1,319 @@
+{
+  "snapshot_range": "$00-$20",
+  "trait_filter_order": [
+    "sex",
+    "hobbies",
+    "hair",
+    "features",
+    "vehicles",
+    "food"
+  ],
+  "slots": [
+    {
+      "slot": 0,
+      "detective": "Chris Sherman",
+      "unused": false,
+      "case_state": {
+        "suspect": 9,
+        "route_graph_index": 1,
+        "route_index": 1,
+        "route_slots": [
+          22,
+          21,
+          28,
+          8,
+          255,
+          0,
+          0,
+          255,
+          255,
+          0,
+          0,
+          255,
+          255
+        ],
+        "hideout_city": 8,
+        "current_city": 20,
+        "day": 4,
+        "hour": 9,
+        "deadline_day": 1,
+        "deadline_hour": 8,
+        "city_investigation_count": 3,
+        "warrant_suspect": 255,
+        "sound_enabled": 1,
+        "treasure_text_index": 67,
+        "city_menu_selection": 3,
+        "trait_filters": [
+          0,
+          5,
+          2,
+          1,
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "slot": 1,
+      "detective": "hawk eye",
+      "unused": false,
+      "case_state": {
+        "suspect": 1,
+        "route_graph_index": 0,
+        "route_index": 1,
+        "route_slots": [
+          22,
+          4,
+          17,
+          0,
+          255,
+          0,
+          0,
+          255,
+          255,
+          0,
+          0,
+          255,
+          255
+        ],
+        "hideout_city": 0,
+        "current_city": 22,
+        "day": 3,
+        "hour": 9,
+        "deadline_day": 4,
+        "deadline_hour": 11,
+        "city_investigation_count": 3,
+        "warrant_suspect": 255,
+        "sound_enabled": 1,
+        "treasure_text_index": 67,
+        "city_menu_selection": 3,
+        "trait_filters": [
+          1,
+          255,
+          0,
+          255,
+          255,
+          255
+        ]
+      }
+    },
+    {
+      "slot": 2,
+      "detective": "ROCKY",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 3,
+      "detective": "TROY H",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 4,
+      "detective": "MRS. M.",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 5,
+      "detective": "no",
+      "unused": false,
+      "case_state": {
+        "suspect": 7,
+        "route_graph_index": 6,
+        "route_index": 1,
+        "route_slots": [
+          3,
+          20,
+          24,
+          23,
+          4,
+          0,
+          0,
+          255,
+          255,
+          0,
+          0,
+          255,
+          255
+        ],
+        "hideout_city": 4,
+        "current_city": 3,
+        "day": 1,
+        "hour": 18,
+        "deadline_day": 6,
+        "deadline_hour": 14,
+        "city_investigation_count": 0,
+        "warrant_suspect": 255,
+        "sound_enabled": 1,
+        "treasure_text_index": 11,
+        "city_menu_selection": 3,
+        "trait_filters": [
+          0,
+          255,
+          255,
+          255,
+          255,
+          255
+        ]
+      }
+    },
+    {
+      "slot": 6,
+      "detective": "SNAKE EYES",
+      "unused": false,
+      "case_state": {
+        "suspect": 6,
+        "route_graph_index": 1,
+        "route_index": 1,
+        "route_slots": [
+          7,
+          11,
+          3,
+          24,
+          14,
+          0,
+          15,
+          255,
+          255,
+          0,
+          0,
+          255,
+          255
+        ],
+        "hideout_city": 15,
+        "current_city": 7,
+        "day": 1,
+        "hour": 10,
+        "deadline_day": 0,
+        "deadline_hour": 10,
+        "city_investigation_count": 0,
+        "warrant_suspect": 255,
+        "sound_enabled": 1,
+        "treasure_text_index": 23,
+        "city_menu_selection": 3,
+        "trait_filters": [
+          255,
+          255,
+          255,
+          255,
+          255,
+          255
+        ]
+      }
+    },
+    {
+      "slot": 7,
+      "detective": "Bryan",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 8,
+      "detective": "MRS. MALY",
+      "unused": false,
+      "case_state": {
+        "suspect": 2,
+        "route_graph_index": 7,
+        "route_index": 2,
+        "route_slots": [
+          18,
+          14,
+          16,
+          26,
+          11,
+          9,
+          0,
+          255,
+          255,
+          0,
+          0,
+          255,
+          255
+        ],
+        "hideout_city": 9,
+        "current_city": 14,
+        "day": 5,
+        "hour": 11,
+        "deadline_day": 3,
+        "deadline_hour": 15,
+        "city_investigation_count": 0,
+        "warrant_suspect": 2,
+        "sound_enabled": 0,
+        "treasure_text_index": 54,
+        "city_menu_selection": 3,
+        "trait_filters": [
+          1,
+          255,
+          1,
+          255,
+          1,
+          255
+        ]
+      }
+    },
+    {
+      "slot": 9,
+      "detective": "Mark",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 10,
+      "detective": "dm",
+      "unused": true,
+      "case_state": null
+    },
+    {
+      "slot": 11,
+      "detective": "IOLO",
+      "unused": false,
+      "case_state": {
+        "suspect": 9,
+        "route_graph_index": 4,
+        "route_index": 1,
+        "route_slots": [
+          13,
+          10,
+          14,
+          1,
+          11,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "hideout_city": 1,
+        "current_city": 13,
+        "day": 0,
+        "hour": 16,
+        "deadline_day": 6,
+        "deadline_hour": 16,
+        "city_investigation_count": 0,
+        "warrant_suspect": 255,
+        "sound_enabled": 1,
+        "treasure_text_index": 39,
+        "city_menu_selection": 3,
+        "trait_filters": [
+          255,
+          255,
+          255,
+          255,
+          255,
+          255
+        ]
+      }
+    },
+    {
+      "slot": 12,
+      "detective": "",
+      "unused": true,
+      "case_state": null
+    }
+  ]
+}

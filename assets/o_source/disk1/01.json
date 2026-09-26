@@ -1,0 +1,157 @@
+{
+  "number": 1,
+  "loaded_address": 45408,
+  "capacity": 160,
+  "x_start": 1,
+  "x_end": 19,
+  "y_start": 3,
+  "y_end": 34,
+  "scanline_stride": 1,
+  "marker": 1,
+  "segments": [
+    {
+      "literal_hex": "d7d595"
+    },
+    {
+      "repeat_byte": 133,
+      "count": 25
+    },
+    {
+      "literal_hex": "95d5d79faaaa"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "aaaa80d5d5"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "d5d500aaaa"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "aaaa80d5d5"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "d5d580aaaa"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "aaaa80d5d5"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "d5d580aaaa"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "aaaa80d5d5"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "d5d580aaaa"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "aaaa80d5d5"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "d5d580aaaa"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "aaaa80d5d5"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 27
+    },
+    {
+      "literal_hex": "d5d580"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 3
+    },
+    {
+      "repeat_byte": 232,
+      "count": 25
+    },
+    {
+      "repeat_byte": 170,
+      "count": 3
+    },
+    {
+      "literal_hex": "80d5d5"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 27
+    },
+    {
+      "literal_hex": "d5d580aaaa"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 27
+    },
+    {
+      "literal_hex": "aaaa80d5d5"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 27
+    },
+    {
+      "literal_hex": "d5d580aaaa"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 27
+    },
+    {
+      "literal_hex": "aaaa80f5d595"
+    },
+    {
+      "repeat_byte": 151,
+      "count": 25
+    },
+    {
+      "literal_hex": "959585e0"
+    }
+  ]
+}

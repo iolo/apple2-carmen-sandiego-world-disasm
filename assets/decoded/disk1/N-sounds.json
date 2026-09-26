@@ -1,0 +1,692 @@
+{
+  "periods": [
+    0,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64,
+    68,
+    72,
+    76,
+    80,
+    84,
+    88,
+    96,
+    104,
+    112,
+    120,
+    128,
+    136,
+    144,
+    152,
+    160,
+    168,
+    176
+  ],
+  "default_duration": 20,
+  "tracks": [
+    {
+      "id": 0,
+      "address": 35518,
+      "commands": [
+        {
+          "duration": 20
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 27,
+          "period": 136
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 25,
+          "period": 120
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 20,
+          "period": 84
+        },
+        {
+          "note": 27,
+          "period": 136
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 25,
+          "period": 120
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 21,
+          "period": 88
+        },
+        {
+          "note": 27,
+          "period": 136
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 25,
+          "period": 120
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 22,
+          "period": 96
+        },
+        {
+          "note": 16,
+          "period": 68
+        },
+        {
+          "note": 17,
+          "period": 72
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "note": 22,
+          "period": 96
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "note": 20,
+          "period": 84
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "duration": 96
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "address": 35555,
+      "commands": [
+        {
+          "note": 26,
+          "period": 128
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "note": 15,
+          "period": 64
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "duration": 96
+        },
+        {
+          "note": 21,
+          "period": 88
+        },
+        {
+          "duration": 24
+        },
+        {
+          "note": 20,
+          "period": 84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "address": 35568,
+      "commands": [
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 16,
+          "period": 68
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 17,
+          "period": 72
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 20,
+          "period": 84
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "address": 35641,
+      "commands": [
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "duration": 12
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "note": 17,
+          "period": 72
+        },
+        {
+          "duration": 24
+        },
+        {
+          "note": 16,
+          "period": 68
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "address": 35651,
+      "commands": [
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 22,
+          "period": 96
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "duration": 13
+        },
+        {
+          "note": 20,
+          "period": 84
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "duration": 48
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "address": 35663,
+      "commands": [
+        {
+          "duration": 13
+        },
+        {
+          "note": 8,
+          "period": 40
+        },
+        {
+          "note": 11,
+          "period": 48
+        },
+        {
+          "note": 12,
+          "period": 52
+        },
+        {
+          "note": 14,
+          "period": 60
+        },
+        {
+          "duration": 48
+        },
+        {
+          "note": 17,
+          "period": 72
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "address": 35672,
+      "commands": [
+        {
+          "duration": 10
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "note": 18,
+          "period": 76
+        },
+        {
+          "note": 15,
+          "period": 64
+        },
+        {
+          "note": 16,
+          "period": 68
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "note": 18,
+          "period": 76
+        },
+        {
+          "note": 15,
+          "period": 64
+        },
+        {
+          "note": 16,
+          "period": 68
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "address": 35577,
+      "commands": [
+        {
+          "duration": 18
+        },
+        {
+          "note": 12,
+          "period": 52
+        },
+        {
+          "note": 11,
+          "period": 48
+        },
+        {
+          "note": 12,
+          "period": 52
+        },
+        {
+          "note": 14,
+          "period": 60
+        },
+        {
+          "duration": 96
+        },
+        {
+          "note": 12,
+          "period": 52
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "address": 35586,
+      "commands": [
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 20,
+          "period": 84
+        },
+        {
+          "note": 17,
+          "period": 72
+        },
+        {
+          "duration": 72
+        },
+        {
+          "note": 14,
+          "period": 60
+        },
+        {
+          "duration": 24
+        },
+        {
+          "note": 0,
+          "period": 0
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "note": 20,
+          "period": 84
+        },
+        {
+          "note": 14,
+          "period": 60
+        },
+        {
+          "duration": 96
+        },
+        {
+          "note": 16,
+          "period": 68
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "address": 35630,
+      "commands": [
+        {
+          "duration": 48
+        },
+        {
+          "note": 10,
+          "period": 44
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "note": 10,
+          "period": 44
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "note": 10,
+          "period": 44
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "note": 10,
+          "period": 44
+        },
+        {
+          "note": 13,
+          "period": 56
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "address": 35600,
+      "commands": [
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 27,
+          "period": 136
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 25,
+          "period": 120
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "note": 24,
+          "period": 112
+        },
+        {
+          "note": 23,
+          "period": 104
+        },
+        {
+          "duration": 9
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "note": 21,
+          "period": 88
+        },
+        {
+          "duration": 120
+        },
+        {
+          "note": 19,
+          "period": 80
+        },
+        {
+          "duration": 24
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "address": 35615,
+      "commands": [
+        {
+          "note": 28,
+          "period": 144
+        },
+        {
+          "note": 28,
+          "period": 144
+        },
+        {
+          "note": 25,
+          "period": 120
+        },
+        {
+          "note": 28,
+          "period": 144
+        },
+        {
+          "note": 26,
+          "period": 128
+        },
+        {
+          "duration": 36
+        },
+        {
+          "note": 27,
+          "period": 136
+        },
+        {
+          "duration": 48
+        },
+        {
+          "note": 28,
+          "period": 144
+        },
+        {
+          "duration": 72
+        },
+        {
+          "note": 29,
+          "period": 152
+        },
+        {
+          "duration": 96
+        },
+        {
+          "note": 30,
+          "period": 160
+        },
+        {
+          "duration": 24
+        }
+      ]
+    }
+  ]
+}

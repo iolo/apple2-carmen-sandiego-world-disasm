@@ -1,0 +1,92 @@
+{
+  "cpu_hz": 1000000,
+  "sample_rate": 44100,
+  "speaker_model": "toggle level with 50 Hz high-pass filter",
+  "interrupts": false,
+  "tracks": [
+    {
+      "id": 0,
+      "cpu_cycles": 6884506,
+      "speaker_toggles": 3289,
+      "duration_seconds": 6.884506,
+      "file": "N-sound-00.wav"
+    },
+    {
+      "id": 1,
+      "cpu_cycles": 2556957,
+      "speaker_toggles": 1134,
+      "duration_seconds": 2.556957,
+      "file": "N-sound-01.wav"
+    },
+    {
+      "id": 2,
+      "cpu_cycles": 1519444,
+      "speaker_toggles": 933,
+      "duration_seconds": 1.519444,
+      "file": "N-sound-02.wav"
+    },
+    {
+      "id": 3,
+      "cpu_cycles": 1230395,
+      "speaker_toggles": 756,
+      "duration_seconds": 1.230395,
+      "file": "N-sound-03.wav"
+    },
+    {
+      "id": 4,
+      "cpu_cycles": 1632861,
+      "speaker_toggles": 822,
+      "duration_seconds": 1.632861,
+      "file": "N-sound-04.wav"
+    },
+    {
+      "id": 5,
+      "cpu_cycles": 953713,
+      "speaker_toggles": 884,
+      "duration_seconds": 0.953713,
+      "file": "N-sound-05.wav"
+    },
+    {
+      "id": 6,
+      "cpu_cycles": 859569,
+      "speaker_toggles": 626,
+      "duration_seconds": 0.859569,
+      "file": "N-sound-06.wav"
+    },
+    {
+      "id": 7,
+      "cpu_cycles": 1521198,
+      "speaker_toggles": 1643,
+      "duration_seconds": 1.521198,
+      "file": "N-sound-07.wav"
+    },
+    {
+      "id": 8,
+      "cpu_cycles": 2905387,
+      "speaker_toggles": 2167,
+      "duration_seconds": 2.905387,
+      "file": "N-sound-08.wav"
+    },
+    {
+      "id": 9,
+      "cpu_cycles": 3396131,
+      "speaker_toggles": 3988,
+      "duration_seconds": 3.396131,
+      "file": "N-sound-09.wav"
+    },
+    {
+      "id": 10,
+      "cpu_cycles": 2731412,
+      "speaker_toggles": 1481,
+      "duration_seconds": 2.731412,
+      "file": "N-sound-10.wav"
+    },
+    {
+      "id": 11,
+      "cpu_cycles": 3122059,
+      "speaker_toggles": 1230,
+      "duration_seconds": 3.122059,
+      "file": "N-sound-11.wav"
+    }
+  ]
+}

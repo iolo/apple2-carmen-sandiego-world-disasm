@@ -1,0 +1,1486 @@
+{
+  "graphs": [
+    {
+      "number": 0,
+      "routes": {
+        "Athens": [
+          "Bangkok",
+          "New Delhi",
+          "Singapore",
+          "Moscow"
+        ],
+        "Baghdad": [
+          "Rome",
+          "Colombo",
+          "Sydney",
+          "Kathmandu"
+        ],
+        "Bamako": [
+          "Kathmandu",
+          "Oslo",
+          "Mexico City",
+          "Lima",
+          "Port Moresby"
+        ],
+        "Bangkok": [
+          "Budapest",
+          "Athens",
+          "Buenos Aires",
+          "Mexico City",
+          "London"
+        ],
+        "Budapest": [
+          "Beijing",
+          "New Delhi",
+          "Port Moresby",
+          "Bangkok"
+        ],
+        "Buenos Aires": [
+          "Colombo",
+          "San Marino",
+          "Rome",
+          "Bangkok"
+        ],
+        "Cairo": [
+          "Istanbul",
+          "Oslo",
+          "Paris"
+        ],
+        "Colombo": [
+          "Beijing",
+          "Kathmandu",
+          "Baghdad",
+          "Buenos Aires"
+        ],
+        "Istanbul": [
+          "Cairo",
+          "Moscow",
+          "Sydney"
+        ],
+        "Kathmandu": [
+          "Baghdad",
+          "Beijing",
+          "Bamako",
+          "Colombo",
+          "Kigali"
+        ],
+        "Kigali": [
+          "Kathmandu",
+          "San Marino",
+          "Tokyo",
+          "London",
+          "Paris"
+        ],
+        "Lima": [
+          "Tokyo",
+          "Moroni",
+          "Bamako"
+        ],
+        "London": [
+          "Kigali",
+          "Oslo",
+          "Moroni",
+          "Bangkok",
+          "Rome"
+        ],
+        "Mexico City": [
+          "Singapore",
+          "Bangkok",
+          "Oslo",
+          "Bamako",
+          "Rome"
+        ],
+        "Montreal": [
+          "New York",
+          "Beijing",
+          "Paris"
+        ],
+        "Moroni": [
+          "New York",
+          "London",
+          "Paris",
+          "Lima"
+        ],
+        "Moscow": [
+          "Athens",
+          "Istanbul",
+          "Rio de Janeiro",
+          "Rome",
+          "Sydney"
+        ],
+        "New Delhi": [
+          "Reykjavik",
+          "Budapest",
+          "Port Moresby",
+          "Athens"
+        ],
+        "New York": [
+          "Singapore",
+          "Moroni",
+          "Montreal"
+        ],
+        "Oslo": [
+          "Mexico City",
+          "Cairo",
+          "Reykjavik",
+          "Bamako",
+          "London"
+        ],
+        "Paris": [
+          "Tokyo",
+          "Cairo",
+          "Kigali",
+          "Montreal",
+          "Moroni"
+        ],
+        "Beijing": [
+          "Budapest",
+          "Montreal",
+          "Kathmandu",
+          "Colombo",
+          "Sydney"
+        ],
+        "Port Moresby": [
+          "Bamako",
+          "Singapore",
+          "Budapest",
+          "New Delhi"
+        ],
+        "Reykjavik": [
+          "Rio de Janeiro",
+          "New Delhi",
+          "Oslo"
+        ],
+        "Rio de Janeiro": [
+          "Moscow",
+          "Reykjavik",
+          "San Marino"
+        ],
+        "Rome": [
+          "Baghdad",
+          "Buenos Aires",
+          "London",
+          "Mexico City",
+          "Moscow"
+        ],
+        "San Marino": [
+          "Rio de Janeiro",
+          "Kigali",
+          "Buenos Aires"
+        ],
+        "Singapore": [
+          "Tokyo",
+          "New York",
+          "Athens",
+          "Mexico City",
+          "Port Moresby"
+        ],
+        "Sydney": [
+          "Istanbul",
+          "Baghdad",
+          "Moscow",
+          "Beijing"
+        ],
+        "Tokyo": [
+          "Singapore",
+          "Lima",
+          "Paris",
+          "Kigali"
+        ]
+      }
+    },
+    {
+      "number": 1,
+      "routes": {
+        "Athens": [
+          "Moroni",
+          "Montreal",
+          "Buenos Aires"
+        ],
+        "Baghdad": [
+          "Bangkok",
+          "Moroni",
+          "Kathmandu"
+        ],
+        "Bamako": [
+          "New York",
+          "San Marino",
+          "Rome",
+          "Kigali",
+          "Tokyo"
+        ],
+        "Bangkok": [
+          "Colombo",
+          "Baghdad",
+          "Lima",
+          "London",
+          "Rio de Janeiro"
+        ],
+        "Budapest": [
+          "Port Moresby",
+          "Lima",
+          "Paris",
+          "Reykjavik"
+        ],
+        "Buenos Aires": [
+          "San Marino",
+          "Sydney",
+          "Athens",
+          "Oslo",
+          "Istanbul"
+        ],
+        "Cairo": [
+          "New York",
+          "Oslo",
+          "Rome"
+        ],
+        "Colombo": [
+          "Rome",
+          "Lima",
+          "Bangkok",
+          "Sydney"
+        ],
+        "Istanbul": [
+          "Buenos Aires",
+          "Sydney",
+          "Rome",
+          "Paris"
+        ],
+        "Kathmandu": [
+          "Tokyo",
+          "Baghdad",
+          "New York"
+        ],
+        "Kigali": [
+          "Rio de Janeiro",
+          "Bamako",
+          "Mexico City"
+        ],
+        "Lima": [
+          "Budapest",
+          "Bangkok",
+          "Colombo"
+        ],
+        "London": [
+          "Bangkok",
+          "Mexico City",
+          "Moscow",
+          "Singapore"
+        ],
+        "Mexico City": [
+          "London",
+          "Moscow",
+          "Singapore",
+          "Kigali",
+          "Tokyo"
+        ],
+        "Montreal": [
+          "Port Moresby",
+          "Singapore",
+          "Athens",
+          "Rio de Janeiro"
+        ],
+        "Moroni": [
+          "Athens",
+          "Port Moresby",
+          "Baghdad",
+          "Moscow"
+        ],
+        "Moscow": [
+          "Moroni",
+          "New Delhi",
+          "Singapore",
+          "Mexico City",
+          "London"
+        ],
+        "New Delhi": [
+          "Moscow",
+          "Rome",
+          "San Marino",
+          "New York"
+        ],
+        "New York": [
+          "Paris",
+          "Bamako",
+          "Cairo",
+          "Kathmandu",
+          "New Delhi"
+        ],
+        "Oslo": [
+          "Reykjavik",
+          "Beijing",
+          "Cairo",
+          "Buenos Aires"
+        ],
+        "Paris": [
+          "Istanbul",
+          "Budapest",
+          "Reykjavik",
+          "New York"
+        ],
+        "Beijing": [
+          "Reykjavik",
+          "Sydney",
+          "Oslo",
+          "Port Moresby"
+        ],
+        "Port Moresby": [
+          "Moroni",
+          "Reykjavik",
+          "Beijing",
+          "Montreal",
+          "Budapest"
+        ],
+        "Reykjavik": [
+          "Beijing",
+          "Oslo",
+          "Budapest",
+          "Paris",
+          "Port Moresby"
+        ],
+        "Rio de Janeiro": [
+          "Montreal",
+          "Kigali",
+          "Bangkok"
+        ],
+        "Rome": [
+          "Istanbul",
+          "New Delhi",
+          "Bamako",
+          "Cairo",
+          "Colombo"
+        ],
+        "San Marino": [
+          "Buenos Aires",
+          "New Delhi",
+          "Bamako"
+        ],
+        "Singapore": [
+          "London",
+          "Moscow",
+          "Mexico City",
+          "Montreal"
+        ],
+        "Sydney": [
+          "Colombo",
+          "Buenos Aires",
+          "Beijing",
+          "Istanbul"
+        ],
+        "Tokyo": [
+          "Kathmandu",
+          "Bamako",
+          "Mexico City"
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "routes": {
+        "Athens": [
+          "Port Moresby",
+          "Cairo",
+          "Bamako",
+          "Rio de Janeiro",
+          "Paris"
+        ],
+        "Baghdad": [
+          "Singapore",
+          "Lima",
+          "Bangkok",
+          "Buenos Aires",
+          "Port Moresby"
+        ],
+        "Bamako": [
+          "Rome",
+          "Athens",
+          "London",
+          "Beijing",
+          "Lima"
+        ],
+        "Bangkok": [
+          "Baghdad",
+          "Mexico City",
+          "Rio de Janeiro"
+        ],
+        "Budapest": [
+          "Colombo",
+          "Montreal",
+          "New Delhi",
+          "Tokyo"
+        ],
+        "Buenos Aires": [
+          "Moscow",
+          "Reykjavik",
+          "Colombo",
+          "Baghdad"
+        ],
+        "Cairo": [
+          "Paris",
+          "Athens",
+          "Colombo"
+        ],
+        "Colombo": [
+          "Cairo",
+          "Buenos Aires",
+          "Rio de Janeiro",
+          "Montreal",
+          "Budapest"
+        ],
+        "Istanbul": [
+          "Rio de Janeiro",
+          "New Delhi",
+          "Rome",
+          "Tokyo"
+        ],
+        "Kathmandu": [
+          "Reykjavik",
+          "Kigali",
+          "Tokyo"
+        ],
+        "Kigali": [
+          "Kathmandu",
+          "Tokyo",
+          "Paris"
+        ],
+        "Lima": [
+          "Bamako",
+          "San Marino",
+          "Port Moresby",
+          "Rome",
+          "Baghdad"
+        ],
+        "London": [
+          "Singapore",
+          "Moroni",
+          "Bamako"
+        ],
+        "Mexico City": [
+          "Paris",
+          "Bangkok",
+          "Montreal"
+        ],
+        "Montreal": [
+          "Sydney",
+          "Mexico City",
+          "Budapest",
+          "Singapore",
+          "Colombo"
+        ],
+        "Moroni": [
+          "London",
+          "Moscow",
+          "Oslo",
+          "Port Moresby"
+        ],
+        "Moscow": [
+          "Beijing",
+          "Moroni",
+          "Buenos Aires"
+        ],
+        "New Delhi": [
+          "Budapest",
+          "Istanbul",
+          "Singapore",
+          "Oslo"
+        ],
+        "New York": [
+          "Beijing",
+          "Oslo",
+          "Sydney"
+        ],
+        "Oslo": [
+          "New York",
+          "Moroni",
+          "New Delhi"
+        ],
+        "Paris": [
+          "Mexico City",
+          "Cairo",
+          "Athens",
+          "Kigali"
+        ],
+        "Beijing": [
+          "New York",
+          "Moscow",
+          "San Marino",
+          "Reykjavik",
+          "Bamako"
+        ],
+        "Port Moresby": [
+          "Athens",
+          "Rome",
+          "Moroni",
+          "Baghdad",
+          "Lima"
+        ],
+        "Reykjavik": [
+          "Kathmandu",
+          "Buenos Aires",
+          "Beijing"
+        ],
+        "Rio de Janeiro": [
+          "Colombo",
+          "Bangkok",
+          "Athens",
+          "Istanbul"
+        ],
+        "Rome": [
+          "Port Moresby",
+          "Bamako",
+          "Istanbul",
+          "Lima"
+        ],
+        "San Marino": [
+          "Beijing",
+          "Sydney",
+          "Lima"
+        ],
+        "Singapore": [
+          "London",
+          "Baghdad",
+          "Montreal",
+          "Tokyo",
+          "New Delhi"
+        ],
+        "Sydney": [
+          "Montreal",
+          "New York",
+          "San Marino"
+        ],
+        "Tokyo": [
+          "Kigali",
+          "Singapore",
+          "Kathmandu",
+          "Budapest",
+          "Istanbul"
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "routes": {
+        "Athens": [
+          "Rome",
+          "Oslo",
+          "Bangkok",
+          "Rio de Janeiro"
+        ],
+        "Baghdad": [
+          "Buenos Aires",
+          "Montreal",
+          "Sydney",
+          "Tokyo"
+        ],
+        "Bamako": [
+          "Singapore",
+          "Beijing",
+          "Rio de Janeiro"
+        ],
+        "Bangkok": [
+          "Kigali",
+          "Buenos Aires",
+          "Athens"
+        ],
+        "Budapest": [
+          "Rio de Janeiro",
+          "Montreal",
+          "New Delhi"
+        ],
+        "Buenos Aires": [
+          "Cairo",
+          "Baghdad",
+          "Bangkok",
+          "Singapore",
+          "San Marino"
+        ],
+        "Cairo": [
+          "Kathmandu",
+          "Beijing",
+          "Buenos Aires"
+        ],
+        "Colombo": [
+          "Rome",
+          "New York",
+          "London"
+        ],
+        "Istanbul": [
+          "Sydney",
+          "Montreal",
+          "London",
+          "Port Moresby"
+        ],
+        "Kathmandu": [
+          "Cairo",
+          "Rome",
+          "Tokyo",
+          "San Marino",
+          "Oslo"
+        ],
+        "Kigali": [
+          "Tokyo",
+          "Moroni",
+          "Bangkok",
+          "New York",
+          "Oslo"
+        ],
+        "Lima": [
+          "Moroni",
+          "Paris",
+          "London",
+          "Rio de Janeiro",
+          "Moscow"
+        ],
+        "London": [
+          "Istanbul",
+          "San Marino",
+          "Lima",
+          "Colombo",
+          "Paris"
+        ],
+        "Mexico City": [
+          "Oslo",
+          "Moroni",
+          "Moscow"
+        ],
+        "Montreal": [
+          "Budapest",
+          "Baghdad",
+          "Istanbul",
+          "Reykjavik"
+        ],
+        "Moroni": [
+          "Lima",
+          "Mexico City",
+          "Kigali"
+        ],
+        "Moscow": [
+          "Lima",
+          "Beijing",
+          "Mexico City"
+        ],
+        "New Delhi": [
+          "Reykjavik",
+          "Budapest",
+          "Singapore"
+        ],
+        "New York": [
+          "Tokyo",
+          "Kigali",
+          "Colombo",
+          "Sydney"
+        ],
+        "Oslo": [
+          "Mexico City",
+          "Athens",
+          "Kigali",
+          "Kathmandu"
+        ],
+        "Paris": [
+          "Port Moresby",
+          "Lima",
+          "London"
+        ],
+        "Beijing": [
+          "Moscow",
+          "Bamako",
+          "Cairo",
+          "Port Moresby"
+        ],
+        "Port Moresby": [
+          "Istanbul",
+          "Sydney",
+          "Paris",
+          "Beijing"
+        ],
+        "Reykjavik": [
+          "New Delhi",
+          "Singapore",
+          "Rome",
+          "Montreal"
+        ],
+        "Rio de Janeiro": [
+          "Tokyo",
+          "Bamako",
+          "Athens",
+          "Lima",
+          "Budapest"
+        ],
+        "Rome": [
+          "Kathmandu",
+          "Colombo",
+          "Athens",
+          "Reykjavik"
+        ],
+        "San Marino": [
+          "London",
+          "Buenos Aires",
+          "Kathmandu",
+          "Singapore"
+        ],
+        "Singapore": [
+          "San Marino",
+          "Buenos Aires",
+          "Reykjavik",
+          "Bamako",
+          "New Delhi"
+        ],
+        "Sydney": [
+          "Port Moresby",
+          "New York",
+          "Istanbul",
+          "Baghdad"
+        ],
+        "Tokyo": [
+          "Kigali",
+          "Baghdad",
+          "Rio de Janeiro",
+          "New York",
+          "Kathmandu"
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "routes": {
+        "Athens": [
+          "New Delhi",
+          "Rio de Janeiro",
+          "Lima",
+          "New York"
+        ],
+        "Baghdad": [
+          "Bamako",
+          "Kathmandu",
+          "Montreal"
+        ],
+        "Bamako": [
+          "Beijing",
+          "London",
+          "Baghdad"
+        ],
+        "Bangkok": [
+          "Istanbul",
+          "Budapest",
+          "Moscow"
+        ],
+        "Budapest": [
+          "Reykjavik",
+          "Moscow",
+          "Oslo",
+          "Bangkok",
+          "San Marino"
+        ],
+        "Buenos Aires": [
+          "Paris",
+          "Reykjavik",
+          "London",
+          "Cairo",
+          "Rio de Janeiro"
+        ],
+        "Cairo": [
+          "Istanbul",
+          "Buenos Aires",
+          "Oslo"
+        ],
+        "Colombo": [
+          "Moroni",
+          "Singapore",
+          "Oslo"
+        ],
+        "Istanbul": [
+          "Moscow",
+          "Bangkok",
+          "Kathmandu",
+          "Cairo"
+        ],
+        "Kathmandu": [
+          "Beijing",
+          "Sydney",
+          "Istanbul",
+          "Baghdad",
+          "Tokyo"
+        ],
+        "Kigali": [
+          "Mexico City",
+          "Montreal",
+          "Moscow"
+        ],
+        "Lima": [
+          "Port Moresby",
+          "Athens",
+          "New Delhi",
+          "Singapore",
+          "Rio de Janeiro"
+        ],
+        "London": [
+          "Bamako",
+          "Buenos Aires",
+          "Moroni"
+        ],
+        "Mexico City": [
+          "Kigali",
+          "San Marino",
+          "Port Moresby"
+        ],
+        "Montreal": [
+          "Kigali",
+          "Baghdad",
+          "Beijing",
+          "Sydney"
+        ],
+        "Moroni": [
+          "Rome",
+          "London",
+          "Colombo"
+        ],
+        "Moscow": [
+          "Beijing",
+          "Bangkok",
+          "Budapest",
+          "Istanbul",
+          "Kigali"
+        ],
+        "New Delhi": [
+          "New York",
+          "Lima",
+          "Athens",
+          "Singapore"
+        ],
+        "New York": [
+          "Athens",
+          "New Delhi",
+          "Paris"
+        ],
+        "Oslo": [
+          "Colombo",
+          "Cairo",
+          "Budapest"
+        ],
+        "Paris": [
+          "Buenos Aires",
+          "New York",
+          "Singapore"
+        ],
+        "Beijing": [
+          "Bamako",
+          "Moscow",
+          "Tokyo",
+          "Kathmandu",
+          "Montreal"
+        ],
+        "Port Moresby": [
+          "Lima",
+          "Rio de Janeiro",
+          "Mexico City"
+        ],
+        "Reykjavik": [
+          "Singapore",
+          "Budapest",
+          "Sydney",
+          "Buenos Aires"
+        ],
+        "Rio de Janeiro": [
+          "Lima",
+          "Port Moresby",
+          "Athens",
+          "Buenos Aires"
+        ],
+        "Rome": [
+          "Sydney",
+          "San Marino",
+          "Tokyo",
+          "Moroni"
+        ],
+        "San Marino": [
+          "Tokyo",
+          "Sydney",
+          "Mexico City",
+          "Rome",
+          "Budapest"
+        ],
+        "Singapore": [
+          "Paris",
+          "Lima",
+          "Colombo",
+          "New Delhi",
+          "Reykjavik"
+        ],
+        "Sydney": [
+          "Kathmandu",
+          "Montreal",
+          "San Marino",
+          "Rome",
+          "Reykjavik"
+        ],
+        "Tokyo": [
+          "Beijing",
+          "Kathmandu",
+          "Rome",
+          "San Marino"
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "routes": {
+        "Athens": [
+          "Moscow",
+          "Cairo",
+          "Port Moresby",
+          "Oslo"
+        ],
+        "Baghdad": [
+          "Singapore",
+          "Sydney",
+          "Buenos Aires",
+          "Rome",
+          "London"
+        ],
+        "Bamako": [
+          "Lima",
+          "Kigali",
+          "Sydney"
+        ],
+        "Bangkok": [
+          "Paris",
+          "Reykjavik",
+          "Istanbul",
+          "Kigali"
+        ],
+        "Budapest": [
+          "Rio de Janeiro",
+          "Oslo",
+          "Beijing"
+        ],
+        "Buenos Aires": [
+          "San Marino",
+          "Paris",
+          "Baghdad",
+          "Tokyo",
+          "Oslo"
+        ],
+        "Cairo": [
+          "Lima",
+          "London",
+          "Athens",
+          "Rio de Janeiro",
+          "Port Moresby"
+        ],
+        "Colombo": [
+          "Tokyo",
+          "Singapore",
+          "Rio de Janeiro",
+          "Moroni"
+        ],
+        "Istanbul": [
+          "New York",
+          "New Delhi",
+          "San Marino",
+          "Bangkok",
+          "Rome"
+        ],
+        "Kathmandu": [
+          "Rome",
+          "Lima",
+          "London",
+          "Paris",
+          "Beijing"
+        ],
+        "Kigali": [
+          "Bangkok",
+          "San Marino",
+          "Mexico City",
+          "Bamako"
+        ],
+        "Lima": [
+          "Kathmandu",
+          "Reykjavik",
+          "Cairo",
+          "Bamako"
+        ],
+        "London": [
+          "San Marino",
+          "Baghdad",
+          "Cairo",
+          "Kathmandu"
+        ],
+        "Mexico City": [
+          "Moroni",
+          "Reykjavik",
+          "Kigali"
+        ],
+        "Montreal": [
+          "Sydney",
+          "Port Moresby",
+          "New Delhi",
+          "Moroni"
+        ],
+        "Moroni": [
+          "Mexico City",
+          "Colombo",
+          "Beijing",
+          "Montreal",
+          "Singapore"
+        ],
+        "Moscow": [
+          "Athens",
+          "New Delhi",
+          "Port Moresby"
+        ],
+        "New Delhi": [
+          "Montreal",
+          "Reykjavik",
+          "Istanbul",
+          "New York",
+          "Moscow"
+        ],
+        "New York": [
+          "Paris",
+          "Istanbul",
+          "Singapore",
+          "New Delhi",
+          "Beijing"
+        ],
+        "Oslo": [
+          "Budapest",
+          "Athens",
+          "Buenos Aires"
+        ],
+        "Paris": [
+          "Bangkok",
+          "Buenos Aires",
+          "New York",
+          "Kathmandu",
+          "Tokyo"
+        ],
+        "Beijing": [
+          "Budapest",
+          "New York",
+          "Kathmandu",
+          "Moroni"
+        ],
+        "Port Moresby": [
+          "Cairo",
+          "Moscow",
+          "Athens",
+          "Montreal"
+        ],
+        "Reykjavik": [
+          "Bangkok",
+          "Lima",
+          "New Delhi",
+          "Mexico City"
+        ],
+        "Rio de Janeiro": [
+          "Cairo",
+          "Colombo",
+          "Budapest"
+        ],
+        "Rome": [
+          "Baghdad",
+          "Istanbul",
+          "Kathmandu",
+          "Sydney"
+        ],
+        "San Marino": [
+          "Kigali",
+          "Tokyo",
+          "Buenos Aires",
+          "Istanbul",
+          "London"
+        ],
+        "Singapore": [
+          "Colombo",
+          "New York",
+          "Baghdad",
+          "Moroni"
+        ],
+        "Sydney": [
+          "Bamako",
+          "Baghdad",
+          "Rome",
+          "Montreal"
+        ],
+        "Tokyo": [
+          "Colombo",
+          "Paris",
+          "Buenos Aires",
+          "San Marino"
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "routes": {
+        "Athens": [
+          "Mexico City",
+          "Budapest",
+          "Kigali"
+        ],
+        "Baghdad": [
+          "Tokyo",
+          "Moscow",
+          "Buenos Aires",
+          "Colombo"
+        ],
+        "Bamako": [
+          "Sydney",
+          "Beijing",
+          "San Marino",
+          "Cairo",
+          "London"
+        ],
+        "Bangkok": [
+          "London",
+          "Paris",
+          "San Marino",
+          "Cairo"
+        ],
+        "Budapest": [
+          "Athens",
+          "Kigali",
+          "Reykjavik"
+        ],
+        "Buenos Aires": [
+          "London",
+          "Baghdad",
+          "Sydney",
+          "New Delhi"
+        ],
+        "Cairo": [
+          "Bangkok",
+          "Singapore",
+          "Bamako"
+        ],
+        "Colombo": [
+          "Beijing",
+          "Rome",
+          "Baghdad",
+          "Montreal"
+        ],
+        "Istanbul": [
+          "Rome",
+          "Lima",
+          "Sydney"
+        ],
+        "Kathmandu": [
+          "San Marino",
+          "Singapore",
+          "New York",
+          "Mexico City"
+        ],
+        "Kigali": [
+          "Tokyo",
+          "Singapore",
+          "Athens",
+          "Budapest",
+          "New York"
+        ],
+        "Lima": [
+          "New Delhi",
+          "Reykjavik",
+          "Istanbul"
+        ],
+        "London": [
+          "Montreal",
+          "Tokyo",
+          "Bamako",
+          "Buenos Aires",
+          "Bangkok"
+        ],
+        "Mexico City": [
+          "Kathmandu",
+          "Oslo",
+          "Athens"
+        ],
+        "Montreal": [
+          "Singapore",
+          "Port Moresby",
+          "Paris",
+          "Colombo",
+          "London"
+        ],
+        "Moroni": [
+          "Port Moresby",
+          "Paris",
+          "Beijing",
+          "New York"
+        ],
+        "Moscow": [
+          "New York",
+          "Baghdad",
+          "Rome"
+        ],
+        "New Delhi": [
+          "Lima",
+          "Singapore",
+          "Buenos Aires"
+        ],
+        "New York": [
+          "Kigali",
+          "Moscow",
+          "Kathmandu",
+          "Moroni",
+          "Beijing"
+        ],
+        "Oslo": [
+          "Reykjavik",
+          "Port Moresby",
+          "Mexico City"
+        ],
+        "Paris": [
+          "Montreal",
+          "Moroni",
+          "Rio de Janeiro",
+          "Bangkok"
+        ],
+        "Beijing": [
+          "Colombo",
+          "New York",
+          "Moroni",
+          "San Marino",
+          "Bamako"
+        ],
+        "Port Moresby": [
+          "Oslo",
+          "Reykjavik",
+          "Moroni",
+          "Tokyo",
+          "Montreal"
+        ],
+        "Reykjavik": [
+          "Oslo",
+          "Port Moresby",
+          "Rio de Janeiro",
+          "Budapest",
+          "Lima"
+        ],
+        "Rio de Janeiro": [
+          "Paris",
+          "Sydney",
+          "Reykjavik"
+        ],
+        "Rome": [
+          "Tokyo",
+          "San Marino",
+          "Moscow",
+          "Istanbul",
+          "Colombo"
+        ],
+        "San Marino": [
+          "Bamako",
+          "Rome",
+          "Kathmandu",
+          "Bangkok",
+          "Beijing"
+        ],
+        "Singapore": [
+          "Kathmandu",
+          "Cairo",
+          "Montreal",
+          "New Delhi",
+          "Kigali"
+        ],
+        "Sydney": [
+          "Rio de Janeiro",
+          "Buenos Aires",
+          "Bamako",
+          "Istanbul"
+        ],
+        "Tokyo": [
+          "Baghdad",
+          "Port Moresby",
+          "Kigali",
+          "London",
+          "Rome"
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "routes": {
+        "Athens": [
+          "Bamako",
+          "New York",
+          "London",
+          "New Delhi"
+        ],
+        "Baghdad": [
+          "Colombo",
+          "Singapore",
+          "Istanbul",
+          "Bamako",
+          "Rio de Janeiro"
+        ],
+        "Bamako": [
+          "Istanbul",
+          "Baghdad",
+          "Moroni",
+          "Athens",
+          "Cairo"
+        ],
+        "Bangkok": [
+          "Lima",
+          "Moroni",
+          "Rio de Janeiro"
+        ],
+        "Budapest": [
+          "Beijing",
+          "Oslo",
+          "Reykjavik",
+          "Moroni",
+          "San Marino"
+        ],
+        "Buenos Aires": [
+          "Istanbul",
+          "Port Moresby",
+          "New Delhi",
+          "San Marino"
+        ],
+        "Cairo": [
+          "Singapore",
+          "New Delhi",
+          "Reykjavik",
+          "Bamako",
+          "Oslo"
+        ],
+        "Colombo": [
+          "Kigali",
+          "New Delhi",
+          "Baghdad"
+        ],
+        "Istanbul": [
+          "Bamako",
+          "Baghdad",
+          "Buenos Aires"
+        ],
+        "Kathmandu": [
+          "Lima",
+          "Singapore",
+          "Montreal"
+        ],
+        "Kigali": [
+          "Singapore",
+          "Colombo",
+          "Oslo"
+        ],
+        "Lima": [
+          "Kathmandu",
+          "Bangkok",
+          "San Marino"
+        ],
+        "London": [
+          "Sydney",
+          "Rio de Janeiro",
+          "Athens"
+        ],
+        "Mexico City": [
+          "New York",
+          "Beijing",
+          "Tokyo",
+          "Moroni",
+          "Port Moresby"
+        ],
+        "Montreal": [
+          "New York",
+          "Kathmandu",
+          "Rome",
+          "Rio de Janeiro",
+          "Moscow"
+        ],
+        "Moroni": [
+          "Mexico City",
+          "Bamako",
+          "Rome",
+          "Bangkok",
+          "Budapest"
+        ],
+        "Moscow": [
+          "Paris",
+          "San Marino",
+          "Montreal",
+          "Oslo"
+        ],
+        "New Delhi": [
+          "Athens",
+          "Buenos Aires",
+          "Rome",
+          "Colombo",
+          "Cairo"
+        ],
+        "New York": [
+          "Montreal",
+          "Mexico City",
+          "Athens",
+          "Sydney"
+        ],
+        "Oslo": [
+          "Cairo",
+          "Kigali",
+          "Moscow",
+          "Beijing",
+          "Budapest"
+        ],
+        "Paris": [
+          "Moscow",
+          "Singapore",
+          "Beijing"
+        ],
+        "Beijing": [
+          "Oslo",
+          "Mexico City",
+          "Budapest",
+          "Paris"
+        ],
+        "Port Moresby": [
+          "Mexico City",
+          "Tokyo",
+          "Buenos Aires"
+        ],
+        "Reykjavik": [
+          "Budapest",
+          "Sydney",
+          "Cairo"
+        ],
+        "Rio de Janeiro": [
+          "Montreal",
+          "Bangkok",
+          "London",
+          "Baghdad"
+        ],
+        "Rome": [
+          "New Delhi",
+          "Moroni",
+          "San Marino",
+          "Montreal",
+          "Tokyo"
+        ],
+        "San Marino": [
+          "Lima",
+          "Buenos Aires",
+          "Rome",
+          "Moscow",
+          "Budapest"
+        ],
+        "Singapore": [
+          "Paris",
+          "Cairo",
+          "Baghdad",
+          "Kathmandu",
+          "Kigali"
+        ],
+        "Sydney": [
+          "New York",
+          "London",
+          "Reykjavik"
+        ],
+        "Tokyo": [
+          "Mexico City",
+          "Rome",
+          "Port Moresby"
+        ]
+      }
+    }
+  ]
+}

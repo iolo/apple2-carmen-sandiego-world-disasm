@@ -1,0 +1,1753 @@
+{
+  "number": 3,
+  "loaded_address": 34656,
+  "capacity": 2656,
+  "x_start": 4,
+  "x_end": 34,
+  "y_start": 27,
+  "y_end": 149,
+  "scanline_stride": 2,
+  "marker": 4,
+  "segments": [
+    {
+      "repeat_byte": 112,
+      "count": 9
+    },
+    {
+      "literal_hex": "30"
+    },
+    {
+      "repeat_byte": 112,
+      "count": 52
+    },
+    {
+      "literal_hex": "ff"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 7
+    },
+    {
+      "literal_hex": "a82f"
+    },
+    {
+      "repeat_byte": 42,
+      "count": 3
+    },
+    {
+      "repeat_byte": 98,
+      "count": 7
+    },
+    {
+      "repeat_byte": 42,
+      "count": 4
+    },
+    {
+      "repeat_byte": 98,
+      "count": 7
+    },
+    {
+      "literal_hex": "72"
+    },
+    {
+      "repeat_byte": 42,
+      "count": 4
+    },
+    {
+      "repeat_byte": 66,
+      "count": 7
+    },
+    {
+      "literal_hex": "2a2a6a1e03"
+    },
+    {
+      "repeat_byte": 1,
+      "count": 8
+    },
+    {
+      "literal_hex": "717d3f7f1d7fff"
+    },
+    {
+      "repeat_byte": 213,
+      "count": 8
+    },
+    {
+      "literal_hex": "807d"
+    },
+    {
+      "repeat_byte": 85,
+      "count": 3
+    },
+    {
+      "repeat_byte": 21,
+      "count": 6
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "repeat_byte": 21,
+      "count": 7
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "repeat_byte": 21,
+      "count": 6
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "literal_hex": "5756565e"
+    },
+    {
+      "repeat_byte": 86,
+      "count": 3
+    },
+    {
+      "literal_hex": "1646787f7f3f6f1903ff7f"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 6
+    },
+    {
+      "literal_hex": "bae3fe07"
+    },
+    {
+      "repeat_byte": 42,
+      "count": 3
+    },
+    {
+      "repeat_byte": 44,
+      "count": 6
+    },
+    {
+      "repeat_byte": 42,
+      "count": 4
+    },
+    {
+      "repeat_byte": 44,
+      "count": 7
+    },
+    {
+      "repeat_byte": 42,
+      "count": 4
+    },
+    {
+      "repeat_byte": 44,
+      "count": 5
+    },
+    {
+      "literal_hex": "28"
+    },
+    {
+      "repeat_byte": 42,
+      "count": 3
+    },
+    {
+      "literal_hex": "32332333232a0a62007f7f5f3b06"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 3
+    },
+    {
+      "literal_hex": "ff7f"
+    },
+    {
+      "repeat_byte": 213,
+      "count": 5
+    },
+    {
+      "literal_hex": "878c8f8f8c7f"
+    },
+    {
+      "repeat_byte": 85,
+      "count": 3
+    },
+    {
+      "repeat_byte": 97,
+      "count": 5
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "repeat_byte": 97,
+      "count": 5
+    },
+    {
+      "literal_hex": "41"
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "repeat_byte": 97,
+      "count": 5
+    },
+    {
+      "repeat_byte": 85,
+      "count": 3
+    },
+    {
+      "literal_hex": "65666664565445797e5f00360e81"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 5
+    },
+    {
+      "literal_hex": "ff7f"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 5
+    },
+    {
+      "literal_hex": "0080b380b301"
+    },
+    {
+      "repeat_byte": 10,
+      "count": 9
+    },
+    {
+      "literal_hex": "6a0a"
+    },
+    {
+      "repeat_byte": 74,
+      "count": 5
+    },
+    {
+      "literal_hex": "0a"
+    },
+    {
+      "repeat_byte": 74,
+      "count": 10
+    },
+    {
+      "literal_hex": "0a4a"
+    },
+    {
+      "repeat_byte": 10,
+      "count": 3
+    },
+    {
+      "literal_hex": "4a4a027c7f7f6f1f03"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 8
+    },
+    {
+      "literal_hex": "ff7f"
+    },
+    {
+      "repeat_byte": 213,
+      "count": 5
+    },
+    {
+      "literal_hex": "0080e680e680e680e680e680e680e6ff"
+    },
+    {
+      "repeat_byte": 127,
+      "count": 6
+    },
+    {
+      "literal_hex": "00"
+    },
+    {
+      "repeat_byte": 42,
+      "count": 4
+    },
+    {
+      "literal_hex": "3b2a2a0f2f2a007f0033113f7f006f1b07"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 11
+    },
+    {
+      "literal_hex": "ff7f"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 5
+    },
+    {
+      "literal_hex": "a2f4bc"
+    },
+    {
+      "repeat_byte": 132,
+      "count": 12
+    },
+    {
+      "repeat_byte": 127,
+      "count": 7
+    },
+    {
+      "literal_hex": "00"
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "literal_hex": "775555505354817d0161613d17662200"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 12
+    },
+    {
+      "literal_hex": "ff7f"
+    },
+    {
+      "repeat_byte": 213,
+      "count": 5
+    },
+    {
+      "literal_hex": "ce8f"
+    },
+    {
+      "repeat_byte": 140,
+      "count": 12
+    },
+    {
+      "literal_hex": "0c"
+    },
+    {
+      "repeat_byte": 127,
+      "count": 7
+    },
+    {
+      "literal_hex": "0094f4f4"
+    },
+    {
+      "repeat_byte": 164,
+      "count": 7
+    },
+    {
+      "literal_hex": "807f800c"
+    },
+    {
+      "repeat_byte": 76,
+      "count": 3
+    },
+    {
+      "literal_hex": "0c0000"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 12
+    },
+    {
+      "literal_hex": "ff7f"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 5
+    },
+    {
+      "literal_hex": "8880b380b380b380b380b380f3f0f0"
+    },
+    {
+      "repeat_byte": 241,
+      "count": 6
+    },
+    {
+      "literal_hex": "f9f980eeffd5f7f781e181f7807f80808101"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 16
+    },
+    {
+      "literal_hex": "ff7f"
+    },
+    {
+      "repeat_byte": 213,
+      "count": 5
+    },
+    {
+      "literal_hex": "9180e680e680e680e680e680"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 10
+    },
+    {
+      "literal_hex": "be00dddfaaeeee"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 3
+    },
+    {
+      "literal_hex": "ee007f"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 20
+    },
+    {
+      "literal_hex": "ffff"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 5
+    },
+    {
+      "literal_hex": "a2"
+    },
+    {
+      "repeat_byte": 164,
+      "count": 11
+    },
+    {
+      "repeat_byte": 255,
+      "count": 10
+    },
+    {
+      "literal_hex": "df00bbbbd5dddd"
+    },
+    {
+      "repeat_byte": 156,
+      "count": 3
+    },
+    {
+      "literal_hex": "9d80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 20
+    },
+    {
+      "literal_hex": "ffff"
+    },
+    {
+      "repeat_byte": 169,
+      "count": 17
+    },
+    {
+      "repeat_byte": 168,
+      "count": 9
+    },
+    {
+      "literal_hex": "a9a9a8a9a9"
+    },
+    {
+      "repeat_byte": 168,
+      "count": 8
+    },
+    {
+      "literal_hex": "a9"
+    },
+    {
+      "repeat_byte": 168,
+      "count": 20
+    },
+    {
+      "literal_hex": "ff7fd1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5ff7faaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaaaa2a2aaeac2a2aaaaa2a2ff7fc5c5"
+    },
+    {
+      "repeat_byte": 241,
+      "count": 51
+    },
+    {
+      "literal_hex": "fffff085c5d5d5ff7faaaaffff"
+    },
+    {
+      "repeat_byte": 207,
+      "count": 24
+    },
+    {
+      "literal_hex": "8f"
+    },
+    {
+      "repeat_byte": 207,
+      "count": 22
+    },
+    {
+      "literal_hex": "8fffff7fff80aa8a8aff7f9595"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "81"
+    },
+    {
+      "repeat_byte": 249,
+      "count": 10
+    },
+    {
+      "repeat_byte": 153,
+      "count": 3
+    },
+    {
+      "repeat_byte": 249,
+      "count": 8
+    },
+    {
+      "literal_hex": "ff80f9"
+    },
+    {
+      "repeat_byte": 129,
+      "count": 3
+    },
+    {
+      "literal_hex": "f9f981"
+    },
+    {
+      "repeat_byte": 185,
+      "count": 13
+    },
+    {
+      "literal_hex": "81ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "8095d5d5ff7faaaa"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 10
+    },
+    {
+      "repeat_byte": 179,
+      "count": 3
+    },
+    {
+      "literal_hex": "ffff"
+    },
+    {
+      "repeat_byte": 191,
+      "count": 3
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 3
+    },
+    {
+      "literal_hex": "ffc7fcc6"
+    },
+    {
+      "repeat_byte": 230,
+      "count": 5
+    },
+    {
+      "literal_hex": "86"
+    },
+    {
+      "repeat_byte": 230,
+      "count": 5
+    },
+    {
+      "literal_hex": "8680ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 3
+    },
+    {
+      "literal_hex": "ff7fd5d5"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "83f981f9f9fffffef8fefff0e6e0e6"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 3
+    },
+    {
+      "literal_hex": "b8afa0"
+    },
+    {
+      "repeat_byte": 167,
+      "count": 4
+    },
+    {
+      "literal_hex": "a6a3"
+    },
+    {
+      "repeat_byte": 167,
+      "count": 5
+    },
+    {
+      "literal_hex": "b98f80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80d5d4d4ff7fa8a8"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "bcb9b8b9f9ffff"
+    },
+    {
+      "repeat_byte": 188,
+      "count": 3
+    },
+    {
+      "literal_hex": "ffc1fc9cc1"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 7
+    },
+    {
+      "repeat_byte": 204,
+      "count": 6
+    },
+    {
+      "literal_hex": "8c8c"
+    },
+    {
+      "repeat_byte": 204,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80a8aaaaff7fd5d5"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80fefe9cc1ffff9e989eff83f3f383"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 6
+    },
+    {
+      "literal_hex": "c0"
+    },
+    {
+      "repeat_byte": 153,
+      "count": 5
+    },
+    {
+      "literal_hex": "918080"
+    },
+    {
+      "repeat_byte": 144,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80d5d1d1ff7fa2a2"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "87"
+    },
+    {
+      "repeat_byte": 231,
+      "count": 4
+    },
+    {
+      "literal_hex": "fffff3fff3ffe687e7e6"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff8080"
+    },
+    {
+      "repeat_byte": 131,
+      "count": 3
+    },
+    {
+      "literal_hex": "8087b0b3b3a3a2a28080a2ffff9f80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80a2aaaaff7fd5d5"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80b9b9bfbfffff"
+    },
+    {
+      "repeat_byte": 249,
+      "count": 3
+    },
+    {
+      "literal_hex": "fff3b3b0f3"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 7
+    },
+    {
+      "literal_hex": "e686"
+    },
+    {
+      "repeat_byte": 196,
+      "count": 4
+    },
+    {
+      "literal_hex": "8080c4"
+    },
+    {
+      "repeat_byte": 159,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80d5c5c5ff7f8a8a"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "8ece8ece8effffb9b9f9fff0fefef0"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 7
+    },
+    {
+      "literal_hex": "cc80"
+    },
+    {
+      "repeat_byte": 136,
+      "count": 4
+    },
+    {
+      "literal_hex": "8080a0"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 4
+    },
+    {
+      "literal_hex": "ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "808aaaaaff7fd5d5"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "e0fff8ffe0ffffe6e6f0ffccccf3f3"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 7
+    },
+    {
+      "literal_hex": "9980"
+    },
+    {
+      "repeat_byte": 145,
+      "count": 4
+    },
+    {
+      "literal_hex": "8080f884c08080ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80d59595ff7faaaa"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 10
+    },
+    {
+      "literal_hex": "fce0fc"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 9
+    },
+    {
+      "literal_hex": "80ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 7
+    },
+    {
+      "literal_hex": "b3808282a2a0a8a8c9c8e09c80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 3
+    },
+    {
+      "literal_hex": "ff7fd4d4ffff9f98"
+    },
+    {
+      "repeat_byte": 153,
+      "count": 21
+    },
+    {
+      "literal_hex": "9f8099"
+    },
+    {
+      "repeat_byte": 152,
+      "count": 10
+    },
+    {
+      "repeat_byte": 153,
+      "count": 8
+    },
+    {
+      "literal_hex": "98989f80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "80d4d5d5ffffaaaa"
+    },
+    {
+      "repeat_byte": 191,
+      "count": 51
+    },
+    {
+      "literal_hex": "ffff9fa0aaa8a8ffffd1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d1d5d5d1d3d1d5d1d1d5d5ff9f"
+    },
+    {
+      "repeat_byte": 154,
+      "count": 60
+    },
+    {
+      "literal_hex": "9f"
+    },
+    {
+      "repeat_byte": 112,
+      "count": 10
+    },
+    {
+      "repeat_byte": 48,
+      "count": 37
+    },
+    {
+      "repeat_byte": 112,
+      "count": 14
+    },
+    {
+      "repeat_byte": 170,
+      "count": 8
+    },
+    {
+      "literal_hex": "8775"
+    },
+    {
+      "repeat_byte": 85,
+      "count": 3
+    },
+    {
+      "repeat_byte": 97,
+      "count": 7
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "repeat_byte": 97,
+      "count": 7
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "repeat_byte": 65,
+      "count": 8
+    },
+    {
+      "literal_hex": "55557d07"
+    },
+    {
+      "repeat_byte": 1,
+      "count": 9
+    },
+    {
+      "literal_hex": "7d7f6f414f"
+    },
+    {
+      "repeat_byte": 213,
+      "count": 8
+    },
+    {
+      "literal_hex": "f40f"
+    },
+    {
+      "repeat_byte": 42,
+      "count": 25
+    },
+    {
+      "repeat_byte": 43,
+      "count": 5
+    },
+    {
+      "literal_hex": "0b2b"
+    },
+    {
+      "repeat_byte": 42,
+      "count": 3
+    },
+    {
+      "literal_hex": "2f"
+    },
+    {
+      "repeat_byte": 46,
+      "count": 6
+    },
+    {
+      "literal_hex": "1e665c007f5e330e81"
+    },
+    {
+      "repeat_byte": 170,
+      "count": 6
+    },
+    {
+      "literal_hex": "ea8ef8f07d"
+    },
+    {
+      "repeat_byte": 85,
+      "count": 3
+    },
+    {
+      "repeat_byte": 92,
+      "count": 5
+    },
+    {
+      "literal_hex": "54"
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "repeat_byte": 92,
+      "count": 6
+    },
+    {
+      "repeat_byte": 85,
+      "count": 4
+    },
+    {
+      "repeat_byte": 92,
+      "count": 6
+    },
+    {
+      "repeat_byte": 85,
+      "count": 3
+    },
+    {
+      "literal_hex": "3533133373531545387f7d3f600d03"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 3
+    },
+    {
+      "repeat_byte": 213,
+      "count": 5
+    },
+    {
+      "literal_hex": "fde1"
+    },
+    {
+      "repeat_byte": 143,
+      "count": 3
+    },
+    {
+      "literal_hex": "83"
+    },
+    {
+      "repeat_byte": 42,
+      "count": 4
+    },
+    {
+      "repeat_byte": 98,
+      "count": 4
+    },
+    {
+      "repeat_byte": 42,
+      "count": 5
+    },
+    {
+      "repeat_byte": 98,
+      "count": 5
+    },
+    {
+      "repeat_byte": 42,
+      "count": 4
+    },
+    {
+      "repeat_byte": 98,
+      "count": 5
+    },
+    {
+      "repeat_byte": 42,
+      "count": 3
+    },
+    {
+      "literal_hex": "6a666662262a0a62007b7f6f1b03"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 6
+    },
+    {
+      "repeat_byte": 170,
+      "count": 5
+    },
+    {
+      "literal_hex": "ff7f80b380b01f"
+    },
+    {
+      "repeat_byte": 5,
+      "count": 15
+    },
+    {
+      "literal_hex": "45054505"
+    },
+    {
+      "repeat_byte": 69,
+      "count": 9
+    },
+    {
+      "repeat_byte": 5,
+      "count": 3
+    },
+    {
+      "literal_hex": "45656579007f403706"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 9
+    },
+    {
+      "repeat_byte": 213,
+      "count": 5
+    },
+    {
+      "literal_hex": "ff7f80e680e680e680e680e680e680e680"
+    },
+    {
+      "repeat_byte": 119,
+      "count": 5
+    },
+    {
+      "literal_hex": "7f007f002a3b3b2a2f0f2f2a7f004c0c3f3d7f7f700d81"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 11
+    },
+    {
+      "repeat_byte": 170,
+      "count": 5
+    },
+    {
+      "literal_hex": "a7cffc"
+    },
+    {
+      "repeat_byte": 140,
+      "count": 13
+    },
+    {
+      "literal_hex": "80"
+    },
+    {
+      "repeat_byte": 110,
+      "count": 6
+    },
+    {
+      "literal_hex": "007f0055777755545353547d0119191d3c0d1b00"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 13
+    },
+    {
+      "repeat_byte": 213,
+      "count": 5
+    },
+    {
+      "literal_hex": "f9ff8f"
+    },
+    {
+      "repeat_byte": 136,
+      "count": 12
+    },
+    {
+      "literal_hex": "0840"
+    },
+    {
+      "repeat_byte": 85,
+      "count": 6
+    },
+    {
+      "literal_hex": "00d47084"
+    },
+    {
+      "repeat_byte": 228,
+      "count": 7
+    },
+    {
+      "literal_hex": "ff8001"
+    },
+    {
+      "repeat_byte": 51,
+      "count": 4
+    },
+    {
+      "literal_hex": "0300"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 13
+    },
+    {
+      "repeat_byte": 170,
+      "count": 5
+    },
+    {
+      "literal_hex": "ff7f80b380b380b380b380b380f3f0f0"
+    },
+    {
+      "repeat_byte": 241,
+      "count": 5
+    },
+    {
+      "literal_hex": "81f9f8bbbb80dddd"
+    },
+    {
+      "repeat_byte": 129,
+      "count": 3
+    },
+    {
+      "literal_hex": "dddd7f"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 21
+    },
+    {
+      "repeat_byte": 213,
+      "count": 5
+    },
+    {
+      "literal_hex": "ff7f80e680e680e680e680e680"
+    },
+    {
+      "repeat_byte": 187,
+      "count": 8
+    },
+    {
+      "literal_hex": "00b8bef7ff80bbbb809880bbbb7f"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 21
+    },
+    {
+      "repeat_byte": 170,
+      "count": 5
+    },
+    {
+      "literal_hex": "afaf"
+    },
+    {
+      "repeat_byte": 172,
+      "count": 10
+    },
+    {
+      "literal_hex": "ff"
+    },
+    {
+      "repeat_byte": 247,
+      "count": 8
+    },
+    {
+      "literal_hex": "809cdfeeee80f7f7"
+    },
+    {
+      "repeat_byte": 180,
+      "count": 3
+    },
+    {
+      "literal_hex": "b7b7ff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 21
+    },
+    {
+      "literal_hex": "81a981a981a981a981a981a981a981a981a880a880a880a880a880ab81a981a880a880a880a880a980a880a880a880a880a880a880a880a880a880a88080d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d58080aa80a280aa80a280aa80a280aa80a280aa80a280aa80a280aa80a280aa80a280aa80a280aa80a280aa80a280aa80a280aa80a280aa408280aa80a28080c580f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f0f1f081ff8080c580d58080aa80ff8f"
+    },
+    {
+      "repeat_byte": 207,
+      "count": 24
+    },
+    {
+      "literal_hex": "8f"
+    },
+    {
+      "repeat_byte": 207,
+      "count": 22
+    },
+    {
+      "literal_hex": "8f80ff8080aa808a80809580ff80ff"
+    },
+    {
+      "repeat_byte": 249,
+      "count": 10
+    },
+    {
+      "repeat_byte": 153,
+      "count": 4
+    },
+    {
+      "repeat_byte": 249,
+      "count": 7
+    },
+    {
+      "literal_hex": "81ff80f9f981"
+    },
+    {
+      "repeat_byte": 249,
+      "count": 3
+    },
+    {
+      "repeat_byte": 185,
+      "count": 14
+    },
+    {
+      "literal_hex": "ffff8080ff80809580d58080aa80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 11
+    },
+    {
+      "literal_hex": "b8b3b3b8ff"
+    },
+    {
+      "repeat_byte": 191,
+      "count": 3
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80ffff80ff9ff19e"
+    },
+    {
+      "repeat_byte": 230,
+      "count": 11
+    },
+    {
+      "literal_hex": "a6e6ffff8080ff8080aa80aa8080d580ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "8ff1f981f9ffff98fefef8ff"
+    },
+    {
+      "repeat_byte": 230,
+      "count": 3
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80ffff80a3bea3a6"
+    },
+    {
+      "repeat_byte": 167,
+      "count": 5
+    },
+    {
+      "literal_hex": "a4"
+    },
+    {
+      "repeat_byte": 167,
+      "count": 3
+    },
+    {
+      "literal_hex": "a6a7bc93ffff8080ff8080d580d48080a880ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 5
+    },
+    {
+      "literal_hex": "b8b9b8b9ffffb0"
+    },
+    {
+      "repeat_byte": 188,
+      "count": 3
+    },
+    {
+      "literal_hex": "ff9c8c9c"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80ffff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 5
+    },
+    {
+      "repeat_byte": 178,
+      "count": 7
+    },
+    {
+      "literal_hex": "92"
+    },
+    {
+      "repeat_byte": 178,
+      "count": 4
+    },
+    {
+      "literal_hex": "b3ffff8080ff8080a880aa8080d580ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "c19cfefe80ffffb89e9eb8fff383f3"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80ffff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 5
+    },
+    {
+      "literal_hex": "86"
+    },
+    {
+      "repeat_byte": 230,
+      "count": 4
+    },
+    {
+      "literal_hex": "c6c4ffc4"
+    },
+    {
+      "repeat_byte": 132,
+      "count": 4
+    },
+    {
+      "literal_hex": "ffff8080ff8080d580d18080a280ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "87"
+    },
+    {
+      "repeat_byte": 231,
+      "count": 4
+    },
+    {
+      "literal_hex": "ffffb8fffff8ffc7a7e7"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80ffff"
+    },
+    {
+      "repeat_byte": 131,
+      "count": 5
+    },
+    {
+      "literal_hex": "c3cccc8c"
+    },
+    {
+      "repeat_byte": 136,
+      "count": 3
+    },
+    {
+      "literal_hex": "ff8880"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 5
+    },
+    {
+      "literal_hex": "8080ff8080a280aa8080d580ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "86b0b9bfbfffffe0"
+    },
+    {
+      "repeat_byte": 249,
+      "count": 3
+    },
+    {
+      "literal_hex": "ffb3b2b1"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80ffff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 5
+    },
+    {
+      "literal_hex": "9999"
+    },
+    {
+      "repeat_byte": 145,
+      "count": 5
+    },
+    {
+      "literal_hex": "ff9180"
+    },
+    {
+      "repeat_byte": 159,
+      "count": 3
+    },
+    {
+      "literal_hex": "ffff8080ff8080d580c580808a80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "8ece8ece8effffb0b9b9f0ffe6fee6"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80ffff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 5
+    },
+    {
+      "literal_hex": "b3b3"
+    },
+    {
+      "repeat_byte": 162,
+      "count": 5
+    },
+    {
+      "literal_hex": "ff8288"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 3
+    },
+    {
+      "literal_hex": "ffff8080ff80808a80aa8080d580ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 4
+    },
+    {
+      "literal_hex": "e0fff8ffe0ffff"
+    },
+    {
+      "repeat_byte": 230,
+      "count": 3
+    },
+    {
+      "literal_hex": "f9ffcce1f3"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 3
+    },
+    {
+      "literal_hex": "80ff80ffff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 5
+    },
+    {
+      "literal_hex": "e6e6"
+    },
+    {
+      "repeat_byte": 196,
+      "count": 5
+    },
+    {
+      "literal_hex": "fffee1908086ffff8080ff8080d580958080aa80ff80"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 11
+    },
+    {
+      "literal_hex": "e0fcfce0"
+    },
+    {
+      "repeat_byte": 255,
+      "count": 7
+    },
+    {
+      "literal_hex": "80ff80ffff"
+    },
+    {
+      "repeat_byte": 128,
+      "count": 5
+    },
+    {
+      "literal_hex": "cccc888880a0a0a9e9c8e8c2f0ffff8080ff8080aa80aa8080d480ff809f"
+    },
+    {
+      "repeat_byte": 153,
+      "count": 21
+    },
+    {
+      "literal_hex": "989f809999"
+    },
+    {
+      "repeat_byte": 152,
+      "count": 5
+    },
+    {
+      "literal_hex": "99999898999998"
+    },
+    {
+      "repeat_byte": 153,
+      "count": 6
+    },
+    {
+      "literal_hex": "9f9f8080ff8080d480d58080aa80"
+    },
+    {
+      "repeat_byte": 191,
+      "count": 50
+    },
+    {
+      "literal_hex": "80ff8080aa80a88080d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d180d580d183d480d180d580989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a989a98"
+    }
+  ]
+}

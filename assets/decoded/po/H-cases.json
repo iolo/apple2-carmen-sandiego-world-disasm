@@ -1,0 +1,376 @@
+{
+  "snapshot_range": "$00-$20",
+  "route_slots_note": "All thirteen stored slots are shown; values after the final hideout may be stale.",
+  "slots": [
+    {
+      "slot": 0,
+      "detective": "Pam capolino",
+      "unused_page": false,
+      "roster_saved_case_flag": 0,
+      "resume_flag_set": false,
+      "snapshot": {
+        "suspect": {
+          "value": 1,
+          "name": "Merey LaRoc"
+        },
+        "route_graph_index": 7,
+        "route_index": 3,
+        "route_slots": [
+          {
+            "value": 14,
+            "name": "Montreal"
+          },
+          {
+            "value": 25,
+            "name": "Rome"
+          },
+          {
+            "value": 17,
+            "name": "New Delhi"
+          },
+          {
+            "value": 5,
+            "name": "Buenos Aires"
+          },
+          {
+            "value": 8,
+            "name": "Istanbul"
+          },
+          {
+            "value": 1,
+            "name": "Baghdad"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          }
+        ],
+        "starting_city": {
+          "value": 14,
+          "name": "Montreal"
+        },
+        "hideout_city": {
+          "value": 1,
+          "name": "Baghdad"
+        },
+        "current_city": {
+          "value": 17,
+          "name": "New Delhi"
+        },
+        "clock": {
+          "day": {
+            "value": 4,
+            "name": "Fri"
+          },
+          "hour": 17
+        },
+        "deadline": {
+          "day": {
+            "value": 5,
+            "name": "Sat"
+          },
+          "hour": 9
+        },
+        "city_investigation_count": 1,
+        "warrant_suspect": {
+          "value": 1,
+          "name": "Merey LaRoc"
+        },
+        "sound_enabled_value": 1,
+        "treasure": {
+          "value": 44,
+          "text": "the Mounties' brass buttons"
+        },
+        "city_menu_selection": {
+          "value": 3,
+          "label": "Visit Interpol"
+        },
+        "trait_filters": {
+          "sex": {
+            "value": 1,
+            "unset": false,
+            "label": "Female"
+          },
+          "hobbies": {
+            "value": 255,
+            "unset": true,
+            "label": null
+          },
+          "hair": {
+            "value": 0,
+            "unset": false,
+            "label": "Brown"
+          },
+          "features": {
+            "value": 255,
+            "unset": true,
+            "label": null
+          },
+          "vehicles": {
+            "value": 1,
+            "unset": false,
+            "label": "Limousine"
+          },
+          "food": {
+            "value": 0,
+            "unset": false,
+            "label": "Mexican"
+          }
+        }
+      }
+    },
+    {
+      "slot": 1,
+      "detective": "PAM",
+      "unused_page": true,
+      "roster_saved_case_flag": 0,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 2,
+      "detective": "Alex Lee",
+      "unused_page": true,
+      "roster_saved_case_flag": 0,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 3,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 4,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 5,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 6,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 7,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 8,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 9,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 10,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    },
+    {
+      "slot": 11,
+      "detective": "",
+      "unused_page": false,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": {
+        "suspect": {
+          "value": 9,
+          "name": "Ihor Ihorovitch"
+        },
+        "route_graph_index": 4,
+        "route_index": 1,
+        "route_slots": [
+          {
+            "value": 13,
+            "name": "Mexico City"
+          },
+          {
+            "value": 10,
+            "name": "Kigali"
+          },
+          {
+            "value": 14,
+            "name": "Montreal"
+          },
+          {
+            "value": 1,
+            "name": "Baghdad"
+          },
+          {
+            "value": 11,
+            "name": "Lima"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          },
+          {
+            "value": 0,
+            "name": "Athens"
+          }
+        ],
+        "starting_city": {
+          "value": 13,
+          "name": "Mexico City"
+        },
+        "hideout_city": {
+          "value": 1,
+          "name": "Baghdad"
+        },
+        "current_city": {
+          "value": 13,
+          "name": "Mexico City"
+        },
+        "clock": {
+          "day": {
+            "value": 0,
+            "name": "Mon"
+          },
+          "hour": 16
+        },
+        "deadline": {
+          "day": {
+            "value": 6,
+            "name": "Sun"
+          },
+          "hour": 16
+        },
+        "city_investigation_count": 0,
+        "warrant_suspect": {
+          "value": 255,
+          "name": null
+        },
+        "sound_enabled_value": 1,
+        "treasure": {
+          "value": 39,
+          "text": "an ancient Aztec calendar"
+        },
+        "city_menu_selection": {
+          "value": 3,
+          "label": "Visit Interpol"
+        },
+        "trait_filters": {
+          "sex": {
+            "value": 255,
+            "unset": true,
+            "label": null
+          },
+          "hobbies": {
+            "value": 255,
+            "unset": true,
+            "label": null
+          },
+          "hair": {
+            "value": 255,
+            "unset": true,
+            "label": null
+          },
+          "features": {
+            "value": 255,
+            "unset": true,
+            "label": null
+          },
+          "vehicles": {
+            "value": 255,
+            "unset": true,
+            "label": null
+          },
+          "food": {
+            "value": 255,
+            "unset": true,
+            "label": null
+          }
+        }
+      }
+    },
+    {
+      "slot": 12,
+      "detective": "",
+      "unused_page": true,
+      "roster_saved_case_flag": null,
+      "resume_flag_set": false,
+      "snapshot": null
+    }
+  ]
+}

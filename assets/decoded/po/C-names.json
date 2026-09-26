@@ -1,0 +1,259 @@
+{
+  "cities": [
+    {
+      "file_offset": 2321,
+      "name": "Athens"
+    },
+    {
+      "file_offset": 2328,
+      "name": "Baghdad"
+    },
+    {
+      "file_offset": 2336,
+      "name": "Bamako"
+    },
+    {
+      "file_offset": 2343,
+      "name": "Bangkok"
+    },
+    {
+      "file_offset": 2351,
+      "name": "Budapest"
+    },
+    {
+      "file_offset": 2360,
+      "name": "Buenos Aires"
+    },
+    {
+      "file_offset": 2373,
+      "name": "Cairo"
+    },
+    {
+      "file_offset": 2379,
+      "name": "Colombo"
+    },
+    {
+      "file_offset": 2387,
+      "name": "Istanbul"
+    },
+    {
+      "file_offset": 2396,
+      "name": "Kathmandu"
+    },
+    {
+      "file_offset": 2406,
+      "name": "Kigali"
+    },
+    {
+      "file_offset": 2413,
+      "name": "Lima"
+    },
+    {
+      "file_offset": 2418,
+      "name": "London"
+    },
+    {
+      "file_offset": 2425,
+      "name": "Mexico City"
+    },
+    {
+      "file_offset": 2437,
+      "name": "Montreal"
+    },
+    {
+      "file_offset": 2446,
+      "name": "Moroni"
+    },
+    {
+      "file_offset": 2453,
+      "name": "Moscow"
+    },
+    {
+      "file_offset": 2460,
+      "name": "New Delhi"
+    },
+    {
+      "file_offset": 2470,
+      "name": "New York"
+    },
+    {
+      "file_offset": 2479,
+      "name": "Oslo"
+    },
+    {
+      "file_offset": 2484,
+      "name": "Paris"
+    },
+    {
+      "file_offset": 2490,
+      "name": "Beijing"
+    },
+    {
+      "file_offset": 2498,
+      "name": "Port Moresby"
+    },
+    {
+      "file_offset": 2511,
+      "name": "Reykjavik"
+    },
+    {
+      "file_offset": 2521,
+      "name": "Rio de Janeiro"
+    },
+    {
+      "file_offset": 2536,
+      "name": "Rome"
+    },
+    {
+      "file_offset": 2541,
+      "name": "San Marino"
+    },
+    {
+      "file_offset": 2552,
+      "name": "Singapore"
+    },
+    {
+      "file_offset": 2562,
+      "name": "Sydney"
+    },
+    {
+      "file_offset": 2569,
+      "name": "Tokyo"
+    }
+  ],
+  "suspects": [
+    {
+      "file_offset": 2575,
+      "name": "Carmen Sandiego"
+    },
+    {
+      "file_offset": 2591,
+      "name": "Merey LaRoc"
+    },
+    {
+      "file_offset": 2603,
+      "name": "Dazzle Annie"
+    },
+    {
+      "file_offset": 2616,
+      "name": "Lady Agatha"
+    },
+    {
+      "file_offset": 2628,
+      "name": "Katherine Drib"
+    },
+    {
+      "file_offset": 2643,
+      "name": "Len Bulk"
+    },
+    {
+      "file_offset": 2652,
+      "name": "Scar Graynolt"
+    },
+    {
+      "file_offset": 2666,
+      "name": "Nick Brunch"
+    },
+    {
+      "file_offset": 2678,
+      "name": "Fast Eddie B"
+    },
+    {
+      "file_offset": 2691,
+      "name": "Ihor Ihorovitch"
+    }
+  ],
+  "detective_ranks": [
+    {
+      "file_offset": 2707,
+      "name": "Rookie"
+    },
+    {
+      "file_offset": 2714,
+      "name": "Sleuth"
+    },
+    {
+      "file_offset": 2721,
+      "name": "Private Eye"
+    },
+    {
+      "file_offset": 2733,
+      "name": "Investigator"
+    },
+    {
+      "file_offset": 2746,
+      "name": "Ace Detective"
+    },
+    {
+      "file_offset": 2760,
+      "name": "Super Sleuth"
+    }
+  ],
+  "weekdays": [
+    {
+      "file_offset": 2773,
+      "name": "Mon"
+    },
+    {
+      "file_offset": 2777,
+      "name": "Tues"
+    },
+    {
+      "file_offset": 2782,
+      "name": "Wed"
+    },
+    {
+      "file_offset": 2786,
+      "name": "Thur"
+    },
+    {
+      "file_offset": 2791,
+      "name": "Fri"
+    },
+    {
+      "file_offset": 2795,
+      "name": "Sat"
+    },
+    {
+      "file_offset": 2799,
+      "name": "Sun"
+    }
+  ],
+  "weekday_suffixes": [
+    {
+      "file_offset": 2803,
+      "suffix": "",
+      "full_name": "Monday"
+    },
+    {
+      "file_offset": 2804,
+      "suffix": "",
+      "full_name": "Tuesday"
+    },
+    {
+      "file_offset": 2805,
+      "suffix": "nes",
+      "full_name": "Wednesday"
+    },
+    {
+      "file_offset": 2809,
+      "suffix": "s",
+      "full_name": "Thursday"
+    },
+    {
+      "file_offset": 2811,
+      "suffix": "",
+      "full_name": "Friday"
+    },
+    {
+      "file_offset": 2812,
+      "suffix": "ur",
+      "full_name": "Saturday"
+    },
+    {
+      "file_offset": 2815,
+      "suffix": "",
+      "full_name": "Sunday"
+    }
+  ]
+}

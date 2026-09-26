@@ -1,0 +1,307 @@
+{
+  "position_table_address": 35850,
+  "route_x_table_address": 35940,
+  "route_x_unit_pixels": 2,
+  "cities": [
+    {
+      "number": 0,
+      "city": "Athens",
+      "hgr_byte_column": 21,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 152,
+      "map_anchor_pixel_y": 132,
+      "route_x": 76,
+      "route_pixel_x": 152
+    },
+    {
+      "number": 1,
+      "city": "Baghdad",
+      "hgr_byte_column": 22,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 159,
+      "map_anchor_pixel_y": 135,
+      "route_x": 79,
+      "route_pixel_x": 158
+    },
+    {
+      "number": 2,
+      "city": "Bamako",
+      "hgr_byte_column": 19,
+      "hgr_bit_offset": 2,
+      "map_anchor_pixel_x": 135,
+      "map_anchor_pixel_y": 144,
+      "route_x": 67,
+      "route_pixel_x": 134
+    },
+    {
+      "number": 3,
+      "city": "Bangkok",
+      "hgr_byte_column": 26,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 187,
+      "map_anchor_pixel_y": 147,
+      "route_x": 93,
+      "route_pixel_x": 186
+    },
+    {
+      "number": 4,
+      "city": "Budapest",
+      "hgr_byte_column": 21,
+      "hgr_bit_offset": 3,
+      "map_anchor_pixel_x": 150,
+      "map_anchor_pixel_y": 125,
+      "route_x": 75,
+      "route_pixel_x": 150
+    },
+    {
+      "number": 5,
+      "city": "Buenos Aires",
+      "hgr_byte_column": 15,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 110,
+      "map_anchor_pixel_y": 169,
+      "route_x": 55,
+      "route_pixel_x": 110
+    },
+    {
+      "number": 6,
+      "city": "Cairo",
+      "hgr_byte_column": 21,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 152,
+      "map_anchor_pixel_y": 137,
+      "route_x": 76,
+      "route_pixel_x": 152
+    },
+    {
+      "number": 7,
+      "city": "Colombo",
+      "hgr_byte_column": 24,
+      "hgr_bit_offset": 6,
+      "map_anchor_pixel_x": 174,
+      "map_anchor_pixel_y": 149,
+      "route_x": 87,
+      "route_pixel_x": 174
+    },
+    {
+      "number": 8,
+      "city": "Istanbul",
+      "hgr_byte_column": 22,
+      "hgr_bit_offset": 1,
+      "map_anchor_pixel_x": 155,
+      "map_anchor_pixel_y": 131,
+      "route_x": 77,
+      "route_pixel_x": 154
+    },
+    {
+      "number": 9,
+      "city": "Kathmandu",
+      "hgr_byte_column": 25,
+      "hgr_bit_offset": 2,
+      "map_anchor_pixel_x": 177,
+      "map_anchor_pixel_y": 139,
+      "route_x": 88,
+      "route_pixel_x": 176
+    },
+    {
+      "number": 10,
+      "city": "Kigali",
+      "hgr_byte_column": 21,
+      "hgr_bit_offset": 4,
+      "map_anchor_pixel_x": 151,
+      "map_anchor_pixel_y": 153,
+      "route_x": 75,
+      "route_pixel_x": 150
+    },
+    {
+      "number": 11,
+      "city": "Lima",
+      "hgr_byte_column": 14,
+      "hgr_bit_offset": 1,
+      "map_anchor_pixel_x": 99,
+      "map_anchor_pixel_y": 157,
+      "route_x": 49,
+      "route_pixel_x": 98
+    },
+    {
+      "number": 12,
+      "city": "London",
+      "hgr_byte_column": 19,
+      "hgr_bit_offset": 2,
+      "map_anchor_pixel_x": 135,
+      "map_anchor_pixel_y": 121,
+      "route_x": 67,
+      "route_pixel_x": 134
+    },
+    {
+      "number": 13,
+      "city": "Mexico City",
+      "hgr_byte_column": 13,
+      "hgr_bit_offset": 1,
+      "map_anchor_pixel_x": 92,
+      "map_anchor_pixel_y": 143,
+      "route_x": 46,
+      "route_pixel_x": 92
+    },
+    {
+      "number": 14,
+      "city": "Montreal",
+      "hgr_byte_column": 14,
+      "hgr_bit_offset": 6,
+      "map_anchor_pixel_x": 104,
+      "map_anchor_pixel_y": 122,
+      "route_x": 52,
+      "route_pixel_x": 104
+    },
+    {
+      "number": 15,
+      "city": "Moroni",
+      "hgr_byte_column": 22,
+      "hgr_bit_offset": 6,
+      "map_anchor_pixel_x": 160,
+      "map_anchor_pixel_y": 157,
+      "route_x": 80,
+      "route_pixel_x": 160
+    },
+    {
+      "number": 16,
+      "city": "Moscow",
+      "hgr_byte_column": 22,
+      "hgr_bit_offset": 6,
+      "map_anchor_pixel_x": 160,
+      "map_anchor_pixel_y": 122,
+      "route_x": 80,
+      "route_pixel_x": 160
+    },
+    {
+      "number": 17,
+      "city": "New Delhi",
+      "hgr_byte_column": 24,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 173,
+      "map_anchor_pixel_y": 139,
+      "route_x": 86,
+      "route_pixel_x": 172
+    },
+    {
+      "number": 18,
+      "city": "New York",
+      "hgr_byte_column": 15,
+      "hgr_bit_offset": 0,
+      "map_anchor_pixel_x": 105,
+      "map_anchor_pixel_y": 125,
+      "route_x": 52,
+      "route_pixel_x": 104
+    },
+    {
+      "number": 19,
+      "city": "Oslo",
+      "hgr_byte_column": 19,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 138,
+      "map_anchor_pixel_y": 113,
+      "route_x": 69,
+      "route_pixel_x": 138
+    },
+    {
+      "number": 20,
+      "city": "Paris",
+      "hgr_byte_column": 19,
+      "hgr_bit_offset": 6,
+      "map_anchor_pixel_x": 139,
+      "map_anchor_pixel_y": 123,
+      "route_x": 69,
+      "route_pixel_x": 138
+    },
+    {
+      "number": 21,
+      "city": "Beijing",
+      "hgr_byte_column": 27,
+      "hgr_bit_offset": 1,
+      "map_anchor_pixel_x": 190,
+      "map_anchor_pixel_y": 134,
+      "route_x": 95,
+      "route_pixel_x": 190
+    },
+    {
+      "number": 22,
+      "city": "Port Moresby",
+      "hgr_byte_column": 30,
+      "hgr_bit_offset": 1,
+      "map_anchor_pixel_x": 211,
+      "map_anchor_pixel_y": 156,
+      "route_x": 105,
+      "route_pixel_x": 210
+    },
+    {
+      "number": 23,
+      "city": "Reykjavik",
+      "hgr_byte_column": 18,
+      "hgr_bit_offset": 0,
+      "map_anchor_pixel_x": 126,
+      "map_anchor_pixel_y": 113,
+      "route_x": 63,
+      "route_pixel_x": 126
+    },
+    {
+      "number": 24,
+      "city": "Rio de Janeiro",
+      "hgr_byte_column": 16,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 117,
+      "map_anchor_pixel_y": 162,
+      "route_x": 58,
+      "route_pixel_x": 116
+    },
+    {
+      "number": 25,
+      "city": "Rome",
+      "hgr_byte_column": 20,
+      "hgr_bit_offset": 6,
+      "map_anchor_pixel_x": 146,
+      "map_anchor_pixel_y": 130,
+      "route_x": 73,
+      "route_pixel_x": 146
+    },
+    {
+      "number": 26,
+      "city": "San Marino",
+      "hgr_byte_column": 20,
+      "hgr_bit_offset": 6,
+      "map_anchor_pixel_x": 146,
+      "map_anchor_pixel_y": 129,
+      "route_x": 73,
+      "route_pixel_x": 146
+    },
+    {
+      "number": 27,
+      "city": "Singapore",
+      "hgr_byte_column": 27,
+      "hgr_bit_offset": 1,
+      "map_anchor_pixel_x": 190,
+      "map_anchor_pixel_y": 151,
+      "route_x": 95,
+      "route_pixel_x": 190
+    },
+    {
+      "number": 28,
+      "city": "Sydney",
+      "hgr_byte_column": 29,
+      "hgr_bit_offset": 3,
+      "map_anchor_pixel_x": 206,
+      "map_anchor_pixel_y": 173,
+      "route_x": 103,
+      "route_pixel_x": 206
+    },
+    {
+      "number": 29,
+      "city": "Tokyo",
+      "hgr_byte_column": 29,
+      "hgr_bit_offset": 5,
+      "map_anchor_pixel_x": 208,
+      "map_anchor_pixel_y": 137,
+      "route_x": 104,
+      "route_pixel_x": 208
+    }
+  ]
+}

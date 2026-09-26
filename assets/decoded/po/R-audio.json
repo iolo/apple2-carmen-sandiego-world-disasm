@@ -1,0 +1,22 @@
+{
+  "cpu_hz": 1000000,
+  "sample_rate": 44100,
+  "speaker_model": "toggle level with 50 Hz high-pass filter",
+  "interrupts": false,
+  "tracks": [
+    {
+      "id": 0,
+      "cpu_cycles": 6884527,
+      "speaker_toggles": 3289,
+      "duration_seconds": 6.884527,
+      "file": "R-sound-00.wav"
+    },
+    {
+      "id": 1,
+      "cpu_cycles": 3396131,
+      "speaker_toggles": 3988,
+      "duration_seconds": 3.396131,
+      "file": "R-sound-01.wav"
+    }
+  ]
+}

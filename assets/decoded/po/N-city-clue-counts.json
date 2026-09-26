@@ -1,0 +1,5702 @@
+{
+  "first_table_address": 36216,
+  "row_size": 12,
+  "cities": [
+    {
+      "number": 0,
+      "city": "Athens",
+      "table_address": 36216,
+      "total_selectable_lines": 26,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to drachmas"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 3,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for drachmas"
+            },
+            {
+              "number": 5,
+              "text": "had a Greek dictionary in @ pocket"
+            },
+            {
+              "number": 6,
+              "text": "said # wanted to measure the Parthenon"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 7,
+              "text": "said # was researching Plato's Republic"
+            },
+            {
+              "number": 8,
+              "text": "kept asking about ancient Sparta"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 9,
+              "text": "planned to hike in the Pindus Mountains"
+            },
+            {
+              "number": 10,
+              "text": "inquired about sailing conditions near Corfu"
+            },
+            {
+              "number": 11,
+              "text": "asked for a map of the Balkan Peninsula"
+            },
+            {
+              "number": 12,
+              "text": "planned to mount a diving expedition in the Aegean Sea"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 5,
+          "lines": [
+            {
+              "number": 13,
+              "text": "was reading Plato's Republic"
+            },
+            {
+              "number": 14,
+              "text": "wanted to know where # could find books on the Hellenic Republic"
+            },
+            {
+              "number": 15,
+              "text": "asked for a biography of Aristotle"
+            },
+            {
+              "number": 16,
+              "text": "said # was studying animal husbandry in ancient Crete"
+            },
+            {
+              "number": 17,
+              "text": "was interested in a Spartan lifestyle"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 18,
+              "text": "asked for a window seat so # could see the Pindus Mountains"
+            },
+            {
+              "number": 19,
+              "text": "left in a plane with a blue and white flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 2,
+          "lines": [
+            {
+              "number": 20,
+              "text": "was heading in the direction of Mykonos"
+            },
+            {
+              "number": 21,
+              "text": "sailed in a dinghy flying a blue and white flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "left in a vehicle flying a blue and white flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 1,
+          "lines": [
+            {
+              "number": 23,
+              "text": "asked if there was any future in olives"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 3,
+          "lines": [
+            {
+              "number": 24,
+              "text": "was looking for a good buy on olives"
+            },
+            {
+              "number": 25,
+              "text": "asked where # could buy Cretan art"
+            },
+            {
+              "number": 26,
+              "text": "wanted to know the black market price for drachmas"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 27,
+              "text": "said # was going to play golf with the Prime Minister"
+            },
+            {
+              "number": 28,
+              "text": "left in a vehicle flying a blue and white flag"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 1,
+      "city": "Baghdad",
+      "table_address": 36228,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to dinars"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "wanted to know the exchange rate for dinars"
+            },
+            {
+              "number": 5,
+              "text": "had an Arabic dictionary in @ backpack"
+            },
+            {
+              "number": 6,
+              "text": "wanted to know if # could take a steamer down the Tigris River"
+            },
+            {
+              "number": 7,
+              "text": "asked for a tide table for the Persian Gulf"
+            },
+            {
+              "number": 8,
+              "text": "said # wanted to drive a jeep across the Syrian Desert"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "asked to see examples of Sumerian writing"
+            },
+            {
+              "number": 10,
+              "text": "said # planned to study foraging habits of Arabian gazelles"
+            },
+            {
+              "number": 11,
+              "text": "was researching the manufacture of ancient Babylonian pottery"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 5,
+          "lines": [
+            {
+              "number": 12,
+              "text": "said # planned to parachute off an oil rig"
+            },
+            {
+              "number": 13,
+              "text": "asked about the hunting season for Arabian gazelles"
+            },
+            {
+              "number": 14,
+              "text": "said # wanted to kayak down the Tigris"
+            },
+            {
+              "number": 15,
+              "text": "asked about sailing conditions on the Euphrates"
+            },
+            {
+              "number": 16,
+              "text": "said # needed a snare for catching venomous puff adders"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 5,
+          "lines": [
+            {
+              "number": 17,
+              "text": "checked out books about Mesopotamia"
+            },
+            {
+              "number": 18,
+              "text": "was looking for a guide to Mesopotamian pot shards"
+            },
+            {
+              "number": 19,
+              "text": "asked for books on how to drill an oil well"
+            },
+            {
+              "number": 20,
+              "text": "was browsing through the stacks looking for books on ancient Sumeria"
+            },
+            {
+              "number": 21,
+              "text": "was disappointed when # found no books about the Assyrians"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 3,
+          "lines": [
+            {
+              "number": 22,
+              "text": "said # had a job waiting for ^ in an oil field"
+            },
+            {
+              "number": 23,
+              "text": "planned to tour a petrochemical plant"
+            },
+            {
+              "number": 24,
+              "text": "took off in a plane with a red, white and black flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 25,
+              "text": "sailed away in a yacht flying a red, white and black flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 26,
+              "text": "sped off in a vehicle flying a red, white and black flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 2,
+          "lines": [
+            {
+              "number": 27,
+              "text": "said # was looking for a date"
+            },
+            {
+              "number": 28,
+              "text": "wanted to get a good deal on crude oil"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "left in a vehicle flying a red, white and black flag"
+            },
+            {
+              "number": 30,
+              "text": "said # planned to sell secrets to the Ruling Council"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 2,
+      "city": "Bamako",
+      "table_address": 36240,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to francs"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for francs"
+            },
+            {
+              "number": 5,
+              "text": "was listening to a Bambara language tape"
+            },
+            {
+              "number": 6,
+              "text": "asked if # would need a raincoat in the Sahara"
+            },
+            {
+              "number": 7,
+              "text": "wanted to know if there were any five-star hotels on the Niger River"
+            },
+            {
+              "number": 8,
+              "text": "had a map of Timbuktu in @ briefcase"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "planned to go on an archaeological dig in ancient Timbuktu"
+            },
+            {
+              "number": 10,
+              "text": "was interested in kinship studies of the Tuareg people"
+            },
+            {
+              "number": 11,
+              "text": "spent a long time looking at Mande woodcarvings"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 12,
+              "text": "asked if crocodiles were a danger to swimmers in the Niger River"
+            },
+            {
+              "number": 13,
+              "text": "planned to drive a dune buggy over the Sahara"
+            },
+            {
+              "number": 14,
+              "text": "said # was going to hunt for a desert horned viper"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 15,
+              "text": "looked up the annual rainfall for the Sahara"
+            },
+            {
+              "number": 16,
+              "text": "asked for a guide to Timbuktu"
+            },
+            {
+              "number": 17,
+              "text": "was looking for a book of Tuareg creation myths"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "left in a rowboat flying a green, yellow and red flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "left in a dinghy flying a green, yellow and red flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "left in a vehicle flying a green, yellow and red flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 6,
+          "lines": [
+            {
+              "number": 21,
+              "text": "asked if the bottom had fallen out of peanuts"
+            },
+            {
+              "number": 22,
+              "text": "put in a buy order for millet"
+            },
+            {
+              "number": 23,
+              "text": "tried to bid up the price of rice"
+            },
+            {
+              "number": 24,
+              "text": "was interested in peanut futures"
+            },
+            {
+              "number": 25,
+              "text": "said # was heavily invested in millet"
+            },
+            {
+              "number": 26,
+              "text": "was worried about the future of the rice market"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 3,
+          "lines": [
+            {
+              "number": 27,
+              "text": "wanted to buy Tuareg artifacts"
+            },
+            {
+              "number": 28,
+              "text": "was looking for artifacts from ancient Timbuktu"
+            },
+            {
+              "number": 29,
+              "text": "tried to buy black market francs"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 1,
+          "lines": [
+            {
+              "number": 30,
+              "text": "said # planned to play bridge with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 3,
+      "city": "Bangkok",
+      "table_address": 36252,
+      "total_selectable_lines": 24,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to bahts"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for bahts"
+            },
+            {
+              "number": 5,
+              "text": "asked for a map of Muang Thai"
+            },
+            {
+              "number": 6,
+              "text": "wanted to know if there were any good restaurants near the Siamese Summer Palace"
+            },
+            {
+              "number": 7,
+              "text": "planned to take a guided tour of Siamese wats"
+            },
+            {
+              "number": 8,
+              "text": "said # wanted to see King Mongkut's royal barge"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 9,
+              "text": "asked questions about the spread of Buddhism"
+            },
+            {
+              "number": 10,
+              "text": "asked where # could find the best collection of Siamese art"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 11,
+              "text": "said # wanted to search for a lost Siamese temple"
+            },
+            {
+              "number": 12,
+              "text": "planned to wrestle a deadly King Cobra"
+            },
+            {
+              "number": 13,
+              "text": "said # wanted to fish in the Chao Phraya River"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 14,
+              "text": "was looking for a copy of \"Anna and the King of Siam.\""
+            },
+            {
+              "number": 15,
+              "text": "was reading a book about teak forests"
+            },
+            {
+              "number": 16,
+              "text": "asked for a biography of Chulalongkorn"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 17,
+              "text": "left in a plane with a red, white and blue flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "left in a barge flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "sailed in a cruiser flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "drove off in a vehicle flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 3,
+          "lines": [
+            {
+              "number": 21,
+              "text": "said # planned to become a pepper tycoon"
+            },
+            {
+              "number": 22,
+              "text": "was interested in rice futures"
+            },
+            {
+              "number": 23,
+              "text": "said # was trying to corner the market in teak"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 1,
+          "lines": [
+            {
+              "number": 24,
+              "text": "wanted to buy black market bahts"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 25,
+              "text": "planned to go sailing with the King"
+            },
+            {
+              "number": 26,
+              "text": "left in a vehicle flying a red, white and blue flag"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": [
+        {
+          "number": 27,
+          "text": "black market bahts"
+        },
+        {
+          "number": 28,
+          "text": "planned to go sailing with the King"
+        },
+        {
+          "number": 29,
+          "text": "left in a vehicle flying a red, white and blue flag"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "city": "Budapest",
+      "table_address": 36264,
+      "total_selectable_lines": 25,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to forints"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "wanted to know the exchange rate for forints"
+            },
+            {
+              "number": 5,
+              "text": "was thumbing through a Hungarian dictionary"
+            },
+            {
+              "number": 6,
+              "text": "asked about day tours on the Danube"
+            },
+            {
+              "number": 7,
+              "text": "was humming a Gypsy melody"
+            },
+            {
+              "number": 8,
+              "text": "had a guide to Magyar art in @ suitcase"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 9,
+              "text": "wanted to see a collection of Magyar artifacts"
+            },
+            {
+              "number": 10,
+              "text": "asked many questions about Gypsy dialects"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 2,
+          "lines": [
+            {
+              "number": 11,
+              "text": "said # wanted to sail down the Danube"
+            },
+            {
+              "number": 12,
+              "text": "asked about playing polo on the Alfold plain"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 5,
+          "lines": [
+            {
+              "number": 13,
+              "text": "asked for a biography of Stephen the First"
+            },
+            {
+              "number": 14,
+              "text": "was researching Croatian wedding customs"
+            },
+            {
+              "number": 15,
+              "text": "was looking for books on the history of the Gypsies"
+            },
+            {
+              "number": 16,
+              "text": "wanted information on pollution levels in the Danube"
+            },
+            {
+              "number": 17,
+              "text": "asked for a book on the Magyars"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 18,
+              "text": "was heading for one of Austria's neighbors"
+            },
+            {
+              "number": 19,
+              "text": "planned to visit a country in east-central Europe"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "boarded a cruise ship flying a red, white and green flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "drove away in a vehicle flying a red, white and green flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 4,
+          "lines": [
+            {
+              "number": 22,
+              "text": "was looking for a good deal in grapes"
+            },
+            {
+              "number": 23,
+              "text": "wanted to know where # could buy bauxite"
+            },
+            {
+              "number": 24,
+              "text": "said # wanted @ palm read by a Gypsy fortune-teller"
+            },
+            {
+              "number": 25,
+              "text": "was looking for ancient Magyar manuscripts"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 26,
+              "text": "sped away in a vehicle flying a red, white and green flag"
+            },
+            {
+              "number": 27,
+              "text": "said # planned to go dancing with the Party Secretary"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 5,
+      "city": "Buenos Aires",
+      "table_address": 36276,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to australs"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 4,
+          "lines": [
+            {
+              "number": 4,
+              "text": "wanted to know the exchange rate for australs"
+            },
+            {
+              "number": 5,
+              "text": "was carrying a Spanish phrase book"
+            },
+            {
+              "number": 6,
+              "text": "wanted a timetable for the Patagonian Express"
+            },
+            {
+              "number": 7,
+              "text": "asked for directions to the Parana River"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 8,
+              "text": "was researching Spanish colonial history"
+            },
+            {
+              "number": 9,
+              "text": "had a grant to study the cholesterol levels of gauchos"
+            },
+            {
+              "number": 10,
+              "text": "was interested in the geography of Tierra del Fuego"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 11,
+              "text": "planned to scale Mount Aconcagua"
+            },
+            {
+              "number": 12,
+              "text": "said # was going to backpack to Tierra del Fuego"
+            },
+            {
+              "number": 13,
+              "text": "said # planned to fly a glider over the Gran Chaco plain"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 14,
+              "text": "asked for a novel about gaucho romance"
+            },
+            {
+              "number": 15,
+              "text": "was looking for a guide to restaurants in Tierra del Fuego"
+            },
+            {
+              "number": 16,
+              "text": "checked out books about Spanish colonial rule"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 17,
+              "text": "left in a plane with a sun flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "sailed in a schooner flying a sun flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "left in a rowboat flying a sun flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "drove off in a vehicle flying a sun flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 6,
+          "lines": [
+            {
+              "number": 21,
+              "text": "wanted a hot tip on cattle stocks"
+            },
+            {
+              "number": 22,
+              "text": "asked about the price of soybean futures"
+            },
+            {
+              "number": 23,
+              "text": "said # planned to corner the market on linseed oil"
+            },
+            {
+              "number": 24,
+              "text": "said # was going to make a killing in cattle"
+            },
+            {
+              "number": 25,
+              "text": "put all @ money into soybeans"
+            },
+            {
+              "number": 26,
+              "text": "wanted to buy stock in a linseed oil company"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 3,
+          "lines": [
+            {
+              "number": 27,
+              "text": "tried on several gaucho costumes"
+            },
+            {
+              "number": 28,
+              "text": "was looking for Spanish colonial maps"
+            },
+            {
+              "number": 29,
+              "text": "wanted to buy black market australs"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 1,
+          "lines": [
+            {
+              "number": 30,
+              "text": "said # planned to have lunch with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 6,
+      "city": "Cairo",
+      "table_address": 36288,
+      "total_selectable_lines": 29,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to pounds"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "wanted to know the exchange rate for pounds"
+            },
+            {
+              "number": 5,
+              "text": "was studying an Arabic phrase book"
+            },
+            {
+              "number": 6,
+              "text": "said # planned to photograph the pyramids"
+            },
+            {
+              "number": 7,
+              "text": "asked about barge trips down the Nile"
+            },
+            {
+              "number": 8,
+              "text": "was interested in transit fees for the Suez Canal"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 5,
+          "lines": [
+            {
+              "number": 9,
+              "text": "wanted to see examples of Bedouin weaving"
+            },
+            {
+              "number": 10,
+              "text": "was researching the history of ancient Alexandria"
+            },
+            {
+              "number": 11,
+              "text": "planned to study arthropods of the Sinai Desert"
+            },
+            {
+              "number": 12,
+              "text": "asked when the Nile was expected to flood"
+            },
+            {
+              "number": 13,
+              "text": "said # planned to collect cockroaches from a pharaoh's tomb"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 14,
+              "text": "was looking for a navigator's map of the Nile"
+            },
+            {
+              "number": 15,
+              "text": "wanted a book on how to make mummies"
+            },
+            {
+              "number": 16,
+              "text": "said # wanted to solve the riddle of the Sphinx"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 17,
+              "text": "took off in a plane with a red, white and black flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "sailed away in a sloop flying a red, white and black flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "left in a vehicle flying a red, white and black flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 7,
+          "lines": [
+            {
+              "number": 20,
+              "text": "wanted to know the selling price of cotton"
+            },
+            {
+              "number": 21,
+              "text": "asked about buying stock in a limestone quarry"
+            },
+            {
+              "number": 22,
+              "text": "wanted to know the tax advantages of investing in corn"
+            },
+            {
+              "number": 23,
+              "text": "wanted to invest in sugar"
+            },
+            {
+              "number": 24,
+              "text": "said # planned to corner the cotton market"
+            },
+            {
+              "number": 25,
+              "text": "wanted a good deal on limestone"
+            },
+            {
+              "number": 26,
+              "text": "said # was planning to invest all of @ money in corn"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 3,
+          "lines": [
+            {
+              "number": 27,
+              "text": "wanted to buy several tons of sugar"
+            },
+            {
+              "number": 28,
+              "text": "said # was in the market for Nubian baskets"
+            },
+            {
+              "number": 29,
+              "text": "wanted to know the exchange rate for pounds"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 30,
+              "text": "left in a vehicle flying a red, white and black flag"
+            },
+            {
+              "number": 31,
+              "text": "said # was planning to have tea with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 7,
+      "city": "Colombo",
+      "table_address": 36300,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to rupees"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 4,
+          "lines": [
+            {
+              "number": 4,
+              "text": "inquired about the exchange rate for rupees"
+            },
+            {
+              "number": 5,
+              "text": "was studying a Tamil dictionary"
+            },
+            {
+              "number": 6,
+              "text": "said # was thinking about working on a tea plantation"
+            },
+            {
+              "number": 7,
+              "text": "said # had always wanted to worship in a Serendip temple"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 8,
+              "text": "said serendipity had led ^ to a study of Serendip culture"
+            },
+            {
+              "number": 9,
+              "text": "was researching ancient Veddah culture and mythology"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 10,
+              "text": "planned to swim in the Indian Ocean"
+            },
+            {
+              "number": 11,
+              "text": "said # needed equipment for catching sea snakes"
+            },
+            {
+              "number": 12,
+              "text": "planned to backpack to the ruins of an ancient Veddah village"
+            },
+            {
+              "number": 13,
+              "text": "wanted to scuba dive in the Gulf of Mannar"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 14,
+              "text": "was looking for information on ancient Taprobane"
+            },
+            {
+              "number": 15,
+              "text": "was looking for newspaper articles on tension between Sinhalese and Tamils"
+            },
+            {
+              "number": 16,
+              "text": "was researching the origin of the word serendipity"
+            },
+            {
+              "number": 17,
+              "text": "wanted a book about the Veddah people"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 18,
+              "text": "said # was going to visit an island nation"
+            },
+            {
+              "number": 19,
+              "text": "left in a plane with a golden lion flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "sailed in a yacht flying a golden lion flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "paddled away in a canoe flying a golden lion flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "drove away in a vehicle flying a golden lion flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 23,
+              "text": "said # wanted to buy a ton of citronella"
+            },
+            {
+              "number": 24,
+              "text": "was looking for a job as a tea taster"
+            },
+            {
+              "number": 25,
+              "text": "wanted to buy a bunch of coconuts"
+            },
+            {
+              "number": 26,
+              "text": "was interested in buying a rice farm"
+            },
+            {
+              "number": 27,
+              "text": "asked where # could find ancient Serendip relics"
+            },
+            {
+              "number": 28,
+              "text": "wanted to buy black market rupees"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "left in a vehicle flying a golden lion flag"
+            },
+            {
+              "number": 30,
+              "text": "said # was going to take tea with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 8,
+      "city": "Istanbul",
+      "table_address": 36312,
+      "total_selectable_lines": 26,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to lira"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "wanted to know the exchange rate for lira"
+            },
+            {
+              "number": 5,
+              "text": "had a Kurdish dictionary in @ pocket"
+            },
+            {
+              "number": 6,
+              "text": "asked for a Turkish phrase book"
+            },
+            {
+              "number": 7,
+              "text": "said # planned to sleep in a sultan's palace"
+            },
+            {
+              "number": 8,
+              "text": "planned to vacation on the Black Sea"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "asked many questions about the Byzantine Empire"
+            },
+            {
+              "number": 10,
+              "text": "was interested in the sewage system of ancient Constantinople"
+            },
+            {
+              "number": 11,
+              "text": "wanted to see Hittite pottery"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 5,
+          "lines": [
+            {
+              "number": 12,
+              "text": "planned to play soccer against a team from a petrochemical plant"
+            },
+            {
+              "number": 13,
+              "text": "wanted to build up @ muscles so # would be strong enough to work on an oil rig"
+            },
+            {
+              "number": 14,
+              "text": "said # was planning to jog across an oil field"
+            },
+            {
+              "number": 15,
+              "text": "wanted to sunbathe on the beaches of the Black Sea"
+            },
+            {
+              "number": 16,
+              "text": "said # planned to climb Mount Ararat to search for Noah's Ark"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 17,
+              "text": "was researching political intrigue in the Byzantine Empire"
+            },
+            {
+              "number": 18,
+              "text": "checked out a book on the history of Constantinople"
+            },
+            {
+              "number": 19,
+              "text": "asked for books about Kurdish kinship systems"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "took off in a plane with a crescent and star flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "sailed in a yacht flying a crescent and star flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "drove off in a vehicle flying a crescent and star flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 5,
+          "lines": [
+            {
+              "number": 23,
+              "text": "was looking for a good buy on tobacco"
+            },
+            {
+              "number": 24,
+              "text": "wanted figs so # could bake a figgy pudding"
+            },
+            {
+              "number": 25,
+              "text": "said # was nuts about nuts"
+            },
+            {
+              "number": 26,
+              "text": "wanted to buy mosaics from the Byzantine Empire"
+            },
+            {
+              "number": 27,
+              "text": "inquired about the price of lira"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 1,
+          "lines": [
+            {
+              "number": 28,
+              "text": "said # planned to have cocktails with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 9,
+      "city": "Kathmandu",
+      "table_address": 36324,
+      "total_selectable_lines": 26,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to rupees"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 4,
+          "lines": [
+            {
+              "number": 4,
+              "text": "inquired about the exchange rate for rupees"
+            },
+            {
+              "number": 5,
+              "text": "had a Nepali dictionary in @ backpack"
+            },
+            {
+              "number": 6,
+              "text": "asked for a map of the Himalayas"
+            },
+            {
+              "number": 7,
+              "text": "wanted to know if there were any five-star hotels on the Ganges plain"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 8,
+              "text": "asked if # would have to take @ shoes off in Hindu temples"
+            },
+            {
+              "number": 9,
+              "text": "was practicing Hindu prayers"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 1,
+          "lines": [
+            {
+              "number": 10,
+              "text": "planned to climb Annapurna"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 11,
+              "text": "was researching the history of the Gurkhas"
+            },
+            {
+              "number": 12,
+              "text": "asked for a book about Gurkha art"
+            },
+            {
+              "number": 13,
+              "text": "was studying the geology of the Himalayas"
+            },
+            {
+              "number": 14,
+              "text": "was looking for a book about the conquest of Mount Everest"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 5,
+          "lines": [
+            {
+              "number": 15,
+              "text": "was heading for a mountainous nation"
+            },
+            {
+              "number": 16,
+              "text": "planned to travel to one of China's neighbors"
+            },
+            {
+              "number": 17,
+              "text": "said # wanted to visit one of India's neighbors"
+            },
+            {
+              "number": 18,
+              "text": "planned to vacation in an Asian kingdom"
+            },
+            {
+              "number": 19,
+              "text": "left in a plane with a double triangle on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "left in a vehicle flying a double triangle flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 21,
+              "text": "said # wanted to buy a quartz quarry"
+            },
+            {
+              "number": 22,
+              "text": "was looking for a good deal in hides"
+            },
+            {
+              "number": 23,
+              "text": "said # was thinking of opening a jute factory"
+            },
+            {
+              "number": 24,
+              "text": "wanted to buy Tibetan embroidery"
+            },
+            {
+              "number": 25,
+              "text": "was looking for Gurkha artifacts"
+            },
+            {
+              "number": 26,
+              "text": "bought black market rupees"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 27,
+              "text": "drove away in a vehicle flying a double triangle flag"
+            },
+            {
+              "number": 28,
+              "text": "said # was going to read poetry with the King"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 10,
+      "city": "Kigali",
+      "table_address": 36336,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to francs"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 6,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for francs"
+            },
+            {
+              "number": 5,
+              "text": "was practicing Swahili"
+            },
+            {
+              "number": 6,
+              "text": "said # was planning to climb Mount Karisimbi"
+            },
+            {
+              "number": 7,
+              "text": "wanted to photograph mountain gorillas"
+            },
+            {
+              "number": 8,
+              "text": "wanted to observe a Tutsi wedding ceremony"
+            },
+            {
+              "number": 9,
+              "text": "planned to vacation with a Pygmy tribe"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 10,
+              "text": "wanted to study sexual dimorphism in mountain gorillas"
+            },
+            {
+              "number": 11,
+              "text": "was interested in studying Tutsi wood carving"
+            },
+            {
+              "number": 12,
+              "text": "said # was researching volcanic activity"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 13,
+              "text": "planned to hike across an African republic"
+            },
+            {
+              "number": 14,
+              "text": "said # wanted to explore a chain of volcanoes"
+            },
+            {
+              "number": 15,
+              "text": "was nervous about crocodiles in the Kagera River"
+            },
+            {
+              "number": 16,
+              "text": "asked if volcanic eruptions were predictable"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 17,
+              "text": "was doing genetic research on extremely tall people"
+            },
+            {
+              "number": 18,
+              "text": "checked out books about mountain gorillas"
+            },
+            {
+              "number": 19,
+              "text": "was researching Pygmy creation myths"
+            },
+            {
+              "number": 20,
+              "text": "asked for a monograph on Hutu economics"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "left in a plane with a red, yellow and green flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "drove off in a vehicle flying a red, yellow and green flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 23,
+              "text": "wanted to buy premium coffee beans"
+            },
+            {
+              "number": 24,
+              "text": "said # was planning to open a tin factory"
+            },
+            {
+              "number": 25,
+              "text": "said # wanted to buy wolframite, but # didn't know what it looked like"
+            },
+            {
+              "number": 26,
+              "text": "was interested in buying an authentic Hutu tutu"
+            },
+            {
+              "number": 27,
+              "text": "asked where # could find Pygmy pottery"
+            },
+            {
+              "number": 28,
+              "text": "bought black market francs"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "left in a vehicle flying a red, yellow and green flag"
+            },
+            {
+              "number": 30,
+              "text": "said # was going to write a speech for the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 11,
+      "city": "Lima",
+      "table_address": 36348,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to inti"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 4,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for inti"
+            },
+            {
+              "number": 5,
+              "text": "was listening to a Spanish language tape"
+            },
+            {
+              "number": 6,
+              "text": "asked for a map of the Andes"
+            },
+            {
+              "number": 7,
+              "text": "planned to explore Incan temples"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 8,
+              "text": "was interested in the principles of Incan architecture"
+            },
+            {
+              "number": 9,
+              "text": "asked questions about Spain's colonial empire"
+            },
+            {
+              "number": 10,
+              "text": "said # wanted to retrace the route of a Spanish conquistador"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 11,
+              "text": "said # was going to climb Mount Solimana"
+            },
+            {
+              "number": 12,
+              "text": "planned to scale Mount Huascaran"
+            },
+            {
+              "number": 13,
+              "text": "said # was going to search for a lost Incan city"
+            },
+            {
+              "number": 14,
+              "text": "planned to go on a llama backpacking trip"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 15,
+              "text": "was researching Incan agricultural practices"
+            },
+            {
+              "number": 16,
+              "text": "asked for a book about the geology of the Andes"
+            },
+            {
+              "number": 17,
+              "text": "checked out a biography of Francisco Pizarro"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "left in a plane with a red and white flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "drove away in a vehicle flying a red and white flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 6,
+          "lines": [
+            {
+              "number": 20,
+              "text": "drove away in a vehicle flying a red and white flag"
+            },
+            {
+              "number": 21,
+              "text": "asked about sardine futures"
+            },
+            {
+              "number": 22,
+              "text": "said # was planning to corner the molybdenum market"
+            },
+            {
+              "number": 23,
+              "text": "was buying copper stocks"
+            },
+            {
+              "number": 24,
+              "text": "said # was heavily invested in sardines"
+            },
+            {
+              "number": 25,
+              "text": "was planning to invest in a molybdenum mine"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 3,
+          "lines": [
+            {
+              "number": 26,
+              "text": "wanted to buy a copper mine"
+            },
+            {
+              "number": 27,
+              "text": "was looking for Incan artifacts"
+            },
+            {
+              "number": 28,
+              "text": "wanted to know where # could buy Aymara pottery"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "sped away in a vehicle flying a red and white flag"
+            },
+            {
+              "number": 30,
+              "text": "said # had been invited to a reception for the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 12,
+      "city": "London",
+      "table_address": 36360,
+      "total_selectable_lines": 25,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to pounds"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 3,
+          "lines": [
+            {
+              "number": 4,
+              "text": "inquired about the exchange rate for pounds"
+            },
+            {
+              "number": 5,
+              "text": "was practicing Welsh pronunciation"
+            },
+            {
+              "number": 6,
+              "text": "said # wanted to set @ watch by Big Ben"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 1,
+          "lines": [
+            {
+              "number": 7,
+              "text": "wanted to study Saxon manuscripts"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 8,
+              "text": "asked about punting on the Thames"
+            },
+            {
+              "number": 9,
+              "text": "said # planned to go scuba diving in Loch Ness"
+            },
+            {
+              "number": 10,
+              "text": "was planning to sail on the Severn"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 11,
+              "text": "was interested in books about ancient Druid rites"
+            },
+            {
+              "number": 12,
+              "text": "said # wanted to find out what made Big Ben tick"
+            },
+            {
+              "number": 13,
+              "text": "asked for a genealogy chart of the House of Windsor"
+            },
+            {
+              "number": 14,
+              "text": "was researching Celtic legends"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 15,
+              "text": "asked about night flights to Orkney Island"
+            },
+            {
+              "number": 16,
+              "text": "left in a plane with a red, white and blue flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 17,
+              "text": "left in a rowboat flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "left in a tugboat flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "drove away in a vehicle flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 4,
+          "lines": [
+            {
+              "number": 20,
+              "text": "said # wanted to invest in a whiskey company"
+            },
+            {
+              "number": 21,
+              "text": "wanted to know if the market for tweed was strong"
+            },
+            {
+              "number": 22,
+              "text": "said # was heavily invested in whiskey"
+            },
+            {
+              "number": 23,
+              "text": "wanted to corner the tweed market"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 4,
+          "lines": [
+            {
+              "number": 24,
+              "text": "was looking for a good buy on whiskey"
+            },
+            {
+              "number": 25,
+              "text": "said # wanted to buy high quality tweeds"
+            },
+            {
+              "number": 26,
+              "text": "wanted to buy an authentic Druid costume to wear when the moon was full"
+            },
+            {
+              "number": 27,
+              "text": "exchanged @ money for pounds"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 0,
+          "lines": []
+        }
+      ],
+      "lines_outside_selector": [
+        {
+          "number": 28,
+          "text": "left in a vehicle flying a red, white and blue flag"
+        },
+        {
+          "number": 29,
+          "text": "said # planned to eat kippers with the Prime Minister"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "city": "Mexico City",
+      "table_address": 36372,
+      "total_selectable_lines": 27,
+      "groups": [
+        {
+          "category": 0,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 3,
+              "text": "asked about the exchange rate for pesos"
+            },
+            {
+              "number": 4,
+              "text": "was thumbing through a Spanish phrase book"
+            },
+            {
+              "number": 5,
+              "text": "said # planned to photograph Mount Popocatepetl"
+            },
+            {
+              "number": 6,
+              "text": "asked about tours of Aztec ruins"
+            },
+            {
+              "number": 7,
+              "text": "wanted to know about cruises on the Rio Grande River"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 8,
+              "text": "said # was going to study the history of cannibalism among the Aztecs"
+            },
+            {
+              "number": 9,
+              "text": "planned to do a field study of gila monsters"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 10,
+              "text": "said # wanted to climb Mount Popocatepetl"
+            },
+            {
+              "number": 11,
+              "text": "said # planned to search for a lost Aztec city"
+            },
+            {
+              "number": 12,
+              "text": "wanted equipment for capturing gila monsters"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 13,
+              "text": "was researching the origins of the Mayan calendar"
+            },
+            {
+              "number": 14,
+              "text": "asked for books about Aztec purification rituals"
+            },
+            {
+              "number": 15,
+              "text": "checked out all the books on Toltec art"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 16,
+              "text": "flew off in a plane with a red, green and white flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 17,
+              "text": "drove away in a vehicle flying a red, green and white flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 5,
+          "lines": [
+            {
+              "number": 18,
+              "text": "said # planned to corner the silver market"
+            },
+            {
+              "number": 19,
+              "text": "wanted to know the price of sugar cane"
+            },
+            {
+              "number": 20,
+              "text": "said # wanted to invest in a coffee farm"
+            },
+            {
+              "number": 21,
+              "text": "was heavily invested in sugar cane"
+            },
+            {
+              "number": 22,
+              "text": "asked if the silver market was likely to hold"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 5,
+          "lines": [
+            {
+              "number": 23,
+              "text": "was looking for good buys on silver curios"
+            },
+            {
+              "number": 24,
+              "text": "wanted to buy coffee beans"
+            },
+            {
+              "number": 25,
+              "text": "was looking for reproductions of ancient Aztec art"
+            },
+            {
+              "number": 26,
+              "text": "wanted to buy embroidered fabric from the Yucatan"
+            },
+            {
+              "number": 27,
+              "text": "asked about the black market for pesos"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 28,
+              "text": "left in a vehicle flying a red, green and white flag"
+            },
+            {
+              "number": 29,
+              "text": "said # planned to go riding with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 14,
+      "city": "Montreal",
+      "table_address": 36384,
+      "total_selectable_lines": 26,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to dollars"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 4,
+          "lines": [
+            {
+              "number": 4,
+              "text": "wanted to know the exchange rate for dollars"
+            },
+            {
+              "number": 5,
+              "text": "had a French dictionary in @ briefcase"
+            },
+            {
+              "number": 6,
+              "text": "said # planned to tour Baffin Island"
+            },
+            {
+              "number": 7,
+              "text": "said # had always wanted to go over Montmorency Falls in a barrel"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 8,
+              "text": "wanted information on French colonial history"
+            },
+            {
+              "number": 9,
+              "text": "planned to take a census of birds of the Northwest Territories"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 10,
+              "text": "said # planned to travel through the Yukon by dog sled"
+            },
+            {
+              "number": 11,
+              "text": "asked about the second-largest country in land size"
+            },
+            {
+              "number": 12,
+              "text": "wanted to photograph a rare whooping crane"
+            },
+            {
+              "number": 13,
+              "text": "planned to swim across Lake Winnipeg with one arm tied behind @ back"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 14,
+              "text": "was researching the North Pole"
+            },
+            {
+              "number": 15,
+              "text": "asked for a biography of Jacques Cartier"
+            },
+            {
+              "number": 16,
+              "text": "checked out books about Sir Alexander Mackenzie"
+            },
+            {
+              "number": 17,
+              "text": "said # was writing a treatise on the migration of whooping cranes"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 18,
+              "text": "left in a plane with a maple leaf on its wing"
+            },
+            {
+              "number": 19,
+              "text": "planned to spend a night on Prince Edward Island"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "left in a canoe flying a maple leaf flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 9,
+          "count": 8,
+          "lines": [
+            {
+              "number": 21,
+              "text": "wanted to know the selling price of silver"
+            },
+            {
+              "number": 22,
+              "text": "said # planned to corner the potash market"
+            },
+            {
+              "number": 23,
+              "text": "wanted to invest in a nickel mine"
+            },
+            {
+              "number": 24,
+              "text": "asked about the current price of lead"
+            },
+            {
+              "number": 25,
+              "text": "said # was heavily invested in zinc"
+            },
+            {
+              "number": 26,
+              "text": "wanted to buy stock in a potash company"
+            },
+            {
+              "number": 27,
+              "text": "asked if there was a future in nickel"
+            },
+            {
+              "number": 28,
+              "text": "said an astrologer told ^ to invest in lead"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 11,
+          "count": 0,
+          "lines": []
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 15,
+      "city": "Moroni",
+      "table_address": 36396,
+      "total_selectable_lines": 27,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to francs"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 6,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for francs"
+            },
+            {
+              "number": 5,
+              "text": "was studying a French phrase book"
+            },
+            {
+              "number": 6,
+              "text": "had a Malagasy dictionary in @ briefcase"
+            },
+            {
+              "number": 7,
+              "text": "said # wanted to photograph Mount Karthala"
+            },
+            {
+              "number": 8,
+              "text": "asked if there was a ferry across the Mozambique Channel"
+            },
+            {
+              "number": 9,
+              "text": "wanted to collect vanilla beans"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 10,
+              "text": "planned to study the composition of gases in an active volcano"
+            },
+            {
+              "number": 11,
+              "text": "said # wanted to find out how perfume was made"
+            },
+            {
+              "number": 12,
+              "text": "was planning to write a monograph on the Anjouan scops owl"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 2,
+          "lines": [
+            {
+              "number": 13,
+              "text": "said # wanted to climb Mount Karthala"
+            },
+            {
+              "number": 14,
+              "text": "wanted to add the rare Anjouan scops owl to @ life list"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 15,
+              "text": "asked for information about volcanoes"
+            },
+            {
+              "number": 16,
+              "text": "checked out a vanilla bean cookbook"
+            },
+            {
+              "number": 17,
+              "text": "wanted a book about the perfume industry"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 18,
+              "text": "said # was going to spend @ vacation in an island nation"
+            },
+            {
+              "number": 19,
+              "text": "left in a plane with a green and white flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "left in a catamaran flying a green and white flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "left in a speedboat flying a green and white flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "left in a vehicle flying a green and white flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 5,
+          "lines": [
+            {
+              "number": 23,
+              "text": "wanted to buy fresh vanilla beans"
+            },
+            {
+              "number": 24,
+              "text": "wanted to buy supplies for making perfume"
+            },
+            {
+              "number": 25,
+              "text": "was looking for seed to plant a perfume garden"
+            },
+            {
+              "number": 26,
+              "text": "was looking for Moslem art"
+            },
+            {
+              "number": 27,
+              "text": "wanted to buy black market francs"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 28,
+              "text": "left in a vehicle flying a green and white flag"
+            },
+            {
+              "number": 29,
+              "text": "said # was going to play golf with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 16,
+      "city": "Moscow",
+      "table_address": 36408,
+      "total_selectable_lines": 29,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to rubles"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for rubles"
+            },
+            {
+              "number": 5,
+              "text": "was carrying a Uralian dictionary"
+            },
+            {
+              "number": 6,
+              "text": "was practicing @ Russian pronunciation"
+            },
+            {
+              "number": 7,
+              "text": "asked about guided tours of the Kremlin"
+            },
+            {
+              "number": 8,
+              "text": "said #  had always wanted to dance in Red Square"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "was researching the history of Ukrainian Easter eggs"
+            },
+            {
+              "number": 10,
+              "text": "asked where # could see authentic Tsarist treasures"
+            },
+            {
+              "number": 11,
+              "text": "said # was going to survey the Ural Mountains"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 12,
+              "text": "was planning to trek across Moldavia"
+            },
+            {
+              "number": 13,
+              "text": "wanted to scale Communism Peak"
+            },
+            {
+              "number": 14,
+              "text": "said # planned to sing with the Volga boatmen"
+            },
+            {
+              "number": 15,
+              "text": "asked about sailing conditions on Lake Ladoga"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 16,
+              "text": "wanted a collection of Ivan the Terrible's love letters"
+            },
+            {
+              "number": 17,
+              "text": "checked out books about Georgian history"
+            },
+            {
+              "number": 18,
+              "text": "was looking for a book on Tsarist genealogy"
+            },
+            {
+              "number": 19,
+              "text": "asked for a Slavic cookbook"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 20,
+              "text": "said # was going to the largest country in the world"
+            },
+            {
+              "number": 21,
+              "text": "left in a plane with a red flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "sailed in a yacht flying a red flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 23,
+              "text": "drove away in a vehicle flying a red flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 24,
+              "text": "wanted to buy antimony, but # wasn't sure what it was"
+            },
+            {
+              "number": 25,
+              "text": "said # was in the market for sugar beets"
+            },
+            {
+              "number": 26,
+              "text": "wanted a good buy on crude oil"
+            },
+            {
+              "number": 27,
+              "text": "was looking for bargains in Mongol art"
+            },
+            {
+              "number": 28,
+              "text": "wanted to buy Faberge eggs that had belonged to the Tsar"
+            },
+            {
+              "number": 29,
+              "text": "asked the price of black market rubles"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 30,
+              "text": "drove off in a vehicle flying a red flag"
+            },
+            {
+              "number": 31,
+              "text": "said # was going to have a drink with the Party Secretary"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 17,
+      "city": "New Delhi",
+      "table_address": 36420,
+      "total_selectable_lines": 29,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to rupees"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "wanted to know the exchange rate for rupees"
+            },
+            {
+              "number": 5,
+              "text": "had a Hindi dictionary in @ backpack"
+            },
+            {
+              "number": 6,
+              "text": "said # wanted to bathe in the Ganges"
+            },
+            {
+              "number": 7,
+              "text": "asked about guided tours of the Red Fort"
+            },
+            {
+              "number": 8,
+              "text": "said # wanted to see the Taj Mahal by moonlight"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "was doing research on Sikh wedding customs"
+            },
+            {
+              "number": 10,
+              "text": "said # planned to take a census of wild yaks"
+            },
+            {
+              "number": 11,
+              "text": "said # was trying to find a use for cobra venom"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 12,
+              "text": "said # wanted to photograph wild yaks in their native habitat"
+            },
+            {
+              "number": 13,
+              "text": "wanted to see Nanda Devi"
+            },
+            {
+              "number": 14,
+              "text": "was looking for a specimen of the saw-scaled viper"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 15,
+              "text": "checked out books about Sikh philosophy"
+            },
+            {
+              "number": 16,
+              "text": "asked for a field guide to cobras"
+            },
+            {
+              "number": 17,
+              "text": "wanted an article on the migratory patterns of wild yaks"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "took off in a plane with an orange, white and green flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "drove away in a vehicle flying an orange, white and green flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 6,
+          "lines": [
+            {
+              "number": 20,
+              "text": "said # planned to corner the cashew market"
+            },
+            {
+              "number": 21,
+              "text": "wanted to invest in spices"
+            },
+            {
+              "number": 22,
+              "text": "wanted to buy shares in a copra plantation"
+            },
+            {
+              "number": 23,
+              "text": "was heavily invested in cashews"
+            },
+            {
+              "number": 24,
+              "text": "was looking for a good deal on spices"
+            },
+            {
+              "number": 25,
+              "text": "wanted to know if there was a future in copra"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 4,
+          "lines": [
+            {
+              "number": 26,
+              "text": "said # wanted to buy several tons of copra"
+            },
+            {
+              "number": 27,
+              "text": "was looking for a Sikh turban"
+            },
+            {
+              "number": 28,
+              "text": "wanted to buy a yak-skin coat"
+            },
+            {
+              "number": 29,
+              "text": "bought black market rupees"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 30,
+              "text": "drove away in a vehicle flying an orange, white and green flag"
+            },
+            {
+              "number": 31,
+              "text": "said # was going to play chess with the Prime Minister"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 18,
+      "city": "New York",
+      "table_address": 36432,
+      "total_selectable_lines": 29,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to dollars"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked if the value of the dollar was falling"
+            },
+            {
+              "number": 5,
+              "text": "had an English dictionary in @ suitcase"
+            },
+            {
+              "number": 6,
+              "text": "said # wanted to ride an elevator to the top of the World Trade Center"
+            },
+            {
+              "number": 7,
+              "text": "wanted to wave to the Statue of Liberty"
+            },
+            {
+              "number": 8,
+              "text": "said # planned to find out who was buried in Grant's Tomb"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "said # was studying to be a United Nations tour guide"
+            },
+            {
+              "number": 10,
+              "text": "said # planned to survey a major subway system"
+            },
+            {
+              "number": 11,
+              "text": "was researching the history of skyscrapers"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 2,
+          "lines": [
+            {
+              "number": 12,
+              "text": "planned to sail a schooner down the Hudson River"
+            },
+            {
+              "number": 13,
+              "text": "asked when was the best time of year to catch copperheads"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 14,
+              "text": "asked for a biography of Henry Hudson"
+            },
+            {
+              "number": 15,
+              "text": "checked out books about modern art"
+            },
+            {
+              "number": 16,
+              "text": "wanted a subway map"
+            },
+            {
+              "number": 17,
+              "text": "said # was writing a paper on the socio-economic consequences of skyscrapers"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "took off in a plane with a red, white and blue flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "boarded a cruise ship flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "left in a rowboat flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 9,
+          "count": 3,
+          "lines": [
+            {
+              "number": 21,
+              "text": "wanted to know the price of a seat on the stock exchange"
+            },
+            {
+              "number": 22,
+              "text": "wanted to buy stock in a company that manufactured designer jeans"
+            },
+            {
+              "number": 23,
+              "text": "said # was heavily invested in fashion"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 24,
+              "text": "said # was a slave to fashion"
+            },
+            {
+              "number": 25,
+              "text": "was looking for the latest designer jeans"
+            },
+            {
+              "number": 26,
+              "text": "wanted to buy the trendiest contemporary art"
+            },
+            {
+              "number": 27,
+              "text": "was looking for the latest fashions"
+            },
+            {
+              "number": 28,
+              "text": "said # was in the market for designer jeans"
+            },
+            {
+              "number": 29,
+              "text": "changed @ money to dollars"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 30,
+              "text": "sped away in a vehicle flying a red, white and blue flag"
+            },
+            {
+              "number": 31,
+              "text": "said # was going to a movie with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 19,
+      "city": "Oslo",
+      "table_address": 36444,
+      "total_selectable_lines": 27,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to kroner"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for kroner"
+            },
+            {
+              "number": 5,
+              "text": "was practicing Lapp pronunciation"
+            },
+            {
+              "number": 6,
+              "text": "had a Norwegian dictionary in @ knapsack"
+            },
+            {
+              "number": 7,
+              "text": "asked for a schedule of cruises along the fjords"
+            },
+            {
+              "number": 8,
+              "text": "wanted a tide table for the Barents Sea"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "was researching the influence of Ibsen on Ingmar Bergman"
+            },
+            {
+              "number": 10,
+              "text": "was looking for maps of Harald the Fairhaired's journeys"
+            },
+            {
+              "number": 11,
+              "text": "said # planned to study the construction of Viking ships"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 12,
+              "text": "said # wanted to kayak through the fjords"
+            },
+            {
+              "number": 13,
+              "text": "asked about swimming conditions in the Barents Sea"
+            },
+            {
+              "number": 14,
+              "text": "said # wanted to learn Nordic skiing"
+            },
+            {
+              "number": 15,
+              "text": "said # planned to swim laps with the Lapps"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 16,
+              "text": "was researching Viking lullabies"
+            },
+            {
+              "number": 17,
+              "text": "asked for a bibliography of Ibsen's plays"
+            },
+            {
+              "number": 18,
+              "text": "was looking for a guidebook to the fjords"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "left in a plane with a white and blue cross on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "sailed in a fishing vessel flying a white and blue cross flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "left in a speed boat flying a white and blue cross flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "drove away in a vehicle flying a white and blue cross flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 5,
+          "lines": [
+            {
+              "number": 23,
+              "text": "said # planned to buy stocks in a paper mill"
+            },
+            {
+              "number": 24,
+              "text": "said # was going to corner the pyrite market"
+            },
+            {
+              "number": 25,
+              "text": "was heavily invested in paper"
+            },
+            {
+              "number": 26,
+              "text": "said # planned to become a shipping tycoon"
+            },
+            {
+              "number": 27,
+              "text": "said # wanted to invest in pyrite, but # didn't know what it was"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 28,
+              "text": "left in a vehicle flying a white and blue cross flag"
+            },
+            {
+              "number": 29,
+              "text": "said # was going fishing with the King"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 20,
+      "city": "Paris",
+      "table_address": 36456,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to francs"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 4,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for francs"
+            },
+            {
+              "number": 5,
+              "text": "was practicing French pronunciation"
+            },
+            {
+              "number": 6,
+              "text": "asked if there were any good restaurants near the Eiffel Tower"
+            },
+            {
+              "number": 7,
+              "text": "asked if the Louvre was open on Mondays"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 8,
+              "text": "said # had a grant to study the history of wine"
+            },
+            {
+              "number": 9,
+              "text": "was researching the culture of the ancient Franks"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 2,
+          "lines": [
+            {
+              "number": 10,
+              "text": "said # wanted to take a barge trip down the Seine"
+            },
+            {
+              "number": 11,
+              "text": "planned to climb Mount Blanc"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 12,
+              "text": "checked out all the books about Frankish rule"
+            },
+            {
+              "number": 13,
+              "text": "asked for books about the science of winemaking"
+            },
+            {
+              "number": 14,
+              "text": "was researching textiles and fashion design"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 15,
+              "text": "flew off in a plane with a red, white and blue flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 16,
+              "text": "left in a barge flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 17,
+              "text": "sped away in a vehicle flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 6,
+          "lines": [
+            {
+              "number": 18,
+              "text": "was planning to invest in a winery"
+            },
+            {
+              "number": 19,
+              "text": "wanted to get into the textile market"
+            },
+            {
+              "number": 20,
+              "text": "planned to buy stock in a perfume company"
+            },
+            {
+              "number": 21,
+              "text": "asked about wineries that had gone public"
+            },
+            {
+              "number": 22,
+              "text": "said # was going to invest in a textile company"
+            },
+            {
+              "number": 23,
+              "text": "was trying to find out whether fashion reflects the stock market"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 5,
+          "lines": [
+            {
+              "number": 24,
+              "text": "was looking for fine wines"
+            },
+            {
+              "number": 25,
+              "text": "wanted to buy high quality textiles"
+            },
+            {
+              "number": 26,
+              "text": "said # was looking for a good buy in perfume"
+            },
+            {
+              "number": 27,
+              "text": "was looking for ancient Frankish coins"
+            },
+            {
+              "number": 28,
+              "text": "wanted to buy black market francs"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "sped away in a vehicle flying a red, white and blue flag"
+            },
+            {
+              "number": 30,
+              "text": "said # was having dinner with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 21,
+      "city": "Beijing",
+      "table_address": 36468,
+      "total_selectable_lines": 27,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to yuans"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for yuans"
+            },
+            {
+              "number": 5,
+              "text": "said # was studying Mandarin"
+            },
+            {
+              "number": 6,
+              "text": "asked if it was forbidden to visit the Forbidden City"
+            },
+            {
+              "number": 7,
+              "text": "inquired about tours of the Great Wall"
+            },
+            {
+              "number": 8,
+              "text": "said # planned to paint landscapes of the Kunlun Mountains"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "wanted to see Yuan Dynasty art"
+            },
+            {
+              "number": 10,
+              "text": "said # planned to work in a silkworm factory"
+            },
+            {
+              "number": 11,
+              "text": "was conducting a study on the diet of giant pandas"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 12,
+              "text": "said # wanted to wrestle a giant panda"
+            },
+            {
+              "number": 13,
+              "text": "planned to visit Minya Konka"
+            },
+            {
+              "number": 14,
+              "text": "asked about sailing conditions on the Yellow Sea"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 15,
+              "text": "was looking for books on Shang Dynasty art"
+            },
+            {
+              "number": 16,
+              "text": "was researching the life cycle of silkworms"
+            },
+            {
+              "number": 17,
+              "text": "asked for a book about the Wuchang Uprising"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "left in a plane with a red flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "sailed in a junk flying a red flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "left in a rowboat flying a red flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "left in a vehicle flying a red flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 22,
+              "text": "wanted to buy high quality silk"
+            },
+            {
+              "number": 23,
+              "text": "was looking for jade carvings"
+            },
+            {
+              "number": 24,
+              "text": "said # needed to buy mercury so # could open a thermometer factory"
+            },
+            {
+              "number": 25,
+              "text": "was looking for ancient Shang Dynasty artifacts"
+            },
+            {
+              "number": 26,
+              "text": "wanted to buy a jade horse"
+            },
+            {
+              "number": 27,
+              "text": "changed all @ money to yuans"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 28,
+              "text": "said # was writing a poem for the Party Chairman"
+            },
+            {
+              "number": 29,
+              "text": "drove away in a vehicle flying a red flag"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 22,
+      "city": "Port Moresby",
+      "table_address": 36480,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to kinas"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 6,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for kinas"
+            },
+            {
+              "number": 5,
+              "text": "was learning to speak Melanesian Pidgin"
+            },
+            {
+              "number": 6,
+              "text": "said # wanted to photograph jungle wildlife"
+            },
+            {
+              "number": 7,
+              "text": "said # planned to take a freighter to the Coral Sea"
+            },
+            {
+              "number": 8,
+              "text": "said # wanted to explore Mount Manam"
+            },
+            {
+              "number": 9,
+              "text": "planned to tour Admiralty Island"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 4,
+          "lines": [
+            {
+              "number": 10,
+              "text": "wanted to learn Rotokas, the language with only eleven letters"
+            },
+            {
+              "number": 11,
+              "text": "said # was writing a book on Melanesian kinship systems"
+            },
+            {
+              "number": 12,
+              "text": "asked many questions about volcanoes"
+            },
+            {
+              "number": 13,
+              "text": "said # was going to study taipans"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 2,
+          "lines": [
+            {
+              "number": 14,
+              "text": "asked if it was difficult to capture a taipan"
+            },
+            {
+              "number": 15,
+              "text": "said # wanted to climb Mount Karkar"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 16,
+              "text": "was researching various forms of tribal culture"
+            },
+            {
+              "number": 17,
+              "text": "asked for statistics on volcanic eruptions"
+            },
+            {
+              "number": 18,
+              "text": "was looking for a book about taipans"
+            },
+            {
+              "number": 19,
+              "text": "was researching Dutch colonial history"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 20,
+              "text": "said # planned to visit New Ireland"
+            },
+            {
+              "number": 21,
+              "text": "left in a plane with a red, yellow and black flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "left in an outrigger flying a red, yellow and black flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 23,
+              "text": "wanted to buy gold bullion"
+            },
+            {
+              "number": 24,
+              "text": "was in the market for coconuts"
+            },
+            {
+              "number": 25,
+              "text": "said # wanted to buy a cocoa plantation"
+            },
+            {
+              "number": 26,
+              "text": "was looking for a bird of paradise"
+            },
+            {
+              "number": 27,
+              "text": "wanted to buy a taipan trap"
+            },
+            {
+              "number": 28,
+              "text": "bought black market kinas"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "drove away in a vehicle flying a red, yellow and black flag"
+            },
+            {
+              "number": 30,
+              "text": "said # was going to a barbecue with the Prime Minister"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 23,
+      "city": "Reykjavik",
+      "table_address": 36492,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to kronur"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for kronur"
+            },
+            {
+              "number": 5,
+              "text": "was reading an Icelandic saga"
+            },
+            {
+              "number": 6,
+              "text": "expressed an interest in volcanic activity"
+            },
+            {
+              "number": 7,
+              "text": "said # wanted to boil eggs in a hot spring"
+            },
+            {
+              "number": 8,
+              "text": "said # wanted to photograph a lava desert"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "was writing a paper on volcanoes of the world"
+            },
+            {
+              "number": 10,
+              "text": "wanted to trace the travels of the Vikings"
+            },
+            {
+              "number": 11,
+              "text": "was researching geothermal activity"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 5,
+          "lines": [
+            {
+              "number": 12,
+              "text": "said # planned to hang glide over an island nation"
+            },
+            {
+              "number": 13,
+              "text": "said # was going to backpack across a lava desert"
+            },
+            {
+              "number": 14,
+              "text": "wanted to know how to identify an active volcano"
+            },
+            {
+              "number": 15,
+              "text": "planned to scale Mount Hekla"
+            },
+            {
+              "number": 16,
+              "text": "wanted to bathe in a hot spring"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 17,
+              "text": "was interested in the history of Danish colonies"
+            },
+            {
+              "number": 18,
+              "text": "wanted a guidebook to volcanoes of the world"
+            },
+            {
+              "number": 19,
+              "text": "asked for a map of Viking settlements"
+            },
+            {
+              "number": 20,
+              "text": "asked for a good novel to read while soaking in a hot spring"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "left in a plane with a red and blue flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "left in a ship flying a red and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 23,
+              "text": "wanted to buy several tons of fish"
+            },
+            {
+              "number": 24,
+              "text": "was looking for a good buy in turnips"
+            },
+            {
+              "number": 25,
+              "text": "wanted to buy a leg of lamb"
+            },
+            {
+              "number": 26,
+              "text": "asked where # could find Viking artifacts"
+            },
+            {
+              "number": 27,
+              "text": "was in the market for volcanic rock"
+            },
+            {
+              "number": 28,
+              "text": "changed @ money to kronur"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "sped away in a vehicle flying a red and blue flag"
+            },
+            {
+              "number": 30,
+              "text": "said # was going to have coffee with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 24,
+      "city": "Rio de Janeiro",
+      "table_address": 36504,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to cruzeiros"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for cruzeiros"
+            },
+            {
+              "number": 5,
+              "text": "had a Portuguese language tape in @ recorder"
+            },
+            {
+              "number": 6,
+              "text": "said # wanted to see the Amazon Basin"
+            },
+            {
+              "number": 7,
+              "text": "planned to take photos of Sugar Loaf at sunset"
+            },
+            {
+              "number": 8,
+              "text": "asked if there were any good restaurants in Brasilia"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 4,
+          "lines": [
+            {
+              "number": 9,
+              "text": "said # planned to collect rare orchids of the Amazon"
+            },
+            {
+              "number": 10,
+              "text": "was taking a census of the hyacinth macaw population"
+            },
+            {
+              "number": 11,
+              "text": "planned to study barba amarillas"
+            },
+            {
+              "number": 12,
+              "text": "said # was going to photograph bushmasters at work and at play"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 13,
+              "text": "wanted information on hunting rare golden parakeets"
+            },
+            {
+              "number": 14,
+              "text": "said # was going to travel to the headwaters of the Amazon"
+            },
+            {
+              "number": 15,
+              "text": "wanted to know how to capture a bushmaster"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 2,
+          "lines": [
+            {
+              "number": 16,
+              "text": "asked for a map of the Amazon Basin"
+            },
+            {
+              "number": 17,
+              "text": "checked out a book about thin-spined porcupines"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "left in a plane with a green, blue and yellow flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "sailed in a schooner flying a green, blue and yellow flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 9,
+          "count": 5,
+          "lines": [
+            {
+              "number": 20,
+              "text": "wanted to invest in a coffee plantation"
+            },
+            {
+              "number": 21,
+              "text": "was checking the price of diamonds"
+            },
+            {
+              "number": 22,
+              "text": "said # planned to corner the titanium market"
+            },
+            {
+              "number": 23,
+              "text": "was heavily invested in coffee"
+            },
+            {
+              "number": 24,
+              "text": "wanted to make a killing in diamonds"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 4,
+          "lines": [
+            {
+              "number": 25,
+              "text": "said # wanted to buy titanium, but # wasn't sure what it looked like"
+            },
+            {
+              "number": 26,
+              "text": "said # would pay plenty for a rare golden parakeet"
+            },
+            {
+              "number": 27,
+              "text": "was looking for Indian art"
+            },
+            {
+              "number": 28,
+              "text": "asked about the black market for cruzeiros"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "drove away in a vehicle flying a green, blue and yellow flag"
+            },
+            {
+              "number": 30,
+              "text": "said # was going to have cocktails with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 25,
+      "city": "Rome",
+      "table_address": 36516,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to lira"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for lira"
+            },
+            {
+              "number": 5,
+              "text": "wanted a guide to Italian gestures"
+            },
+            {
+              "number": 6,
+              "text": "inquired about boat rides on the Po"
+            },
+            {
+              "number": 7,
+              "text": "planned to attend a festival held in the Forum"
+            },
+            {
+              "number": 8,
+              "text": "wanted box seats for a chariot race in the Colosseum"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 9,
+              "text": "was interested in the preservation of Etruscan wall paintings"
+            },
+            {
+              "number": 10,
+              "text": "wanted to observe a volcanic eruption"
+            },
+            {
+              "number": 11,
+              "text": "was doing a study of Renaissance painting"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 12,
+              "text": "wanted to go hiking in the Appenines"
+            },
+            {
+              "number": 13,
+              "text": "planned to scale Mount Etna"
+            },
+            {
+              "number": 14,
+              "text": "said # wanted to kayak down the Po"
+            },
+            {
+              "number": 15,
+              "text": "asked about sailing conditions on the Tyrrhenian Sea"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 16,
+              "text": "asked for a history of Etruscan art"
+            },
+            {
+              "number": 17,
+              "text": "was researching European volcanoes"
+            },
+            {
+              "number": 18,
+              "text": "was looking for a book about marble quarrying"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 19,
+              "text": "left in a plane with a green, white and red flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "sailed in a schooner flying a green, white and red flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "rowed away in a dinghy flying a green, white and red flag"
+            }
+          ]
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 22,
+              "text": "drove off in a vehicle flying a green, white and red flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 6,
+          "lines": [
+            {
+              "number": 23,
+              "text": "said # planned to invest in a shoe company"
+            },
+            {
+              "number": 24,
+              "text": "was interested in investing in a marble quarry"
+            },
+            {
+              "number": 25,
+              "text": "said # planned to make a killing in textiles"
+            },
+            {
+              "number": 26,
+              "text": "said # was going to corner the shoe market"
+            },
+            {
+              "number": 27,
+              "text": "wanted to invest in marble futures"
+            },
+            {
+              "number": 28,
+              "text": "said # was heavily invested in textiles"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "left in a vehicle flying a green, white and red flag"
+            },
+            {
+              "number": 30,
+              "text": "said # was going to an opera with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 26,
+      "city": "San Marino",
+      "table_address": 36528,
+      "total_selectable_lines": 24,
+      "groups": [
+        {
+          "category": 0,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 3,
+              "text": "asked about the exchange rate for lira"
+            },
+            {
+              "number": 4,
+              "text": "had an Italian dictionary in @ pocket"
+            },
+            {
+              "number": 5,
+              "text": "said # planned to visit the oldest republic in Europe"
+            },
+            {
+              "number": 6,
+              "text": "wanted to tour a postage stamp printing plant"
+            },
+            {
+              "number": 7,
+              "text": "said # wanted to photograph Mount Titano at daybreak"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 8,
+              "text": "was researching modern methods of postage stamp production"
+            },
+            {
+              "number": 9,
+              "text": "said # was applying for a grant to study the oldest republic in Europe"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 10,
+              "text": "said # wanted to roller skate through a ceramics factory"
+            },
+            {
+              "number": 11,
+              "text": "planned to backpack through all of Italy's neighbors"
+            },
+            {
+              "number": 12,
+              "text": "said # wanted to bike ride through a republic founded in the 4th century"
+            },
+            {
+              "number": 13,
+              "text": "planned to climb Mount Titano"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 14,
+              "text": "checked out books about ceramic production"
+            },
+            {
+              "number": 15,
+              "text": "said # was writing a sonnet about a \"Most Serene Republic.\""
+            },
+            {
+              "number": 16,
+              "text": "asked for a book about the history of postage stamps"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 17,
+              "text": "flew off in a plane with a blue and white flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "left in a vehicle flying a blue and white flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 10,
+          "count": 6,
+          "lines": [
+            {
+              "number": 19,
+              "text": "wanted to buy postage stamps hot off the presses"
+            },
+            {
+              "number": 20,
+              "text": "said # was in the market for woolen goods"
+            },
+            {
+              "number": 21,
+              "text": "wanted to buy ceramics to send home to @ mom"
+            },
+            {
+              "number": 22,
+              "text": "was looking for postage stamps to add to @ collection"
+            },
+            {
+              "number": 23,
+              "text": "changed @ money to lira"
+            },
+            {
+              "number": 24,
+              "text": "wanted to buy ceramics at factory discounts"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 25,
+              "text": "drove away in a vehicle flying a blue and white flag"
+            },
+            {
+              "number": 26,
+              "text": "said # planned to have a conference with the Regents"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 27,
+      "city": "Singapore",
+      "table_address": 36540,
+      "total_selectable_lines": 28,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to dollars"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 3,
+          "lines": [
+            {
+              "number": 4,
+              "text": "was studying an English dictionary"
+            },
+            {
+              "number": 5,
+              "text": "was planning to sail to one of the world's largest ports"
+            },
+            {
+              "number": 6,
+              "text": "wanted to drink gin slings at the Raffles Hotel"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 7,
+              "text": "asked many questions about Malayan art"
+            },
+            {
+              "number": 8,
+              "text": "was interested in the history of British colonial rule"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 4,
+          "lines": [
+            {
+              "number": 9,
+              "text": "said # wanted to explore a rain forest"
+            },
+            {
+              "number": 10,
+              "text": "asked if it would be dangerous to capture a venomous stonefish"
+            },
+            {
+              "number": 11,
+              "text": "said # wanted to dive in the Strait of Malacca"
+            },
+            {
+              "number": 12,
+              "text": "planned to sail a catamaran in the South China Sea"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 3,
+          "lines": [
+            {
+              "number": 13,
+              "text": "checked out books about venomous stonefish"
+            },
+            {
+              "number": 14,
+              "text": "asked for a guide to Malayan art"
+            },
+            {
+              "number": 15,
+              "text": "was doing research on the economics of rubber plantations"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 2,
+          "lines": [
+            {
+              "number": 16,
+              "text": "was heading for an island in Southeast Asia"
+            },
+            {
+              "number": 17,
+              "text": "left in a plane with a red and white flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 18,
+              "text": "sailed away in a yacht flying a red and white flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 9,
+          "count": 5,
+          "lines": [
+            {
+              "number": 19,
+              "text": "wanted to invest in a shipbuilding company"
+            },
+            {
+              "number": 20,
+              "text": "was interested in the future of lumber processing"
+            },
+            {
+              "number": 21,
+              "text": "wanted to invest in a rubber plantation"
+            },
+            {
+              "number": 22,
+              "text": "wanted to become a shipbuilding tycoon"
+            },
+            {
+              "number": 23,
+              "text": "said # planned to put @ money in a Southeast Asian bank"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 5,
+          "lines": [
+            {
+              "number": 24,
+              "text": "was looking for rubber"
+            },
+            {
+              "number": 25,
+              "text": "said # wanted to buy a ship to sail around the world"
+            },
+            {
+              "number": 26,
+              "text": "wanted to buy Malayan art"
+            },
+            {
+              "number": 27,
+              "text": "asked for directions to a good Chinese restaurant"
+            },
+            {
+              "number": 28,
+              "text": "changed @ money to dollars"
+            }
+          ]
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 29,
+              "text": "left in a vehicle flying a red and white flag"
+            },
+            {
+              "number": 30,
+              "text": "said # was going to play polo with the President"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 28,
+      "city": "Sydney",
+      "table_address": 36552,
+      "total_selectable_lines": 27,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to dollars"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 6,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for dollars"
+            },
+            {
+              "number": 5,
+              "text": "was consulting an English dictionary"
+            },
+            {
+              "number": 6,
+              "text": "said # planned to attend an opera down under"
+            },
+            {
+              "number": 7,
+              "text": "asked for directions to the outback"
+            },
+            {
+              "number": 8,
+              "text": "said # was going to photograph wallabies"
+            },
+            {
+              "number": 9,
+              "text": "wanted to know if koalas are nocturnal"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 3,
+          "lines": [
+            {
+              "number": 10,
+              "text": "was researching aboriginal dreams"
+            },
+            {
+              "number": 11,
+              "text": "planned to take a wallaby census"
+            },
+            {
+              "number": 12,
+              "text": "was applying for a grant to study wombat mortality rates"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 6,
+          "lines": [
+            {
+              "number": 13,
+              "text": "planned to ride a camel across the Great Sandy Desert"
+            },
+            {
+              "number": 14,
+              "text": "said # wanted to sail around an island continent"
+            },
+            {
+              "number": 15,
+              "text": "was planning to visit a continent in the southern hemisphere"
+            },
+            {
+              "number": 16,
+              "text": "asked about techniques of wallaby wrestling"
+            },
+            {
+              "number": 17,
+              "text": "said # wanted to learn secrets of aerobic fitness from the aborigines"
+            },
+            {
+              "number": 18,
+              "text": "was preparing to explore the outback"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 4,
+          "lines": [
+            {
+              "number": 19,
+              "text": "asked for a biography of Captain Cook"
+            },
+            {
+              "number": 20,
+              "text": "was researching the metabolism of tiger snakes"
+            },
+            {
+              "number": 21,
+              "text": "said # was planning to write a monograph on the temperament of Tasmanian devils"
+            },
+            {
+              "number": 22,
+              "text": "checked out books about aboriginal art"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 23,
+              "text": "left in a plane with a red, white and blue flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 1,
+          "lines": [
+            {
+              "number": 24,
+              "text": "sailed on a cruiser flying a red, white and blue flag"
+            }
+          ]
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 25,
+              "text": "said # was going to a barbecue with the Prime Minister"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 4,
+          "lines": [
+            {
+              "number": 26,
+              "text": "said # planned to corner the wool market"
+            },
+            {
+              "number": 27,
+              "text": "wanted to invest in a sheep ranch"
+            },
+            {
+              "number": 28,
+              "text": "wanted to know if there was a future in wool"
+            },
+            {
+              "number": 29,
+              "text": "was heavily invested in leg of lamb"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 11,
+          "count": 0,
+          "lines": []
+        }
+      ],
+      "lines_outside_selector": []
+    },
+    {
+      "number": 29,
+      "city": "Tokyo",
+      "table_address": 36564,
+      "total_selectable_lines": 27,
+      "groups": [
+        {
+          "category": 0,
+          "count": 1,
+          "lines": [
+            {
+              "number": 3,
+              "text": "changed @ money to yen"
+            }
+          ]
+        },
+        {
+          "category": 1,
+          "count": 5,
+          "lines": [
+            {
+              "number": 4,
+              "text": "asked about the exchange rate for yen"
+            },
+            {
+              "number": 5,
+              "text": "was practicing Japanese characters"
+            },
+            {
+              "number": 6,
+              "text": "said # planned to take photographs of Mount Fuji"
+            },
+            {
+              "number": 7,
+              "text": "asked about tours of the Imperial Palace"
+            },
+            {
+              "number": 8,
+              "text": "was interested in visiting Shinto shrines"
+            }
+          ]
+        },
+        {
+          "category": 2,
+          "count": 2,
+          "lines": [
+            {
+              "number": 9,
+              "text": "asked questions about Shinto rituals"
+            },
+            {
+              "number": 10,
+              "text": "said # was researching an archipelago"
+            }
+          ]
+        },
+        {
+          "category": 3,
+          "count": 3,
+          "lines": [
+            {
+              "number": 11,
+              "text": "planned to backpack through an archipelago"
+            },
+            {
+              "number": 12,
+              "text": "wanted to ski on Mount Fuji"
+            },
+            {
+              "number": 13,
+              "text": "said # wanted to climb a volcano"
+            }
+          ]
+        },
+        {
+          "category": 4,
+          "count": 6,
+          "lines": [
+            {
+              "number": 14,
+              "text": "asked for a biography of Emperor Jimmu"
+            },
+            {
+              "number": 15,
+              "text": "checked out books about Commodore Perry"
+            },
+            {
+              "number": 16,
+              "text": "was looking for information on Shinto shrines"
+            },
+            {
+              "number": 17,
+              "text": "said # wanted to read a novel about shoguns"
+            },
+            {
+              "number": 18,
+              "text": "was doing research on volcanoes"
+            },
+            {
+              "number": 19,
+              "text": "wanted a book about samurai warriors"
+            }
+          ]
+        },
+        {
+          "category": 5,
+          "count": 1,
+          "lines": [
+            {
+              "number": 20,
+              "text": "left in a plane with a red and white flag on its wing"
+            }
+          ]
+        },
+        {
+          "category": 6,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 7,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 8,
+          "count": 1,
+          "lines": [
+            {
+              "number": 21,
+              "text": "drove off in a vehicle flying a red and white flag"
+            }
+          ]
+        },
+        {
+          "category": 9,
+          "count": 6,
+          "lines": [
+            {
+              "number": 22,
+              "text": "said # wanted to go to a country where the price of rice was high"
+            },
+            {
+              "number": 23,
+              "text": "wanted to invest in an electronics company"
+            },
+            {
+              "number": 24,
+              "text": "was interested in automobile exporting"
+            },
+            {
+              "number": 25,
+              "text": "said # planned to corner the rice market"
+            },
+            {
+              "number": 26,
+              "text": "said # was heavily invested in electronics"
+            },
+            {
+              "number": 27,
+              "text": "wanted to invest in an automobile factory"
+            }
+          ]
+        },
+        {
+          "category": 10,
+          "count": 0,
+          "lines": []
+        },
+        {
+          "category": 11,
+          "count": 2,
+          "lines": [
+            {
+              "number": 28,
+              "text": "left in a vehicle flying a red and white flag"
+            },
+            {
+              "number": 29,
+              "text": "said # would be having tea with the Emperor"
+            }
+          ]
+        }
+      ],
+      "lines_outside_selector": [
+        {
+          "number": 30,
+          "text": "left in a vehicle flying a red and white flag"
+        },
+        {
+          "number": 31,
+          "text": "said # wanted to go to a country where the price of rice was high"
+        },
+        {
+          "number": 32,
+          "text": "wanted to invest in an electronics company"
+        },
+        {
+          "number": 33,
+          "text": "was interested in automobile exporting"
+        },
+        {
+          "number": 34,
+          "text": "said # planned to corner the rice market"
+        },
+        {
+          "number": 35,
+          "text": "said # was heavily invested in electronics"
+        },
+        {
+          "number": 36,
+          "text": "wanted to invest in an automobile factory"
+        },
+        {
+          "number": 37,
+          "text": "left in a vehicle flying a red and white flag"
+        },
+        {
+          "number": 38,
+          "text": "said # would be having tea with the Emperor"
+        }
+      ]
+    }
+  ]
+}

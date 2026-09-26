@@ -1,0 +1,313 @@
+{
+  "file_offset": 11483,
+  "category_order": [
+    "sex",
+    "hobbies",
+    "hair",
+    "features",
+    "vehicles",
+    "food"
+  ],
+  "suspects": [
+    {
+      "number": 0,
+      "name": "Carmen Sandiego",
+      "traits": {
+        "sex": {
+          "value": 1,
+          "label": "Female"
+        },
+        "hobbies": {
+          "value": 0,
+          "label": "Tennis"
+        },
+        "hair": {
+          "value": 0,
+          "label": "Brown"
+        },
+        "features": {
+          "value": 4,
+          "label": "Jewelry"
+        },
+        "vehicles": {
+          "value": 0,
+          "label": "Convertible"
+        },
+        "food": {
+          "value": 0,
+          "label": "Mexican"
+        }
+      }
+    },
+    {
+      "number": 1,
+      "name": "Merey LaRoc",
+      "traits": {
+        "sex": {
+          "value": 1,
+          "label": "Female"
+        },
+        "hobbies": {
+          "value": 2,
+          "label": "Mt.Climbing"
+        },
+        "hair": {
+          "value": 0,
+          "label": "Brown"
+        },
+        "features": {
+          "value": 4,
+          "label": "Jewelry"
+        },
+        "vehicles": {
+          "value": 1,
+          "label": "Limousine"
+        },
+        "food": {
+          "value": 0,
+          "label": "Mexican"
+        }
+      }
+    },
+    {
+      "number": 2,
+      "name": "Dazzle Annie",
+      "traits": {
+        "sex": {
+          "value": 1,
+          "label": "Female"
+        },
+        "hobbies": {
+          "value": 0,
+          "label": "Tennis"
+        },
+        "hair": {
+          "value": 1,
+          "label": "Blond"
+        },
+        "features": {
+          "value": 2,
+          "label": "Tattoo"
+        },
+        "vehicles": {
+          "value": 1,
+          "label": "Limousine"
+        },
+        "food": {
+          "value": 1,
+          "label": "Seafood"
+        }
+      }
+    },
+    {
+      "number": 3,
+      "name": "Lady Agatha",
+      "traits": {
+        "sex": {
+          "value": 1,
+          "label": "Female"
+        },
+        "hobbies": {
+          "value": 0,
+          "label": "Tennis"
+        },
+        "hair": {
+          "value": 2,
+          "label": "Red"
+        },
+        "features": {
+          "value": 1,
+          "label": "Ring"
+        },
+        "vehicles": {
+          "value": 0,
+          "label": "Convertible"
+        },
+        "food": {
+          "value": 0,
+          "label": "Mexican"
+        }
+      }
+    },
+    {
+      "number": 4,
+      "name": "Katherine Drib",
+      "traits": {
+        "sex": {
+          "value": 1,
+          "label": "Female"
+        },
+        "hobbies": {
+          "value": 2,
+          "label": "Mt.Climbing"
+        },
+        "hair": {
+          "value": 0,
+          "label": "Brown"
+        },
+        "features": {
+          "value": 2,
+          "label": "Tattoo"
+        },
+        "vehicles": {
+          "value": 3,
+          "label": "Motorcycle"
+        },
+        "food": {
+          "value": 1,
+          "label": "Seafood"
+        }
+      }
+    },
+    {
+      "number": 5,
+      "name": "Len Bulk",
+      "traits": {
+        "sex": {
+          "value": 0,
+          "label": "Male"
+        },
+        "hobbies": {
+          "value": 2,
+          "label": "Mt.Climbing"
+        },
+        "hair": {
+          "value": 2,
+          "label": "Red"
+        },
+        "features": {
+          "value": 2,
+          "label": "Tattoo"
+        },
+        "vehicles": {
+          "value": 0,
+          "label": "Convertible"
+        },
+        "food": {
+          "value": 1,
+          "label": "Seafood"
+        }
+      }
+    },
+    {
+      "number": 6,
+      "name": "Scar Graynolt",
+      "traits": {
+        "sex": {
+          "value": 0,
+          "label": "Male"
+        },
+        "hobbies": {
+          "value": 5,
+          "label": "Croquet"
+        },
+        "hair": {
+          "value": 2,
+          "label": "Red"
+        },
+        "features": {
+          "value": 1,
+          "label": "Ring"
+        },
+        "vehicles": {
+          "value": 1,
+          "label": "Limousine"
+        },
+        "food": {
+          "value": 0,
+          "label": "Mexican"
+        }
+      }
+    },
+    {
+      "number": 7,
+      "name": "Nick Brunch",
+      "traits": {
+        "sex": {
+          "value": 0,
+          "label": "Male"
+        },
+        "hobbies": {
+          "value": 2,
+          "label": "Mt.Climbing"
+        },
+        "hair": {
+          "value": 3,
+          "label": "Black"
+        },
+        "features": {
+          "value": 1,
+          "label": "Ring"
+        },
+        "vehicles": {
+          "value": 3,
+          "label": "Motorcycle"
+        },
+        "food": {
+          "value": 0,
+          "label": "Mexican"
+        }
+      }
+    },
+    {
+      "number": 8,
+      "name": "Fast Eddie B",
+      "traits": {
+        "sex": {
+          "value": 0,
+          "label": "Male"
+        },
+        "hobbies": {
+          "value": 5,
+          "label": "Croquet"
+        },
+        "hair": {
+          "value": 3,
+          "label": "Black"
+        },
+        "features": {
+          "value": 4,
+          "label": "Jewelry"
+        },
+        "vehicles": {
+          "value": 0,
+          "label": "Convertible"
+        },
+        "food": {
+          "value": 0,
+          "label": "Mexican"
+        }
+      }
+    },
+    {
+      "number": 9,
+      "name": "Ihor Ihorovitch",
+      "traits": {
+        "sex": {
+          "value": 0,
+          "label": "Male"
+        },
+        "hobbies": {
+          "value": 5,
+          "label": "Croquet"
+        },
+        "hair": {
+          "value": 1,
+          "label": "Blond"
+        },
+        "features": {
+          "value": 2,
+          "label": "Tattoo"
+        },
+        "vehicles": {
+          "value": 1,
+          "label": "Limousine"
+        },
+        "food": {
+          "value": 1,
+          "label": "Seafood"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "slot": 0,
+    "detective": "Pam capolino",
+    "all_ff": false,
+    "non_ff_bytes": 254,
+    "first_33_hex": "0107030e1911050801000000000000000111041105090101012c0301ff00ff0100"
+  },
+  {
+    "slot": 1,
+    "detective": "PAM",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 2,
+    "detective": "Alex Lee",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 3,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 4,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 5,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 6,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 7,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 8,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 9,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 10,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 11,
+    "detective": "",
+    "all_ff": false,
+    "non_ff_bytes": 249,
+    "first_33_hex": "0904010d0a0e010b0000000000000000010d0010061000ff012703ffffffffffff"
+  },
+  {
+    "slot": 12,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "slot": 0,
+    "detective": "Chris Sherman",
+    "all_ff": false,
+    "non_ff_bytes": 250,
+    "first_33_hex": "09010116151c08ff0000ffff0000ffff08140409010803ff014303000502010301"
+  },
+  {
+    "slot": 1,
+    "detective": "hawk eye",
+    "all_ff": false,
+    "non_ff_bytes": 246,
+    "first_33_hex": "01000116041100ff0000ffff0000ffff00160309040b03ff01430301ff00ffffff"
+  },
+  {
+    "slot": 2,
+    "detective": "ROCKY",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 3,
+    "detective": "TROY H",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 4,
+    "detective": "MRS. M.",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 5,
+    "detective": "no",
+    "all_ff": false,
+    "non_ff_bytes": 246,
+    "first_33_hex": "07060103141817040000ffff0000ffff04030112060e00ff010b0300ffffffffff"
+  },
+  {
+    "slot": 6,
+    "detective": "SNAKE EYES",
+    "all_ff": false,
+    "non_ff_bytes": 245,
+    "first_33_hex": "060101070b03180e000fffff0000ffff0f07010a000a00ff011703ffffffffffff"
+  },
+  {
+    "slot": 7,
+    "detective": "Bryan",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 8,
+    "detective": "MRS. MALY",
+    "all_ff": false,
+    "non_ff_bytes": 249,
+    "first_33_hex": "020702120e101a0b0900ffff0000ffff090e050b030f000200360301ff01ff01ff"
+  },
+  {
+    "slot": 9,
+    "detective": "Mark",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 10,
+    "detective": "dm",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  },
+  {
+    "slot": 11,
+    "detective": "IOLO",
+    "all_ff": false,
+    "non_ff_bytes": 249,
+    "first_33_hex": "0904010d0a0e010b0000000000000000010d0010061000ff012703ffffffffffff"
+  },
+  {
+    "slot": 12,
+    "detective": "",
+    "all_ff": true,
+    "non_ff_bytes": 0,
+    "first_33_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+  }
+]
