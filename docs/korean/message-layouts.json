@@ -1,0 +1,7776 @@
+{
+  "format": 1,
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "status": "pass",
+  "input_names": {
+    "widest": "#%\\\\\\\\\\\\\\\\",
+    "widest_advance": 97,
+    "max_byte_name": "!!!!!!!!!!!!!!!",
+    "maximum_characters": 15,
+    "glyph_start_byte_column_exclusive": 16
+  },
+  "fixed_fields": [
+    {
+      "id": "c.ui.000",
+      "text": "버전: 2.00",
+      "center": 138,
+      "left": 112,
+      "top": 69,
+      "advance_width": 52,
+      "height": 8,
+      "bounds": [
+        80,
+        198,
+        63,
+        81
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_VERSION_DIALOG"
+    },
+    {
+      "id": "c.ui.001",
+      "text": "취침 중...",
+      "center": 56,
+      "left": 36,
+      "top": 14,
+      "advance_width": 40,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_BEGIN_OVERNIGHT_SKIP"
+    },
+    {
+      "id": "c.ui.002",
+      "text": "본부",
+      "center": 56,
+      "left": 48,
+      "top": 14,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_PREPARE_REPORT_SCREEN"
+    },
+    {
+      "id": "c.ui.040",
+      "text": "사건을 저장할까요?",
+      "center": 138,
+      "left": 99,
+      "top": 57,
+      "advance_width": 78,
+      "height": 8,
+      "bounds": [
+        36,
+        234,
+        48,
+        104
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_SAVE_CASE_PROMPT"
+    },
+    {
+      "id": "c.ui.014",
+      "text": "ACME 탐정 사무소 명예의 전당",
+      "center": 138,
+      "left": 69,
+      "top": 10,
+      "advance_width": 137,
+      "height": 8,
+      "bounds": [
+        4,
+        276,
+        4,
+        24
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_HALL_OF_FAME"
+    },
+    {
+      "id": "c.ui.015",
+      "text": "ACME 탐정 사무소 탐정 명부",
+      "center": 140,
+      "left": 76,
+      "top": 7,
+      "advance_width": 129,
+      "height": 8,
+      "bounds": [
+        4,
+        276,
+        4,
+        24
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_DETECTIVE_ROSTER"
+    },
+    {
+      "id": "c.ui.012",
+      "text": "계속: <CTRL:81>",
+      "center": 140,
+      "left": 107,
+      "top": 177,
+      "advance_width": 65,
+      "height": 8,
+      "bounds": [
+        4,
+        276,
+        169,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_SHOW_DETECTIVE_ROSTER"
+    },
+    {
+      "id": "c.ui.013",
+      "text": "삭제: <CTRL:81>   취소: <CTRL:82>",
+      "center": 140,
+      "left": 64,
+      "top": 177,
+      "advance_width": 151,
+      "height": 8,
+      "bounds": [
+        4,
+        276,
+        169,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_DELETE_DETECTIVE"
+    },
+    {
+      "id": "c.ui.003",
+      "text": "디스크를 넣으세요",
+      "center": 136,
+      "left": 101,
+      "top": 52,
+      "advance_width": 71,
+      "height": 8,
+      "bounds": [
+        64,
+        208,
+        48,
+        94
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_DISK_PROMPT"
+    },
+    {
+      "id": "c.ui.004",
+      "text": "세계 어디에 있을까?",
+      "center": 136,
+      "left": 94,
+      "top": 62,
+      "advance_width": 85,
+      "height": 8,
+      "bounds": [
+        64,
+        208,
+        48,
+        94
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_DISK_PROMPT"
+    },
+    {
+      "id": "c.ui.005",
+      "text": "카르멘 샌디에고",
+      "center": 136,
+      "left": 104,
+      "top": 72,
+      "advance_width": 63,
+      "height": 8,
+      "bounds": [
+        64,
+        208,
+        48,
+        94
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_DISK_PROMPT"
+    },
+    {
+      "id": "c.ui.008",
+      "text": "넣고 <CTRL:81> 키를 누르세요",
+      "center": 136,
+      "left": 74,
+      "top": 82,
+      "advance_width": 124,
+      "height": 8,
+      "bounds": [
+        64,
+        208,
+        48,
+        94
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_DISK_PROMPT"
+    },
+    {
+      "id": "c.ui.009",
+      "text": "아무 키 또는",
+      "center": 208,
+      "left": 181,
+      "top": 151,
+      "advance_width": 54,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        145,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_SHOW_WARRANT_FOLLOWUP"
+    },
+    {
+      "id": "c.ui.010",
+      "text": "버튼을 눌러",
+      "center": 208,
+      "left": 185,
+      "top": 161,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        145,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_SHOW_WARRANT_FOLLOWUP"
+    },
+    {
+      "id": "c.ui.011",
+      "text": "계속하세요",
+      "center": 208,
+      "left": 188,
+      "top": 171,
+      "advance_width": 40,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        145,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_SHOW_WARRANT_FOLLOWUP"
+    },
+    {
+      "id": "c.ui.049",
+      "text": "항공 노선",
+      "center": 208,
+      "left": 188,
+      "top": 144,
+      "advance_width": 39,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        138,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_MAIN_CITY_MENU"
+    },
+    {
+      "id": "c.ui.050",
+      "text": "비행기로 출발",
+      "center": 208,
+      "left": 180,
+      "top": 155,
+      "advance_width": 55,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        138,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_MAIN_CITY_MENU"
+    },
+    {
+      "id": "c.ui.051",
+      "text": "탐문 수사",
+      "center": 208,
+      "left": 188,
+      "top": 166,
+      "advance_width": 39,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        138,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_MAIN_CITY_MENU"
+    },
+    {
+      "id": "c.ui.052",
+      "text": "인터폴 방문",
+      "center": 208,
+      "left": 185,
+      "top": 177,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        138,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_MAIN_CITY_MENU"
+    },
+    {
+      "id": "c.ui.053",
+      "text": "노선 감추기",
+      "center": 208,
+      "left": 185,
+      "top": 144,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        138,
+        188
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CONNECTION_TOGGLE_OPTION"
+    },
+    {
+      "id": "c.ui.054",
+      "text": "컴퓨터 사용",
+      "center": 208,
+      "left": 185,
+      "top": 155,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        149,
+        178
+      ],
+      "fits": true,
+      "consumer": "N_SHOW_COMPUTER_SAVE_MENU"
+    },
+    {
+      "id": "c.ui.055",
+      "text": "사건 저장",
+      "center": 208,
+      "left": 188,
+      "top": 166,
+      "advance_width": 39,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        149,
+        178
+      ],
+      "fits": true,
+      "consumer": "N_SHOW_COMPUTER_SAVE_MENU"
+    },
+    {
+      "id": "c.ui.042",
+      "text": "V.I.L.E. 조직원이다!",
+      "center": 208,
+      "left": 164,
+      "top": 64,
+      "advance_width": 88,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        58,
+        105
+      ],
+      "fits": true,
+      "consumer": "N_FINISH_ROUTE_CITY_EVENT / N_RESOLVE_ARREST"
+    },
+    {
+      "id": "c.ui.043",
+      "text": "제대로 된 길을",
+      "center": 208,
+      "left": 177,
+      "top": 74,
+      "advance_width": 62,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        58,
+        105
+      ],
+      "fits": true,
+      "consumer": "N_FINISH_ROUTE_CITY_EVENT / N_RESOLVE_ARREST"
+    },
+    {
+      "id": "c.ui.044",
+      "text": "찾았군요!",
+      "center": 208,
+      "left": 190,
+      "top": 84,
+      "advance_width": 35,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        58,
+        105
+      ],
+      "fits": true,
+      "consumer": "N_FINISH_ROUTE_CITY_EVENT / N_RESOLVE_ARREST"
+    },
+    {
+      "id": "c.ui.045",
+      "text": "저기 달아나는",
+      "center": 208,
+      "left": 180,
+      "top": 80,
+      "advance_width": 55,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        58,
+        105
+      ],
+      "fits": true,
+      "consumer": "N_FINISH_ROUTE_CITY_EVENT / N_RESOLVE_ARREST"
+    },
+    {
+      "id": "c.ui.046",
+      "text": "용의자다!",
+      "center": 208,
+      "left": 190,
+      "top": 90,
+      "advance_width": 35,
+      "height": 8,
+      "bounds": [
+        148,
+        273,
+        58,
+        105
+      ],
+      "fits": true,
+      "consumer": "N_FINISH_ROUTE_CITY_EVENT / N_RESOLVE_ARREST"
+    },
+    {
+      "id": "c.ui.118",
+      "text": "은행",
+      "center": 84,
+      "left": 76,
+      "top": 116,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.118",
+      "text": "은행",
+      "center": 84,
+      "left": 76,
+      "top": 127,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.118",
+      "text": "은행",
+      "center": 84,
+      "left": 76,
+      "top": 138,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.119",
+      "text": "호텔",
+      "center": 84,
+      "left": 76,
+      "top": 116,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.119",
+      "text": "호텔",
+      "center": 84,
+      "left": 76,
+      "top": 127,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.119",
+      "text": "호텔",
+      "center": 84,
+      "left": 76,
+      "top": 138,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.120",
+      "text": "박물관",
+      "center": 84,
+      "left": 72,
+      "top": 116,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.120",
+      "text": "박물관",
+      "center": 84,
+      "left": 72,
+      "top": 127,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.120",
+      "text": "박물관",
+      "center": 84,
+      "left": 72,
+      "top": 138,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.121",
+      "text": "스포츠 클럽",
+      "center": 84,
+      "left": 61,
+      "top": 116,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.121",
+      "text": "스포츠 클럽",
+      "center": 84,
+      "left": 61,
+      "top": 127,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.121",
+      "text": "스포츠 클럽",
+      "center": 84,
+      "left": 61,
+      "top": 138,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.122",
+      "text": "도서관",
+      "center": 84,
+      "left": 72,
+      "top": 116,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.122",
+      "text": "도서관",
+      "center": 84,
+      "left": 72,
+      "top": 127,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.122",
+      "text": "도서관",
+      "center": 84,
+      "left": 72,
+      "top": 138,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.123",
+      "text": "공항",
+      "center": 84,
+      "left": 76,
+      "top": 116,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.123",
+      "text": "공항",
+      "center": 84,
+      "left": 76,
+      "top": 127,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.123",
+      "text": "공항",
+      "center": 84,
+      "left": 76,
+      "top": 138,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.124",
+      "text": "항구",
+      "center": 84,
+      "left": 76,
+      "top": 116,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.124",
+      "text": "항구",
+      "center": 84,
+      "left": 76,
+      "top": 127,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.124",
+      "text": "항구",
+      "center": 84,
+      "left": 76,
+      "top": 138,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.125",
+      "text": "강변",
+      "center": 84,
+      "left": 76,
+      "top": 116,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.125",
+      "text": "강변",
+      "center": 84,
+      "left": 76,
+      "top": 127,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.125",
+      "text": "강변",
+      "center": 84,
+      "left": 76,
+      "top": 138,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.126",
+      "text": "궁전",
+      "center": 84,
+      "left": 76,
+      "top": 116,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.126",
+      "text": "궁전",
+      "center": 84,
+      "left": 76,
+      "top": 127,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.126",
+      "text": "궁전",
+      "center": 84,
+      "left": 76,
+      "top": 138,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.127",
+      "text": "증권 거래소",
+      "center": 84,
+      "left": 61,
+      "top": 116,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.127",
+      "text": "증권 거래소",
+      "center": 84,
+      "left": 61,
+      "top": 127,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.127",
+      "text": "증권 거래소",
+      "center": 84,
+      "left": 61,
+      "top": 138,
+      "advance_width": 47,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.128",
+      "text": "시장",
+      "center": 84,
+      "left": 76,
+      "top": 116,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.128",
+      "text": "시장",
+      "center": 84,
+      "left": 76,
+      "top": 127,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.128",
+      "text": "시장",
+      "center": 84,
+      "left": 76,
+      "top": 138,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.129",
+      "text": "외무부",
+      "center": 84,
+      "left": 72,
+      "top": 116,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.129",
+      "text": "외무부",
+      "center": 84,
+      "left": 72,
+      "top": 127,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.ui.129",
+      "text": "외무부",
+      "center": 84,
+      "left": 72,
+      "top": 138,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        138,
+        110,
+        148
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_INVESTIGATION_CHOICES"
+    },
+    {
+      "id": "c.cities.00",
+      "text": "아테네",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.00",
+      "text": "아테네",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.01",
+      "text": "바그다드",
+      "center": 56,
+      "left": 40,
+      "top": 14,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.01",
+      "text": "바그다드",
+      "center": 74,
+      "left": 58,
+      "top": 44,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.02",
+      "text": "바마코",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.02",
+      "text": "바마코",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.03",
+      "text": "방콕",
+      "center": 56,
+      "left": 48,
+      "top": 14,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.03",
+      "text": "방콕",
+      "center": 74,
+      "left": 66,
+      "top": 44,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.04",
+      "text": "부다페스트",
+      "center": 56,
+      "left": 36,
+      "top": 14,
+      "advance_width": 40,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.04",
+      "text": "부다페스트",
+      "center": 74,
+      "left": 54,
+      "top": 44,
+      "advance_width": 40,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.05",
+      "text": "부에노스아이레스",
+      "center": 56,
+      "left": 24,
+      "top": 14,
+      "advance_width": 64,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.05",
+      "text": "부에노스아이레스",
+      "center": 74,
+      "left": 42,
+      "top": 44,
+      "advance_width": 64,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.06",
+      "text": "카이로",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.06",
+      "text": "카이로",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.07",
+      "text": "콜롬보",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.07",
+      "text": "콜롬보",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.08",
+      "text": "이스탄불",
+      "center": 56,
+      "left": 40,
+      "top": 14,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.08",
+      "text": "이스탄불",
+      "center": 74,
+      "left": 58,
+      "top": 44,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.09",
+      "text": "카트만두",
+      "center": 56,
+      "left": 40,
+      "top": 14,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.09",
+      "text": "카트만두",
+      "center": 74,
+      "left": 58,
+      "top": 44,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.10",
+      "text": "키갈리",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.10",
+      "text": "키갈리",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.11",
+      "text": "리마",
+      "center": 56,
+      "left": 48,
+      "top": 14,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.11",
+      "text": "리마",
+      "center": 74,
+      "left": 66,
+      "top": 44,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.12",
+      "text": "런던",
+      "center": 56,
+      "left": 48,
+      "top": 14,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.12",
+      "text": "런던",
+      "center": 74,
+      "left": 66,
+      "top": 44,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.13",
+      "text": "멕시코시티",
+      "center": 56,
+      "left": 36,
+      "top": 14,
+      "advance_width": 40,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.13",
+      "text": "멕시코시티",
+      "center": 74,
+      "left": 54,
+      "top": 44,
+      "advance_width": 40,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.14",
+      "text": "몬트리올",
+      "center": 56,
+      "left": 40,
+      "top": 14,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.14",
+      "text": "몬트리올",
+      "center": 74,
+      "left": 58,
+      "top": 44,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.15",
+      "text": "모로니",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.15",
+      "text": "모로니",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.16",
+      "text": "모스크바",
+      "center": 56,
+      "left": 40,
+      "top": 14,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.16",
+      "text": "모스크바",
+      "center": 74,
+      "left": 58,
+      "top": 44,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.17",
+      "text": "뉴델리",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.17",
+      "text": "뉴델리",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.18",
+      "text": "뉴욕",
+      "center": 56,
+      "left": 48,
+      "top": 14,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.18",
+      "text": "뉴욕",
+      "center": 74,
+      "left": 66,
+      "top": 44,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.19",
+      "text": "오슬로",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.19",
+      "text": "오슬로",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.20",
+      "text": "파리",
+      "center": 56,
+      "left": 48,
+      "top": 14,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.20",
+      "text": "파리",
+      "center": 74,
+      "left": 66,
+      "top": 44,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.21",
+      "text": "베이징",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.21",
+      "text": "베이징",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.22",
+      "text": "포트모르즈비",
+      "center": 56,
+      "left": 32,
+      "top": 14,
+      "advance_width": 48,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.22",
+      "text": "포트모르즈비",
+      "center": 74,
+      "left": 50,
+      "top": 44,
+      "advance_width": 48,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.23",
+      "text": "레이캬비크",
+      "center": 56,
+      "left": 36,
+      "top": 14,
+      "advance_width": 40,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.23",
+      "text": "레이캬비크",
+      "center": 74,
+      "left": 54,
+      "top": 44,
+      "advance_width": 40,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.24",
+      "text": "리우데자네이루",
+      "center": 56,
+      "left": 28,
+      "top": 14,
+      "advance_width": 56,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.24",
+      "text": "리우데자네이루",
+      "center": 74,
+      "left": 46,
+      "top": 44,
+      "advance_width": 56,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.25",
+      "text": "로마",
+      "center": 56,
+      "left": 48,
+      "top": 14,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.25",
+      "text": "로마",
+      "center": 74,
+      "left": 66,
+      "top": 44,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.26",
+      "text": "산마리노",
+      "center": 56,
+      "left": 40,
+      "top": 14,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.26",
+      "text": "산마리노",
+      "center": 74,
+      "left": 58,
+      "top": 44,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.27",
+      "text": "싱가포르",
+      "center": 56,
+      "left": 40,
+      "top": 14,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.27",
+      "text": "싱가포르",
+      "center": 74,
+      "left": 58,
+      "top": 44,
+      "advance_width": 32,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.28",
+      "text": "시드니",
+      "center": 56,
+      "left": 44,
+      "top": 14,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.28",
+      "text": "시드니",
+      "center": 74,
+      "left": 62,
+      "top": 44,
+      "advance_width": 24,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.cities.29",
+      "text": "도쿄",
+      "center": 56,
+      "left": 48,
+      "top": 14,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        8,
+        102,
+        8,
+        34
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CURRENT_CITY_NAME"
+    },
+    {
+      "id": "c.cities.29",
+      "text": "도쿄",
+      "center": 74,
+      "left": 66,
+      "top": 44,
+      "advance_width": 16,
+      "height": 8,
+      "bounds": [
+        22,
+        134,
+        38,
+        108
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_NEXT_TRAVEL_DESTINATION"
+    },
+    {
+      "id": "c.weekdays.00",
+      "text": "월",
+      "center": 110,
+      "left": 106,
+      "top": 9,
+      "advance_width": 8,
+      "height": 8,
+      "bounds": [
+        106,
+        116,
+        9,
+        18
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CLOCK_WEEKDAY"
+    },
+    {
+      "id": "c.weekdays.01",
+      "text": "화",
+      "center": 110,
+      "left": 106,
+      "top": 9,
+      "advance_width": 8,
+      "height": 8,
+      "bounds": [
+        106,
+        116,
+        9,
+        18
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CLOCK_WEEKDAY"
+    },
+    {
+      "id": "c.weekdays.02",
+      "text": "수",
+      "center": 110,
+      "left": 106,
+      "top": 9,
+      "advance_width": 8,
+      "height": 8,
+      "bounds": [
+        106,
+        116,
+        9,
+        18
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CLOCK_WEEKDAY"
+    },
+    {
+      "id": "c.weekdays.03",
+      "text": "목",
+      "center": 110,
+      "left": 106,
+      "top": 9,
+      "advance_width": 8,
+      "height": 8,
+      "bounds": [
+        106,
+        116,
+        9,
+        18
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CLOCK_WEEKDAY"
+    },
+    {
+      "id": "c.weekdays.04",
+      "text": "금",
+      "center": 110,
+      "left": 106,
+      "top": 9,
+      "advance_width": 8,
+      "height": 8,
+      "bounds": [
+        106,
+        116,
+        9,
+        18
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CLOCK_WEEKDAY"
+    },
+    {
+      "id": "c.weekdays.05",
+      "text": "토",
+      "center": 110,
+      "left": 106,
+      "top": 9,
+      "advance_width": 8,
+      "height": 8,
+      "bounds": [
+        106,
+        116,
+        9,
+        18
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CLOCK_WEEKDAY"
+    },
+    {
+      "id": "c.weekdays.06",
+      "text": "일",
+      "center": 110,
+      "left": 106,
+      "top": 9,
+      "advance_width": 8,
+      "height": 8,
+      "bounds": [
+        106,
+        116,
+        9,
+        18
+      ],
+      "fits": true,
+      "consumer": "N_DRAW_CLOCK_WEEKDAY"
+    },
+    {
+      "id": "r.intro.02",
+      "text": "ProDOS판 이식: KEN BULL",
+      "center": 140,
+      "left": 72,
+      "top": 128,
+      "advance_width": 136,
+      "height": 8,
+      "bounds": [
+        4,
+        276,
+        112,
+        140
+      ],
+      "fits": true,
+      "consumer": "R_CENTER_INTRO_STRING"
+    },
+    {
+      "id": "r.intro.03",
+      "text": "모든 권리 보유",
+      "center": 140,
+      "left": 109,
+      "top": 116,
+      "advance_width": 62,
+      "height": 8,
+      "bounds": [
+        4,
+        276,
+        112,
+        140
+      ],
+      "fits": true,
+      "consumer": "R_CENTER_INTRO_STRING"
+    }
+  ],
+  "normal_fields": [
+    {
+      "id": "n.save_dialog",
+      "text": "취소: <CTRL:82>.<CTRL:8D>저장: 디스크를 넣고<CTRL:8D><CTRL:81> 키를 누르세요.",
+      "first_x": 46,
+      "next_x": 46,
+      "right": 232,
+      "top": 72,
+      "bottom": 102,
+      "last_row_exclusive": 100,
+      "consumer": "N_DRAW_SAVE_CASE_PROMPT",
+      "layout": {
+        "lines": [
+          "취소: <CTRL:82>.",
+          "저장: 디스크를 넣고",
+          "<CTRL:81> 키를 누르세요."
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "r.intro.00",
+      "text": "카르멘 일당이 또 범행을 저질렀다!",
+      "first_x": 10,
+      "next_x": 10,
+      "right": 273,
+      "top": 13,
+      "bottom": 149,
+      "last_row_exclusive": 21,
+      "consumer": "R_DRAW_INTRO_STRING",
+      "layout": {
+        "lines": [
+          "카르멘 일당이 또 범행을 저질렀다!"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "r.intro.01",
+      "text": "이번 사건을 해결할 사람은 바로 당신!",
+      "first_x": 12,
+      "next_x": 12,
+      "right": 273,
+      "top": 160,
+      "bottom": 188,
+      "last_row_exclusive": 168,
+      "consumer": "R_DRAW_INTRO_STRING",
+      "layout": {
+        "lines": [
+          "이번 사건을 해결할 사람은 바로 당신!"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.clue.features.00",
+      "text": "절뚝거림",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "절뚝거림"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.features.01",
+      "text": "반지",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "반지"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.features.02",
+      "text": "문신",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "문신"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.features.03",
+      "text": "흉터",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "흉터"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.features.04",
+      "text": "장신구",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "장신구"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.food.00",
+      "text": "멕시코 음식",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "멕시코 음식"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.food.01",
+      "text": "해산물",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "해산물"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hair.00",
+      "text": "갈색",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "갈색"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hair.01",
+      "text": "금발",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "금발"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hair.02",
+      "text": "붉은색",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "붉은색"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hair.03",
+      "text": "검은색",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "검은색"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hobbies.00",
+      "text": "테니스",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "테니스"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hobbies.01",
+      "text": "음악",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "음악"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hobbies.02",
+      "text": "등산",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "등산"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hobbies.03",
+      "text": "스카이다이빙",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "스카이다이빙"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hobbies.04",
+      "text": "수영",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "수영"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.hobbies.05",
+      "text": "크로케",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "크로케"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.sex.00",
+      "text": "남성",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "남성"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.sex.01",
+      "text": "여성",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "여성"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.vehicles.00",
+      "text": "컨버터블",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "컨버터블"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.vehicles.01",
+      "text": "리무진",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "리무진"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.vehicles.02",
+      "text": "경주용 차",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "경주용 차"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.clue.vehicles.03",
+      "text": "오토바이",
+      "first_x": 196,
+      "right": 273,
+      "layout": {
+        "lines": [
+          "오토바이"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "N_DRAW_TRAIT_VALUE"
+    },
+    {
+      "id": "c.ui.065",
+      "text": "남성",
+      "first_x": 196,
+      "next_x": 196,
+      "right": 273,
+      "top": 18,
+      "bottom": 29,
+      "last_row_exclusive": 26,
+      "consumer": "N_DRAW_TRAIT_VALUE / sex selector",
+      "layout": {
+        "lines": [
+          "남성"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.ui.066",
+      "text": "여성",
+      "first_x": 196,
+      "next_x": 196,
+      "right": 273,
+      "top": 18,
+      "bottom": 29,
+      "last_row_exclusive": 26,
+      "consumer": "N_DRAW_TRAIT_VALUE / sex selector",
+      "layout": {
+        "lines": [
+          "여성"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.ui.016",
+      "text": "이름",
+      "first_x": 24,
+      "next_x": 24,
+      "right": 110,
+      "top": 19,
+      "bottom": 27,
+      "last_row_exclusive": 27,
+      "consumer": "N_DRAW_DETECTIVE_ROSTER column header",
+      "layout": {
+        "lines": [
+          "이름"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.ui.017",
+      "text": "직급",
+      "first_x": 120,
+      "next_x": 120,
+      "right": 208,
+      "top": 19,
+      "bottom": 27,
+      "last_row_exclusive": 27,
+      "consumer": "N_DRAW_DETECTIVE_ROSTER column header",
+      "layout": {
+        "lines": [
+          "직급"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.ui.018",
+      "text": "해결 수",
+      "first_x": 208,
+      "next_x": 208,
+      "right": 273,
+      "top": 19,
+      "bottom": 27,
+      "last_row_exclusive": 27,
+      "consumer": "N_DRAW_DETECTIVE_ROSTER column header",
+      "layout": {
+        "lines": [
+          "해결 수"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.detective_ranks.00",
+      "text": "신참 탐정",
+      "first_x": 110,
+      "next_x": 110,
+      "right": 239,
+      "top": 32,
+      "bottom": 43,
+      "last_row_exclusive": 40,
+      "consumer": "N_NEXT_ROSTER_RECORD rank field",
+      "layout": {
+        "lines": [
+          "신참 탐정"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.detective_ranks.01",
+      "text": "탐정",
+      "first_x": 110,
+      "next_x": 110,
+      "right": 239,
+      "top": 32,
+      "bottom": 43,
+      "last_row_exclusive": 40,
+      "consumer": "N_NEXT_ROSTER_RECORD rank field",
+      "layout": {
+        "lines": [
+          "탐정"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.detective_ranks.02",
+      "text": "사립 탐정",
+      "first_x": 110,
+      "next_x": 110,
+      "right": 239,
+      "top": 32,
+      "bottom": 43,
+      "last_row_exclusive": 40,
+      "consumer": "N_NEXT_ROSTER_RECORD rank field",
+      "layout": {
+        "lines": [
+          "사립 탐정"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.detective_ranks.03",
+      "text": "수사관",
+      "first_x": 110,
+      "next_x": 110,
+      "right": 239,
+      "top": 32,
+      "bottom": 43,
+      "last_row_exclusive": 40,
+      "consumer": "N_NEXT_ROSTER_RECORD rank field",
+      "layout": {
+        "lines": [
+          "수사관"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.detective_ranks.04",
+      "text": "명탐정",
+      "first_x": 110,
+      "next_x": 110,
+      "right": 239,
+      "top": 32,
+      "bottom": 43,
+      "last_row_exclusive": 40,
+      "consumer": "N_NEXT_ROSTER_RECORD rank field",
+      "layout": {
+        "lines": [
+          "명탐정"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "c.detective_ranks.05",
+      "text": "최고 명탐정",
+      "first_x": 110,
+      "next_x": 110,
+      "right": 239,
+      "top": 32,
+      "bottom": 43,
+      "last_row_exclusive": 40,
+      "consumer": "N_NEXT_ROSTER_RECORD rank field",
+      "layout": {
+        "lines": [
+          "최고 명탐정"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      }
+    },
+    {
+      "id": "k.000",
+      "female": false,
+      "text": "죄송하지만 찾으시는 사람을 본 적이 없습니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "죄송하지만 찾으시는 사람을",
+          "본 적이 없습니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.000",
+      "female": true,
+      "text": "죄송하지만 찾으시는 사람을 본 적이 없습니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "죄송하지만 찾으시는 사람을",
+          "본 적이 없습니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.001",
+      "female": false,
+      "text": "미안하지만 이 근처에서 그런 사람을 못 봤습니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "미안하지만 이 근처에서 그런",
+          "사람을 못 봤습니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.001",
+      "female": true,
+      "text": "미안하지만 이 근처에서 그런 사람을 못 봤습니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "미안하지만 이 근처에서 그런",
+          "사람을 못 봤습니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.002",
+      "female": false,
+      "text": "이곳은 무척 바빠서 수상한 낌새를 알아차리지 못했습니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "이곳은 무척 바빠서 수상한",
+          "낌새를 알아차리지 못했습니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.002",
+      "female": true,
+      "text": "이곳은 무척 바빠서 수상한 낌새를 알아차리지 못했습니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "이곳은 무척 바빠서 수상한",
+          "낌새를 알아차리지 못했습니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.003",
+      "female": false,
+      "text": "오늘은 하루 종일 다른 사람이 오지 않았습니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "오늘은 하루 종일 다른 사람이",
+          "오지 않았습니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.003",
+      "female": true,
+      "text": "오늘은 하루 종일 다른 사람이 오지 않았습니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "오늘은 하루 종일 다른 사람이",
+          "오지 않았습니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.004",
+      "female": false,
+      "text": "이 도시에서 수상한 일이 벌어진다는 것밖에 모릅니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "이 도시에서 수상한 일이",
+          "벌어진다는 것밖에 모릅니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.004",
+      "female": true,
+      "text": "이 도시에서 수상한 일이 벌어진다는 것밖에 모릅니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "이 도시에서 수상한 일이",
+          "벌어진다는 것밖에 모릅니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.005",
+      "female": false,
+      "text": "그 일당이 이 도시 어딘가에 있다는 소문입니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "그 일당이 이 도시 어딘가에",
+          "있다는 소문입니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.005",
+      "female": true,
+      "text": "그 일당이 이 도시 어딘가에 있다는 소문입니다..",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "그 일당이 이 도시 어딘가에",
+          "있다는 소문입니다.."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.006",
+      "female": false,
+      "text": "소문이 났군. 너무 가까이 왔어, 탐정 양반....",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "소문이 났군. 너무 가까이",
+          "왔어, 탐정 양반...."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.006",
+      "female": true,
+      "text": "소문이 났군. 너무 가까이 왔어, 탐정 양반....",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "소문이 났군. 너무 가까이",
+          "왔어, 탐정 양반...."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.007",
+      "female": false,
+      "text": "내가 해 줄 말은 하나, 몸조심하라는 거야!.",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "내가 해 줄 말은 하나,",
+          "몸조심하라는 거야!."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    },
+    {
+      "id": "k.007",
+      "female": true,
+      "text": "내가 해 줄 말은 하나, 몸조심하라는 거야!.",
+      "first_x": 148,
+      "right": 273,
+      "last_row_exclusive": 44,
+      "layout": {
+        "lines": [
+          "내가 해 줄 말은 하나,",
+          "몸조심하라는 거야!."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "consumer": "C_APPEND_5000_TEXT / N_SHOW_INVESTIGATION_RESULT"
+    }
+  ],
+  "message_groups": {
+    "welcome": {
+      "combinations": 2,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D>신원을 확인했습니다: !!!!!!!!!!!!!!!. 현재 직급: ",
+        "encoded_with_nul": 52,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "신원을 확인했습니다:",
+            "!!!!!!!!!!!!!!!. 현재 직급:",
+            ""
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.024",
+          "c.ui.025"
+        ],
+        "consumer": "N_SHOW_CASE_WELCOME",
+        "parameters": {
+          "name": "!!!!!!!!!!!!!!!"
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D>신원을 확인했습니다: !!!!!!!!!!!!!!!. 현재 직급: ",
+        "encoded_with_nul": 52,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "신원을 확인했습니다:",
+            "!!!!!!!!!!!!!!!. 현재 직급:",
+            ""
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.024",
+          "c.ui.025"
+        ],
+        "consumer": "N_SHOW_CASE_WELCOME",
+        "parameters": {
+          "name": "!!!!!!!!!!!!!!!"
+        }
+      }
+    },
+    "failed-header": {
+      "combinations": 2,
+      "max_bytes": {
+        "text": "수신 탐정: !!!!!!!!!!!!!!!.  ",
+        "encoded_with_nul": 30,
+        "layout": {
+          "lines": [
+            "수신 탐정: !!!!!!!!!!!!!!!.",
+            ""
+          ],
+          "line_count": 2,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.076",
+          "c.ui.056"
+        ],
+        "consumer": "N_BEGIN_FAILED_CASE_REPORT",
+        "parameters": {
+          "name": "!!!!!!!!!!!!!!!"
+        }
+      },
+      "max_lines": {
+        "text": "수신 탐정: #%\\\\\\\\\\\\\\\\.  ",
+        "encoded_with_nul": 25,
+        "layout": {
+          "lines": [
+            "수신 탐정:",
+            "#%\\\\\\\\\\\\\\\\.",
+            ""
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.076",
+          "c.ui.056"
+        ],
+        "consumer": "N_BEGIN_FAILED_CASE_REPORT",
+        "parameters": {
+          "name": "#%\\\\\\\\\\\\\\\\"
+        }
+      }
+    },
+    "next-case": {
+      "combinations": 2,
+      "max_bytes": {
+        "text": "<CTRL:8D>다음 사건에 도전할 탐정: !!!!!!!!!!!!!!!. 시작할까요? (Y/N)",
+        "encoded_with_nul": 61,
+        "layout": {
+          "lines": [
+            "",
+            "다음 사건에 도전할",
+            "탐정: !!!!!!!!!!!!!!!.",
+            "시작할까요? (Y/N)"
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.093",
+          "c.ui.094"
+        ],
+        "consumer": "N_ASK_FOR_NEXT_CASE",
+        "parameters": {
+          "name": "!!!!!!!!!!!!!!!"
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>다음 사건에 도전할 탐정: #%\\\\\\\\\\\\\\\\. 시작할까요? (Y/N)",
+        "encoded_with_nul": 56,
+        "layout": {
+          "lines": [
+            "",
+            "다음 사건에 도전할",
+            "탐정:",
+            "#%\\\\\\\\\\\\\\\\.",
+            "시작할까요? (Y/N)"
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.093",
+          "c.ui.094"
+        ],
+        "consumer": "N_ASK_FOR_NEXT_CASE",
+        "parameters": {
+          "name": "#%\\\\\\\\\\\\\\\\"
+        }
+      }
+    },
+    "rank": {
+      "combinations": 6,
+      "max_bytes": {
+        "text": "최고 명탐정.",
+        "encoded_with_nul": 13,
+        "layout": {
+          "lines": [
+            "최고 명탐정."
+          ],
+          "line_count": 1,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.detective_ranks.05",
+          "c.ui.099"
+        ],
+        "consumer": "N_SHOW_CASE_WELCOME",
+        "parameters": {
+          "rank": 5
+        }
+      },
+      "max_lines": {
+        "text": "최고 명탐정.",
+        "encoded_with_nul": 13,
+        "layout": {
+          "lines": [
+            "최고 명탐정."
+          ],
+          "line_count": 1,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.detective_ranks.05",
+          "c.ui.099"
+        ],
+        "consumer": "N_SHOW_CASE_WELCOME",
+        "parameters": {
+          "rank": 5
+        }
+      }
+    },
+    "promotion": {
+      "combinations": 6,
+      "max_bytes": {
+        "text": "<CTRL:8D>승진을 축하합니다! 새 직급:  최고 명탐정.",
+        "encoded_with_nul": 43,
+        "layout": {
+          "lines": [
+            "",
+            "승진을 축하합니다! 새",
+            "직급:  최고 명탐정."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.096",
+          "c.detective_ranks.05",
+          "c.ui.058"
+        ],
+        "consumer": "N_CHECK_PROMOTION_REPORT",
+        "parameters": {
+          "rank": 5
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>승진을 축하합니다! 새 직급:  최고 명탐정.",
+        "encoded_with_nul": 43,
+        "layout": {
+          "lines": [
+            "",
+            "승진을 축하합니다! 새",
+            "직급:  최고 명탐정."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.096",
+          "c.detective_ranks.05",
+          "c.ui.058"
+        ],
+        "consumer": "N_CHECK_PROMOTION_REPORT",
+        "parameters": {
+          "rank": 5
+        }
+      }
+    },
+    "news": {
+      "combinations": 30,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D>*** 속보 ***<CTRL:8D><CTRL:8D>국보 도난! 발생 도시: 부에노스아이레스.",
+        "encoded_with_nul": 56,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "*** 속보 ***",
+            "",
+            "국보 도난! 발생 도시:",
+            "부에노스아이레스."
+          ],
+          "line_count": 6,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.027",
+          "c.cities.05"
+        ],
+        "consumer": "N_ANNOUNCE_NEWS_FLASH",
+        "parameters": {
+          "city": 5
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D>*** 속보 ***<CTRL:8D><CTRL:8D>국보 도난! 발생 도시: 부에노스아이레스.",
+        "encoded_with_nul": 56,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "*** 속보 ***",
+            "",
+            "국보 도난! 발생 도시:",
+            "부에노스아이레스."
+          ],
+          "line_count": 6,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.027",
+          "c.cities.05"
+        ],
+        "consumer": "N_ANNOUNCE_NEWS_FLASH",
+        "parameters": {
+          "city": 5
+        }
+      }
+    },
+    "suspect-sex": {
+      "combinations": 60,
+      "max_bytes": {
+        "text": "<CTRL:8D>남성 용의자가 현장에서 목격되었습니다.",
+        "encoded_with_nul": 40,
+        "layout": {
+          "lines": [
+            "",
+            "남성 용의자가 현장에서",
+            "목격되었습니다."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.029",
+          "c.ui.031"
+        ],
+        "consumer": "N_ANNOUNCE_SUSPECT",
+        "parameters": {
+          "female": false
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>남성 용의자가 현장에서 목격되었습니다.",
+        "encoded_with_nul": 40,
+        "layout": {
+          "lines": [
+            "",
+            "남성 용의자가 현장에서",
+            "목격되었습니다."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.029",
+          "c.ui.031"
+        ],
+        "consumer": "N_ANNOUNCE_SUSPECT",
+        "parameters": {
+          "female": false
+        }
+      }
+    },
+    "mission": {
+      "combinations": 60,
+      "max_bytes": {
+        "text": "<CTRL:8D>범인 추적 임무: 부에노스아이레스 출발. 범인의 은신처를 찾아 범인을 체포하세요.<CTRL:8D>",
+        "encoded_with_nul": 81,
+        "layout": {
+          "lines": [
+            "",
+            "범인 추적 임무:",
+            "부에노스아이레스 출발.",
+            "범인의 은신처를 찾아",
+            "범인을 체포하세요.",
+            ""
+          ],
+          "line_count": 6,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 5,
+          "first_text_final_row": 103,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.032",
+          "c.cities.05",
+          "c.ui.033",
+          "c.ui.101",
+          "c.ui.034",
+          "c.ui.069"
+        ],
+        "consumer": "N_APPEND_ARREST_OBJECT",
+        "parameters": {
+          "city": 5,
+          "female": false
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>범인 추적 임무: 부에노스아이레스 출발. 범인의 은신처를 찾아 범인을 체포하세요.<CTRL:8D>",
+        "encoded_with_nul": 81,
+        "layout": {
+          "lines": [
+            "",
+            "범인 추적 임무:",
+            "부에노스아이레스 출발.",
+            "범인의 은신처를 찾아",
+            "범인을 체포하세요.",
+            ""
+          ],
+          "line_count": 6,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 5,
+          "first_text_final_row": 103,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.032",
+          "c.cities.05",
+          "c.ui.033",
+          "c.ui.101",
+          "c.ui.034",
+          "c.ui.069"
+        ],
+        "consumer": "N_APPEND_ARREST_OBJECT",
+        "parameters": {
+          "city": 5,
+          "female": false
+        }
+      }
+    },
+    "successful-police": {
+      "combinations": 300,
+      "max_bytes": {
+        "text": "당신 덕분에 부에노스아이레스 경찰이 검거한 용의자: 이호르 이호로비치.",
+        "encoded_with_nul": 70,
+        "layout": {
+          "lines": [
+            "당신 덕분에",
+            "부에노스아이레스 경찰이",
+            "검거한 용의자: 이호르",
+            "이호로비치."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.077",
+          "c.cities.05",
+          "c.ui.078",
+          "c.suspects.09"
+        ],
+        "consumer": "N_REPORT_SOLVED_CASE",
+        "parameters": {
+          "city": 5,
+          "suspect": 9
+        }
+      },
+      "max_lines": {
+        "text": "당신 덕분에 부에노스아이레스 경찰이 검거한 용의자: 이호르 이호로비치.",
+        "encoded_with_nul": 70,
+        "layout": {
+          "lines": [
+            "당신 덕분에",
+            "부에노스아이레스 경찰이",
+            "검거한 용의자: 이호르",
+            "이호로비치."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.077",
+          "c.cities.05",
+          "c.ui.078",
+          "c.suspects.09"
+        ],
+        "consumer": "N_REPORT_SOLVED_CASE",
+        "parameters": {
+          "city": 5,
+          "suspect": 9
+        }
+      }
+    },
+    "treasure": {
+      "combinations": 90,
+      "max_bytes": {
+        "text": "<CTRL:8D>확인된 도난품: 에베레스트산으로 가는 셰르파의 지도.",
+        "encoded_with_nul": 53,
+        "layout": {
+          "lines": [
+            "",
+            "확인된 도난품:",
+            "에베레스트산으로 가는",
+            "셰르파의 지도."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.028",
+          "i.029"
+        ],
+        "consumer": "N_ANNOUNCE_NEWS_FLASH",
+        "parameters": {
+          "treasure": 29
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>확인된 도난품: 에베레스트산으로 가는 셰르파의 지도.",
+        "encoded_with_nul": 53,
+        "layout": {
+          "lines": [
+            "",
+            "확인된 도난품:",
+            "에베레스트산으로 가는",
+            "셰르파의 지도."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.028",
+          "i.029"
+        ],
+        "consumer": "N_ANNOUNCE_NEWS_FLASH",
+        "parameters": {
+          "treasure": 29
+        }
+      }
+    },
+    "successful-loot": {
+      "combinations": 900,
+      "max_bytes": {
+        "text": "<CTRL:8D>이호르 이호로비치의 장물: 에베레스트산으로 가는 셰르파의 지도. 이를 돌려받고 고마워할 주민들의 도시: 카트만두.",
+        "encoded_with_nul": 112,
+        "layout": {
+          "lines": [
+            "",
+            "이호르 이호로비치의",
+            "장물: 에베레스트산으로",
+            "가는 셰르파의 지도.",
+            "이를 돌려받고 고마워할",
+            "주민들의 도시: 카트만두."
+          ],
+          "line_count": 6,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 5,
+          "first_text_final_row": 103,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.102",
+          "c.suspects.09",
+          "c.ui.079",
+          "i.029",
+          "c.ui.080",
+          "c.cities.09"
+        ],
+        "consumer": "N_REPORT_SOLVED_CASE",
+        "parameters": {
+          "treasure": 29,
+          "city": 9,
+          "suspect": 9
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>이호르 이호로비치의 장물: 알팅(Althing)에서 쓰던 의사봉. 이를 돌려받고 고마워할 주민들의 도시: 레이캬비크.",
+        "encoded_with_nul": 108,
+        "layout": {
+          "lines": [
+            "",
+            "이호르 이호로비치의",
+            "장물:",
+            "알팅(Althing)에서",
+            "쓰던 의사봉. 이를",
+            "돌려받고 고마워할",
+            "주민들의 도시:",
+            "레이캬비크."
+          ],
+          "line_count": 8,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 7,
+          "first_text_final_row": 83,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.102",
+          "c.suspects.09",
+          "c.ui.079",
+          "i.069",
+          "c.ui.080",
+          "c.cities.23"
+        ],
+        "consumer": "N_REPORT_SOLVED_CASE",
+        "parameters": {
+          "treasure": 69,
+          "city": 23,
+          "suspect": 9
+        }
+      }
+    },
+    "deadline": {
+      "combinations": 140,
+      "max_bytes": {
+        "text": "체포 시한: 월요일, 10시(오전). 행운을 빕니다, !!!!!!!!!!!!!!!.<CTRL:8D><CTRL:8D><CTRL:80>     국장",
+        "encoded_with_nul": 75,
+        "layout": {
+          "lines": [
+            "체포 시한: 월요일,",
+            "10시(오전). 행운을",
+            "빕니다, !!!!!!!!!!!!!!!.",
+            "",
+            "     국장"
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 5,
+          "first_text_final_row": 103,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.035",
+          "c.weekdays.00",
+          "c.weekday_suffixes.00",
+          "c.ui.071",
+          "c.ui.072",
+          "c.ui.036",
+          "c.ui.037"
+        ],
+        "consumer": "N_APPEND_DEADLINE_MERIDIEM",
+        "parameters": {
+          "day": 0,
+          "hour": 10,
+          "name": "!!!!!!!!!!!!!!!"
+        }
+      },
+      "max_lines": {
+        "text": "체포 시한: 월요일, 10시(오전). 행운을 빕니다, #%\\\\\\\\\\\\\\\\.<CTRL:8D><CTRL:8D><CTRL:80>     국장",
+        "encoded_with_nul": 70,
+        "layout": {
+          "lines": [
+            "체포 시한: 월요일,",
+            "10시(오전). 행운을",
+            "빕니다,",
+            "#%\\\\\\\\\\\\\\\\.",
+            "",
+            "     국장"
+          ],
+          "line_count": 6,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 6,
+          "first_text_final_row": 93,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.035",
+          "c.weekdays.00",
+          "c.weekday_suffixes.00",
+          "c.ui.071",
+          "c.ui.072",
+          "c.ui.036",
+          "c.ui.037"
+        ],
+        "consumer": "N_APPEND_DEADLINE_MERIDIEM",
+        "parameters": {
+          "day": 0,
+          "hour": 10,
+          "name": "#%\\\\\\\\\\\\\\\\"
+        }
+      }
+    },
+    "timeout": {
+      "combinations": 10,
+      "max_bytes": {
+        "text": "인터폴입니다.<CTRL:8D><CTRL:8D>나쁜 소식입니다...<CTRL:8D><CTRL:8D>수사가 늦어져 놓쳐 버린 용의자: 이호르 이호로비치! 방금 도주 소식이 들어왔습니다.",
+        "encoded_with_nul": 117,
+        "layout": {
+          "lines": [
+            "인터폴입니다.",
+            "",
+            "나쁜 소식입니다...",
+            "",
+            "수사가 늦어져 놓쳐 버린",
+            "용의자: 이호르",
+            "이호로비치! 방금 도주",
+            "소식이 들어왔습니다."
+          ],
+          "line_count": 8,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 8,
+          "first_text_final_row": 73,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.083",
+          "c.ui.091",
+          "c.suspects.09",
+          "c.ui.092"
+        ],
+        "consumer": "N_REPORT_CASE_TIMEOUT",
+        "parameters": {
+          "suspect": 9
+        }
+      },
+      "max_lines": {
+        "text": "인터폴입니다.<CTRL:8D><CTRL:8D>나쁜 소식입니다...<CTRL:8D><CTRL:8D>수사가 늦어져 놓쳐 버린 용의자: 이호르 이호로비치! 방금 도주 소식이 들어왔습니다.",
+        "encoded_with_nul": 117,
+        "layout": {
+          "lines": [
+            "인터폴입니다.",
+            "",
+            "나쁜 소식입니다...",
+            "",
+            "수사가 늦어져 놓쳐 버린",
+            "용의자: 이호르",
+            "이호로비치! 방금 도주",
+            "소식이 들어왔습니다."
+          ],
+          "line_count": 8,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 8,
+          "first_text_final_row": 73,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.083",
+          "c.ui.091",
+          "c.suspects.09",
+          "c.ui.092"
+        ],
+        "consumer": "N_REPORT_CASE_TIMEOUT",
+        "parameters": {
+          "suspect": 9
+        }
+      }
+    },
+    "warrant-name": {
+      "combinations": 10,
+      "max_bytes": {
+        "text": "이호르 이호로비치.",
+        "encoded_with_nul": 19,
+        "layout": {
+          "lines": [
+            "이호르 이호로비치."
+          ],
+          "line_count": 1,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.suspects.09",
+          "c.ui.058"
+        ],
+        "consumer": "N_APPEND_NEXT_MATCHED_SUSPECT",
+        "parameters": {
+          "suspect": 9
+        }
+      },
+      "max_lines": {
+        "text": "이호르 이호로비치.",
+        "encoded_with_nul": 19,
+        "layout": {
+          "lines": [
+            "이호르 이호로비치."
+          ],
+          "line_count": 1,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.suspects.09",
+          "c.ui.058"
+        ],
+        "consumer": "N_APPEND_NEXT_MATCHED_SUSPECT",
+        "parameters": {
+          "suspect": 9
+        }
+      }
+    },
+    "no-warrant": {
+      "combinations": 20,
+      "max_bytes": {
+        "text": "수신 탐정: !!!!!!!!!!!!!!!.  따라잡은 용의자: 이호르 이호로비치.<CTRL:8D><CTRL:8D>하지만 체포 영장 없이는 합법적으로 체포할 수 없습니다.",
+        "encoded_with_nul": 121,
+        "layout": {
+          "lines": [
+            "수신 탐정: !!!!!!!!!!!!!!!.",
+            "따라잡은 용의자: 이호르",
+            "이호로비치.",
+            "",
+            "하지만 체포 영장 없이는",
+            "합법적으로 체포할 수",
+            "없습니다."
+          ],
+          "line_count": 7,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 7,
+          "first_text_final_row": 83,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.076",
+          "c.ui.056",
+          "c.ui.088",
+          "c.suspects.09",
+          "c.ui.089"
+        ],
+        "consumer": "N_SHOW_ARREST_RESULT",
+        "parameters": {
+          "suspect": 9,
+          "name": "!!!!!!!!!!!!!!!"
+        }
+      },
+      "max_lines": {
+        "text": "수신 탐정: #%\\\\\\\\\\\\\\\\.  따라잡은 용의자: 이호르 이호로비치.<CTRL:8D><CTRL:8D>하지만 체포 영장 없이는 합법적으로 체포할 수 없습니다.",
+        "encoded_with_nul": 116,
+        "layout": {
+          "lines": [
+            "수신 탐정:",
+            "#%\\\\\\\\\\\\\\\\.",
+            "따라잡은 용의자: 이호르",
+            "이호로비치.",
+            "",
+            "하지만 체포 영장 없이는",
+            "합법적으로 체포할 수",
+            "없습니다."
+          ],
+          "line_count": 8,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 8,
+          "first_text_final_row": 73,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.076",
+          "c.ui.056",
+          "c.ui.088",
+          "c.suspects.09",
+          "c.ui.089"
+        ],
+        "consumer": "N_SHOW_ARREST_RESULT",
+        "parameters": {
+          "suspect": 9,
+          "name": "#%\\\\\\\\\\\\\\\\"
+        }
+      }
+    },
+    "wrong-trail": {
+      "combinations": 20,
+      "max_bytes": {
+        "text": "수신 탐정: !!!!!!!!!!!!!!!.  정확히 추적해 낸 용의자: 이호르 이호로비치.",
+        "encoded_with_nul": 73,
+        "layout": {
+          "lines": [
+            "수신 탐정: !!!!!!!!!!!!!!!.",
+            "정확히 추적해 낸",
+            "용의자: 이호르",
+            "이호로비치."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.076",
+          "c.ui.056",
+          "c.ui.084",
+          "c.suspects.09",
+          "c.ui.085"
+        ],
+        "consumer": "N_REPORT_WRONG_WARRANT",
+        "parameters": {
+          "suspect": 9,
+          "name": "!!!!!!!!!!!!!!!"
+        }
+      },
+      "max_lines": {
+        "text": "수신 탐정: #%\\\\\\\\\\\\\\\\.  정확히 추적해 낸 용의자: 이호르 이호로비치.",
+        "encoded_with_nul": 68,
+        "layout": {
+          "lines": [
+            "수신 탐정:",
+            "#%\\\\\\\\\\\\\\\\.",
+            "정확히 추적해 낸",
+            "용의자: 이호르",
+            "이호로비치."
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 5,
+          "first_text_final_row": 103,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.076",
+          "c.ui.056",
+          "c.ui.084",
+          "c.suspects.09",
+          "c.ui.085"
+        ],
+        "consumer": "N_REPORT_WRONG_WARRANT",
+        "parameters": {
+          "suspect": 9,
+          "name": "#%\\\\\\\\\\\\\\\\"
+        }
+      }
+    },
+    "wrong-warrant": {
+      "combinations": 10,
+      "max_bytes": {
+        "text": "<CTRL:8D>안타깝게도 영장에 적힌 이름: 이호르 이호로비치.",
+        "encoded_with_nul": 49,
+        "layout": {
+          "lines": [
+            "",
+            "안타깝게도 영장에 적힌",
+            "이름: 이호르 이호로비치."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.086",
+          "c.suspects.09"
+        ],
+        "consumer": "N_REPORT_WRONG_WARRANT",
+        "parameters": {
+          "warrant": 9
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>안타깝게도 영장에 적힌 이름: 이호르 이호로비치.",
+        "encoded_with_nul": 49,
+        "layout": {
+          "lines": [
+            "",
+            "안타깝게도 영장에 적힌",
+            "이름: 이호르 이호로비치."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.086",
+          "c.suspects.09"
+        ],
+        "consumer": "N_REPORT_WRONG_WARRANT",
+        "parameters": {
+          "warrant": 9
+        }
+      }
+    },
+    "promotion-progress": {
+      "combinations": 10,
+      "max_bytes": {
+        "text": "<CTRL:8D>다섯 건 더 해결하면 다음 직급으로 승진합니다.",
+        "encoded_with_nul": 47,
+        "layout": {
+          "lines": [
+            "",
+            "다섯 건 더 해결하면",
+            "다음 직급으로",
+            "승진합니다."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.102",
+          "c.ui.111",
+          "c.ui.106",
+          "c.ui.095"
+        ],
+        "consumer": "N_REPORT_CASES_UNTIL_PROMOTION",
+        "parameters": {
+          "remaining": 5
+        }
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>다섯 건 더 해결하면 다음 직급으로 승진합니다.",
+        "encoded_with_nul": 47,
+        "layout": {
+          "lines": [
+            "",
+            "다섯 건 더 해결하면",
+            "다음 직급으로",
+            "승진합니다."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.102",
+          "c.ui.111",
+          "c.ui.106",
+          "c.ui.095"
+        ],
+        "consumer": "N_REPORT_CASES_UNTIL_PROMOTION",
+        "parameters": {
+          "remaining": 5
+        }
+      }
+    },
+    "direct-report-19": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "탐정 이름(영문, 최대 15자):",
+        "encoded_with_nul": 28,
+        "layout": {
+          "lines": [
+            "탐정 이름(영문, 최대",
+            "15자):"
+          ],
+          "line_count": 2,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.019"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "탐정 이름(영문, 최대 15자):",
+        "encoded_with_nul": 28,
+        "layout": {
+          "lines": [
+            "탐정 이름(영문, 최대",
+            "15자):"
+          ],
+          "line_count": 2,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.019"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-20": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D>범죄 기록이 있습니다. 접근을 거부합니다.<CTRL:8D><CTRL:8D>",
+        "encoded_with_nul": 45,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "범죄 기록이 있습니다.",
+            "접근을 거부합니다.",
+            "",
+            ""
+          ],
+          "line_count": 6,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.020"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D>범죄 기록이 있습니다. 접근을 거부합니다.<CTRL:8D><CTRL:8D>",
+        "encoded_with_nul": 45,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "범죄 기록이 있습니다.",
+            "접근을 거부합니다.",
+            "",
+            ""
+          ],
+          "line_count": 6,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.020"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-21": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D>기록에 없는 이름입니다. 새 탐정인가요? (Y/N)",
+        "encoded_with_nul": 47,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "기록에 없는 이름입니다.",
+            "새 탐정인가요?",
+            "(Y/N)"
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.021"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D>기록에 없는 이름입니다. 새 탐정인가요? (Y/N)",
+        "encoded_with_nul": 47,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "기록에 없는 이름입니다.",
+            "새 탐정인가요?",
+            "(Y/N)"
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.021"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-22": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>탐정 명부가 가득 찼습니다. Control-D 키로 한 명을 삭제하세요.<CTRL:8D><CTRL:8D>",
+        "encoded_with_nul": 65,
+        "layout": {
+          "lines": [
+            "",
+            "탐정 명부가 가득",
+            "찼습니다. Control-D",
+            "키로 한 명을",
+            "삭제하세요.",
+            "",
+            ""
+          ],
+          "line_count": 7,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 6,
+          "first_text_final_row": 93,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.022"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>탐정 명부가 가득 찼습니다. Control-D 키로 한 명을 삭제하세요.<CTRL:8D><CTRL:8D>",
+        "encoded_with_nul": 65,
+        "layout": {
+          "lines": [
+            "",
+            "탐정 명부가 가득",
+            "찼습니다. Control-D",
+            "키로 한 명을",
+            "삭제하세요.",
+            "",
+            ""
+          ],
+          "line_count": 7,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 6,
+          "first_text_final_row": 93,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.022"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-23": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D>평소 사용하는 이름을 입력하세요.",
+        "encoded_with_nul": 35,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "평소 사용하는 이름을",
+            "입력하세요."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.023"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D>평소 사용하는 이름을 입력하세요.",
+        "encoded_with_nul": 35,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "평소 사용하는 이름을",
+            "입력하세요."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.023"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-26": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>저장한 사건을 이어 할까요? 거절하면 저장 내용이 지워집니다. (Y/N)",
+        "encoded_with_nul": 67,
+        "layout": {
+          "lines": [
+            "",
+            "저장한 사건을 이어",
+            "할까요? 거절하면 저장",
+            "내용이 지워집니다.",
+            "(Y/N)"
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.026"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>저장한 사건을 이어 할까요? 거절하면 저장 내용이 지워집니다. (Y/N)",
+        "encoded_with_nul": 67,
+        "layout": {
+          "lines": [
+            "",
+            "저장한 사건을 이어",
+            "할까요? 거절하면 저장",
+            "내용이 지워집니다.",
+            "(Y/N)"
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.026"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-38": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D>당신은 유명한 최고 명탐정입니다!<CTRL:8D><CTRL:8D>어딘가의 암살 명단에 이름이 올라 있을지도 모릅니다....<CTRL:8D><CTRL:8D><CTRL:8D>가명으로 등록하는 편이 좋겠습니다.<CTRL:8D>",
+        "encoded_with_nul": 129,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "당신은 유명한 최고",
+            "명탐정입니다!",
+            "",
+            "어딘가의 암살 명단에",
+            "이름이 올라 있을지도",
+            "모릅니다....",
+            "",
+            "",
+            "가명으로 등록하는 편이",
+            "좋겠습니다.",
+            ""
+          ],
+          "line_count": 13,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 11,
+          "first_text_final_row": 43,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.038"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D>당신은 유명한 최고 명탐정입니다!<CTRL:8D><CTRL:8D>어딘가의 암살 명단에 이름이 올라 있을지도 모릅니다....<CTRL:8D><CTRL:8D><CTRL:8D>가명으로 등록하는 편이 좋겠습니다.<CTRL:8D>",
+        "encoded_with_nul": 129,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "당신은 유명한 최고",
+            "명탐정입니다!",
+            "",
+            "어딘가의 암살 명단에",
+            "이름이 올라 있을지도",
+            "모릅니다....",
+            "",
+            "",
+            "가명으로 등록하는 편이",
+            "좋겠습니다.",
+            ""
+          ],
+          "line_count": 13,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 11,
+          "first_text_final_row": 43,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.038"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-39": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D><CTRL:8D>",
+        "encoded_with_nul": 4,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 0,
+          "first_text_final_row": null,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.039"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D><CTRL:8D>",
+        "encoded_with_nul": 4,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": true,
+          "completed_lines_from_first_text": 0,
+          "first_text_final_row": null,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.039"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-61": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "준비 완료.",
+        "encoded_with_nul": 11,
+        "layout": {
+          "lines": [
+            "준비 완료."
+          ],
+          "line_count": 1,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.061"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "준비 완료.",
+        "encoded_with_nul": 11,
+        "layout": {
+          "lines": [
+            "준비 완료."
+          ],
+          "line_count": 1,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.061"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-62": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D>체포 영장 발부 대상:",
+        "encoded_with_nul": 23,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "체포 영장 발부 대상:"
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.062"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D>체포 영장 발부 대상:",
+        "encoded_with_nul": 23,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "체포 영장 발부 대상:"
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.062"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-63": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>용의자 명단:",
+        "encoded_with_nul": 14,
+        "layout": {
+          "lines": [
+            "",
+            "용의자 명단:"
+          ],
+          "line_count": 2,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.063"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>용의자 명단:",
+        "encoded_with_nul": 14,
+        "layout": {
+          "lines": [
+            "",
+            "용의자 명단:"
+          ],
+          "line_count": 2,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 1,
+          "first_text_final_row": 143,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.063"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-64": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>이 정보에 맞는 용의자가 없습니다.",
+        "encoded_with_nul": 35,
+        "layout": {
+          "lines": [
+            "",
+            "이 정보에 맞는 용의자가",
+            "없습니다."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.064"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>이 정보에 맞는 용의자가 없습니다.",
+        "encoded_with_nul": 35,
+        "layout": {
+          "lines": [
+            "",
+            "이 정보에 맞는 용의자가",
+            "없습니다."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.064"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-74": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "잘했습니다! V.I.L.E.의 우두머리 카르멘 샌디에고를 잡았습니다!",
+        "encoded_with_nul": 62,
+        "layout": {
+          "lines": [
+            "잘했습니다! V.I.L.E.의",
+            "우두머리 카르멘",
+            "샌디에고를 잡았습니다!"
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.074"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "잘했습니다! V.I.L.E.의 우두머리 카르멘 샌디에고를 잡았습니다!",
+        "encoded_with_nul": 62,
+        "layout": {
+          "lines": [
+            "잘했습니다! V.I.L.E.의",
+            "우두머리 카르멘",
+            "샌디에고를 잡았습니다!"
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.074"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-75": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>최고 명탐정으로 승진했습니다. 명예롭게 은퇴해 ACME 명예의 전당에 올랐습니다.",
+        "encoded_with_nul": 78,
+        "layout": {
+          "lines": [
+            "",
+            "최고 명탐정으로",
+            "승진했습니다. 명예롭게",
+            "은퇴해 ACME 명예의",
+            "전당에 올랐습니다."
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.075"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>최고 명탐정으로 승진했습니다. 명예롭게 은퇴해 ACME 명예의 전당에 올랐습니다.",
+        "encoded_with_nul": 78,
+        "layout": {
+          "lines": [
+            "",
+            "최고 명탐정으로",
+            "승진했습니다. 명예롭게",
+            "은퇴해 ACME 명예의",
+            "전당에 올랐습니다."
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.075"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-81": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>인터폴은 이번 사건에서 보여 준 활약에 감사드립니다.",
+        "encoded_with_nul": 53,
+        "layout": {
+          "lines": [
+            "",
+            "인터폴은 이번 사건에서",
+            "보여 준 활약에",
+            "감사드립니다."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.081"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>인터폴은 이번 사건에서 보여 준 활약에 감사드립니다.",
+        "encoded_with_nul": 53,
+        "layout": {
+          "lines": [
+            "",
+            "인터폴은 이번 사건에서",
+            "보여 준 활약에",
+            "감사드립니다."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.081"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-82": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>이번 성공을 탐정 기록에 남기겠습니다.",
+        "encoded_with_nul": 39,
+        "layout": {
+          "lines": [
+            "",
+            "이번 성공을 탐정 기록에",
+            "남기겠습니다."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.082"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>이번 성공을 탐정 기록에 남기겠습니다.",
+        "encoded_with_nul": 39,
+        "layout": {
+          "lines": [
+            "",
+            "이번 성공을 탐정 기록에",
+            "남기겠습니다."
+          ],
+          "line_count": 3,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 2,
+          "first_text_final_row": 133,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.082"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-87": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>조심하세요. 부당 체포로 모두 고소당할 수 있습니다! 다음에는 더 잘해 주십시오.",
+        "encoded_with_nul": 79,
+        "layout": {
+          "lines": [
+            "",
+            "조심하세요. 부당 체포로",
+            "모두 고소당할 수",
+            "있습니다! 다음에는 더",
+            "잘해 주십시오."
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.087"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>조심하세요. 부당 체포로 모두 고소당할 수 있습니다! 다음에는 더 잘해 주십시오.",
+        "encoded_with_nul": 79,
+        "layout": {
+          "lines": [
+            "",
+            "조심하세요. 부당 체포로",
+            "모두 고소당할 수",
+            "있습니다! 다음에는 더",
+            "잘해 주십시오."
+          ],
+          "line_count": 5,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 4,
+          "first_text_final_row": 113,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.087"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-90": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D>카르멘 일당이 또 한 건을 저지르고 달아났군요.",
+        "encoded_with_nul": 47,
+        "layout": {
+          "lines": [
+            "",
+            "카르멘 일당이 또 한",
+            "건을 저지르고",
+            "달아났군요."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.090"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D>카르멘 일당이 또 한 건을 저지르고 달아났군요.",
+        "encoded_with_nul": 47,
+        "layout": {
+          "lines": [
+            "",
+            "카르멘 일당이 또 한",
+            "건을 저지르고",
+            "달아났군요."
+          ],
+          "line_count": 4,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 3,
+          "first_text_final_row": 123,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.090"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    },
+    "direct-report-98": {
+      "combinations": 1,
+      "max_bytes": {
+        "text": "<CTRL:8D><CTRL:8D>ACME는 탐정님의 훌륭한 활약에 깊이 감사드립니다.<CTRL:8D><CTRL:8D><CTRL:80>      국장",
+        "encoded_with_nul": 64,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "ACME는 탐정님의",
+            "훌륭한 활약에 깊이",
+            "감사드립니다.",
+            "",
+            "      국장"
+          ],
+          "line_count": 7,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 5,
+          "first_text_final_row": 103,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.098"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      },
+      "max_lines": {
+        "text": "<CTRL:8D><CTRL:8D>ACME는 탐정님의 훌륭한 활약에 깊이 감사드립니다.<CTRL:8D><CTRL:8D><CTRL:80>      국장",
+        "encoded_with_nul": 64,
+        "layout": {
+          "lines": [
+            "",
+            "",
+            "ACME는 탐정님의",
+            "훌륭한 활약에 깊이",
+            "감사드립니다.",
+            "",
+            "      국장"
+          ],
+          "line_count": 7,
+          "hard_breaks": [],
+          "final_empty_line": false,
+          "completed_lines_from_first_text": 5,
+          "first_text_final_row": 103,
+          "all_text_remains_visible": true
+        },
+        "ids": [
+          "c.ui.098"
+        ],
+        "consumer": "N_DRAW_UI_TEXT / N_DRAW_UI_TEXT_AT_LEFT_MARGIN",
+        "parameters": {}
+      }
+    }
+  },
+  "dynamic_combinations": 1697,
+  "maximum_assembled_bytes": 129,
+  "standalone_ui_previews": [
+    {
+      "id": "c.ui.000",
+      "text": "버전: 2.00",
+      "layout": {
+        "lines": [
+          "버전: 2.00"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.001",
+      "text": "취침 중...",
+      "layout": {
+        "lines": [
+          "취침 중..."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.002",
+      "text": "본부",
+      "layout": {
+        "lines": [
+          "본부"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.003",
+      "text": "디스크를 넣으세요",
+      "layout": {
+        "lines": [
+          "디스크를 넣으세요"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.004",
+      "text": "세계 어디에 있을까?",
+      "layout": {
+        "lines": [
+          "세계 어디에 있을까?"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.005",
+      "text": "카르멘 샌디에고",
+      "layout": {
+        "lines": [
+          "카르멘 샌디에고"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.006",
+      "text": "A면",
+      "layout": {
+        "lines": [
+          "A면"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.007",
+      "text": "B면",
+      "layout": {
+        "lines": [
+          "B면"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.008",
+      "text": "넣고 <CTRL:81> 키를 누르세요",
+      "layout": {
+        "lines": [
+          "넣고 <CTRL:81> 키를",
+          "누르세요"
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.009",
+      "text": "아무 키 또는",
+      "layout": {
+        "lines": [
+          "아무 키 또는"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.010",
+      "text": "버튼을 눌러",
+      "layout": {
+        "lines": [
+          "버튼을 눌러"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.011",
+      "text": "계속하세요",
+      "layout": {
+        "lines": [
+          "계속하세요"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.012",
+      "text": "계속: <CTRL:81>",
+      "layout": {
+        "lines": [
+          "계속: <CTRL:81>"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.013",
+      "text": "삭제: <CTRL:81>   취소: <CTRL:82>",
+      "layout": {
+        "lines": [
+          "삭제: <CTRL:81>  ",
+          "취소: <CTRL:82>"
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.014",
+      "text": "ACME 탐정 사무소 명예의 전당",
+      "layout": {
+        "lines": [
+          "ACME 탐정 사무소",
+          "명예의 전당"
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.015",
+      "text": "ACME 탐정 사무소 탐정 명부",
+      "layout": {
+        "lines": [
+          "ACME 탐정 사무소",
+          "탐정 명부"
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.016",
+      "text": "이름",
+      "layout": {
+        "lines": [
+          "이름"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.017",
+      "text": "직급",
+      "layout": {
+        "lines": [
+          "직급"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.018",
+      "text": "해결 수",
+      "layout": {
+        "lines": [
+          "해결 수"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.019",
+      "text": "탐정 이름(영문, 최대 15자):",
+      "layout": {
+        "lines": [
+          "탐정 이름(영문, 최대",
+          "15자):"
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.020",
+      "text": "<CTRL:8D><CTRL:8D>범죄 기록이 있습니다. 접근을 거부합니다.<CTRL:8D><CTRL:8D>",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "범죄 기록이 있습니다.",
+          "접근을 거부합니다.",
+          "",
+          ""
+        ],
+        "line_count": 6,
+        "hard_breaks": [],
+        "final_empty_line": true,
+        "completed_lines_from_first_text": 4,
+        "first_text_final_row": 113,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.021",
+      "text": "<CTRL:8D><CTRL:8D>기록에 없는 이름입니다. 새 탐정인가요? (Y/N)",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "기록에 없는 이름입니다.",
+          "새 탐정인가요?",
+          "(Y/N)"
+        ],
+        "line_count": 5,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.022",
+      "text": "<CTRL:8D>탐정 명부가 가득 찼습니다. Control-D 키로 한 명을 삭제하세요.<CTRL:8D><CTRL:8D>",
+      "layout": {
+        "lines": [
+          "",
+          "탐정 명부가 가득",
+          "찼습니다. Control-D",
+          "키로 한 명을",
+          "삭제하세요.",
+          "",
+          ""
+        ],
+        "line_count": 7,
+        "hard_breaks": [],
+        "final_empty_line": true,
+        "completed_lines_from_first_text": 6,
+        "first_text_final_row": 93,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.023",
+      "text": "<CTRL:8D><CTRL:8D>평소 사용하는 이름을 입력하세요.",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "평소 사용하는 이름을",
+          "입력하세요."
+        ],
+        "line_count": 4,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.024",
+      "text": "<CTRL:8D><CTRL:8D>신원을 확인했습니다: ",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "신원을 확인했습니다: "
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.025",
+      "text": ". 현재 직급: ",
+      "layout": {
+        "lines": [
+          ". 현재 직급: "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.026",
+      "text": "<CTRL:8D>저장한 사건을 이어 할까요? 거절하면 저장 내용이 지워집니다. (Y/N)",
+      "layout": {
+        "lines": [
+          "",
+          "저장한 사건을 이어",
+          "할까요? 거절하면 저장",
+          "내용이 지워집니다.",
+          "(Y/N)"
+        ],
+        "line_count": 5,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 4,
+        "first_text_final_row": 113,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.027",
+      "text": "<CTRL:8D><CTRL:8D>*** 속보 ***<CTRL:8D><CTRL:8D>국보 도난! 발생 도시: ",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "*** 속보 ***",
+          "",
+          "국보 도난! 발생 도시: "
+        ],
+        "line_count": 5,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.028",
+      "text": "<CTRL:8D>확인된 도난품: ",
+      "layout": {
+        "lines": [
+          "",
+          "확인된 도난품: "
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.029",
+      "text": "<CTRL:8D>남성",
+      "layout": {
+        "lines": [
+          "",
+          "남성"
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.030",
+      "text": "<CTRL:8D>여성",
+      "layout": {
+        "lines": [
+          "",
+          "여성"
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.031",
+      "text": " 용의자가 현장에서 목격되었습니다.",
+      "layout": {
+        "lines": [
+          " 용의자가 현장에서",
+          "목격되었습니다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.032",
+      "text": "<CTRL:8D>범인 추적 임무: ",
+      "layout": {
+        "lines": [
+          "",
+          "범인 추적 임무: "
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.033",
+      "text": "출발. ",
+      "layout": {
+        "lines": [
+          "출발. "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.034",
+      "text": "은신처를 찾아 ",
+      "layout": {
+        "lines": [
+          "은신처를 찾아 "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.035",
+      "text": "체포 시한: ",
+      "layout": {
+        "lines": [
+          "체포 시한: "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.036",
+      "text": ". 행운을 빕니다, ",
+      "layout": {
+        "lines": [
+          ". 행운을 빕니다, "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.037",
+      "text": ".<CTRL:8D><CTRL:8D><CTRL:80>     국장",
+      "layout": {
+        "lines": [
+          ".",
+          "",
+          "     국장"
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.038",
+      "text": "<CTRL:8D><CTRL:8D>당신은 유명한 최고 명탐정입니다!<CTRL:8D><CTRL:8D>어딘가의 암살 명단에 이름이 올라 있을지도 모릅니다....<CTRL:8D><CTRL:8D><CTRL:8D>가명으로 등록하는 편이 좋겠습니다.<CTRL:8D>",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "당신은 유명한 최고",
+          "명탐정입니다!",
+          "",
+          "어딘가의 암살 명단에",
+          "이름이 올라 있을지도",
+          "모릅니다....",
+          "",
+          "",
+          "가명으로 등록하는 편이",
+          "좋겠습니다.",
+          ""
+        ],
+        "line_count": 13,
+        "hard_breaks": [],
+        "final_empty_line": true,
+        "completed_lines_from_first_text": 11,
+        "first_text_final_row": 43,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.039",
+      "text": "<CTRL:8D><CTRL:8D><CTRL:8D>",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "line_count": 4,
+        "hard_breaks": [],
+        "final_empty_line": true,
+        "completed_lines_from_first_text": 0,
+        "first_text_final_row": null,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.040",
+      "text": "사건을 저장할까요?",
+      "layout": {
+        "lines": [
+          "사건을 저장할까요?"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.041",
+      "text": "취소: <CTRL:82>.<CTRL:8D>저장: A면을 1번 드라이브에<CTRL:8D>넣고 <CTRL:81> 키를 누르세요.",
+      "layout": {
+        "lines": [
+          "취소: <CTRL:82>.",
+          "저장: A면을 1번",
+          "드라이브에",
+          "넣고 <CTRL:81> 키를",
+          "누르세요."
+        ],
+        "line_count": 5,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 5,
+        "first_text_final_row": 103,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.042",
+      "text": "V.I.L.E. 조직원이다!",
+      "layout": {
+        "lines": [
+          "V.I.L.E. 조직원이다!"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.043",
+      "text": "제대로 된 길을",
+      "layout": {
+        "lines": [
+          "제대로 된 길을"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.044",
+      "text": "찾았군요!",
+      "layout": {
+        "lines": [
+          "찾았군요!"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.045",
+      "text": "저기 달아나는",
+      "layout": {
+        "lines": [
+          "저기 달아나는"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.046",
+      "text": "용의자다!",
+      "layout": {
+        "lines": [
+          "용의자다!"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.047",
+      "text": "너무 가까이 왔군, 탐정 양반.",
+      "layout": {
+        "lines": [
+          "너무 가까이 왔군, 탐정",
+          "양반."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.048",
+      "text": "그런 사람을 본 적이 없습니다.",
+      "layout": {
+        "lines": [
+          "그런 사람을 본 적이",
+          "없습니다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.049",
+      "text": "항공 노선",
+      "layout": {
+        "lines": [
+          "항공 노선"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.050",
+      "text": "비행기로 출발",
+      "layout": {
+        "lines": [
+          "비행기로 출발"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.051",
+      "text": "탐문 수사",
+      "layout": {
+        "lines": [
+          "탐문 수사"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.052",
+      "text": "인터폴 방문",
+      "layout": {
+        "lines": [
+          "인터폴 방문"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.053",
+      "text": "노선 감추기",
+      "layout": {
+        "lines": [
+          "노선 감추기"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.054",
+      "text": "컴퓨터 사용",
+      "layout": {
+        "lines": [
+          "컴퓨터 사용"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.055",
+      "text": "사건 저장",
+      "layout": {
+        "lines": [
+          "사건 저장"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.056",
+      "text": "  ",
+      "layout": {
+        "lines": [
+          "  "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 0,
+        "first_text_final_row": null,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.057",
+      "text": ",",
+      "layout": {
+        "lines": [
+          ","
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.058",
+      "text": ".",
+      "layout": {
+        "lines": [
+          "."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.059",
+      "text": "그는 ",
+      "layout": {
+        "lines": [
+          "그는 "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.060",
+      "text": "그녀는 ",
+      "layout": {
+        "lines": [
+          "그녀는 "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.061",
+      "text": "준비 완료.",
+      "layout": {
+        "lines": [
+          "준비 완료."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.062",
+      "text": "<CTRL:8D><CTRL:8D>체포 영장 발부 대상:",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "체포 영장 발부 대상:"
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.063",
+      "text": "<CTRL:8D>용의자 명단:",
+      "layout": {
+        "lines": [
+          "",
+          "용의자 명단:"
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.064",
+      "text": "<CTRL:8D>이 정보에 맞는 용의자가 없습니다.",
+      "layout": {
+        "lines": [
+          "",
+          "이 정보에 맞는 용의자가",
+          "없습니다."
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.065",
+      "text": "남성",
+      "layout": {
+        "lines": [
+          "남성"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.066",
+      "text": "여성",
+      "layout": {
+        "lines": [
+          "여성"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.067",
+      "text": "자신",
+      "layout": {
+        "lines": [
+          "자신"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.068",
+      "text": "자신",
+      "layout": {
+        "lines": [
+          "자신"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.069",
+      "text": "범인을 체포하세요.",
+      "layout": {
+        "lines": [
+          "범인을 체포하세요."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.070",
+      "text": "범인을 체포하세요.",
+      "layout": {
+        "lines": [
+          "범인을 체포하세요."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.071",
+      "text": "요일, ",
+      "layout": {
+        "lines": [
+          "요일, "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.072",
+      "text": "시(오전)",
+      "layout": {
+        "lines": [
+          "시(오전)"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.073",
+      "text": "시(오후)",
+      "layout": {
+        "lines": [
+          "시(오후)"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.074",
+      "text": "잘했습니다! V.I.L.E.의 우두머리 카르멘 샌디에고를 잡았습니다!",
+      "layout": {
+        "lines": [
+          "잘했습니다! V.I.L.E.의",
+          "우두머리 카르멘",
+          "샌디에고를 잡았습니다!"
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.075",
+      "text": "<CTRL:8D>최고 명탐정으로 승진했습니다. 명예롭게 은퇴해 ACME 명예의 전당에 올랐습니다.",
+      "layout": {
+        "lines": [
+          "",
+          "최고 명탐정으로",
+          "승진했습니다. 명예롭게",
+          "은퇴해 ACME 명예의",
+          "전당에 올랐습니다."
+        ],
+        "line_count": 5,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 4,
+        "first_text_final_row": 113,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.076",
+      "text": "수신 탐정: ",
+      "layout": {
+        "lines": [
+          "수신 탐정: "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.077",
+      "text": "당신 덕분에 ",
+      "layout": {
+        "lines": [
+          "당신 덕분에 "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.078",
+      "text": " 경찰이 검거한 용의자: ",
+      "layout": {
+        "lines": [
+          " 경찰이 검거한 용의자:",
+          ""
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": true,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.079",
+      "text": "의 장물: ",
+      "layout": {
+        "lines": [
+          "의 장물: "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.080",
+      "text": ". 이를 돌려받고 고마워할 주민들의 도시: ",
+      "layout": {
+        "lines": [
+          ". 이를 돌려받고",
+          "고마워할 주민들의 도시:",
+          ""
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": true,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.081",
+      "text": "<CTRL:8D>인터폴은 이번 사건에서 보여 준 활약에 감사드립니다.",
+      "layout": {
+        "lines": [
+          "",
+          "인터폴은 이번 사건에서",
+          "보여 준 활약에",
+          "감사드립니다."
+        ],
+        "line_count": 4,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.082",
+      "text": "<CTRL:8D>이번 성공을 탐정 기록에 남기겠습니다.",
+      "layout": {
+        "lines": [
+          "",
+          "이번 성공을 탐정 기록에",
+          "남기겠습니다."
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.083",
+      "text": "인터폴입니다.<CTRL:8D><CTRL:8D>",
+      "layout": {
+        "lines": [
+          "인터폴입니다.",
+          "",
+          ""
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": true,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.084",
+      "text": "정확히 추적해 낸 용의자: ",
+      "layout": {
+        "lines": [
+          "정확히 추적해 낸",
+          "용의자: "
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.085",
+      "text": ".",
+      "layout": {
+        "lines": [
+          "."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.086",
+      "text": "<CTRL:8D>안타깝게도 영장에 적힌 이름: ",
+      "layout": {
+        "lines": [
+          "",
+          "안타깝게도 영장에 적힌",
+          "이름: "
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.087",
+      "text": "<CTRL:8D>조심하세요. 부당 체포로 모두 고소당할 수 있습니다! 다음에는 더 잘해 주십시오.",
+      "layout": {
+        "lines": [
+          "",
+          "조심하세요. 부당 체포로",
+          "모두 고소당할 수",
+          "있습니다! 다음에는 더",
+          "잘해 주십시오."
+        ],
+        "line_count": 5,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 4,
+        "first_text_final_row": 113,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.088",
+      "text": "따라잡은 용의자: ",
+      "layout": {
+        "lines": [
+          "따라잡은 용의자: "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.089",
+      "text": "<CTRL:8D><CTRL:8D>하지만 체포 영장 없이는 합법적으로 체포할 수 없습니다.",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "하지만 체포 영장 없이는",
+          "합법적으로 체포할 수",
+          "없습니다."
+        ],
+        "line_count": 5,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.090",
+      "text": "<CTRL:8D>카르멘 일당이 또 한 건을 저지르고 달아났군요.",
+      "layout": {
+        "lines": [
+          "",
+          "카르멘 일당이 또 한",
+          "건을 저지르고",
+          "달아났군요."
+        ],
+        "line_count": 4,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 3,
+        "first_text_final_row": 123,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.091",
+      "text": "나쁜 소식입니다...<CTRL:8D><CTRL:8D>수사가 늦어져 놓쳐 버린 용의자: ",
+      "layout": {
+        "lines": [
+          "나쁜 소식입니다...",
+          "",
+          "수사가 늦어져 놓쳐 버린",
+          "용의자: "
+        ],
+        "line_count": 4,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 4,
+        "first_text_final_row": 113,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.092",
+      "text": "! 방금 도주 소식이 들어왔습니다.",
+      "layout": {
+        "lines": [
+          "! 방금 도주 소식이",
+          "들어왔습니다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.093",
+      "text": "<CTRL:8D>다음 사건에 도전할 탐정: ",
+      "layout": {
+        "lines": [
+          "",
+          "다음 사건에 도전할",
+          "탐정: "
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.094",
+      "text": ". 시작할까요? (Y/N)",
+      "layout": {
+        "lines": [
+          ". 시작할까요? (Y/N)"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.095",
+      "text": " 더 해결하면 다음 직급으로 승진합니다.",
+      "layout": {
+        "lines": [
+          " 더 해결하면 다음",
+          "직급으로 승진합니다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.096",
+      "text": "<CTRL:8D>승진을 축하합니다! 새 직급:  ",
+      "layout": {
+        "lines": [
+          "",
+          "승진을 축하합니다! 새",
+          "직급:  "
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 2,
+        "first_text_final_row": 133,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.097",
+      "text": "해제해 주세요:",
+      "layout": {
+        "lines": [
+          "해제해 주세요:"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.098",
+      "text": "<CTRL:8D><CTRL:8D>ACME는 탐정님의 훌륭한 활약에 깊이 감사드립니다.<CTRL:8D><CTRL:8D><CTRL:80>      국장",
+      "layout": {
+        "lines": [
+          "",
+          "",
+          "ACME는 탐정님의",
+          "훌륭한 활약에 깊이",
+          "감사드립니다.",
+          "",
+          "      국장"
+        ],
+        "line_count": 7,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 5,
+        "first_text_final_row": 103,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.099",
+      "text": ".",
+      "layout": {
+        "lines": [
+          "."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.100",
+      "text": "범인의 ",
+      "layout": {
+        "lines": [
+          "범인의 "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.101",
+      "text": "범인의 ",
+      "layout": {
+        "lines": [
+          "범인의 "
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.102",
+      "text": "<CTRL:8D>",
+      "layout": {
+        "lines": [
+          "",
+          ""
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": true,
+        "completed_lines_from_first_text": 0,
+        "first_text_final_row": null,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.103",
+      "text": "자신의",
+      "layout": {
+        "lines": [
+          "자신의"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.104",
+      "text": "자신의",
+      "layout": {
+        "lines": [
+          "자신의"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.105",
+      "text": "자신",
+      "layout": {
+        "lines": [
+          "자신"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.106",
+      "text": " 건",
+      "layout": {
+        "lines": [
+          " 건"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.107",
+      "text": "한",
+      "layout": {
+        "lines": [
+          "한"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.108",
+      "text": "두",
+      "layout": {
+        "lines": [
+          "두"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.109",
+      "text": "세",
+      "layout": {
+        "lines": [
+          "세"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.110",
+      "text": "네",
+      "layout": {
+        "lines": [
+          "네"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.111",
+      "text": "다섯",
+      "layout": {
+        "lines": [
+          "다섯"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.112",
+      "text": "여섯",
+      "layout": {
+        "lines": [
+          "여섯"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.113",
+      "text": "일곱",
+      "layout": {
+        "lines": [
+          "일곱"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.114",
+      "text": "여덟",
+      "layout": {
+        "lines": [
+          "여덟"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.115",
+      "text": "아홉",
+      "layout": {
+        "lines": [
+          "아홉"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.116",
+      "text": "열",
+      "layout": {
+        "lines": [
+          "열"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.117",
+      "text": "쓰기 방지",
+      "layout": {
+        "lines": [
+          "쓰기 방지"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.118",
+      "text": "은행",
+      "layout": {
+        "lines": [
+          "은행"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.119",
+      "text": "호텔",
+      "layout": {
+        "lines": [
+          "호텔"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.120",
+      "text": "박물관",
+      "layout": {
+        "lines": [
+          "박물관"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.121",
+      "text": "스포츠 클럽",
+      "layout": {
+        "lines": [
+          "스포츠 클럽"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.122",
+      "text": "도서관",
+      "layout": {
+        "lines": [
+          "도서관"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.123",
+      "text": "공항",
+      "layout": {
+        "lines": [
+          "공항"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.124",
+      "text": "항구",
+      "layout": {
+        "lines": [
+          "항구"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.125",
+      "text": "강변",
+      "layout": {
+        "lines": [
+          "강변"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.126",
+      "text": "궁전",
+      "layout": {
+        "lines": [
+          "궁전"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.127",
+      "text": "증권 거래소",
+      "layout": {
+        "lines": [
+          "증권 거래소"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.128",
+      "text": "시장",
+      "layout": {
+        "lines": [
+          "시장"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    },
+    {
+      "id": "c.ui.129",
+      "text": "외무부",
+      "layout": {
+        "lines": [
+          "외무부"
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false,
+        "completed_lines_from_first_text": 1,
+        "first_text_final_row": 143,
+        "all_text_remains_visible": true
+      },
+      "context": "isolated catalog preview; concrete fixed/assembly contexts are recorded separately"
+    }
+  ],
+  "covered_context_ids": [
+    "c.cities.00",
+    "c.cities.01",
+    "c.cities.02",
+    "c.cities.03",
+    "c.cities.04",
+    "c.cities.05",
+    "c.cities.06",
+    "c.cities.07",
+    "c.cities.08",
+    "c.cities.09",
+    "c.cities.10",
+    "c.cities.11",
+    "c.cities.12",
+    "c.cities.13",
+    "c.cities.14",
+    "c.cities.15",
+    "c.cities.16",
+    "c.cities.17",
+    "c.cities.18",
+    "c.cities.19",
+    "c.cities.20",
+    "c.cities.21",
+    "c.cities.22",
+    "c.cities.23",
+    "c.cities.24",
+    "c.cities.25",
+    "c.cities.26",
+    "c.cities.27",
+    "c.cities.28",
+    "c.cities.29",
+    "c.clue.features.00",
+    "c.clue.features.01",
+    "c.clue.features.02",
+    "c.clue.features.03",
+    "c.clue.features.04",
+    "c.clue.food.00",
+    "c.clue.food.01",
+    "c.clue.hair.00",
+    "c.clue.hair.01",
+    "c.clue.hair.02",
+    "c.clue.hair.03",
+    "c.clue.hobbies.00",
+    "c.clue.hobbies.01",
+    "c.clue.hobbies.02",
+    "c.clue.hobbies.03",
+    "c.clue.hobbies.04",
+    "c.clue.hobbies.05",
+    "c.clue.sex.00",
+    "c.clue.sex.01",
+    "c.clue.vehicles.00",
+    "c.clue.vehicles.01",
+    "c.clue.vehicles.02",
+    "c.clue.vehicles.03",
+    "c.detective_ranks.00",
+    "c.detective_ranks.01",
+    "c.detective_ranks.02",
+    "c.detective_ranks.03",
+    "c.detective_ranks.04",
+    "c.detective_ranks.05",
+    "c.suspects.00",
+    "c.suspects.01",
+    "c.suspects.02",
+    "c.suspects.03",
+    "c.suspects.04",
+    "c.suspects.05",
+    "c.suspects.06",
+    "c.suspects.07",
+    "c.suspects.08",
+    "c.suspects.09",
+    "c.ui.000",
+    "c.ui.001",
+    "c.ui.002",
+    "c.ui.003",
+    "c.ui.004",
+    "c.ui.005",
+    "c.ui.008",
+    "c.ui.009",
+    "c.ui.010",
+    "c.ui.011",
+    "c.ui.012",
+    "c.ui.013",
+    "c.ui.014",
+    "c.ui.015",
+    "c.ui.016",
+    "c.ui.017",
+    "c.ui.018",
+    "c.ui.019",
+    "c.ui.020",
+    "c.ui.021",
+    "c.ui.022",
+    "c.ui.023",
+    "c.ui.024",
+    "c.ui.025",
+    "c.ui.026",
+    "c.ui.027",
+    "c.ui.028",
+    "c.ui.029",
+    "c.ui.030",
+    "c.ui.031",
+    "c.ui.032",
+    "c.ui.033",
+    "c.ui.034",
+    "c.ui.035",
+    "c.ui.036",
+    "c.ui.037",
+    "c.ui.038",
+    "c.ui.039",
+    "c.ui.040",
+    "c.ui.042",
+    "c.ui.043",
+    "c.ui.044",
+    "c.ui.045",
+    "c.ui.046",
+    "c.ui.049",
+    "c.ui.050",
+    "c.ui.051",
+    "c.ui.052",
+    "c.ui.053",
+    "c.ui.054",
+    "c.ui.055",
+    "c.ui.056",
+    "c.ui.057",
+    "c.ui.058",
+    "c.ui.061",
+    "c.ui.062",
+    "c.ui.063",
+    "c.ui.064",
+    "c.ui.065",
+    "c.ui.066",
+    "c.ui.069",
+    "c.ui.070",
+    "c.ui.071",
+    "c.ui.072",
+    "c.ui.073",
+    "c.ui.074",
+    "c.ui.075",
+    "c.ui.076",
+    "c.ui.077",
+    "c.ui.078",
+    "c.ui.079",
+    "c.ui.080",
+    "c.ui.081",
+    "c.ui.082",
+    "c.ui.083",
+    "c.ui.084",
+    "c.ui.085",
+    "c.ui.086",
+    "c.ui.087",
+    "c.ui.088",
+    "c.ui.089",
+    "c.ui.090",
+    "c.ui.091",
+    "c.ui.092",
+    "c.ui.093",
+    "c.ui.094",
+    "c.ui.095",
+    "c.ui.096",
+    "c.ui.098",
+    "c.ui.099",
+    "c.ui.100",
+    "c.ui.101",
+    "c.ui.102",
+    "c.ui.106",
+    "c.ui.107",
+    "c.ui.108",
+    "c.ui.109",
+    "c.ui.110",
+    "c.ui.111",
+    "c.ui.112",
+    "c.ui.113",
+    "c.ui.114",
+    "c.ui.115",
+    "c.ui.116",
+    "c.ui.118",
+    "c.ui.119",
+    "c.ui.120",
+    "c.ui.121",
+    "c.ui.122",
+    "c.ui.123",
+    "c.ui.124",
+    "c.ui.125",
+    "c.ui.126",
+    "c.ui.127",
+    "c.ui.128",
+    "c.ui.129",
+    "c.weekday_suffixes.00",
+    "c.weekday_suffixes.01",
+    "c.weekday_suffixes.02",
+    "c.weekday_suffixes.03",
+    "c.weekday_suffixes.04",
+    "c.weekday_suffixes.05",
+    "c.weekday_suffixes.06",
+    "c.weekdays.00",
+    "c.weekdays.01",
+    "c.weekdays.02",
+    "c.weekdays.03",
+    "c.weekdays.04",
+    "c.weekdays.05",
+    "c.weekdays.06",
+    "i.000",
+    "i.001",
+    "i.002",
+    "i.003",
+    "i.004",
+    "i.005",
+    "i.006",
+    "i.007",
+    "i.008",
+    "i.009",
+    "i.010",
+    "i.011",
+    "i.012",
+    "i.013",
+    "i.014",
+    "i.015",
+    "i.016",
+    "i.017",
+    "i.018",
+    "i.019",
+    "i.020",
+    "i.021",
+    "i.022",
+    "i.023",
+    "i.024",
+    "i.025",
+    "i.026",
+    "i.027",
+    "i.028",
+    "i.029",
+    "i.030",
+    "i.031",
+    "i.032",
+    "i.033",
+    "i.034",
+    "i.035",
+    "i.036",
+    "i.037",
+    "i.038",
+    "i.039",
+    "i.040",
+    "i.041",
+    "i.042",
+    "i.043",
+    "i.044",
+    "i.045",
+    "i.046",
+    "i.047",
+    "i.048",
+    "i.049",
+    "i.050",
+    "i.051",
+    "i.052",
+    "i.053",
+    "i.054",
+    "i.055",
+    "i.056",
+    "i.057",
+    "i.058",
+    "i.059",
+    "i.060",
+    "i.061",
+    "i.062",
+    "i.063",
+    "i.064",
+    "i.065",
+    "i.066",
+    "i.067",
+    "i.068",
+    "i.069",
+    "i.070",
+    "i.071",
+    "i.072",
+    "i.073",
+    "i.074",
+    "i.075",
+    "i.076",
+    "i.077",
+    "i.078",
+    "i.079",
+    "i.080",
+    "i.081",
+    "i.082",
+    "i.083",
+    "i.084",
+    "i.085",
+    "i.086",
+    "i.087",
+    "i.088",
+    "i.089",
+    "k.000",
+    "k.001",
+    "k.002",
+    "k.003",
+    "k.004",
+    "k.005",
+    "k.006",
+    "k.007",
+    "n.save_dialog",
+    "r.intro.00",
+    "r.intro.01",
+    "r.intro.02",
+    "r.intro.03"
+  ],
+  "errors": [],
+  "warrant_sequences_measured": 1023,
+  "worst_warrant_sequence": {
+    "suspects": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "native_calls": [
+      "<CTRL:8D>용의자 명단:",
+      "카르멘 샌디에고,",
+      "메리 라로크,",
+      "대즐 애니,",
+      "레이디 애거사,",
+      "캐서린 드리브,",
+      "렌 벌크,",
+      "스카 그레이놀트,",
+      "닉 브런치,",
+      "날쌘 에디 B,",
+      "이호르 이호로비치."
+    ],
+    "lines": [
+      "",
+      "용의자 명단:",
+      "카르멘 샌디에고,",
+      "메리 라로크,",
+      "대즐 애니,",
+      "레이디 애거사,",
+      "캐서린 드리브,",
+      "렌 벌크,",
+      "스카 그레이놀트,",
+      "닉 브런치,",
+      "날쌘 에디 B,",
+      "이호르 이호로비치."
+    ],
+    "first_text_final_row": 43,
+    "all_text_remains_visible": true,
+    "largest_individual_buffer": 19
+  },
+  "ascii_name_and_numeric_fields": {
+    "roster_name": {
+      "left": 12,
+      "max_advance": 97,
+      "right_exclusive": 109,
+      "next_column_left": 110
+    },
+    "roster_rows": {
+      "first": 32,
+      "last": 164,
+      "height": 9,
+      "footer_top": 177
+    },
+    "hall_names": {
+      "left": 84,
+      "max_advance": 97,
+      "right_exclusive": 181
+    },
+    "hall_rows": {
+      "first": 22,
+      "last": 172,
+      "height": 9,
+      "bottom_exclusive": 188
+    },
+    "case_count": {
+      "left": 239,
+      "max_digits": 3,
+      "max_advance": 24,
+      "right_limit": 273
+    }
+  },
+  "structural_empty_treasure_id": "i.090",
+  "font_contract": {
+    "hangul_advance": 8,
+    "hangul_height": 8,
+    "ascii_max_height": 9,
+    "line_pitch": 10,
+    "completed_report_rows": [
+      42,
+      153
+    ]
+  },
+  "scope": "Static finite dynamic choices with source-coupled treasure/city and valid deadline hours; name byte/advance envelopes are representative stress profiles. S2/captions have separate exhaustive reports; native extrema must be verified before K3."
+}

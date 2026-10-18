@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "entries": 1468,
+  "files": [
+    {
+      "variant": "disk1",
+      "file": "A",
+      "sha256": "e6ea432bfa215397163f79b0c7fce3bcc74a20e492d1871b6374117775a14670",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 8191
+    },
+    {
+      "variant": "disk1",
+      "file": "B",
+      "sha256": "68864657be18ca2bae058fbe482f86747f7fc431d0b261c9f488991c1c158cf4",
+      "reconstructed_text_bytes": 72,
+      "file_bytes": 1146
+    },
+    {
+      "variant": "disk1",
+      "file": "C",
+      "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+      "reconstructed_text_bytes": 4403,
+      "file_bytes": 10105
+    },
+    {
+      "variant": "disk1",
+      "file": "D",
+      "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 1475
+    },
+    {
+      "variant": "disk1",
+      "file": "I",
+      "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd",
+      "reconstructed_text_bytes": 2167,
+      "file_bytes": 2167
+    },
+    {
+      "variant": "disk1",
+      "file": "K",
+      "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a",
+      "reconstructed_text_bytes": 1275,
+      "file_bytes": 1275
+    },
+    {
+      "variant": "disk1",
+      "file": "N",
+      "sha256": "293137de334e724d69bb6437dc7925da628dbb0187e683100d8d04c0fc6f8389",
+      "reconstructed_text_bytes": 1,
+      "file_bytes": 11996
+    },
+    {
+      "variant": "disk1",
+      "file": "O",
+      "sha256": "d42f4225746b280acf347a5bcf75d3156bac4b1e9e3094c579ad8ccac0ace90e",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 2816
+    },
+    {
+      "variant": "disk1",
+      "file": "P",
+      "sha256": "2bc9b66538d34e2294a8e9cc083b1f6560640337c2cdad73ef6a5e5411c3eecc",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 1060
+    },
+    {
+      "variant": "disk1",
+      "file": "R",
+      "sha256": "7519dc80037293ffb3b6b0f0777a73617bdd7965d54112a87905eb5b29d52229",
+      "reconstructed_text_bytes": 127,
+      "file_bytes": 5094
+    },
+    {
+      "variant": "disk1",
+      "file": "S",
+      "sha256": "2d25d8b1b644fb9fbad012d49dae7000a06057ad724d65bb057803f2e5a5ccb4",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 6592
+    },
+    {
+      "variant": "disk1",
+      "file": "WORLD.SYSTEM",
+      "sha256": "c1b476648350bc2352bb63574aae31ca213378603b58763e956344e8e5431842",
+      "reconstructed_text_bytes": 205,
+      "file_bytes": 1217
+    },
+    {
+      "variant": "disk2",
+      "file": "DATA.S2",
+      "sha256": "a61e68fc1ddd66772d8c404533fb356c1fe01b192ee86fd6f8223480e11922b2",
+      "reconstructed_text_bytes": 35399,
+      "file_bytes": 96564
+    },
+    {
+      "variant": "po",
+      "file": "A",
+      "sha256": "e6ea432bfa215397163f79b0c7fce3bcc74a20e492d1871b6374117775a14670",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 8191
+    },
+    {
+      "variant": "po",
+      "file": "B",
+      "sha256": "f6c4e2c8baab89f1be78a181a69ba0db824c96131b1e8b2970848db99436c3e6",
+      "reconstructed_text_bytes": 72,
+      "file_bytes": 1138
+    },
+    {
+      "variant": "po",
+      "file": "C",
+      "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+      "reconstructed_text_bytes": 4403,
+      "file_bytes": 10105
+    },
+    {
+      "variant": "po",
+      "file": "D",
+      "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 1475
+    },
+    {
+      "variant": "po",
+      "file": "I",
+      "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd",
+      "reconstructed_text_bytes": 2167,
+      "file_bytes": 2167
+    },
+    {
+      "variant": "po",
+      "file": "K",
+      "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a",
+      "reconstructed_text_bytes": 1275,
+      "file_bytes": 1275
+    },
+    {
+      "variant": "po",
+      "file": "N",
+      "sha256": "05b53463af7f031fe24716c6633e29a131e05abec541570b9a2b066d4ee5d0c1",
+      "reconstructed_text_bytes": 61,
+      "file_bytes": 12000
+    },
+    {
+      "variant": "po",
+      "file": "O",
+      "sha256": "d42f4225746b280acf347a5bcf75d3156bac4b1e9e3094c579ad8ccac0ace90e",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 2816
+    },
+    {
+      "variant": "po",
+      "file": "P",
+      "sha256": "2bc9b66538d34e2294a8e9cc083b1f6560640337c2cdad73ef6a5e5411c3eecc",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 1060
+    },
+    {
+      "variant": "po",
+      "file": "R",
+      "sha256": "7519dc80037293ffb3b6b0f0777a73617bdd7965d54112a87905eb5b29d52229",
+      "reconstructed_text_bytes": 127,
+      "file_bytes": 5094
+    },
+    {
+      "variant": "po",
+      "file": "S",
+      "sha256": "2d25d8b1b644fb9fbad012d49dae7000a06057ad724d65bb057803f2e5a5ccb4",
+      "reconstructed_text_bytes": 0,
+      "file_bytes": 6592
+    },
+    {
+      "variant": "po",
+      "file": "S2",
+      "sha256": "614ea24906c4f5a6dd9d13d6868c92e7ac843e9e053c4025e97bbb509786e0d4",
+      "reconstructed_text_bytes": 35401,
+      "file_bytes": 96566
+    },
+    {
+      "variant": "po",
+      "file": "WORLD.SYSTEM",
+      "sha256": "dde949dbffe987e862544ac8e737214ec05b95b671d37cdaac7b3373168c224b",
+      "reconstructed_text_bytes": 205,
+      "file_bytes": 1345
+    }
+  ],
+  "counts": {
+    "c": 343,
+    "i": 91,
+    "k": 41,
+    "r": 4,
+    "n": 2,
+    "textmode": 12,
+    "s2": 961,
+    "bitmap": 14
+  },
+  "claim": "Every catalog text span re-encodes exactly; unclaimed code/graphics are preserved from immutable originals",
+  "remaining": [
+    "Bitmap lettering survey and executable call-site coverage still require explicit inventory evidence",
+    "No approval is inferred from extraction or translation status"
+  ]
+}

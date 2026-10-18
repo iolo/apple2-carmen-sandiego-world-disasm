@@ -1,0 +1,7304 @@
+{
+  "format": 1,
+  "status": "pass",
+  "session": "mame-approved-messages-01",
+  "mode": "approved",
+  "image_sha256": "890fca81bd99fcdd747b594536781d4c7ce8c52e82fb443fcd4939a0c913eeda",
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "approval_sha256": "2ad3c35d6922ab2495532ea4ccd5360f5cd90cfa03a7d94ab41e82ffaf3a1969",
+  "fixture": {
+    "format": 1,
+    "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+    "probes": [
+      {
+        "name": "00",
+        "groups": [
+          "welcome/max_bytes",
+          "welcome/max_lines"
+        ],
+        "bytes": 52,
+        "sha256": "f1413ac080f187d34f7bf594f055e49afd13927e9f55ab59f635d342aadbe064",
+        "text": "<CTRL:8D><CTRL:8D>신원을 확인했습니다: !!!!!!!!!!!!!!!. 현재 직급: ",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "glyph",
+            "id": 453
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 687
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 663
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 675
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 54
+          },
+          {
+            "kind": "native",
+            "code": 58
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41264,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "01",
+        "groups": [
+          "failed-header/max_bytes"
+        ],
+        "bytes": 30,
+        "sha256": "776921d37d3d5bd4dd6a508ec1fb50ca2d16e3dd1d15223e05ee33da2c4a1654",
+        "text": "수신 탐정: !!!!!!!!!!!!!!!.  ",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 2,
+        "source_nul": 41242,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "02",
+        "groups": [
+          "failed-header/max_lines"
+        ],
+        "bytes": 25,
+        "sha256": "a1205b5ba06787b3294ca93e505d6e57a100369111a8b50291c26fa24e4f77a1",
+        "text": "수신 탐정: #%\\\\\\\\\\\\\\\\.  ",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41237,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "03",
+        "groups": [
+          "next-case/max_bytes"
+        ],
+        "bytes": 61,
+        "sha256": "630c6f6055ac0b83251802bfa0458543f3edf6e5b654c8104a41669cf56d8aeb",
+        "text": "<CTRL:8D>다음 사건에 도전할 탐정: !!!!!!!!!!!!!!!. 시작할까요? (Y/N)",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 16
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "glyph",
+            "id": 61
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 63
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 89
+          },
+          {
+            "kind": "native",
+            "code": 47
+          },
+          {
+            "kind": "native",
+            "code": 78
+          },
+          {
+            "kind": "native",
+            "code": 41
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41273,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "04",
+        "groups": [
+          "next-case/max_lines"
+        ],
+        "bytes": 56,
+        "sha256": "01cfe2dc35190b66073b6cfeb7c4f357a5891158e29ae4c495b78a3a96b89912",
+        "text": "<CTRL:8D>다음 사건에 도전할 탐정: #%\\\\\\\\\\\\\\\\. 시작할까요? (Y/N)",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 16
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "glyph",
+            "id": 61
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 63
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 89
+          },
+          {
+            "kind": "native",
+            "code": 47
+          },
+          {
+            "kind": "native",
+            "code": 78
+          },
+          {
+            "kind": "native",
+            "code": 41
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41268,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "05",
+        "groups": [
+          "rank/max_bytes",
+          "rank/max_lines"
+        ],
+        "bytes": 13,
+        "sha256": "359a71686190b8fda5980750c06cf654aaad5dbd06d4a5db76d51eb2f2bb6012",
+        "text": "최고 명탐정.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 546
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 1,
+        "source_nul": 41225,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "06",
+        "groups": [
+          "promotion/max_bytes",
+          "promotion/max_lines"
+        ],
+        "bytes": 43,
+        "sha256": "2d156721aa325fb98a580b9e2087259c59db118aa4dad9eeacb72af3f99871e0",
+        "text": "<CTRL:8D>승진을 축하합니다! 새 직급:  최고 명탐정.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 372
+          },
+          {
+            "kind": "glyph",
+            "id": 516
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 548
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 660
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 335
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 54
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 546
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41255,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "07",
+        "groups": [
+          "news/max_bytes",
+          "news/max_lines"
+        ],
+        "bytes": 56,
+        "sha256": "af067a3146b0a53e99737907018797a95b62e5de22d1e266333e05239a64c3b8",
+        "text": "<CTRL:8D><CTRL:8D>*** 속보 ***<CTRL:8D><CTRL:8D>국보 도난! 발생 도시: 부에노스아이레스.",
+        "expected_trace": [
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 354
+          },
+          {
+            "kind": "glyph",
+            "id": 301
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "glyph",
+            "id": 41
+          },
+          {
+            "kind": "glyph",
+            "id": 301
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 76
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 280
+          },
+          {
+            "kind": "glyph",
+            "id": 338
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 307
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 99
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "glyph",
+            "id": 393
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 194
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41268,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "08",
+        "groups": [
+          "suspect-sex/max_bytes",
+          "suspect-sex/max_lines"
+        ],
+        "bytes": 40,
+        "sha256": "9000fe64a840fd063a7319102f8ebf146b255c952ae3a97d3eef82d9b43bc808",
+        "text": "<CTRL:8D>남성 용의자가 현장에서 목격되었습니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 78
+          },
+          {
+            "kind": "glyph",
+            "id": 348
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 675
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 341
+          },
+          {
+            "kind": "glyph",
+            "id": 258
+          },
+          {
+            "kind": "glyph",
+            "id": 23
+          },
+          {
+            "kind": "glyph",
+            "id": 146
+          },
+          {
+            "kind": "glyph",
+            "id": 418
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41252,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "09",
+        "groups": [
+          "mission/max_bytes",
+          "mission/max_lines"
+        ],
+        "bytes": 81,
+        "sha256": "a3f198b991f713822f20b230a41122f5de0a84fce812036b6934a2bff428221b",
+        "text": "<CTRL:8D>범인 추적 임무: 부에노스아이레스 출발. 범인의 은신처를 찾아 범인을 체포하세요.<CTRL:8D>",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 290
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 547
+          },
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 473
+          },
+          {
+            "kind": "glyph",
+            "id": 264
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 307
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 99
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "glyph",
+            "id": 393
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 194
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 549
+          },
+          {
+            "kind": "glyph",
+            "id": 280
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 290
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "glyph",
+            "id": 536
+          },
+          {
+            "kind": "glyph",
+            "id": 223
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 533
+          },
+          {
+            "kind": "glyph",
+            "id": 393
+          },
+          {
+            "kind": "glyph",
+            "id": 290
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 349
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41293,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "10",
+        "groups": [
+          "successful-police/max_bytes",
+          "successful-police/max_lines"
+        ],
+        "bytes": 70,
+        "sha256": "570f0eb761fc2c44b688fec8799c1b4a9a6de6e7f679261f469a06377caf4248",
+        "text": "당신 덕분에 부에노스아이레스 경찰이 검거한 용의자: 이호르 이호로비치.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 126
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 129
+          },
+          {
+            "kind": "glyph",
+            "id": 309
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 307
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 99
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "glyph",
+            "id": 393
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 194
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 27
+          },
+          {
+            "kind": "glyph",
+            "id": 528
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 18
+          },
+          {
+            "kind": "glyph",
+            "id": 14
+          },
+          {
+            "kind": "glyph",
+            "id": 657
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41282,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "11",
+        "groups": [
+          "treasure/max_bytes",
+          "treasure/max_lines"
+        ],
+        "bytes": 53,
+        "sha256": "523adc017a8781c875bc342ad7ac2a822f2198a61b3a02ccb2553c4746ec6176",
+        "text": "<CTRL:8D>확인된 도난품: 에베레스트산으로 가는 셰르파의 지도.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 687
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 147
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 76
+          },
+          {
+            "kind": "glyph",
+            "id": 646
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 293
+          },
+          {
+            "kind": "glyph",
+            "id": 194
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "glyph",
+            "id": 616
+          },
+          {
+            "kind": "glyph",
+            "id": 328
+          },
+          {
+            "kind": "glyph",
+            "id": 464
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "glyph",
+            "id": 352
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 625
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 514
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41265,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "12",
+        "groups": [
+          "successful-loot/max_bytes"
+        ],
+        "bytes": 112,
+        "sha256": "b281247732fe32e84455c380155674224d8c586655ebbfb374b0d0aae3965952",
+        "text": "<CTRL:8D>이호르 이호로비치의 장물: 에베레스트산으로 가는 셰르파의 지도. 이를 돌려받고 고마워할 주민들의 도시: 카트만두.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 269
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 293
+          },
+          {
+            "kind": "glyph",
+            "id": 194
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "glyph",
+            "id": 616
+          },
+          {
+            "kind": "glyph",
+            "id": 328
+          },
+          {
+            "kind": "glyph",
+            "id": 464
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 352
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 625
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 514
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 223
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 143
+          },
+          {
+            "kind": "glyph",
+            "id": 198
+          },
+          {
+            "kind": "glyph",
+            "id": 279
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "glyph",
+            "id": 232
+          },
+          {
+            "kind": "glyph",
+            "id": 452
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "glyph",
+            "id": 505
+          },
+          {
+            "kind": "glyph",
+            "id": 273
+          },
+          {
+            "kind": "glyph",
+            "id": 157
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 560
+          },
+          {
+            "kind": "glyph",
+            "id": 616
+          },
+          {
+            "kind": "glyph",
+            "id": 234
+          },
+          {
+            "kind": "glyph",
+            "id": 149
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41324,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "13",
+        "groups": [
+          "successful-loot/max_lines"
+        ],
+        "bytes": 108,
+        "sha256": "1d7ba2bf09229af4bf23c30347219d78f20a2f04c2de81396fb9b74d7ba83e41",
+        "text": "<CTRL:8D>이호르 이호로비치의 장물: 알팅(Althing)에서 쓰던 의사봉. 이를 돌려받고 고마워할 주민들의 도시: 레이캬비크.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 269
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 397
+          },
+          {
+            "kind": "glyph",
+            "id": 624
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 65
+          },
+          {
+            "kind": "native",
+            "code": 108
+          },
+          {
+            "kind": "native",
+            "code": 116
+          },
+          {
+            "kind": "native",
+            "code": 104
+          },
+          {
+            "kind": "native",
+            "code": 105
+          },
+          {
+            "kind": "native",
+            "code": 110
+          },
+          {
+            "kind": "native",
+            "code": 103
+          },
+          {
+            "kind": "native",
+            "code": 41
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 341
+          },
+          {
+            "kind": "glyph",
+            "id": 389
+          },
+          {
+            "kind": "glyph",
+            "id": 130
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 305
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 223
+          },
+          {
+            "kind": "glyph",
+            "id": 143
+          },
+          {
+            "kind": "glyph",
+            "id": 198
+          },
+          {
+            "kind": "glyph",
+            "id": 279
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "glyph",
+            "id": 232
+          },
+          {
+            "kind": "glyph",
+            "id": 452
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "glyph",
+            "id": 505
+          },
+          {
+            "kind": "glyph",
+            "id": 273
+          },
+          {
+            "kind": "glyph",
+            "id": 157
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 194
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 567
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 587
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 8,
+        "source_nul": 41320,
+        "first_text_final_row": 83
+      },
+      {
+        "name": "14",
+        "groups": [
+          "deadline/max_bytes"
+        ],
+        "bytes": 75,
+        "sha256": "6d53596522f2072fb45d1eff2e8a5f2657e27c16486ca05fece55730f1cd6ea2",
+        "text": "체포 시한: 월요일, 10시(오전). 행운을 빕니다, !!!!!!!!!!!!!!!.<CTRL:8D><CTRL:8D><CTRL:80>     국장",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "glyph",
+            "id": 657
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 454
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 49
+          },
+          {
+            "kind": "native",
+            "code": 48
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "glyph",
+            "id": 431
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "native",
+            "code": 41
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 664
+          },
+          {
+            "kind": "glyph",
+            "id": 447
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "glyph",
+            "id": 317
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 41
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41287,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "15",
+        "groups": [
+          "deadline/max_lines"
+        ],
+        "bytes": 70,
+        "sha256": "5d064de2ebcbf6fab64627e36b303e774d448c4163338ed25fcbc89487f56747",
+        "text": "체포 시한: 월요일, 10시(오전). 행운을 빕니다, #%\\\\\\\\\\\\\\\\.<CTRL:8D><CTRL:8D><CTRL:80>     국장",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "glyph",
+            "id": 657
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 454
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 49
+          },
+          {
+            "kind": "native",
+            "code": 48
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "glyph",
+            "id": 431
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "native",
+            "code": 41
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 664
+          },
+          {
+            "kind": "glyph",
+            "id": 447
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "glyph",
+            "id": 317
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 41
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41282,
+        "first_text_final_row": 93
+      },
+      {
+        "name": "16",
+        "groups": [
+          "timeout/max_bytes",
+          "timeout/max_lines"
+        ],
+        "bytes": 117,
+        "sha256": "6cc2133236a148585a4ecdc01095e959113679d0cefe70203512258ce980cf90",
+        "text": "인터폴입니다.<CTRL:8D><CTRL:8D>나쁜 소식입니다...<CTRL:8D><CTRL:8D>수사가 늦어져 놓쳐 버린 용의자: 이호르 이호로비치! 방금 도주 소식이 들어왔습니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 603
+          },
+          {
+            "kind": "glyph",
+            "id": 641
+          },
+          {
+            "kind": "glyph",
+            "id": 474
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 73
+          },
+          {
+            "kind": "glyph",
+            "id": 325
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 353
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "glyph",
+            "id": 474
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 116
+          },
+          {
+            "kind": "glyph",
+            "id": 410
+          },
+          {
+            "kind": "glyph",
+            "id": 497
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 105
+          },
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 287
+          },
+          {
+            "kind": "glyph",
+            "id": 227
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 282
+          },
+          {
+            "kind": "glyph",
+            "id": 53
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 505
+          },
+          {
+            "kind": "glyph",
+            "id": 353
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 157
+          },
+          {
+            "kind": "glyph",
+            "id": 410
+          },
+          {
+            "kind": "glyph",
+            "id": 440
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 8,
+        "source_nul": 41329,
+        "first_text_final_row": 73
+      },
+      {
+        "name": "17",
+        "groups": [
+          "warrant-name/max_bytes",
+          "warrant-name/max_lines"
+        ],
+        "bytes": 19,
+        "sha256": "22700b8edbf65695c4952378fa60396b488ecf1bf881cfe1d75a9b4407019973",
+        "text": "이호르 이호로비치.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 1,
+        "source_nul": 41231,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "18",
+        "groups": [
+          "no-warrant/max_bytes"
+        ],
+        "bytes": 121,
+        "sha256": "437c49a9c7d1a868e89c88636841ae58e38c738d507cd640bcb7ea51c2eaea9d",
+        "text": "수신 탐정: !!!!!!!!!!!!!!!.  따라잡은 용의자: 이호르 이호로비치.<CTRL:8D><CTRL:8D>하지만 체포 영장 없이는 합법적으로 체포할 수 없습니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 163
+          },
+          {
+            "kind": "glyph",
+            "id": 176
+          },
+          {
+            "kind": "glyph",
+            "id": 483
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 514
+          },
+          {
+            "kind": "glyph",
+            "id": 234
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 428
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 417
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "glyph",
+            "id": 660
+          },
+          {
+            "kind": "glyph",
+            "id": 291
+          },
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "glyph",
+            "id": 464
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 417
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 7,
+        "source_nul": 41333,
+        "first_text_final_row": 83
+      },
+      {
+        "name": "19",
+        "groups": [
+          "no-warrant/max_lines"
+        ],
+        "bytes": 116,
+        "sha256": "6e9849bdb5ea274b385e321fd12522cb46b8b678fe5242c609e7338e6a48fe7e",
+        "text": "수신 탐정: #%\\\\\\\\\\\\\\\\.  따라잡은 용의자: 이호르 이호로비치.<CTRL:8D><CTRL:8D>하지만 체포 영장 없이는 합법적으로 체포할 수 없습니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 163
+          },
+          {
+            "kind": "glyph",
+            "id": 176
+          },
+          {
+            "kind": "glyph",
+            "id": 483
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 514
+          },
+          {
+            "kind": "glyph",
+            "id": 234
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 428
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 417
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "glyph",
+            "id": 660
+          },
+          {
+            "kind": "glyph",
+            "id": 291
+          },
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "glyph",
+            "id": 464
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 417
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 8,
+        "source_nul": 41328,
+        "first_text_final_row": 73
+      },
+      {
+        "name": "20",
+        "groups": [
+          "wrong-trail/max_bytes"
+        ],
+        "bytes": 73,
+        "sha256": "210e0aaecac6d7f55833539229e74d909c68e534a8e26a3521ef7c591c1c2b6f",
+        "text": "수신 탐정: !!!!!!!!!!!!!!!.  정확히 추적해 낸 용의자: 이호르 이호로비치.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "glyph",
+            "id": 687
+          },
+          {
+            "kind": "glyph",
+            "id": 707
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 547
+          },
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "glyph",
+            "id": 662
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 83
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41285,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "21",
+        "groups": [
+          "wrong-trail/max_lines"
+        ],
+        "bytes": 68,
+        "sha256": "f2dc34feff9e70ea1164c3fdf042ff614d572f704a975d44075f178025bf06c4",
+        "text": "수신 탐정: #%\\\\\\\\\\\\\\\\.  정확히 추적해 낸 용의자: 이호르 이호로비치.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "glyph",
+            "id": 687
+          },
+          {
+            "kind": "glyph",
+            "id": 707
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 547
+          },
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "glyph",
+            "id": 662
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 83
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41280,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "22",
+        "groups": [
+          "wrong-warrant/max_bytes",
+          "wrong-warrant/max_lines"
+        ],
+        "bytes": 49,
+        "sha256": "db887f202ee86ab8ca4e21035d24a81840a71075f7a5c804d2591173342a78c2",
+        "text": "<CTRL:8D>안타깝게도 영장에 적힌 이름: 이호르 이호로비치.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 395
+          },
+          {
+            "kind": "glyph",
+            "id": 594
+          },
+          {
+            "kind": "glyph",
+            "id": 63
+          },
+          {
+            "kind": "glyph",
+            "id": 20
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 428
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "glyph",
+            "id": 708
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41261,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "23",
+        "groups": [
+          "promotion-progress/max_bytes",
+          "promotion-progress/max_lines"
+        ],
+        "bytes": 47,
+        "sha256": "bf6bf3c13f06114a33c398706a88a98e98a9de106b0e3d743b3caf29c5aa3bff",
+        "text": "<CTRL:8D>다섯 건 더 해결하면 다음 직급으로 승진합니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "glyph",
+            "id": 347
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 16
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 128
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 662
+          },
+          {
+            "kind": "glyph",
+            "id": 25
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 253
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 54
+          },
+          {
+            "kind": "glyph",
+            "id": 464
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 372
+          },
+          {
+            "kind": "glyph",
+            "id": 516
+          },
+          {
+            "kind": "glyph",
+            "id": 660
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41259,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "24",
+        "groups": [
+          "direct-report-19/max_bytes",
+          "direct-report-19/max_lines"
+        ],
+        "bytes": 28,
+        "sha256": "0e4e46a4c980f5fc2e68c6b976f41f57a6ca4ed51b168177a6c199689b088b74",
+        "text": "탐정 이름(영문, 최대 15자):",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "glyph",
+            "id": 428
+          },
+          {
+            "kind": "glyph",
+            "id": 267
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 546
+          },
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "native",
+            "code": 49
+          },
+          {
+            "kind": "native",
+            "code": 53
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 41
+          },
+          {
+            "kind": "native",
+            "code": 58
+          }
+        ],
+        "expected_scrolls": 2,
+        "source_nul": 41240,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "25",
+        "groups": [
+          "direct-report-20/max_bytes",
+          "direct-report-20/max_lines"
+        ],
+        "bytes": 45,
+        "sha256": "8492f755dcb7e301a68dcae234c607a2950b096fd08f50fc83dda4e61ee70c95",
+        "text": "<CTRL:8D><CTRL:8D>범죄 기록이 있습니다. 접근을 거부합니다.<CTRL:8D><CTRL:8D>",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 290
+          },
+          {
+            "kind": "glyph",
+            "id": 504
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 55
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 475
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 492
+          },
+          {
+            "kind": "glyph",
+            "id": 51
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 14
+          },
+          {
+            "kind": "glyph",
+            "id": 307
+          },
+          {
+            "kind": "glyph",
+            "id": 660
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41257,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "26",
+        "groups": [
+          "direct-report-21/max_bytes",
+          "direct-report-21/max_lines"
+        ],
+        "bytes": 47,
+        "sha256": "ff42be64dffda4152a0497e34d77c27c147ea435dae5cc4b9d5ec2bbc2791b69",
+        "text": "<CTRL:8D><CTRL:8D>기록에 없는 이름입니다. 새 탐정인가요? (Y/N)",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 55
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 417
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "glyph",
+            "id": 474
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 335
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 63
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 89
+          },
+          {
+            "kind": "native",
+            "code": 47
+          },
+          {
+            "kind": "native",
+            "code": 78
+          },
+          {
+            "kind": "native",
+            "code": 41
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41259,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "27",
+        "groups": [
+          "direct-report-22/max_bytes",
+          "direct-report-22/max_lines"
+        ],
+        "bytes": 65,
+        "sha256": "bea9d1c1fb8b12fff018bae150a5a7f5b2b940b0d437a6498790f6496c37bdf4",
+        "text": "<CTRL:8D>탐정 명부가 가득 찼습니다. Control-D 키로 한 명을 삭제하세요.<CTRL:8D><CTRL:8D>",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 307
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "glyph",
+            "id": 154
+          },
+          {
+            "kind": "glyph",
+            "id": 531
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 67
+          },
+          {
+            "kind": "native",
+            "code": 111
+          },
+          {
+            "kind": "native",
+            "code": 110
+          },
+          {
+            "kind": "native",
+            "code": 116
+          },
+          {
+            "kind": "native",
+            "code": 114
+          },
+          {
+            "kind": "native",
+            "code": 111
+          },
+          {
+            "kind": "native",
+            "code": 108
+          },
+          {
+            "kind": "native",
+            "code": 45
+          },
+          {
+            "kind": "native",
+            "code": 68
+          },
+          {
+            "kind": "glyph",
+            "id": 591
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 657
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 349
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 7,
+        "source_nul": 41277,
+        "first_text_final_row": 93
+      },
+      {
+        "name": "28",
+        "groups": [
+          "direct-report-23/max_bytes",
+          "direct-report-23/max_lines"
+        ],
+        "bytes": 35,
+        "sha256": "117d08aefca08607230adcdad2470572af2c7ab30c0fc991c9d21b317e214335",
+        "text": "<CTRL:8D><CTRL:8D>평소 사용하는 이름을 입력하세요.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 638
+          },
+          {
+            "kind": "glyph",
+            "id": 353
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "glyph",
+            "id": 474
+          },
+          {
+            "kind": "glyph",
+            "id": 199
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 349
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41247,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "29",
+        "groups": [
+          "direct-report-26/max_bytes",
+          "direct-report-26/max_lines"
+        ],
+        "bytes": 67,
+        "sha256": "99c04ee27a7513718c132a9ed3e4ed095a23a58236e0b475d46875e019565525",
+        "text": "<CTRL:8D>저장한 사건을 이어 할까요? 거절하면 저장 내용이 지워집니다. (Y/N)",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 487
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 657
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 16
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 410
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "glyph",
+            "id": 61
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 63
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 14
+          },
+          {
+            "kind": "glyph",
+            "id": 490
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 253
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 487
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 82
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 514
+          },
+          {
+            "kind": "glyph",
+            "id": 452
+          },
+          {
+            "kind": "glyph",
+            "id": 518
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 89
+          },
+          {
+            "kind": "native",
+            "code": 47
+          },
+          {
+            "kind": "native",
+            "code": 78
+          },
+          {
+            "kind": "native",
+            "code": 41
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41279,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "30",
+        "groups": [
+          "direct-report-38/max_bytes",
+          "direct-report-38/max_lines"
+        ],
+        "bytes": 129,
+        "sha256": "b32947336d024777fd6c7dded4d6ed366ef0194b08a34f3a667c1a392c002c4d",
+        "text": "<CTRL:8D><CTRL:8D>당신은 유명한 최고 명탐정입니다!<CTRL:8D><CTRL:8D>어딘가의 암살 명단에 이름이 올라 있을지도 모릅니다....<CTRL:8D><CTRL:8D><CTRL:8D>가명으로 등록하는 편이 좋겠습니다.<CTRL:8D>",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 126
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 460
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 657
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 546
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "glyph",
+            "id": 474
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "glyph",
+            "id": 410
+          },
+          {
+            "kind": "glyph",
+            "id": 161
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 398
+          },
+          {
+            "kind": "glyph",
+            "id": 329
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 434
+          },
+          {
+            "kind": "glyph",
+            "id": 176
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 475
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "glyph",
+            "id": 514
+          },
+          {
+            "kind": "glyph",
+            "id": 140
+          },
+          {
+            "kind": "glyph",
+            "id": 257
+          },
+          {
+            "kind": "glyph",
+            "id": 225
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 464
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 158
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 636
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 502
+          },
+          {
+            "kind": "glyph",
+            "id": 21
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 13,
+        "source_nul": 41341,
+        "first_text_final_row": 43
+      },
+      {
+        "name": "31",
+        "groups": [
+          "direct-report-39/max_bytes",
+          "direct-report-39/max_lines"
+        ],
+        "bytes": 4,
+        "sha256": "0cee211dfbf712960c338b3905e093940d5422431dee8c4348e7fb7be9eec113",
+        "text": "<CTRL:8D><CTRL:8D><CTRL:8D>",
+        "expected_trace": [],
+        "expected_scrolls": 4,
+        "source_nul": 41216,
+        "first_text_final_row": null
+      },
+      {
+        "name": "32",
+        "groups": [
+          "direct-report-61/max_bytes",
+          "direct-report-61/max_lines"
+        ],
+        "bytes": 11,
+        "sha256": "21e84cd7812dc6afce9a9cfacb8c70d64c0a1df43ba1bd2012d6c9a9d4a3dc9e",
+        "text": "준비 완료.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 507
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 437
+          },
+          {
+            "kind": "glyph",
+            "id": 211
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 1,
+        "source_nul": 41223,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "33",
+        "groups": [
+          "direct-report-62/max_bytes",
+          "direct-report-62/max_lines"
+        ],
+        "bytes": 23,
+        "sha256": "1e7d06f6177edfaca45426392a81af37f2c0546cc2b6dd07fca3f2e11f013f99",
+        "text": "<CTRL:8D><CTRL:8D>체포 영장 발부 대상:",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 428
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 280
+          },
+          {
+            "kind": "glyph",
+            "id": 307
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "glyph",
+            "id": 334
+          },
+          {
+            "kind": "native",
+            "code": 58
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41235,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "34",
+        "groups": [
+          "direct-report-63/max_bytes",
+          "direct-report-63/max_lines"
+        ],
+        "bytes": 14,
+        "sha256": "97fc45282e1aa9e8a1c07432c3c9b92b18a241ce800e6e054cfd708869d293b0",
+        "text": "<CTRL:8D>용의자 명단:",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 58
+          }
+        ],
+        "expected_scrolls": 2,
+        "source_nul": 41226,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "35",
+        "groups": [
+          "direct-report-64/max_bytes",
+          "direct-report-64/max_lines"
+        ],
+        "bytes": 35,
+        "sha256": "884d14591f870bbb9c5f0338dec75063bfaa4e028c9f7d85a3b3875c620f6d64",
+        "text": "<CTRL:8D>이 정보에 맞는 용의자가 없습니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "glyph",
+            "id": 301
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 238
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "glyph",
+            "id": 0
+          },
+          {
+            "kind": "glyph",
+            "id": 417
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41247,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "36",
+        "groups": [
+          "direct-report-74/max_bytes",
+          "direct-report-74/max_lines"
+        ],
+        "bytes": 62,
+        "sha256": "9f0c748c4e18a6aaa9177d0c07901eb33427a4a8be0c009bbe242851b978a92a",
+        "text": "잘했습니다! V.I.L.E.의 우두머리 카르멘 샌디에고를 잡았습니다!",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 481
+          },
+          {
+            "kind": "glyph",
+            "id": 663
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 86
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 73
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 76
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 69
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 149
+          },
+          {
+            "kind": "glyph",
+            "id": 243
+          },
+          {
+            "kind": "glyph",
+            "id": 226
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 560
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 249
+          },
+          {
+            "kind": "glyph",
+            "id": 337
+          },
+          {
+            "kind": "glyph",
+            "id": 159
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "glyph",
+            "id": 223
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 483
+          },
+          {
+            "kind": "glyph",
+            "id": 400
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 33
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41274,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "37",
+        "groups": [
+          "direct-report-75/max_bytes",
+          "direct-report-75/max_lines"
+        ],
+        "bytes": 78,
+        "sha256": "ff9bfd557c2d5498fa5c9c29fee75616814e32d94674b99e4d905d21f8e8b7a0",
+        "text": "<CTRL:8D>최고 명탐정으로 승진했습니다. 명예롭게 은퇴해 ACME 명예의 전당에 올랐습니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 546
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "glyph",
+            "id": 464
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 372
+          },
+          {
+            "kind": "glyph",
+            "id": 516
+          },
+          {
+            "kind": "glyph",
+            "id": 663
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 429
+          },
+          {
+            "kind": "glyph",
+            "id": 209
+          },
+          {
+            "kind": "glyph",
+            "id": 20
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 613
+          },
+          {
+            "kind": "glyph",
+            "id": 662
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 65
+          },
+          {
+            "kind": "native",
+            "code": 67
+          },
+          {
+            "kind": "native",
+            "code": 77
+          },
+          {
+            "kind": "native",
+            "code": 69
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 429
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "glyph",
+            "id": 126
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 434
+          },
+          {
+            "kind": "glyph",
+            "id": 182
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41290,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "38",
+        "groups": [
+          "direct-report-81/max_bytes",
+          "direct-report-81/max_lines"
+        ],
+        "bytes": 53,
+        "sha256": "b60e3132e6bbadf13d1dde7152dcc49ebc3c6a6c50804ab8ebc69411669c3460",
+        "text": "<CTRL:8D>인터폴은 이번 사건에서 보여 준 활약에 감사드립니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 603
+          },
+          {
+            "kind": "glyph",
+            "id": 641
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 288
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 16
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 341
+          },
+          {
+            "kind": "glyph",
+            "id": 301
+          },
+          {
+            "kind": "glyph",
+            "id": 422
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 507
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 689
+          },
+          {
+            "kind": "glyph",
+            "id": 408
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 4
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 153
+          },
+          {
+            "kind": "glyph",
+            "id": 230
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41265,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "39",
+        "groups": [
+          "direct-report-82/max_bytes",
+          "direct-report-82/max_lines"
+        ],
+        "bytes": 39,
+        "sha256": "ae2eeabebad0c63ae609a2151a8eae3c0217bf4949c8037ffc2e8309d24125c0",
+        "text": "<CTRL:8D>이번 성공을 탐정 기록에 남기겠습니다.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 288
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 348
+          },
+          {
+            "kind": "glyph",
+            "id": 34
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 55
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 78
+          },
+          {
+            "kind": "glyph",
+            "id": 55
+          },
+          {
+            "kind": "glyph",
+            "id": 21
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41251,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "40",
+        "groups": [
+          "direct-report-87/max_bytes",
+          "direct-report-87/max_lines"
+        ],
+        "bytes": 79,
+        "sha256": "a8af361739ddd03fc3b7717f209412d7fe561b6799edf6de0c52e6df031dc427",
+        "text": "<CTRL:8D>조심하세요. 부당 체포로 모두 고소당할 수 있습니다! 다음에는 더 잘해 주십시오.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 498
+          },
+          {
+            "kind": "glyph",
+            "id": 378
+          },
+          {
+            "kind": "glyph",
+            "id": 655
+          },
+          {
+            "kind": "glyph",
+            "id": 349
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 307
+          },
+          {
+            "kind": "glyph",
+            "id": 126
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 541
+          },
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 257
+          },
+          {
+            "kind": "glyph",
+            "id": 149
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "glyph",
+            "id": 353
+          },
+          {
+            "kind": "glyph",
+            "id": 126
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 361
+          },
+          {
+            "kind": "glyph",
+            "id": 475
+          },
+          {
+            "kind": "glyph",
+            "id": 370
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 128
+          },
+          {
+            "kind": "glyph",
+            "id": 481
+          },
+          {
+            "kind": "glyph",
+            "id": 662
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 505
+          },
+          {
+            "kind": "glyph",
+            "id": 379
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "glyph",
+            "id": 431
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41291,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "41",
+        "groups": [
+          "direct-report-90/max_bytes",
+          "direct-report-90/max_lines"
+        ],
+        "bytes": 47,
+        "sha256": "6cf2193f24aeec27db8a12fbdd14cabed5b1a1e2ffa673c9d05dbe9d7168e06d",
+        "text": "<CTRL:8D>카르멘 일당이 또 한 건을 저지르고 달아났군요.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 560
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 249
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "glyph",
+            "id": 126
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 170
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 657
+          },
+          {
+            "kind": "glyph",
+            "id": 16
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 487
+          },
+          {
+            "kind": "glyph",
+            "id": 514
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "glyph",
+            "id": 124
+          },
+          {
+            "kind": "glyph",
+            "id": 393
+          },
+          {
+            "kind": "glyph",
+            "id": 80
+          },
+          {
+            "kind": "glyph",
+            "id": 42
+          },
+          {
+            "kind": "glyph",
+            "id": 443
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41259,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "42",
+        "groups": [
+          "direct-report-98/max_bytes",
+          "direct-report-98/max_lines"
+        ],
+        "bytes": 64,
+        "sha256": "4fa667493f7dd8b94addd94df620824e6f453037b1640e4f9454f1c01f111fb6",
+        "text": "<CTRL:8D><CTRL:8D>ACME는 탐정님의 훌륭한 활약에 깊이 감사드립니다.<CTRL:8D><CTRL:8D><CTRL:80>      국장",
+        "expected_trace": [
+          {
+            "kind": "native",
+            "code": 65
+          },
+          {
+            "kind": "native",
+            "code": 67
+          },
+          {
+            "kind": "native",
+            "code": 77
+          },
+          {
+            "kind": "native",
+            "code": 69
+          },
+          {
+            "kind": "glyph",
+            "id": 114
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 597
+          },
+          {
+            "kind": "glyph",
+            "id": 494
+          },
+          {
+            "kind": "glyph",
+            "id": 120
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 697
+          },
+          {
+            "kind": "glyph",
+            "id": 220
+          },
+          {
+            "kind": "glyph",
+            "id": 657
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 689
+          },
+          {
+            "kind": "glyph",
+            "id": 408
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 60
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 4
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "glyph",
+            "id": 153
+          },
+          {
+            "kind": "glyph",
+            "id": 230
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 41
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          }
+        ],
+        "expected_scrolls": 7,
+        "source_nul": 41276,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "43",
+        "groups": [
+          "complete-warrant-list"
+        ],
+        "bytes": 154,
+        "sha256": "b07e2fff7d1b52b9826d93f2a36f8e80f35aa94c27f81a905b455481b2c1a603",
+        "text": "<CTRL:8D>용의자 명단:<CTRL:8D>카르멘 샌디에고,<CTRL:8D>메리 라로크,<CTRL:8D>대즐 애니,<CTRL:8D>레이디 애거사,<CTRL:8D>캐서린 드리브,<CTRL:8D>렌 벌크,<CTRL:8D>스카 그레이놀트,<CTRL:8D>닉 브런치,<CTRL:8D>날쌘 에디 B,<CTRL:8D>이호르 이호로비치.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 445
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 478
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 255
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 560
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 249
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 337
+          },
+          {
+            "kind": "glyph",
+            "id": 159
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 29
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 247
+          },
+          {
+            "kind": "glyph",
+            "id": 226
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 176
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 587
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "glyph",
+            "id": 511
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 403
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 194
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 159
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 403
+          },
+          {
+            "kind": "glyph",
+            "id": 14
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 565
+          },
+          {
+            "kind": "glyph",
+            "id": 341
+          },
+          {
+            "kind": "glyph",
+            "id": 227
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 153
+          },
+          {
+            "kind": "glyph",
+            "id": 226
+          },
+          {
+            "kind": "glyph",
+            "id": 312
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 196
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 289
+          },
+          {
+            "kind": "glyph",
+            "id": 587
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 367
+          },
+          {
+            "kind": "glyph",
+            "id": 560
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 49
+          },
+          {
+            "kind": "glyph",
+            "id": 194
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 102
+          },
+          {
+            "kind": "glyph",
+            "id": 616
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 312
+          },
+          {
+            "kind": "glyph",
+            "id": 190
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 77
+          },
+          {
+            "kind": "glyph",
+            "id": 386
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 159
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 66
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 680
+          },
+          {
+            "kind": "glyph",
+            "id": 204
+          },
+          {
+            "kind": "glyph",
+            "id": 314
+          },
+          {
+            "kind": "glyph",
+            "id": 556
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 12,
+        "source_nul": 41366,
+        "first_text_final_row": 43
+      },
+      {
+        "name": "44",
+        "groups": [
+          "terminal-empty-run"
+        ],
+        "bytes": 1,
+        "sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+        "text": "",
+        "expected_trace": [],
+        "expected_scrolls": 1,
+        "source_nul": 41213,
+        "first_text_final_row": null
+      },
+      {
+        "name": "45",
+        "groups": [
+          "terminal-empty-run"
+        ],
+        "bytes": 2,
+        "sha256": "932384db456fdda7b944825262cdac005dc55a94c9d857d4376a468041c5d6db",
+        "text": "<CTRL:8D>",
+        "expected_trace": [],
+        "expected_scrolls": 2,
+        "source_nul": 41214,
+        "first_text_final_row": null
+      },
+      {
+        "name": "46",
+        "groups": [
+          "terminal-empty-run"
+        ],
+        "bytes": 3,
+        "sha256": "4754cf3fe1da50efa2da7730c317f7bbc9dd6269f5be62ade4188d917c0cd720",
+        "text": "<CTRL:8D><CTRL:80>",
+        "expected_trace": [],
+        "expected_scrolls": 2,
+        "source_nul": 41215,
+        "first_text_final_row": null
+      },
+      {
+        "name": "47",
+        "groups": [
+          "terminal-empty-run"
+        ],
+        "bytes": 4,
+        "sha256": "5bb952d9443c0cdaeb299aa0b2607d78521ece9563b6fb08fc2a507d05972291",
+        "text": "<CTRL:8D>  ",
+        "expected_trace": [],
+        "expected_scrolls": 2,
+        "source_nul": 41216,
+        "first_text_final_row": null
+      }
+    ],
+    "symbols": {
+      "PROBE_DONE": 2106,
+      "CLEAR": 2063,
+      "PROBE_ENTRY": 2048,
+      "CPU_65CE02": 8226,
+      "CPU_W65C02": 4146,
+      "CPU_45GS02": 11298,
+      "CPU_4510": 9250,
+      "CPU_M740": 514,
+      "CPU_HUC6280": 306,
+      "CPU_SWEET16": 128,
+      "CPU_65816": 82,
+      "CPU_65C02": 50,
+      "CPU_65SC02": 18,
+      "CPU_6502DTV": 10,
+      "CPU_6502X": 6,
+      "CPU_6502": 2,
+      "CPU_NONE": 1,
+      "CPU_ISET_65CE02": 8192,
+      "CPU_ISET_W65C02": 4096,
+      "CPU_ISET_45GS02": 2048,
+      "CPU_ISET_4510": 1024,
+      "CPU_ISET_M740": 512,
+      "CPU_ISET_HUC6280": 256,
+      "CPU_ISET_SWEET16": 128,
+      "CPU_ISET_65816": 64,
+      "CPU_ISET_65C02": 32,
+      "CPU_ISET_65SC02": 16,
+      "CPU_ISET_6502DTV": 8,
+      "CPU_ISET_6502X": 4,
+      "CPU_ISET_6502": 2,
+      "CPU_ISET_NONE": 1
+    },
+    "probe_sha256": "7cf6f1597644b3a298f96fa52c0633e0b99a1f9d42e0eca0c98502507f78b3cb",
+    "message_groups_measured": 37,
+    "dynamic_combinations": 1697,
+    "warrant_subsets": 1023
+  },
+  "probes": [
+    {
+      "name": "00",
+      "groups": [
+        "welcome/max_bytes",
+        "welcome/max_lines"
+      ],
+      "glyphs": 34,
+      "scrolls": 5,
+      "source_nul": 41264,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "01",
+      "groups": [
+        "failed-header/max_bytes"
+      ],
+      "glyphs": 23,
+      "scrolls": 2,
+      "source_nul": 41242,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "02",
+      "groups": [
+        "failed-header/max_lines"
+      ],
+      "glyphs": 17,
+      "scrolls": 3,
+      "source_nul": 41237,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "03",
+      "groups": [
+        "next-case/max_bytes"
+      ],
+      "glyphs": 42,
+      "scrolls": 4,
+      "source_nul": 41273,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "04",
+      "groups": [
+        "next-case/max_lines"
+      ],
+      "glyphs": 36,
+      "scrolls": 5,
+      "source_nul": 41268,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "05",
+      "groups": [
+        "rank/max_bytes",
+        "rank/max_lines"
+      ],
+      "glyphs": 7,
+      "scrolls": 1,
+      "source_nul": 41225,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "06",
+      "groups": [
+        "promotion/max_bytes",
+        "promotion/max_lines"
+      ],
+      "glyphs": 24,
+      "scrolls": 3,
+      "source_nul": 41255,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "07",
+      "groups": [
+        "news/max_bytes",
+        "news/max_lines"
+      ],
+      "glyphs": 32,
+      "scrolls": 6,
+      "source_nul": 41268,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "08",
+      "groups": [
+        "suspect-sex/max_bytes",
+        "suspect-sex/max_lines"
+      ],
+      "glyphs": 20,
+      "scrolls": 3,
+      "source_nul": 41252,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "09",
+      "groups": [
+        "mission/max_bytes",
+        "mission/max_lines"
+      ],
+      "glyphs": 42,
+      "scrolls": 6,
+      "source_nul": 41293,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "10",
+      "groups": [
+        "successful-police/max_bytes",
+        "successful-police/max_lines"
+      ],
+      "glyphs": 36,
+      "scrolls": 4,
+      "source_nul": 41282,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "11",
+      "groups": [
+        "treasure/max_bytes",
+        "treasure/max_lines"
+      ],
+      "glyphs": 27,
+      "scrolls": 4,
+      "source_nul": 41265,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "12",
+      "groups": [
+        "successful-loot/max_bytes"
+      ],
+      "glyphs": 59,
+      "scrolls": 6,
+      "source_nul": 41324,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "13",
+      "groups": [
+        "successful-loot/max_lines"
+      ],
+      "glyphs": 59,
+      "scrolls": 8,
+      "source_nul": 41320,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "14",
+      "groups": [
+        "deadline/max_bytes"
+      ],
+      "glyphs": 51,
+      "scrolls": 5,
+      "source_nul": 41287,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "15",
+      "groups": [
+        "deadline/max_lines"
+      ],
+      "glyphs": 45,
+      "scrolls": 6,
+      "source_nul": 41282,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "16",
+      "groups": [
+        "timeout/max_bytes",
+        "timeout/max_lines"
+      ],
+      "glyphs": 62,
+      "scrolls": 8,
+      "source_nul": 41329,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "17",
+      "groups": [
+        "warrant-name/max_bytes",
+        "warrant-name/max_lines"
+      ],
+      "glyphs": 10,
+      "scrolls": 1,
+      "source_nul": 41231,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "18",
+      "groups": [
+        "no-warrant/max_bytes"
+      ],
+      "glyphs": 71,
+      "scrolls": 7,
+      "source_nul": 41333,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "19",
+      "groups": [
+        "no-warrant/max_lines"
+      ],
+      "glyphs": 65,
+      "scrolls": 8,
+      "source_nul": 41328,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "20",
+      "groups": [
+        "wrong-trail/max_bytes"
+      ],
+      "glyphs": 46,
+      "scrolls": 4,
+      "source_nul": 41285,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "21",
+      "groups": [
+        "wrong-trail/max_lines"
+      ],
+      "glyphs": 40,
+      "scrolls": 5,
+      "source_nul": 41280,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "22",
+      "groups": [
+        "wrong-warrant/max_bytes",
+        "wrong-warrant/max_lines"
+      ],
+      "glyphs": 26,
+      "scrolls": 3,
+      "source_nul": 41261,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "23",
+      "groups": [
+        "promotion-progress/max_bytes",
+        "promotion-progress/max_lines"
+      ],
+      "glyphs": 24,
+      "scrolls": 4,
+      "source_nul": 41259,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "24",
+      "groups": [
+        "direct-report-19/max_bytes",
+        "direct-report-19/max_lines"
+      ],
+      "glyphs": 17,
+      "scrolls": 2,
+      "source_nul": 41240,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "25",
+      "groups": [
+        "direct-report-20/max_bytes",
+        "direct-report-20/max_lines"
+      ],
+      "glyphs": 22,
+      "scrolls": 6,
+      "source_nul": 41257,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "26",
+      "groups": [
+        "direct-report-21/max_bytes",
+        "direct-report-21/max_lines"
+      ],
+      "glyphs": 26,
+      "scrolls": 5,
+      "source_nul": 41259,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "27",
+      "groups": [
+        "direct-report-22/max_bytes",
+        "direct-report-22/max_lines"
+      ],
+      "glyphs": 37,
+      "scrolls": 7,
+      "source_nul": 41277,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "28",
+      "groups": [
+        "direct-report-23/max_bytes",
+        "direct-report-23/max_lines"
+      ],
+      "glyphs": 17,
+      "scrolls": 4,
+      "source_nul": 41247,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "29",
+      "groups": [
+        "direct-report-26/max_bytes",
+        "direct-report-26/max_lines"
+      ],
+      "glyphs": 37,
+      "scrolls": 5,
+      "source_nul": 41279,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "30",
+      "groups": [
+        "direct-report-38/max_bytes",
+        "direct-report-38/max_lines"
+      ],
+      "glyphs": 65,
+      "scrolls": 13,
+      "source_nul": 41341,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "31",
+      "groups": [
+        "direct-report-39/max_bytes",
+        "direct-report-39/max_lines"
+      ],
+      "glyphs": 0,
+      "scrolls": 4,
+      "source_nul": 41216,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "32",
+      "groups": [
+        "direct-report-61/max_bytes",
+        "direct-report-61/max_lines"
+      ],
+      "glyphs": 6,
+      "scrolls": 1,
+      "source_nul": 41223,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "33",
+      "groups": [
+        "direct-report-62/max_bytes",
+        "direct-report-62/max_lines"
+      ],
+      "glyphs": 12,
+      "scrolls": 3,
+      "source_nul": 41235,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "34",
+      "groups": [
+        "direct-report-63/max_bytes",
+        "direct-report-63/max_lines"
+      ],
+      "glyphs": 7,
+      "scrolls": 2,
+      "source_nul": 41226,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "35",
+      "groups": [
+        "direct-report-64/max_bytes",
+        "direct-report-64/max_lines"
+      ],
+      "glyphs": 18,
+      "scrolls": 3,
+      "source_nul": 41247,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "36",
+      "groups": [
+        "direct-report-74/max_bytes",
+        "direct-report-74/max_lines"
+      ],
+      "glyphs": 36,
+      "scrolls": 3,
+      "source_nul": 41274,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "37",
+      "groups": [
+        "direct-report-75/max_bytes",
+        "direct-report-75/max_lines"
+      ],
+      "glyphs": 42,
+      "scrolls": 5,
+      "source_nul": 41290,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "38",
+      "groups": [
+        "direct-report-81/max_bytes",
+        "direct-report-81/max_lines"
+      ],
+      "glyphs": 27,
+      "scrolls": 4,
+      "source_nul": 41265,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "39",
+      "groups": [
+        "direct-report-82/max_bytes",
+        "direct-report-82/max_lines"
+      ],
+      "glyphs": 20,
+      "scrolls": 3,
+      "source_nul": 41251,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "40",
+      "groups": [
+        "direct-report-87/max_bytes",
+        "direct-report-87/max_lines"
+      ],
+      "glyphs": 42,
+      "scrolls": 5,
+      "source_nul": 41291,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "41",
+      "groups": [
+        "direct-report-90/max_bytes",
+        "direct-report-90/max_lines"
+      ],
+      "glyphs": 24,
+      "scrolls": 4,
+      "source_nul": 41259,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "42",
+      "groups": [
+        "direct-report-98/max_bytes",
+        "direct-report-98/max_lines"
+      ],
+      "glyphs": 35,
+      "scrolls": 7,
+      "source_nul": 41276,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "43",
+      "groups": [
+        "complete-warrant-list"
+      ],
+      "glyphs": 83,
+      "scrolls": 12,
+      "source_nul": 41366,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "44",
+      "groups": [
+        "terminal-empty-run"
+      ],
+      "glyphs": 0,
+      "scrolls": 1,
+      "source_nul": 41213,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "45",
+      "groups": [
+        "terminal-empty-run"
+      ],
+      "glyphs": 0,
+      "scrolls": 2,
+      "source_nul": 41214,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "46",
+      "groups": [
+        "terminal-empty-run"
+      ],
+      "glyphs": 0,
+      "scrolls": 2,
+      "source_nul": 41215,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "47",
+      "groups": [
+        "terminal-empty-run"
+      ],
+      "glyphs": 0,
+      "scrolls": 2,
+      "source_nul": 41216,
+      "all_expected_glyphs_and_scrolls_match": true
+    }
+  ],
+  "artifacts": {
+    "approved-messages-after-approved.json": "d4aa0494abe2c796989ff7b958fa8c4cef947447f1c5b976e0189622cf50da0b",
+    "approved-messages-after.json": "7cf40316011f57fb52f46670c15d2047ac925900da445251704d4584ce7e0e4a",
+    "approved-messages-before-approved.json": "f0a01a3c3916437e1934b8629d29acd75fbce4aa13055ce99bf860971ab212b0",
+    "approved-messages-before.json": "db109673ee66b10f06044ca27fad65500d4ec085e3b1cdfe16b4dd8bb7eab1af",
+    "message-00-page1.hgr": "243f78001829c2b65da208be859701ccc1def5c169f3db8c53aa6a67d9b81d14",
+    "message-00-page2.hgr": "549c259b4c428e794d15bdcf2a08853708be4ac4851ccfd582f5a178548e8e35",
+    "message-00.json": "2650eb718870b0170194eb329797a50d50b5bc62a8e9e3f75e7167788b4104dc",
+    "message-01-page1.hgr": "bd87c49e90b1eb04bb5169cfdfe5ff749963e00568694628ac487946706c33aa",
+    "message-01-page2.hgr": "9f353849d7c441e9dab70883bb5b28215d47485fd7bae112a0f2f20491da51a6",
+    "message-01.json": "3c7f545bcd808e10e3468030f42be848042296bc88faa4eab1c2f12e3b6e2219",
+    "message-02-page1.hgr": "585bc5c92be3d7b4daa5542f655b72804c593ece59e250d6cc82d729ea9e1933",
+    "message-02-page2.hgr": "c5c1eec73f49744d1a7e6c3a97043acee216269341abefc3a6997b523d9a0a3b",
+    "message-02.json": "dd75bba8ef9e1e7394296e54d6583b28dad9a35e3807f61ae1aa8c5532ba4c1d",
+    "message-03-page1.hgr": "377d3877191829b7c38bd7ebf8434ebaae69976ef19732cd506817b6c7be6657",
+    "message-03-page2.hgr": "ce501865dc6cb498502d2ad1757657b347d2c1fce79814e0e7c79e04371447c2",
+    "message-03.json": "cefb6cd317dc73a0e9da6e6947268e92820094a19e918f6017d4edcbfae7e3f0",
+    "message-04-page1.hgr": "9a551675e56144918eb58efa51dc7cf1d0f1676d49de3c67ebcf9a04cf75c45f",
+    "message-04-page2.hgr": "c702a1456672d4d26e7cdf58032f302bce06b595f5a4af363fe3571b00296355",
+    "message-04.json": "d4007ad4d9d0a1b29cd9c2b11e386cbfaaaf1c6ccea3dadd92958c78becb6da0",
+    "message-05-page1.hgr": "7f883fa46b6588bc8b532ef1f7b65cf0487b37d5e2f1e81da27b84ad003d2c86",
+    "message-05-page2.hgr": "087b75f24fe8200709b10084bf8cc656d0bf7f96eb1805e67342f2a2ca0425f7",
+    "message-05.json": "586e729b325bd57744108b754ee176fd089d544c5347e35b68e5d2a0c97d03cf",
+    "message-06-page1.hgr": "5e23242f716ba6a365bfe31efd539e0c7857095c6dc8aa96107cfb853a0e815b",
+    "message-06-page2.hgr": "623f479337153ef01fc9016dc2fdefba9519b8f9aa854191b1c54d31675a3f03",
+    "message-06.json": "ee795f6a857ac637b762b51459f449f813bbb0e8df423b33461db11e576da243",
+    "message-07-page1.hgr": "62b503de6f81c40dc95afcf6d14af7311d434d42cc6a42cb351fe19441c17aac",
+    "message-07-page2.hgr": "9e1bd481b86998d1ac8f143593f38eea839d9ebf79cfcc33b7589fd343209bce",
+    "message-07.json": "2ac698a9a2f3582f3a66400d92f66fef765b9713b61a9b2dc6c9656ffd5b30c2",
+    "message-08-page1.hgr": "eaa12d2edd942aa8a28c75b479b9d356767c8595b4d712435e06af606d757963",
+    "message-08-page2.hgr": "2df4a65a86a77fb5596b8fcefc6e99732909348f353f2ed818a64fe16c5fe695",
+    "message-08.json": "07f592ab6f44882c0e50796aeb3508ee82ba3256126b23d79d66c2f3e7cd6eb7",
+    "message-09-page1.hgr": "02c03313718ace2f7592ff74272426669202b73ea7d5c49bd02bc9d10d0c9485",
+    "message-09-page2.hgr": "c62b68e7bb6532aa5a2c0204c4d67c96c42186a4a307d85c5509b307acdb4152",
+    "message-09.json": "0b5370f4c26086ad6eb626853c162f37aadb6cb7f9e0c12ecb91205485ec77fd",
+    "message-10-page1.hgr": "7f8fe89db4edef0d368b67fcb207891a6f19e4f99953a129b6703719da498456",
+    "message-10-page2.hgr": "40595a36e18709848a06e6b7da0992e00e1502b2983087d751fec9fe1d6abef5",
+    "message-10.json": "3736dc9339f5a734f68fbe324b6c5befed209335d366f217bdcc710136deaafc",
+    "message-11-page1.hgr": "dab929d773426c43f7e05e4fd4f79ffbd0289aaf64faee00f20ee59de8d979ee",
+    "message-11-page2.hgr": "1144a53019da84481824cd55229e8f59633aacbf343e8ea9880b263ea10a1e01",
+    "message-11.json": "e9f5b1a76c0804d2a29c62c9fdc075dda19f60768d52918fa992a18c0b4654af",
+    "message-12-page1.hgr": "20598d476f2127e3474a7d949a9af006accbd5129e4e8e782425a040a6f4f7e3",
+    "message-12-page2.hgr": "a92ddfd074c1c6fde938f4e23032e028e14797ee4a375ae57d2c297147cec870",
+    "message-12.json": "56fc2391c6a8c073f93a0cefbff55681162829d26b6dc5eb349a4c5e6b5cbf50",
+    "message-13-page1.hgr": "4a0c5933c3c20c5a7e06226b299594f97aa8d1fe8547dcf015dde23ba4032d7e",
+    "message-13-page2.hgr": "617f3df1074a2caf4e7b07eff3787405ac71d737e88dd3bba31571039ff03fb8",
+    "message-13.json": "ca28014e892bba56b843584ee277aadb3949bf0ea6f76ae29c50b355cff3cb75",
+    "message-14-page1.hgr": "93eb34881f6be23d11e778007283e3d05448a24649deb650aaef501b60b7bce7",
+    "message-14-page2.hgr": "27d5e6ede3d0e6e0c86abe5d41f2f7deef623144dc35636728b93adc571e2f69",
+    "message-14.json": "ad9ea67126c4b5bbfa2b00327899deb75c9e76a50ba51096b5f3a7b90e8194d8",
+    "message-15-page1.hgr": "73ceff27e3f64c33f0b3da4f4322e5d9e1d1a718d32dc423c7bbbea3b4a9ec4b",
+    "message-15-page2.hgr": "c2673b4ef5eb206b303b2068784dda48ca822d3ff7306eefbcfc4276260d3d0e",
+    "message-15.json": "253b170b7df2298252c6ff24929d9d8c7632c9bccd65a3704a790a8f265b87f5",
+    "message-16-page1.hgr": "6e05f94cdfe58c2102d8f213fbeadc3ed47116eff99b36accc8739c51b44e76d",
+    "message-16-page2.hgr": "c23410ffcb66a4c5e81f1d399be5194f112f1bcfc1d921dd230336e9d7e570ab",
+    "message-16.json": "a03274679886d921602c5c343d509e04f0b3f17d95e451745ed0d2e929ef2e6c",
+    "message-17-page1.hgr": "f3a712dc6f0afb82ae6ac39e60895671b9dba72b9f4a8bb132e0c824a7b40888",
+    "message-17-page2.hgr": "1d4f7a47fee9dc98a7fa5c4ae823bcb854a1c5922282e1bc259b2dc9b6b64f33",
+    "message-17.json": "61bd529e4b479d77e7328ec348c9a434511aaed69017da67c5bdb3353da19024",
+    "message-18-page1.hgr": "32cdea59ab53d0ff1dab94e7990358ee41ac26566e9ec566960c77f748da64d7",
+    "message-18-page2.hgr": "fb198e5c438cb674a9bd96c081d72b4ad0facef05189c29c91f9428f25878425",
+    "message-18.json": "80be794e5faca30b251797a744194b5a6d3598615c003d928c56313589f0df24",
+    "message-19-page1.hgr": "c5975df1029ddf7a43ac3029da32f88adc1417566db7d86dcc988cf982016061",
+    "message-19-page2.hgr": "5cadb2cbebf675400d0cf4ed23bf22a450ff1f2874cf48b8bd65d62a8eb35f6a",
+    "message-19.json": "f85c77424847cf12a9a5c179355c72e3aec87b80277bb687419834305a76e096",
+    "message-20-page1.hgr": "b3b2d4f4df0de5d7e77fd3d381636200aee38f4e1e26fb4ebec61a329937a14f",
+    "message-20-page2.hgr": "bddde410551bc470126291e44e1d70345d898b60de5efa3068193932058ffd72",
+    "message-20.json": "1b538db0b58c8ee1e653deaa28eb0d316870e9c0f8f40da7d962caf20124b48c",
+    "message-21-page1.hgr": "1973873c03776a68533f174f76c24b9d961b11673e930db528bbd35932f1602f",
+    "message-21-page2.hgr": "dc81d1089a1657b6b6677a79181f0e8c610a419bb98a4f737ac37faa5ed1e4bc",
+    "message-21.json": "d31389523eda4396adfe4f52651eac89a6b5610f0458673997414dc7c8422986",
+    "message-22-page1.hgr": "335e7abe761be1bc814bccaa70df3e8315bb7a9bfe76b909a7fb4ed63b1aba22",
+    "message-22-page2.hgr": "43f1dced555459b73366793e1ff3dc18a35f48912753d0e938ac2252d978a584",
+    "message-22.json": "bbfaead9797db671c5d0598db9df1603d5585ab58e067effee5dfd33a335a5bf",
+    "message-23-page1.hgr": "d2300e9b5939e94bad7ad60d10e50d9bc97aa9eeeeffa1e1e50db38b22c34c36",
+    "message-23-page2.hgr": "5ca7f2a86daf946a5206268f4a80d87121326465402e380d2696806683103b94",
+    "message-23.json": "10a9dcd2c48bbab7c2d3c6e8a47d93de053867f82bffe6f0854f77bc0e3d2f3b",
+    "message-24-page1.hgr": "452f8332880419ab30eedce6df4f913c46f906c30d7bf13b16b45fe29f245a6f",
+    "message-24-page2.hgr": "d53c00b043817a4b017ee904aceed47eb025357c408ab8e98efd2cf00df9e4f0",
+    "message-24.json": "46f1b28d5f282300bcb8ed5d801ab4aae273018ac60e26793ed2b56ae4b5a243",
+    "message-25-page1.hgr": "0856700d23f80c6b2bb4a86647cd2278df030d44844e4a951f99146080b8d634",
+    "message-25-page2.hgr": "59d0acb9d7009074a3d5ec612f2915b04bd1df0461cea3d8c6764c49035aa726",
+    "message-25.json": "6e3a2bc96b50868147624dc7fd49f51a5d12a69372aa1552b4c4eae0932650f2",
+    "message-26-page1.hgr": "7fba416b9e72e65380932dd3a72d353de4496b957e6d7c419c4edd945d8108ba",
+    "message-26-page2.hgr": "e26b723f02312c15ee3ab08672b95259b50ebe6b793a5d6516a8a5aac5b0a680",
+    "message-26.json": "38291754467b5c574a36ac06c93be049a8a22004dcc1426d8489423e324503cb",
+    "message-27-page1.hgr": "809fdbf489ff363f4b052970017772a06db8eb025a5e5cd57324b4b48060ff74",
+    "message-27-page2.hgr": "5be69ebe22a43cbf45cc38cd632ffb38809c455e78beb48443d19ec5229d5122",
+    "message-27.json": "3182b51ee831de7bb4d7b18bf8466d4b608404a7f89390c5fc637e6c54caa6be",
+    "message-28-page1.hgr": "fec05fd7628fe661ea426524d8b6ba427b0fa28bb89e570a3c9e3963f875302a",
+    "message-28-page2.hgr": "550711b3a7102d5a98b17ee0308071b71118c36e1a423c31f0536a5c73e3d9a7",
+    "message-28.json": "15d24d83b25231e190dcb7e4a9cce24c650b2da8ec85cdd1e8ff3b64a344fa90",
+    "message-29-page1.hgr": "f619c64345ce63719bd33a6805025255c097c3e2ff6feb902f3b30b3e0ddaecb",
+    "message-29-page2.hgr": "55fc3ce1ed2296c2fd595663b208354bb15ff1814718b20b59b56669e2778b6f",
+    "message-29.json": "1001e62df40de860da3ff5244567e153d710862bb230fe0703cb9d38c4c96940",
+    "message-30-page1.hgr": "791899c9430eaf2d8ede2dd570e41073cb8d866137c67c83524d646d3eecb52b",
+    "message-30-page2.hgr": "3d3ffad1494d5ba9c6daa70af401b98f5a699b80dc608a566e371123687c6199",
+    "message-30.json": "ac19ea25c92c49b775fe99e9b78380663f17a07373b12a7b66aefaa0814ae3e3",
+    "message-31-page1.hgr": "03cfeea4e6ae52dfa962ff69c2573ca3036afaa2b13db150f2be761dd76e5bba",
+    "message-31-page2.hgr": "7342753c473515bd52dbbb22f50e6eb0c25dbb08f2d20a0a313512fe99bbc37b",
+    "message-31.json": "d4906caa41c8c5ae38198e4fe3a2ab02e608ce726365e0b3788a0d36a7c74235",
+    "message-32-page1.hgr": "2108b29d68fa00b71cb92e73b35c031e67606973b074812cc7019229e0ea8232",
+    "message-32-page2.hgr": "eccf58335392aad459b5df179ad4586c5fbc9cb92da38007096519c6e75a61dd",
+    "message-32.json": "e5e3d7ce3ffd2368b0042f3d79dc614f8a2e9a17b28a396373915baa3b3a1ebe",
+    "message-33-page1.hgr": "a7159d57909d59364bfcdd0353eb689ea0990b28e436c77fb44210cb7d6ea882",
+    "message-33-page2.hgr": "06625909bbfd00f68147d5eabee4b5793c9b154a1fea6b56143511fcce82b6ad",
+    "message-33.json": "8746423cb8d8099fe205153cc5b959d505ef1ce3e9bf7966097f981d433b066b",
+    "message-34-page1.hgr": "c0b4b9bde695d510f70d95a25d0bc25f84869a186cc2ceac1c7706d6cd8823e8",
+    "message-34-page2.hgr": "d1e42bbf1f504ea6de0c60552f25419e3cb7c431e7fe4ccd9c80d563dbf7a99f",
+    "message-34.json": "f9ae0a988a8889a981a1fe2744a530b50c3ed04772961f8db95d2e1a492c154c",
+    "message-35-page1.hgr": "60beba420d5a22bbc17de106546cef6a04c6e017f83bfa935e0199ee39260e68",
+    "message-35-page2.hgr": "4558caaef7be626beca7e987b40c382d85ea0530ce38cf5f3d1d4c5c16f7c4a9",
+    "message-35.json": "848919f384bcb957331bb49d7e644dae0750b71821e76258d8cccb24331387f9",
+    "message-36-page1.hgr": "07b113676a3eb50d31a1febb6b6fa4134efe7043c5aa2d1693f740e26840aa0c",
+    "message-36-page2.hgr": "c545f7b489b21466135865d35befa5a3a628fbf12b523523c1b35d3aca011bde",
+    "message-36.json": "3ea001e863fa68031634cf826d3464856e0e9b3b9978a52c2aaa19607e69c060",
+    "message-37-page1.hgr": "46bb2cc5880191d89fa90fbb2dc1a95f3ef5c027a0a7c435ce5c6fff1db601dc",
+    "message-37-page2.hgr": "2bbc7ff178bd40bdb0effe9828b11fcb3204f53ed6f9b564469f86e97b213112",
+    "message-37.json": "bbd4c07d297d80fa6af04d00524ed7cbb37d35210f739de65db794f799941f73",
+    "message-38-page1.hgr": "551463939380a0c076412887e705f72b096c90d7fb092d9048922983fd67cb6a",
+    "message-38-page2.hgr": "9e859a9ae29c0928ca3bc561287aa029257c2a8f440cc5cb51cac7d5c0e88068",
+    "message-38.json": "cde5f7a81bc6b54e4d7bc2e709e2c5b2edc41989b17ec8d9d67db20c594dda4e",
+    "message-39-page1.hgr": "4768070261320292a21cecbd243e2a11c9933ae17b1d8c95c748b6f83b6607e9",
+    "message-39-page2.hgr": "3f94f8fe6207b0e0f47e7d6a4ff8e9fb02f57002e114f8f5b68864bcbde0d1a0",
+    "message-39.json": "d529246ac985e2471e82c282722bc9a9fe94740b0459745b14445959b0956ab1",
+    "message-40-page1.hgr": "925f2dfd90b38f5032f7410a82be15ab2e39d45c20a419640dd6a36aa2dda541",
+    "message-40-page2.hgr": "c7e9a6fb8b47014f7b7f0912fef906926cd5d622aefe681c63f9acf88a3f9dc4",
+    "message-40.json": "3638ce01c47f86afd73c3f44c10664ddc5d54efcb09785e4ebfd35a886704d15",
+    "message-41-page1.hgr": "41c53da4bd14ebb738b58475562e4aca11404b1b4b575503284353eb42662e27",
+    "message-41-page2.hgr": "1f36026e6c6bd1056df2baa2f5bcc72d73d779e2b8c4fcde261cc5e091f4d9bb",
+    "message-41.json": "5fc049499ca60e0660a803133bd74be8be6a4bec3a01d779a90bc032c60302b4",
+    "message-42-page1.hgr": "2acf105246e858bb41b35fc8e8069e9599f7d1e020beadb11c06b4610f5e624f",
+    "message-42-page2.hgr": "deb811dcd33a44a7e424a86e7d4ad58d8b264c92ab6434a031c17dc73d08b7a4",
+    "message-42.json": "77fac0cd2c1bf6ed57da9cc19115235b55e8e7fc702727bea4527fe1be1e0434",
+    "message-43-page1.hgr": "faa1dc28f67120e7618281ebebaee726ed6df443a4f7bbd579cf30ddabcc41fc",
+    "message-43-page2.hgr": "fa05a6c7d3ef6a531b95f93e9528f2f34980dbd5b24da5e504dc5e85ec446c6a",
+    "message-43.json": "1078fb09022410fe203dc32c522b2b776284ed8c15315076b6b6d8e3f7e0bac5",
+    "message-44-page1.hgr": "0db05cdd610e3c6df45af4beccba6c9a1227d3e302fecb4d0f0cb068be920b34",
+    "message-44-page2.hgr": "01843e7235ffa7ad9461f421d50fc286a2115e69fc38d64c84de747b74844cd0",
+    "message-44.json": "6ea7ab5cd58e1cae277267ffa62f166e9cb27af525ea444a5cb09e299192f955",
+    "message-45-page1.hgr": "d9f1622eb8d91568981357d125c90032d061e04d0c6f0d27dd40155a79f794a3",
+    "message-45-page2.hgr": "b37cf5ebdd4748fc222622ea3ebc182dae4167fdd1143167a1a4711bdc3bffcf",
+    "message-45.json": "a1abc46eba186220502f1c1e909784cd8de3854d093487aad4363f699924d6b1",
+    "message-46-page1.hgr": "d9f1622eb8d91568981357d125c90032d061e04d0c6f0d27dd40155a79f794a3",
+    "message-46-page2.hgr": "b37cf5ebdd4748fc222622ea3ebc182dae4167fdd1143167a1a4711bdc3bffcf",
+    "message-46.json": "167bd35f6eedc6a51aad28056b23f08af07c5e363694169257d649bfe06043d7",
+    "message-47-page1.hgr": "d9f1622eb8d91568981357d125c90032d061e04d0c6f0d27dd40155a79f794a3",
+    "message-47-page2.hgr": "b37cf5ebdd4748fc222622ea3ebc182dae4167fdd1143167a1a4711bdc3bffcf",
+    "message-47.json": "bb860173f26d4c61700955f681a954d250f9b186439b7110568ae3e50fe4ac84"
+  },
+  "checks": [
+    "Native witnesses for every assembled-message byte/line extremum and the complete ten-suspect list",
+    "Every actual drawing-call glyph matches independent layout; measurement calls excluded by return address",
+    "Actual report-page changes count every line and terminal-NUL scroll, including final empty runs",
+    "Source terminators, buffer tail, decoder status and final cursor match; caller/RAM restored; media unchanged"
+  ],
+  "scope": "approved output witnesses for source-derived message extrema; not execution of every originating gameplay branch"
+}

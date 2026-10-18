@@ -1,0 +1,3993 @@
+{
+  "format": 1,
+  "status": "pass",
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "synthetic_image_sha256": "9225c9957a7fbe07d810c5be83c0e887a247d56fe55aef8008df95225dd057e9",
+  "translation_targets": 1287,
+  "po_targets": 1286,
+  "unaccounted_ids": [],
+  "contexts": {
+    "c.service.he": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.service.she": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.ui.056": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews",
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.059": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.ui.060": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.ui.067": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.ui.068": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.ui.103": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.ui.104": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.ui.105": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.008": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.009": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.010": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.011": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.012": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.013": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.014": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.015": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.016": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.017": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.018": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.019": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.020": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.021": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.022": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.023": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.024": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.025": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.026": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.027": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.028": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.029": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.030": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.031": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.032": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.033": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.034": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.035": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.036": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.037": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.038": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.039": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "k.040": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city00.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city01.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city02.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city03.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city04.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city05.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city06.line31": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city07.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city08.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city09.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city10.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city11.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city12.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city13.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city14.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city15.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city16.line31": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city17.line31": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city18.line31": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city19.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city20.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city21.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city22.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city23.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city24.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city25.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city26.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city27.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city28.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line00": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line01": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line02": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line03": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line04": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line05": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line06": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line07": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line08": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line09": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line10": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line11": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line12": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line13": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line14": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line15": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line16": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line17": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line18": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line19": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line20": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line21": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line22": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line23": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line24": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line25": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line26": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line27": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line28": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line29": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line30": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line31": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line32": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line33": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line34": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line35": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line36": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line37": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "s2.city29.line38": [
+      "All native city selectors, subject/pronoun/trait expansions, or explicitly retained S2 tail previews"
+    ],
+    "c.cities.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.04": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.05": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.06": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.07": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.08": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.09": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.10": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.11": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.12": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.13": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.14": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.15": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.16": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.17": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.18": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.19": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.20": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.21": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.22": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.23": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.24": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.25": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.26": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.27": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.28": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.cities.29": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.features.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.features.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.features.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.features.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.features.04": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.food.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.food.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hair.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hair.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hair.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hair.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hobbies.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hobbies.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hobbies.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hobbies.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hobbies.04": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.hobbies.05": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.sex.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.sex.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.vehicles.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.vehicles.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.vehicles.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.clue.vehicles.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.detective_ranks.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.detective_ranks.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.detective_ranks.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.detective_ranks.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.detective_ranks.04": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.detective_ranks.05": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.04": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.05": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.06": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.07": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.08": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.suspects.09": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.000": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.001": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.002": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.003": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.004": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.005": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.008": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.009": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.010": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.011": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.012": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.013": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.014": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.015": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.016": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.017": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.018": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.019": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.020": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.021": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.022": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.023": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.024": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.025": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.026": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.027": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.028": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.029": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.030": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.031": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.032": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.033": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.034": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.035": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.036": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.037": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.038": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.039": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.040": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.042": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.043": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.044": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.045": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.046": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.049": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.050": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.051": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.052": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.053": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.054": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.055": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.057": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.058": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.061": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.062": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.063": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.064": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.065": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.066": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.069": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.070": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.071": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.072": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.073": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.074": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.075": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.076": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.077": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.078": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.079": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.080": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.081": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.082": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.083": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.084": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.085": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.086": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.087": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.088": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.089": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.090": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.091": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.092": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.093": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.094": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.095": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.096": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.098": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.099": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.100": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.101": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.102": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.106": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.107": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.108": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.109": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.110": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.111": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.112": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.113": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.114": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.115": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.116": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.118": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.119": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.120": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.121": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.122": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.123": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.124": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.125": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.126": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.127": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.128": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.ui.129": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekday_suffixes.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekday_suffixes.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekday_suffixes.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekday_suffixes.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekday_suffixes.04": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekday_suffixes.05": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekday_suffixes.06": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekdays.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekdays.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekdays.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekdays.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekdays.04": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekdays.05": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "c.weekdays.06": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.000": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.001": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.002": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.003": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.004": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.005": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.006": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.007": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.008": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.009": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.010": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.011": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.012": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.013": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.014": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.015": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.016": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.017": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.018": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.019": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.020": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.021": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.022": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.023": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.024": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.025": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.026": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.027": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.028": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.029": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.030": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.031": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.032": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.033": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.034": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.035": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.036": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.037": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.038": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.039": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.040": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.041": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.042": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.043": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.044": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.045": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.046": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.047": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.048": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.049": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.050": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.051": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.052": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.053": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.054": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.055": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.056": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.057": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.058": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.059": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.060": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.061": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.062": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.063": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.064": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.065": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.066": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.067": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.068": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.069": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.070": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.071": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.072": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.073": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.074": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.075": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.076": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.077": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.078": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.079": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.080": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.081": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.082": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.083": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.084": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.085": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.086": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.087": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.088": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "i.089": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "k.000": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "k.001": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "k.002": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "k.003": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "k.004": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "k.005": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "k.006": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "k.007": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "n.save_dialog": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "r.intro.00": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "r.intro.01": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "r.intro.02": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "r.intro.03": [
+      "Source-derived fixed field, assembled report, warrant sequence, or normal-field layout"
+    ],
+    "bitmap.o.sex": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.o.hobby": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.o.hair": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.o.feature": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.o.auto": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.o.food": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.o.computer": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.p.jail": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.s.presents": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.s.title": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.s.agency": [
+      "Native post-decompression caption pixels on both HGR pages"
+    ],
+    "bitmap.d.am": [
+      "All native clock hours/weekdays and redraw transitions"
+    ],
+    "bitmap.d.pm": [
+      "All native clock hours/weekdays and redraw transitions"
+    ],
+    "i.090": [
+      "Original intentional empty treasure terminator; not selected by the 0..89 treasure domain"
+    ],
+    "n.plural_suffix": [
+      "Intentionally empty; complete nine-byte English plural append/cursor-increment span removed"
+    ],
+    "c.ui.006": [
+      "Side A fragment retained for the floppy disk prompt; not selected by the 800K prompt. Isolated font/layout preview only."
+    ],
+    "c.ui.007": [
+      "Side B fragment retained for the floppy disk prompt; not selected by the 800K prompt. Isolated font/layout preview only."
+    ],
+    "c.ui.041": [
+      "Original UI save help retained; the 800K game draws the separately catalogued n.save_dialog. Isolated font/layout preview only."
+    ],
+    "c.ui.047": [
+      "Original retained UI text; no UI call for index 47 in either N source. Not a live-branch claim. Isolated font/layout preview only."
+    ],
+    "c.ui.048": [
+      "Original retained UI text; no UI call for index 48 in either N source. Not a live-branch claim. Isolated font/layout preview only."
+    ],
+    "c.ui.097": [
+      "Write-protection prompt prefix used by the floppy branch, absent from the 800K prompt. Isolated font/layout preview only."
+    ],
+    "c.ui.117": [
+      "Write-protection prompt suffix used by the floppy branch, absent from the 800K prompt. Isolated font/layout preview only."
+    ],
+    "s2.city21.line24.disk2": [
+      "Floppy-only original wording variant; draft round-trip/offline preview, outside the first 800K build"
+    ]
+  },
+  "retained_ui_without_po_call": {
+    "c.ui.006": "Side A fragment retained for the floppy disk prompt; not selected by the 800K prompt.",
+    "c.ui.007": "Side B fragment retained for the floppy disk prompt; not selected by the 800K prompt.",
+    "c.ui.041": "Original UI save help retained; the 800K game draws the separately catalogued n.save_dialog.",
+    "c.ui.047": "Original retained UI text; no UI call for index 47 in either N source. Not a live-branch claim.",
+    "c.ui.048": "Original retained UI text; no UI call for index 48 in either N source. Not a live-branch claim.",
+    "c.ui.097": "Write-protection prompt prefix used by the floppy branch, absent from the 800K prompt.",
+    "c.ui.117": "Write-protection prompt suffix used by the floppy branch, absent from the 800K prompt."
+  },
+  "native_evidence": {
+    "synthetic-text": {
+      "path": "docs/korean/runtime/synthetic-text.json",
+      "sha256": "68c321165b8959fac28a5a520217285f58bc1d71b7270638714a22589665dba7",
+      "scope": "Full-size synthetic text/caption lifecycle; all dynamic-message layouts and exhaustive branch coverage remain open"
+    },
+    "native-readers": {
+      "path": "docs/korean/runtime/native-readers.json",
+      "sha256": "78a0ea63b4204947041daa8fd70268a3f3b981f55686fbdfc1d3e4cf6fb6f081",
+      "scope": "Native reader and sentence-append edge cases; not all game branch/layout coverage"
+    },
+    "native-clock": {
+      "path": "docs/korean/runtime/native-clock.json",
+      "sha256": "11a790e317bf538a0209ff1dd780b75b19e6224e5d73d51fdc986fda6862647b",
+      "scope": "31 native clock field cases including sequential redraws and weekday wrap; full game screenshots/lifecycle recorded separately"
+    },
+    "native-captions": {
+      "path": "docs/korean/runtime/native-captions.json",
+      "sha256": "b1fb1bb3a8621c097199c7e8e197cd987fded2cf5b5fdc46accd9edf7f53a156",
+      "scope": "Native caption decoder/renderer component; updated full disk lifecycle remains a separate gate"
+    },
+    "native-messages": {
+      "path": "docs/korean/runtime/native-messages.json",
+      "sha256": "abba2b2d6f19367cb429a8d3493e60ddd218e195804b8ed4ef146dcacb34820e",
+      "scope": "Synthetic output witnesses for source-derived message extrema; not execution of every originating gameplay branch"
+    },
+    "native-cities": {
+      "path": "docs/korean/runtime/native-cities.json",
+      "sha256": "44c0aaf419161c0b9418a9030e0aa8a2720e4b8d02249560775536c4af3ea990",
+      "scope": "60 actual ProDOS data-load calls; selected clue/description and rendering gates have separate evidence"
+    }
+  },
+  "glyphs": 710,
+  "font_bytes": 5680,
+  "capacity_bounds": {
+    "I_boot_reservation": {
+      "required": 1698,
+      "available": 4096,
+      "fits": true
+    },
+    "K_boot_reservation": {
+      "required": 1178,
+      "available": 4096,
+      "fits": true
+    },
+    "C_UI_before_icons": {
+      "required": 2427,
+      "available": 3072,
+      "fits": true
+    },
+    "C_names_before_DD00": {
+      "required": 455,
+      "available": 495,
+      "fits": true
+    },
+    "stored_city_text_before_O": {
+      "required": 1485,
+      "available": 1792,
+      "fits": true
+    },
+    "selected_description_page": {
+      "required": 136,
+      "available": 256,
+      "fits": true
+    },
+    "selected_clues_before_image": {
+      "required": 190,
+      "available": 512,
+      "fits": true
+    },
+    "expanded_investigation_before_O": {
+      "required": 133,
+      "available": 1792,
+      "fits": true
+    },
+    "city_description_panel": {
+      "required": 64,
+      "available": 136,
+      "fits": true
+    },
+    "investigation_panel": {
+      "required": 84,
+      "available": 136,
+      "fits": true
+    }
+  },
+  "disk_free_blocks": 1179,
+  "dynamic_combinations": 1697,
+  "warrant_subsets": 1023,
+  "original_inputs": {
+    "manifest_sha256": "ceff8224d042e93979e52d986fb31097c9ff3f3e5e60a16f714907b8a5c6116b",
+    "images": {
+      "disk1": {
+        "path": "carmen-world-disk1.dsk",
+        "sha256": "d322484a14f53ab9ed0bc8e3ac2b046250d775dd52eb956dbac578e13912afd2",
+        "verified_extracted_files": 21
+      },
+      "disk2": {
+        "path": "carmen-world-disk2.dsk",
+        "sha256": "caf57f337eeb72860aa51e993b9ea99d9bd2b76a2bb8f49c4cf36d462a71800e",
+        "verified_extracted_files": 2
+      },
+      "po": {
+        "path": "carmen-world.po",
+        "sha256": "d9557dfed56f35de21350b3bbcddcd38af99a1629ffc80a578fef797dda9a091",
+        "verified_extracted_files": 25
+      }
+    }
+  },
+  "repeated_build_identical": true,
+  "scope": "K2 technical feasibility and complete draft coverage. Human linguistic approval and K5/K6 actual-translation execution remain open."
+}

@@ -1,0 +1,965 @@
+{
+  "format": 1,
+  "archive": "history.tar.xz",
+  "archive_sha256": "2e96965a9aa2a899c62f6bcc15686ecd875360349c4e96a90056823f8810eb65",
+  "file_count": 236,
+  "uncompressed_bytes": 10926317,
+  "files": {
+    "401ad4dca31d/FONT-LICENSE.txt": {
+      "bytes": 4360,
+      "sha256": "86a3ee9495f942f0243f18c103da9faca27adb88142613edb8bb852e56c892c1"
+    },
+    "401ad4dca31d/catalog.json": {
+      "bytes": 2404726,
+      "sha256": "401ad4dca31dcf7a0afb917d3fa36e767a87910add8bb1bf139509d152538dcc"
+    },
+    "401ad4dca31d/city-layouts.json": {
+      "bytes": 104133,
+      "sha256": "d586345d91f6603cf8ddf74f6a2cc6df44bdcf87e0d29fdcb0846baa5df602f3"
+    },
+    "401ad4dca31d/font-source.json": {
+      "bytes": 378,
+      "sha256": "73032bf19040f31b871ac0e0d671b5decc309d64122af324a3621a9640f7daaf"
+    },
+    "401ad4dca31d/glossary.json": {
+      "bytes": 21747,
+      "sha256": "28c8e5c10161d457bf1f7a36cbd1c0886a9167a999a765de735c91c3dbf6f95f"
+    },
+    "401ad4dca31d/index.html": {
+      "bytes": 942944,
+      "sha256": "47c174237898e8025f717d8e40c93250d3fed294635f78ebdec937c47e318799"
+    },
+    "401ad4dca31d/manifest.json": {
+      "bytes": 12973,
+      "sha256": "979b44de6238c9c553d267efce292fb494f7fb7d9dd131519c461a9250bda09e"
+    },
+    "401ad4dca31d/message-layouts.json": {
+      "bytes": 196289,
+      "sha256": "7d0058a5390e015730a7673926f79a6476b1980af8fed966252ae7c21d3d0a53"
+    },
+    "401ad4dca31d/previews/caption-N4.png": {
+      "bytes": 1427,
+      "sha256": "0050cac4d717d3796ecd75c6c834de3f8a6805f5435f84df06ec340a2e73c57c"
+    },
+    "401ad4dca31d/previews/caption-N5.png": {
+      "bytes": 1840,
+      "sha256": "b488734845a92d44c8512d8e88609849834f26631a9bcd321a5fb11cc3ffa5be"
+    },
+    "401ad4dca31d/previews/caption-R0.png": {
+      "bytes": 1122,
+      "sha256": "68e0c8d08e0eb834b1b9e34ca2f4096168650886239161df38c9a5fb10b97dba"
+    },
+    "401ad4dca31d/previews/caption-R2.png": {
+      "bytes": 1420,
+      "sha256": "138ec61d8c42f49e8766f29d3d0c7ab70761383b8c4ea62b02fb191c491beb65"
+    },
+    "401ad4dca31d/previews/caption-R3.png": {
+      "bytes": 3250,
+      "sha256": "4f702dd744d7764c31d437a22534d15aa9b3a4170630de2d36c81aa338c716ac"
+    },
+    "401ad4dca31d/previews/city-00-description.png": {
+      "bytes": 1200,
+      "sha256": "5ee952059f60229cf71397fb23eae531e782fa63237abcf7132500d0872d0817"
+    },
+    "401ad4dca31d/previews/city-00-investigation.png": {
+      "bytes": 1362,
+      "sha256": "d5f70508eab29989b35613171aaeac05401e627ac7ef878870a498ca26c2d36c"
+    },
+    "401ad4dca31d/previews/city-01-description.png": {
+      "bytes": 1371,
+      "sha256": "fcc03ca30cd3661cc556ade4b077ad01f5f68eb2eb8908343f7ad180449e0d31"
+    },
+    "401ad4dca31d/previews/city-01-investigation.png": {
+      "bytes": 1298,
+      "sha256": "ac2d0abe2d62d6da2dfbc97e09a4576751e328eccf10a8457630ad80fc4591b0"
+    },
+    "401ad4dca31d/previews/city-02-description.png": {
+      "bytes": 1255,
+      "sha256": "6fbe0ba84746809ad91655a4da2f2b2a1888dacdceecc6b28ac12e229ec875c2"
+    },
+    "401ad4dca31d/previews/city-02-investigation.png": {
+      "bytes": 1194,
+      "sha256": "1382e66e76b11bf1c03d97950987052ce240edd29e69d6235fb55b166e3820b7"
+    },
+    "401ad4dca31d/previews/city-03-description.png": {
+      "bytes": 1158,
+      "sha256": "364d35295aea06940637e9e4664df15a31a85705ce91a705fbe4ff4b880e2de0"
+    },
+    "401ad4dca31d/previews/city-03-investigation.png": {
+      "bytes": 1294,
+      "sha256": "19dcbccfe9d6a0e409744a5a3c6f3f7fb1137d937a408540769c65e743f8c726"
+    },
+    "401ad4dca31d/previews/city-04-description.png": {
+      "bytes": 1252,
+      "sha256": "335a0e166b354c5e89309d257e77793873e25cff5700f49c0d77f6111b4abd7a"
+    },
+    "401ad4dca31d/previews/city-04-investigation.png": {
+      "bytes": 1256,
+      "sha256": "6fb5e34b01958b7273b5bff5126cd9c56d43633ac7a9bd6cbb862673312df53c"
+    },
+    "401ad4dca31d/previews/city-05-description.png": {
+      "bytes": 1463,
+      "sha256": "a94beb6ea033664d690e481c8c78d5d7cfae5cb21e9f7cc94d65b72ce7779d26"
+    },
+    "401ad4dca31d/previews/city-05-investigation.png": {
+      "bytes": 1264,
+      "sha256": "d4de30543826085f3228e910b10ae1112b95c79c7c8eb7f40b55cb901c561656"
+    },
+    "401ad4dca31d/previews/city-06-description.png": {
+      "bytes": 1278,
+      "sha256": "3bd1f47507e649d17213c1f22669d9e8423a29744e909f2d21a186794101d02b"
+    },
+    "401ad4dca31d/previews/city-06-investigation.png": {
+      "bytes": 1293,
+      "sha256": "72b084e0ca6e059e566831a6fbab68eb0ba77a34ba6939a4acb57ee7f5e1aa09"
+    },
+    "401ad4dca31d/previews/city-07-description.png": {
+      "bytes": 1063,
+      "sha256": "898ddf02c830afc632350d57dbdd1822fc4a4c096953623e52ec6066997146e3"
+    },
+    "401ad4dca31d/previews/city-07-investigation.png": {
+      "bytes": 1264,
+      "sha256": "8e21152ae86ebe86843e19c8350839399ea22c295045a8b3cf40a7a0953705af"
+    },
+    "401ad4dca31d/previews/city-08-description.png": {
+      "bytes": 1105,
+      "sha256": "bdb905a9da7a6303caa921df0bb7bb4788ababe46c4fc7b2aa43cc9822a9545b"
+    },
+    "401ad4dca31d/previews/city-08-investigation.png": {
+      "bytes": 1432,
+      "sha256": "6627f3978bcc1d5bc23215498570b7ab4ab990e90710b6be53a775fa005ad4c4"
+    },
+    "401ad4dca31d/previews/city-09-description.png": {
+      "bytes": 1105,
+      "sha256": "4d712c89ddfa94d8d33db2975406f0b8677205867987ad563993ab75c961aa75"
+    },
+    "401ad4dca31d/previews/city-09-investigation.png": {
+      "bytes": 1240,
+      "sha256": "70b44317ee70648e1d5c72e35bdba02bae86bbd8ac3596d93dad466e0822e0af"
+    },
+    "401ad4dca31d/previews/city-10-description.png": {
+      "bytes": 987,
+      "sha256": "da7e296ee903793737e8e0b396f8282e0770d81344dea5f594a4f6d3bda48fe2"
+    },
+    "401ad4dca31d/previews/city-10-investigation.png": {
+      "bytes": 1322,
+      "sha256": "3e6c0f184516b0621fea25fc001a04ecbe0d9a0cf968e2ab854ac3a7cdade04f"
+    },
+    "401ad4dca31d/previews/city-11-description.png": {
+      "bytes": 1310,
+      "sha256": "02b76bccf00e5c8d4c767d738c496a3de21191b46be3beeb0cc53ae79a66604e"
+    },
+    "401ad4dca31d/previews/city-11-investigation.png": {
+      "bytes": 1227,
+      "sha256": "eb6bc971d3c1643e26504e707e9509796ea9bb5810ca155d567ef485d4d12d17"
+    },
+    "401ad4dca31d/previews/city-12-description.png": {
+      "bytes": 1085,
+      "sha256": "b3b28a2279c83539970cfccbd54b06c27d892edd991cd83531577e14cd3d33b3"
+    },
+    "401ad4dca31d/previews/city-12-investigation.png": {
+      "bytes": 1298,
+      "sha256": "6a506956de4492e6ca4632d768ac767d255cfa6c4f90755854b151a2a1244dbc"
+    },
+    "401ad4dca31d/previews/city-13-description.png": {
+      "bytes": 1306,
+      "sha256": "d6145bead44dd575d9b81ba8c6245ce4109c7096e76df591a1d74259324d3a25"
+    },
+    "401ad4dca31d/previews/city-13-investigation.png": {
+      "bytes": 1303,
+      "sha256": "599d35ed47ecf5097dffde6c44e96cbcad1c7bb554d749885ff7bc85877086e3"
+    },
+    "401ad4dca31d/previews/city-14-description.png": {
+      "bytes": 992,
+      "sha256": "f17d923ec7c67ee474a5494fd4917782df413a40bd5e4caef287af23ecf77134"
+    },
+    "401ad4dca31d/previews/city-14-investigation.png": {
+      "bytes": 1287,
+      "sha256": "622ac6822a1cab8845401bb0d378f0ebe4c64264219abf67b15fc95a0ae23d58"
+    },
+    "401ad4dca31d/previews/city-15-description.png": {
+      "bytes": 1331,
+      "sha256": "a4554b33e3d2b73ee28e0b90534cd5c6eb5eca511b9ddadad74620ecd39ea239"
+    },
+    "401ad4dca31d/previews/city-15-investigation.png": {
+      "bytes": 1323,
+      "sha256": "3a1bd40886a0782f9592b5ddb07d8364a37e8a37d7a5ffc559235862757ba446"
+    },
+    "401ad4dca31d/previews/city-16-description.png": {
+      "bytes": 1162,
+      "sha256": "cfb317ad08912ba695e82e69d743ed50ee62ac0da04a83a9f1440d2ee8e28a1b"
+    },
+    "401ad4dca31d/previews/city-16-investigation.png": {
+      "bytes": 1232,
+      "sha256": "d2db22d39b2bd839f63aa39acc1cdd35c31b3f622e6cdd0280c73d2f98563c94"
+    },
+    "401ad4dca31d/previews/city-17-description.png": {
+      "bytes": 1468,
+      "sha256": "2817b4f4d56fd6493e77cd143e3889ba783245a2ed311db2e036e09030333dfa"
+    },
+    "401ad4dca31d/previews/city-17-investigation.png": {
+      "bytes": 1302,
+      "sha256": "2f3cc3075a1eba83ca1578a150ca559c3f951ee5165ab9d6f0914f31ccb77a4b"
+    },
+    "401ad4dca31d/previews/city-18-description.png": {
+      "bytes": 1024,
+      "sha256": "138aaa1bf16104dfa1a52771ee185c81294a5965d4a3a48a8677f2e73e9c1cad"
+    },
+    "401ad4dca31d/previews/city-18-investigation.png": {
+      "bytes": 1309,
+      "sha256": "24953220a5266eb9535b09b650a1ccf10fd277497431c51aab78b8410e3ec73d"
+    },
+    "401ad4dca31d/previews/city-19-description.png": {
+      "bytes": 1239,
+      "sha256": "5ccea1f61221df4047a6445e7420b69c6c62613f04053e22cb5092496a21efc3"
+    },
+    "401ad4dca31d/previews/city-19-investigation.png": {
+      "bytes": 1293,
+      "sha256": "924e7eefcbd8f60cdf4c0bdd48e724250074df68fd4da41a060171bc46753dc5"
+    },
+    "401ad4dca31d/previews/city-20-description.png": {
+      "bytes": 958,
+      "sha256": "4f3b0c74ff59291ba20b37bdd5a52c938a3df4c5af0fa3be1d265172b0ae7b0f"
+    },
+    "401ad4dca31d/previews/city-20-investigation.png": {
+      "bytes": 1298,
+      "sha256": "6a506956de4492e6ca4632d768ac767d255cfa6c4f90755854b151a2a1244dbc"
+    },
+    "401ad4dca31d/previews/city-21-description.png": {
+      "bytes": 1004,
+      "sha256": "79753b5f11d0de49ac1b223497e8de8af699961bef13e7ba4a486c4cddc4e03c"
+    },
+    "401ad4dca31d/previews/city-21-investigation.png": {
+      "bytes": 1251,
+      "sha256": "059f08abdf8793680044af8cd5181cde3eaa18bc7bc24733c2324635156ff7ca"
+    },
+    "401ad4dca31d/previews/city-22-description.png": {
+      "bytes": 1130,
+      "sha256": "18d323ab007061d1e0fa468b924fe82b577d3f6662d09b0de4df79f5ec2d3f37"
+    },
+    "401ad4dca31d/previews/city-22-investigation.png": {
+      "bytes": 1302,
+      "sha256": "0447c4546dd7a8582b6b6a276f7ddfcc14ef30a2ae48968df9c6483e5a87aa6e"
+    },
+    "401ad4dca31d/previews/city-23-description.png": {
+      "bytes": 1112,
+      "sha256": "81b70cf221f04091a41e20eb547e5b7d929f805a65aae2b54fb34d7217084c91"
+    },
+    "401ad4dca31d/previews/city-23-investigation.png": {
+      "bytes": 1270,
+      "sha256": "8dab0198d39838b7b76fb5323e6a2a26b8464385d0a7260bc1528e8959e7736a"
+    },
+    "401ad4dca31d/previews/city-24-description.png": {
+      "bytes": 1127,
+      "sha256": "786d8bdc986229c70c7aaa07b14dd877edaf625f5667b151baae8972863452ef"
+    },
+    "401ad4dca31d/previews/city-24-investigation.png": {
+      "bytes": 1314,
+      "sha256": "feb9274e309f2276ff46e8e6736f3765ee12f04aec41f22bf47a33898d046051"
+    },
+    "401ad4dca31d/previews/city-25-description.png": {
+      "bytes": 1193,
+      "sha256": "34ac265019554f8c9f0a3d0f1e6b141fa9f3aed4d011cf918707fa57ef50c413"
+    },
+    "401ad4dca31d/previews/city-25-investigation.png": {
+      "bytes": 1293,
+      "sha256": "5fcfc11ee4c2325dad8f1847969c8c64941462a12dde7eebeebe77e7082bf4a9"
+    },
+    "401ad4dca31d/previews/city-26-description.png": {
+      "bytes": 1157,
+      "sha256": "3bb23ae91230e7ade84f33dd1d95979c27eb8b5679e62c047b279041ba8cbbcd"
+    },
+    "401ad4dca31d/previews/city-26-investigation.png": {
+      "bytes": 1288,
+      "sha256": "316da14417e5aee678adea5ec3687fa881e7b5cfb263e4642356046a04aaa99e"
+    },
+    "401ad4dca31d/previews/city-27-description.png": {
+      "bytes": 1019,
+      "sha256": "a61c3e957cc71f7593dd724e6eebe4f87a3a7db908e6f947c592e5eb99bdcc36"
+    },
+    "401ad4dca31d/previews/city-27-investigation.png": {
+      "bytes": 1254,
+      "sha256": "b7751d0f133e3aae452d0b65769233f28887c9867c2021a2f9f9f35df620f9a8"
+    },
+    "401ad4dca31d/previews/city-28-description.png": {
+      "bytes": 1235,
+      "sha256": "852de7f7f79f27a4718a8cddf18539e00bba2bc1c71970de0747b03f49cca82e"
+    },
+    "401ad4dca31d/previews/city-28-investigation.png": {
+      "bytes": 1336,
+      "sha256": "2b519724a45d0b74ae15479a5062940a5800ef31f4e6ff8da78fe506094113e5"
+    },
+    "401ad4dca31d/previews/city-29-description.png": {
+      "bytes": 773,
+      "sha256": "48395ac1b17aa992defaaeed7fb8f8e728f61532ac5b0e0fd6b03b9fa072ad0f"
+    },
+    "401ad4dca31d/previews/city-29-investigation.png": {
+      "bytes": 1243,
+      "sha256": "2e3cabf3e515d752710d61952ec89790b0b2ecf6154e121abe323b05f79027d9"
+    },
+    "401ad4dca31d/previews/complete-warrant-list.png": {
+      "bytes": 1577,
+      "sha256": "11e10cdd62e928facd7ca2b175110f1c62e07691142452174f44f30179d427cd"
+    },
+    "401ad4dca31d/previews/floppy-only-variant.png": {
+      "bytes": 838,
+      "sha256": "ae265d8d66dcab9b284fb9392b7e8d676981b6d17f60f80978f1e8d41c43620c"
+    },
+    "401ad4dca31d/previews/report-deadline.png": {
+      "bytes": 857,
+      "sha256": "989c11d2684cae84533152b3f2aed851d61a70e03737aebbe3cb9da821c82943"
+    },
+    "401ad4dca31d/previews/report-direct-report-19.png": {
+      "bytes": 562,
+      "sha256": "3efe12ad5551b9e0178768c53e41c7dcac978d2d66ae326b0a467f920e0723a0"
+    },
+    "401ad4dca31d/previews/report-direct-report-20.png": {
+      "bytes": 606,
+      "sha256": "7676da3b89aa61776e023769b508b114ad09c66068f1147912b412cc20a6c1bc"
+    },
+    "401ad4dca31d/previews/report-direct-report-21.png": {
+      "bytes": 692,
+      "sha256": "63afb4d7aecd08d995fac6c2b075ba501f2ea8651f3347e590336cddcea60bd3"
+    },
+    "401ad4dca31d/previews/report-direct-report-22.png": {
+      "bytes": 847,
+      "sha256": "0b1dc42a6568d5c2e600ef17566ad2764200fc4bc6848c4a9cb225322080f8e5"
+    },
+    "401ad4dca31d/previews/report-direct-report-23.png": {
+      "bytes": 567,
+      "sha256": "6d339c5e4a5389206ed36c9e7c090f8dea2e532c0d37164b076ce386ac2a3d18"
+    },
+    "401ad4dca31d/previews/report-direct-report-26.png": {
+      "bytes": 898,
+      "sha256": "7d33eecb3e60f09aef42262f18541667fa67a5904fa22030280623fd562b0c25"
+    },
+    "401ad4dca31d/previews/report-direct-report-38.png": {
+      "bytes": 1339,
+      "sha256": "e23abaa436bb98be95b1cf5637313e8242e568a7f435a13bdd1568951e4cdddd"
+    },
+    "401ad4dca31d/previews/report-direct-report-39.png": {
+      "bytes": 236,
+      "sha256": "a27adde711df645d990ca21f3ff9f90323ed7cf64520df0ef3a62c39b5fd094f"
+    },
+    "401ad4dca31d/previews/report-direct-report-61.png": {
+      "bytes": 373,
+      "sha256": "20927327452179714f81de8589efc127e790a202aa4047d325325376a374c603"
+    },
+    "401ad4dca31d/previews/report-direct-report-62.png": {
+      "bytes": 452,
+      "sha256": "42c20adac4d920fdcb0c1451c1707fec2e5abefbd984b266b6c44dc46210b9ea"
+    },
+    "401ad4dca31d/previews/report-direct-report-63.png": {
+      "bytes": 387,
+      "sha256": "32ee7881f46452388d4979e24bfc42603fba8f8055f3860a812600e44e5d125f"
+    },
+    "401ad4dca31d/previews/report-direct-report-64.png": {
+      "bytes": 553,
+      "sha256": "6e1fd58ae1cb6729fff4896abd0aa97a2301a7e379f36b5f614067d80ff477ff"
+    },
+    "401ad4dca31d/previews/report-direct-report-74.png": {
+      "bytes": 811,
+      "sha256": "4513a2225ead53521f94f0bc570ea2a18235ed44e48d107a65650802072db79c"
+    },
+    "401ad4dca31d/previews/report-direct-report-75.png": {
+      "bytes": 968,
+      "sha256": "9b64a4523d2829b0785afc076d8b3a5f74579aca4a11f45c20a75c66a3013577"
+    },
+    "401ad4dca31d/previews/report-direct-report-81.png": {
+      "bytes": 736,
+      "sha256": "05d23e053a932fb3b06e9c97f765f9ce629b7f8168b06d9b0e8c307046b3e67e"
+    },
+    "401ad4dca31d/previews/report-direct-report-82.png": {
+      "bytes": 619,
+      "sha256": "7c8b36da3415f79c62392e727395b377276323561e42950f7bb62b284d0e9c16"
+    },
+    "401ad4dca31d/previews/report-direct-report-87.png": {
+      "bytes": 929,
+      "sha256": "d758b6024188039d6e0f7cbe37f44b4be1284d4ee35a93da9b258f7a2325fd90"
+    },
+    "401ad4dca31d/previews/report-direct-report-90.png": {
+      "bytes": 684,
+      "sha256": "dd177fa0017aae054ac99897931c7b5ecca748110a8f18aa11553ce9b46c9a4d"
+    },
+    "401ad4dca31d/previews/report-direct-report-98.png": {
+      "bytes": 803,
+      "sha256": "fce125ed5177dc32280304064afd5fbc42ebab0029fa809611399822c94a4191"
+    },
+    "401ad4dca31d/previews/report-failed-header.png": {
+      "bytes": 452,
+      "sha256": "f03457cbe781b7af501373974d3241aae1a6f51e65f34a36e0492d72f7968bd1"
+    },
+    "401ad4dca31d/previews/report-mission.png": {
+      "bytes": 946,
+      "sha256": "e583f0f00d96b5abbc6ac35c57007ae259c6fba56d7d72d828f8007409cc625d"
+    },
+    "401ad4dca31d/previews/report-news.png": {
+      "bytes": 708,
+      "sha256": "c6f5186ea71af723e9bd14ee7f39ed16663babb0b26c6f84fc420c202532fe59"
+    },
+    "401ad4dca31d/previews/report-next-case.png": {
+      "bytes": 824,
+      "sha256": "7cf7746b6f233b252fe9a26c5a5a9d1d4bf4f2af7bc19ace7ed26ec51d08e510"
+    },
+    "401ad4dca31d/previews/report-no-warrant.png": {
+      "bytes": 1279,
+      "sha256": "70e7c96a99ee63f06bfa4c3aa338005a04c02d2998901718e983f245c6e24061"
+    },
+    "401ad4dca31d/previews/report-promotion-progress.png": {
+      "bytes": 686,
+      "sha256": "c87a23e0aacdc03baed263c7cabd44862752bb657c0a07a28e26535f206458d0"
+    },
+    "401ad4dca31d/previews/report-promotion.png": {
+      "bytes": 641,
+      "sha256": "92d60a6704f7d12c33d0e7587f836c7c5848990762488782efe6d10e27d8647a"
+    },
+    "401ad4dca31d/previews/report-rank.png": {
+      "bytes": 390,
+      "sha256": "567ca91607462292a519e770a6f299901cca0e73eb944ada0df514eb1ffbd16b"
+    },
+    "401ad4dca31d/previews/report-successful-loot.png": {
+      "bytes": 1321,
+      "sha256": "34895387c5fa9a4295695963bd62965842fa9fd1e98c5b1c38998491ed710e13"
+    },
+    "401ad4dca31d/previews/report-successful-police.png": {
+      "bytes": 897,
+      "sha256": "1677d97470777f4f2579e2e15ec53625827160bf73f13431146f408894187deb"
+    },
+    "401ad4dca31d/previews/report-suspect-sex.png": {
+      "bytes": 614,
+      "sha256": "36c5888b5a5ffed1f0fec69ee57cebd21fe802e486590571591bb7740e556b3d"
+    },
+    "401ad4dca31d/previews/report-timeout.png": {
+      "bytes": 1213,
+      "sha256": "b58f4959eee17ed0f703617112f8cc7959f760fa9c251a07b753bda164923d49"
+    },
+    "401ad4dca31d/previews/report-treasure.png": {
+      "bytes": 817,
+      "sha256": "45d8dbd60146b9e2cbacc50a932628ec90d289c8414e4c6c2d8d5ac6a225a23c"
+    },
+    "401ad4dca31d/previews/report-warrant-name.png": {
+      "bytes": 393,
+      "sha256": "02aaa29185eb1fbf04afd59366beedba5953380734d9253f7886337c282e7266"
+    },
+    "401ad4dca31d/previews/report-welcome.png": {
+      "bytes": 599,
+      "sha256": "11eba3d85a6b830d18dfc9fc599a092de31800f46d9bf4ba3357fdc448bf504e"
+    },
+    "401ad4dca31d/previews/report-wrong-trail.png": {
+      "bytes": 876,
+      "sha256": "6b7dec93ed1e6223ef3bf62d67fe58fafdf65b4513736b2e0233f1b847510c99"
+    },
+    "401ad4dca31d/previews/report-wrong-warrant.png": {
+      "bytes": 668,
+      "sha256": "bec974214b23880d78aa519c75c0466e4a5fbe398d82f2aa2e3730ce86db9717"
+    },
+    "401ad4dca31d/previews/save-dialog.png": {
+      "bytes": 816,
+      "sha256": "627ce941bf0786eb299b955d2abb749e1a9f0ddf41bd48a83ed129c809d16ac2"
+    },
+    "401ad4dca31d/previews.html": {
+      "bytes": 25489,
+      "sha256": "ca1dea6cc0ce113ec6ade7bf381ca4105e68d8c5f28efd661287f9a4ab177bb0"
+    },
+    "401ad4dca31d/previews.json": {
+      "bytes": 25272,
+      "sha256": "a385956b5335ac551827333436a2ebc168f2496c915a73510921f9ecf3303ff1"
+    },
+    "401ad4dca31d/readiness.json": {
+      "bytes": 180564,
+      "sha256": "8fce8bbb1faec02b41ea96492dd07dc743af9495c28c5bb07815bbb5cae28ec3"
+    },
+    "401ad4dca31d/review-notes.json": {
+      "bytes": 4749,
+      "sha256": "2c47b2318fc7679f10768af51b81eead02a5d5dde33423460754d6d196bb97ef"
+    },
+    "401ad4dca31d/translations.tsv": {
+      "bytes": 1426621,
+      "sha256": "f5dfb5fca07e4afd3b9db15cdfcf197fcb3ab054af15ec058339783576408c7e"
+    },
+    "9e0e64e13dc2/FONT-LICENSE.txt": {
+      "bytes": 4360,
+      "sha256": "86a3ee9495f942f0243f18c103da9faca27adb88142613edb8bb852e56c892c1"
+    },
+    "9e0e64e13dc2/catalog.json": {
+      "bytes": 2404726,
+      "sha256": "9e0e64e13dc23a14deeb265070594259f0fdf3616503a655304bc02156975150"
+    },
+    "9e0e64e13dc2/city-layouts.json": {
+      "bytes": 104133,
+      "sha256": "e6854123eafe0f87f953f06a9be16f242c189d164e1e44e50df4de74d63fc3a5"
+    },
+    "9e0e64e13dc2/font-source.json": {
+      "bytes": 378,
+      "sha256": "73032bf19040f31b871ac0e0d671b5decc309d64122af324a3621a9640f7daaf"
+    },
+    "9e0e64e13dc2/glossary.json": {
+      "bytes": 21747,
+      "sha256": "246cded33f2693807d0a7ea4b05d0c09d8e2ef8ee42cbebff4a1a95e4fe2ce0f"
+    },
+    "9e0e64e13dc2/index.html": {
+      "bytes": 942944,
+      "sha256": "7458be8848e5c122c8f3aea44827569457a17b185d203e7ca2f4ea4d25191a9d"
+    },
+    "9e0e64e13dc2/manifest.json": {
+      "bytes": 12973,
+      "sha256": "812b83e3f78593785df16d0ccb2d8a62f08a7ad884a659e82f2eb76e79592491"
+    },
+    "9e0e64e13dc2/message-layouts.json": {
+      "bytes": 196289,
+      "sha256": "a52979256aa1a3a58d22011e84bb95aa03ffd82ffdaf0c8f873781f309a76a7a"
+    },
+    "9e0e64e13dc2/previews/caption-N4.png": {
+      "bytes": 1427,
+      "sha256": "0050cac4d717d3796ecd75c6c834de3f8a6805f5435f84df06ec340a2e73c57c"
+    },
+    "9e0e64e13dc2/previews/caption-N5.png": {
+      "bytes": 1840,
+      "sha256": "b488734845a92d44c8512d8e88609849834f26631a9bcd321a5fb11cc3ffa5be"
+    },
+    "9e0e64e13dc2/previews/caption-R0.png": {
+      "bytes": 1122,
+      "sha256": "68e0c8d08e0eb834b1b9e34ca2f4096168650886239161df38c9a5fb10b97dba"
+    },
+    "9e0e64e13dc2/previews/caption-R2.png": {
+      "bytes": 1425,
+      "sha256": "d241cd798e662dbf09351a638d4e7d19cb49a4636c505e363e66b3ffeb9a9478"
+    },
+    "9e0e64e13dc2/previews/caption-R3.png": {
+      "bytes": 3250,
+      "sha256": "4f702dd744d7764c31d437a22534d15aa9b3a4170630de2d36c81aa338c716ac"
+    },
+    "9e0e64e13dc2/previews/city-00-description.png": {
+      "bytes": 1200,
+      "sha256": "5ee952059f60229cf71397fb23eae531e782fa63237abcf7132500d0872d0817"
+    },
+    "9e0e64e13dc2/previews/city-00-investigation.png": {
+      "bytes": 1362,
+      "sha256": "d5f70508eab29989b35613171aaeac05401e627ac7ef878870a498ca26c2d36c"
+    },
+    "9e0e64e13dc2/previews/city-01-description.png": {
+      "bytes": 1371,
+      "sha256": "fcc03ca30cd3661cc556ade4b077ad01f5f68eb2eb8908343f7ad180449e0d31"
+    },
+    "9e0e64e13dc2/previews/city-01-investigation.png": {
+      "bytes": 1298,
+      "sha256": "ac2d0abe2d62d6da2dfbc97e09a4576751e328eccf10a8457630ad80fc4591b0"
+    },
+    "9e0e64e13dc2/previews/city-02-description.png": {
+      "bytes": 1255,
+      "sha256": "6fbe0ba84746809ad91655a4da2f2b2a1888dacdceecc6b28ac12e229ec875c2"
+    },
+    "9e0e64e13dc2/previews/city-02-investigation.png": {
+      "bytes": 1194,
+      "sha256": "1382e66e76b11bf1c03d97950987052ce240edd29e69d6235fb55b166e3820b7"
+    },
+    "9e0e64e13dc2/previews/city-03-description.png": {
+      "bytes": 1158,
+      "sha256": "364d35295aea06940637e9e4664df15a31a85705ce91a705fbe4ff4b880e2de0"
+    },
+    "9e0e64e13dc2/previews/city-03-investigation.png": {
+      "bytes": 1294,
+      "sha256": "19dcbccfe9d6a0e409744a5a3c6f3f7fb1137d937a408540769c65e743f8c726"
+    },
+    "9e0e64e13dc2/previews/city-04-description.png": {
+      "bytes": 1252,
+      "sha256": "335a0e166b354c5e89309d257e77793873e25cff5700f49c0d77f6111b4abd7a"
+    },
+    "9e0e64e13dc2/previews/city-04-investigation.png": {
+      "bytes": 1256,
+      "sha256": "6fb5e34b01958b7273b5bff5126cd9c56d43633ac7a9bd6cbb862673312df53c"
+    },
+    "9e0e64e13dc2/previews/city-05-description.png": {
+      "bytes": 1463,
+      "sha256": "a94beb6ea033664d690e481c8c78d5d7cfae5cb21e9f7cc94d65b72ce7779d26"
+    },
+    "9e0e64e13dc2/previews/city-05-investigation.png": {
+      "bytes": 1264,
+      "sha256": "d4de30543826085f3228e910b10ae1112b95c79c7c8eb7f40b55cb901c561656"
+    },
+    "9e0e64e13dc2/previews/city-06-description.png": {
+      "bytes": 1278,
+      "sha256": "3bd1f47507e649d17213c1f22669d9e8423a29744e909f2d21a186794101d02b"
+    },
+    "9e0e64e13dc2/previews/city-06-investigation.png": {
+      "bytes": 1293,
+      "sha256": "72b084e0ca6e059e566831a6fbab68eb0ba77a34ba6939a4acb57ee7f5e1aa09"
+    },
+    "9e0e64e13dc2/previews/city-07-description.png": {
+      "bytes": 1063,
+      "sha256": "898ddf02c830afc632350d57dbdd1822fc4a4c096953623e52ec6066997146e3"
+    },
+    "9e0e64e13dc2/previews/city-07-investigation.png": {
+      "bytes": 1264,
+      "sha256": "8e21152ae86ebe86843e19c8350839399ea22c295045a8b3cf40a7a0953705af"
+    },
+    "9e0e64e13dc2/previews/city-08-description.png": {
+      "bytes": 1105,
+      "sha256": "bdb905a9da7a6303caa921df0bb7bb4788ababe46c4fc7b2aa43cc9822a9545b"
+    },
+    "9e0e64e13dc2/previews/city-08-investigation.png": {
+      "bytes": 1432,
+      "sha256": "6627f3978bcc1d5bc23215498570b7ab4ab990e90710b6be53a775fa005ad4c4"
+    },
+    "9e0e64e13dc2/previews/city-09-description.png": {
+      "bytes": 1105,
+      "sha256": "4d712c89ddfa94d8d33db2975406f0b8677205867987ad563993ab75c961aa75"
+    },
+    "9e0e64e13dc2/previews/city-09-investigation.png": {
+      "bytes": 1240,
+      "sha256": "70b44317ee70648e1d5c72e35bdba02bae86bbd8ac3596d93dad466e0822e0af"
+    },
+    "9e0e64e13dc2/previews/city-10-description.png": {
+      "bytes": 987,
+      "sha256": "da7e296ee903793737e8e0b396f8282e0770d81344dea5f594a4f6d3bda48fe2"
+    },
+    "9e0e64e13dc2/previews/city-10-investigation.png": {
+      "bytes": 1322,
+      "sha256": "3e6c0f184516b0621fea25fc001a04ecbe0d9a0cf968e2ab854ac3a7cdade04f"
+    },
+    "9e0e64e13dc2/previews/city-11-description.png": {
+      "bytes": 1310,
+      "sha256": "02b76bccf00e5c8d4c767d738c496a3de21191b46be3beeb0cc53ae79a66604e"
+    },
+    "9e0e64e13dc2/previews/city-11-investigation.png": {
+      "bytes": 1227,
+      "sha256": "eb6bc971d3c1643e26504e707e9509796ea9bb5810ca155d567ef485d4d12d17"
+    },
+    "9e0e64e13dc2/previews/city-12-description.png": {
+      "bytes": 1085,
+      "sha256": "b3b28a2279c83539970cfccbd54b06c27d892edd991cd83531577e14cd3d33b3"
+    },
+    "9e0e64e13dc2/previews/city-12-investigation.png": {
+      "bytes": 1298,
+      "sha256": "6a506956de4492e6ca4632d768ac767d255cfa6c4f90755854b151a2a1244dbc"
+    },
+    "9e0e64e13dc2/previews/city-13-description.png": {
+      "bytes": 1306,
+      "sha256": "d6145bead44dd575d9b81ba8c6245ce4109c7096e76df591a1d74259324d3a25"
+    },
+    "9e0e64e13dc2/previews/city-13-investigation.png": {
+      "bytes": 1303,
+      "sha256": "599d35ed47ecf5097dffde6c44e96cbcad1c7bb554d749885ff7bc85877086e3"
+    },
+    "9e0e64e13dc2/previews/city-14-description.png": {
+      "bytes": 992,
+      "sha256": "f17d923ec7c67ee474a5494fd4917782df413a40bd5e4caef287af23ecf77134"
+    },
+    "9e0e64e13dc2/previews/city-14-investigation.png": {
+      "bytes": 1287,
+      "sha256": "622ac6822a1cab8845401bb0d378f0ebe4c64264219abf67b15fc95a0ae23d58"
+    },
+    "9e0e64e13dc2/previews/city-15-description.png": {
+      "bytes": 1331,
+      "sha256": "a4554b33e3d2b73ee28e0b90534cd5c6eb5eca511b9ddadad74620ecd39ea239"
+    },
+    "9e0e64e13dc2/previews/city-15-investigation.png": {
+      "bytes": 1323,
+      "sha256": "3a1bd40886a0782f9592b5ddb07d8364a37e8a37d7a5ffc559235862757ba446"
+    },
+    "9e0e64e13dc2/previews/city-16-description.png": {
+      "bytes": 1162,
+      "sha256": "cfb317ad08912ba695e82e69d743ed50ee62ac0da04a83a9f1440d2ee8e28a1b"
+    },
+    "9e0e64e13dc2/previews/city-16-investigation.png": {
+      "bytes": 1232,
+      "sha256": "d2db22d39b2bd839f63aa39acc1cdd35c31b3f622e6cdd0280c73d2f98563c94"
+    },
+    "9e0e64e13dc2/previews/city-17-description.png": {
+      "bytes": 1468,
+      "sha256": "2817b4f4d56fd6493e77cd143e3889ba783245a2ed311db2e036e09030333dfa"
+    },
+    "9e0e64e13dc2/previews/city-17-investigation.png": {
+      "bytes": 1302,
+      "sha256": "2f3cc3075a1eba83ca1578a150ca559c3f951ee5165ab9d6f0914f31ccb77a4b"
+    },
+    "9e0e64e13dc2/previews/city-18-description.png": {
+      "bytes": 1024,
+      "sha256": "138aaa1bf16104dfa1a52771ee185c81294a5965d4a3a48a8677f2e73e9c1cad"
+    },
+    "9e0e64e13dc2/previews/city-18-investigation.png": {
+      "bytes": 1309,
+      "sha256": "24953220a5266eb9535b09b650a1ccf10fd277497431c51aab78b8410e3ec73d"
+    },
+    "9e0e64e13dc2/previews/city-19-description.png": {
+      "bytes": 1239,
+      "sha256": "5ccea1f61221df4047a6445e7420b69c6c62613f04053e22cb5092496a21efc3"
+    },
+    "9e0e64e13dc2/previews/city-19-investigation.png": {
+      "bytes": 1293,
+      "sha256": "924e7eefcbd8f60cdf4c0bdd48e724250074df68fd4da41a060171bc46753dc5"
+    },
+    "9e0e64e13dc2/previews/city-20-description.png": {
+      "bytes": 958,
+      "sha256": "4f3b0c74ff59291ba20b37bdd5a52c938a3df4c5af0fa3be1d265172b0ae7b0f"
+    },
+    "9e0e64e13dc2/previews/city-20-investigation.png": {
+      "bytes": 1298,
+      "sha256": "6a506956de4492e6ca4632d768ac767d255cfa6c4f90755854b151a2a1244dbc"
+    },
+    "9e0e64e13dc2/previews/city-21-description.png": {
+      "bytes": 1004,
+      "sha256": "79753b5f11d0de49ac1b223497e8de8af699961bef13e7ba4a486c4cddc4e03c"
+    },
+    "9e0e64e13dc2/previews/city-21-investigation.png": {
+      "bytes": 1251,
+      "sha256": "059f08abdf8793680044af8cd5181cde3eaa18bc7bc24733c2324635156ff7ca"
+    },
+    "9e0e64e13dc2/previews/city-22-description.png": {
+      "bytes": 1130,
+      "sha256": "18d323ab007061d1e0fa468b924fe82b577d3f6662d09b0de4df79f5ec2d3f37"
+    },
+    "9e0e64e13dc2/previews/city-22-investigation.png": {
+      "bytes": 1302,
+      "sha256": "0447c4546dd7a8582b6b6a276f7ddfcc14ef30a2ae48968df9c6483e5a87aa6e"
+    },
+    "9e0e64e13dc2/previews/city-23-description.png": {
+      "bytes": 1112,
+      "sha256": "81b70cf221f04091a41e20eb547e5b7d929f805a65aae2b54fb34d7217084c91"
+    },
+    "9e0e64e13dc2/previews/city-23-investigation.png": {
+      "bytes": 1270,
+      "sha256": "8dab0198d39838b7b76fb5323e6a2a26b8464385d0a7260bc1528e8959e7736a"
+    },
+    "9e0e64e13dc2/previews/city-24-description.png": {
+      "bytes": 1127,
+      "sha256": "786d8bdc986229c70c7aaa07b14dd877edaf625f5667b151baae8972863452ef"
+    },
+    "9e0e64e13dc2/previews/city-24-investigation.png": {
+      "bytes": 1314,
+      "sha256": "feb9274e309f2276ff46e8e6736f3765ee12f04aec41f22bf47a33898d046051"
+    },
+    "9e0e64e13dc2/previews/city-25-description.png": {
+      "bytes": 1193,
+      "sha256": "34ac265019554f8c9f0a3d0f1e6b141fa9f3aed4d011cf918707fa57ef50c413"
+    },
+    "9e0e64e13dc2/previews/city-25-investigation.png": {
+      "bytes": 1293,
+      "sha256": "5fcfc11ee4c2325dad8f1847969c8c64941462a12dde7eebeebe77e7082bf4a9"
+    },
+    "9e0e64e13dc2/previews/city-26-description.png": {
+      "bytes": 1157,
+      "sha256": "3bb23ae91230e7ade84f33dd1d95979c27eb8b5679e62c047b279041ba8cbbcd"
+    },
+    "9e0e64e13dc2/previews/city-26-investigation.png": {
+      "bytes": 1288,
+      "sha256": "316da14417e5aee678adea5ec3687fa881e7b5cfb263e4642356046a04aaa99e"
+    },
+    "9e0e64e13dc2/previews/city-27-description.png": {
+      "bytes": 1019,
+      "sha256": "a61c3e957cc71f7593dd724e6eebe4f87a3a7db908e6f947c592e5eb99bdcc36"
+    },
+    "9e0e64e13dc2/previews/city-27-investigation.png": {
+      "bytes": 1254,
+      "sha256": "b7751d0f133e3aae452d0b65769233f28887c9867c2021a2f9f9f35df620f9a8"
+    },
+    "9e0e64e13dc2/previews/city-28-description.png": {
+      "bytes": 1235,
+      "sha256": "852de7f7f79f27a4718a8cddf18539e00bba2bc1c71970de0747b03f49cca82e"
+    },
+    "9e0e64e13dc2/previews/city-28-investigation.png": {
+      "bytes": 1336,
+      "sha256": "2b519724a45d0b74ae15479a5062940a5800ef31f4e6ff8da78fe506094113e5"
+    },
+    "9e0e64e13dc2/previews/city-29-description.png": {
+      "bytes": 773,
+      "sha256": "48395ac1b17aa992defaaeed7fb8f8e728f61532ac5b0e0fd6b03b9fa072ad0f"
+    },
+    "9e0e64e13dc2/previews/city-29-investigation.png": {
+      "bytes": 1243,
+      "sha256": "2e3cabf3e515d752710d61952ec89790b0b2ecf6154e121abe323b05f79027d9"
+    },
+    "9e0e64e13dc2/previews/complete-warrant-list.png": {
+      "bytes": 1586,
+      "sha256": "f5450ba73977bfcd567d397fdb7d54453ee0ccbff0c72a1efa9443120003808e"
+    },
+    "9e0e64e13dc2/previews/floppy-only-variant.png": {
+      "bytes": 838,
+      "sha256": "ae265d8d66dcab9b284fb9392b7e8d676981b6d17f60f80978f1e8d41c43620c"
+    },
+    "9e0e64e13dc2/previews/report-deadline.png": {
+      "bytes": 857,
+      "sha256": "989c11d2684cae84533152b3f2aed851d61a70e03737aebbe3cb9da821c82943"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-19.png": {
+      "bytes": 562,
+      "sha256": "3efe12ad5551b9e0178768c53e41c7dcac978d2d66ae326b0a467f920e0723a0"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-20.png": {
+      "bytes": 606,
+      "sha256": "7676da3b89aa61776e023769b508b114ad09c66068f1147912b412cc20a6c1bc"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-21.png": {
+      "bytes": 692,
+      "sha256": "63afb4d7aecd08d995fac6c2b075ba501f2ea8651f3347e590336cddcea60bd3"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-22.png": {
+      "bytes": 847,
+      "sha256": "0b1dc42a6568d5c2e600ef17566ad2764200fc4bc6848c4a9cb225322080f8e5"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-23.png": {
+      "bytes": 567,
+      "sha256": "6d339c5e4a5389206ed36c9e7c090f8dea2e532c0d37164b076ce386ac2a3d18"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-26.png": {
+      "bytes": 898,
+      "sha256": "7d33eecb3e60f09aef42262f18541667fa67a5904fa22030280623fd562b0c25"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-38.png": {
+      "bytes": 1339,
+      "sha256": "e23abaa436bb98be95b1cf5637313e8242e568a7f435a13bdd1568951e4cdddd"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-39.png": {
+      "bytes": 236,
+      "sha256": "a27adde711df645d990ca21f3ff9f90323ed7cf64520df0ef3a62c39b5fd094f"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-61.png": {
+      "bytes": 373,
+      "sha256": "20927327452179714f81de8589efc127e790a202aa4047d325325376a374c603"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-62.png": {
+      "bytes": 452,
+      "sha256": "42c20adac4d920fdcb0c1451c1707fec2e5abefbd984b266b6c44dc46210b9ea"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-63.png": {
+      "bytes": 387,
+      "sha256": "32ee7881f46452388d4979e24bfc42603fba8f8055f3860a812600e44e5d125f"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-64.png": {
+      "bytes": 553,
+      "sha256": "6e1fd58ae1cb6729fff4896abd0aa97a2301a7e379f36b5f614067d80ff477ff"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-74.png": {
+      "bytes": 809,
+      "sha256": "891fd1b333144f8122f4bf07517c6c83859d9b66a95a98ada3fd2bd8d5076b10"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-75.png": {
+      "bytes": 968,
+      "sha256": "9b64a4523d2829b0785afc076d8b3a5f74579aca4a11f45c20a75c66a3013577"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-81.png": {
+      "bytes": 736,
+      "sha256": "05d23e053a932fb3b06e9c97f765f9ce629b7f8168b06d9b0e8c307046b3e67e"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-82.png": {
+      "bytes": 619,
+      "sha256": "7c8b36da3415f79c62392e727395b377276323561e42950f7bb62b284d0e9c16"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-87.png": {
+      "bytes": 929,
+      "sha256": "d758b6024188039d6e0f7cbe37f44b4be1284d4ee35a93da9b258f7a2325fd90"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-90.png": {
+      "bytes": 684,
+      "sha256": "dd177fa0017aae054ac99897931c7b5ecca748110a8f18aa11553ce9b46c9a4d"
+    },
+    "9e0e64e13dc2/previews/report-direct-report-98.png": {
+      "bytes": 803,
+      "sha256": "fce125ed5177dc32280304064afd5fbc42ebab0029fa809611399822c94a4191"
+    },
+    "9e0e64e13dc2/previews/report-failed-header.png": {
+      "bytes": 452,
+      "sha256": "f03457cbe781b7af501373974d3241aae1a6f51e65f34a36e0492d72f7968bd1"
+    },
+    "9e0e64e13dc2/previews/report-mission.png": {
+      "bytes": 946,
+      "sha256": "e583f0f00d96b5abbc6ac35c57007ae259c6fba56d7d72d828f8007409cc625d"
+    },
+    "9e0e64e13dc2/previews/report-news.png": {
+      "bytes": 708,
+      "sha256": "c6f5186ea71af723e9bd14ee7f39ed16663babb0b26c6f84fc420c202532fe59"
+    },
+    "9e0e64e13dc2/previews/report-next-case.png": {
+      "bytes": 824,
+      "sha256": "7cf7746b6f233b252fe9a26c5a5a9d1d4bf4f2af7bc19ace7ed26ec51d08e510"
+    },
+    "9e0e64e13dc2/previews/report-no-warrant.png": {
+      "bytes": 1279,
+      "sha256": "70e7c96a99ee63f06bfa4c3aa338005a04c02d2998901718e983f245c6e24061"
+    },
+    "9e0e64e13dc2/previews/report-promotion-progress.png": {
+      "bytes": 686,
+      "sha256": "c87a23e0aacdc03baed263c7cabd44862752bb657c0a07a28e26535f206458d0"
+    },
+    "9e0e64e13dc2/previews/report-promotion.png": {
+      "bytes": 641,
+      "sha256": "92d60a6704f7d12c33d0e7587f836c7c5848990762488782efe6d10e27d8647a"
+    },
+    "9e0e64e13dc2/previews/report-rank.png": {
+      "bytes": 390,
+      "sha256": "567ca91607462292a519e770a6f299901cca0e73eb944ada0df514eb1ffbd16b"
+    },
+    "9e0e64e13dc2/previews/report-successful-loot.png": {
+      "bytes": 1321,
+      "sha256": "34895387c5fa9a4295695963bd62965842fa9fd1e98c5b1c38998491ed710e13"
+    },
+    "9e0e64e13dc2/previews/report-successful-police.png": {
+      "bytes": 897,
+      "sha256": "1677d97470777f4f2579e2e15ec53625827160bf73f13431146f408894187deb"
+    },
+    "9e0e64e13dc2/previews/report-suspect-sex.png": {
+      "bytes": 614,
+      "sha256": "36c5888b5a5ffed1f0fec69ee57cebd21fe802e486590571591bb7740e556b3d"
+    },
+    "9e0e64e13dc2/previews/report-timeout.png": {
+      "bytes": 1213,
+      "sha256": "b58f4959eee17ed0f703617112f8cc7959f760fa9c251a07b753bda164923d49"
+    },
+    "9e0e64e13dc2/previews/report-treasure.png": {
+      "bytes": 817,
+      "sha256": "45d8dbd60146b9e2cbacc50a932628ec90d289c8414e4c6c2d8d5ac6a225a23c"
+    },
+    "9e0e64e13dc2/previews/report-warrant-name.png": {
+      "bytes": 393,
+      "sha256": "02aaa29185eb1fbf04afd59366beedba5953380734d9253f7886337c282e7266"
+    },
+    "9e0e64e13dc2/previews/report-welcome.png": {
+      "bytes": 599,
+      "sha256": "11eba3d85a6b830d18dfc9fc599a092de31800f46d9bf4ba3357fdc448bf504e"
+    },
+    "9e0e64e13dc2/previews/report-wrong-trail.png": {
+      "bytes": 876,
+      "sha256": "6b7dec93ed1e6223ef3bf62d67fe58fafdf65b4513736b2e0233f1b847510c99"
+    },
+    "9e0e64e13dc2/previews/report-wrong-warrant.png": {
+      "bytes": 668,
+      "sha256": "bec974214b23880d78aa519c75c0466e4a5fbe398d82f2aa2e3730ce86db9717"
+    },
+    "9e0e64e13dc2/previews/save-dialog.png": {
+      "bytes": 816,
+      "sha256": "627ce941bf0786eb299b955d2abb749e1a9f0ddf41bd48a83ed129c809d16ac2"
+    },
+    "9e0e64e13dc2/previews.html": {
+      "bytes": 25489,
+      "sha256": "ca1dea6cc0ce113ec6ade7bf381ca4105e68d8c5f28efd661287f9a4ab177bb0"
+    },
+    "9e0e64e13dc2/previews.json": {
+      "bytes": 25272,
+      "sha256": "a385956b5335ac551827333436a2ebc168f2496c915a73510921f9ecf3303ff1"
+    },
+    "9e0e64e13dc2/readiness.json": {
+      "bytes": 180564,
+      "sha256": "7563fdd0f693f2f4d2de8c60b81b7636b152d0348f67329d086e9d364f7f4565"
+    },
+    "9e0e64e13dc2/review-notes.json": {
+      "bytes": 4490,
+      "sha256": "9dfdb5026bc85491d13456010d9f892be6892e667f420114fa7fa8b8af56ee6d"
+    },
+    "9e0e64e13dc2/translations.tsv": {
+      "bytes": 1426621,
+      "sha256": "91c92bf2cf51f433d5f48bb6d795df84f689fca69d5e1df04b086cb673a1c10c"
+    }
+  },
+  "superseded_versions": {
+    "9e0e64e13dc2": {
+      "catalog_sha256": "9e0e64e13dc23a14deeb265070594259f0fdf3616503a655304bc02156975150",
+      "bundle_sha256": "9ca723aa7a72a0e88b4ceea3d514b5f0c35995f0da976d49e1f702e86f7106bd",
+      "translation_targets": 1287
+    },
+    "401ad4dca31d": {
+      "catalog_sha256": "401ad4dca31dcf7a0afb917d3fa36e767a87910add8bb1bf139509d152538dcc",
+      "bundle_sha256": "29718d1523c59bff727e5273e04aa5c8bd2a5b09929da11a005a304982b42154",
+      "translation_targets": 1287
+    }
+  }
+}

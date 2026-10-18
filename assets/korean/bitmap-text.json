@@ -1,0 +1,27 @@
+{
+  "format": 1,
+  "method": "Visual survey of decoded HGR assets; these are pixel letters, not ASCII byte spans.",
+  "entries": [
+    {"id": "bitmap.a.logo", "file": "A", "source": "A-hgr.json", "original": "Broderbund SOFTWARE", "context": "Boot HGR splash logo", "reason": "Publisher logo retained as a proper brand; HGR, not a TEXT MODE exclusion."},
+    {"id": "bitmap.s.presents", "file": "S", "source": "00.json", "original": "Broderbund SOFTWARE PRESENTS", "context": "Intro publisher logo and presentation credit"},
+    {"id": "bitmap.s.title", "file": "S", "source": "02.json", "original": "WHERE IN THE WORLD IS CARMEN SANDIEGO?\nby DANE BIGHAM GENE PORTWOOD LAUREN ELLIOTT\n©1985, 1989 BRODERBUND SOFTWARE", "context": "Intro title and creator/copyright credits; preserve identities and dates"},
+    {"id": "bitmap.s.agency", "file": "S", "source": "03.json", "original": "ACME DETECTIVE AGENCY", "context": "ACME office sign in intro"},
+    {"id": "bitmap.o.sex", "file": "O", "source": "04.json", "original": "SEX", "context": "Interpol computer fixed label, top trait row"},
+    {"id": "bitmap.o.hobby", "file": "O", "source": "04.json", "original": "HOBBY", "context": "Interpol computer fixed label, second trait row"},
+    {"id": "bitmap.o.hair", "file": "O", "source": "04.json", "original": "HAIR", "context": "Interpol computer fixed label, third trait row"},
+    {"id": "bitmap.o.feature", "file": "O", "source": "04.json", "original": "FEAT.", "context": "Interpol computer fixed label, fourth trait row"},
+    {"id": "bitmap.o.auto", "file": "O", "source": "04.json", "original": "AUTO", "context": "Interpol computer fixed label, fifth trait row"},
+    {"id": "bitmap.o.food", "file": "O", "source": "04.json", "original": "FOOD", "context": "Interpol computer fixed label, sixth trait row"},
+    {"id": "bitmap.o.computer", "file": "O", "source": "04.json", "original": "COMPUTER", "context": "Interpol computer keyboard label"},
+    {"id": "bitmap.p.jail", "file": "P", "source": "P.json", "original": "JAIL", "context": "Arrest scene prison sign; P-05 image overlaps the P-00 stream"},
+    {"id": "bitmap.d.am", "file": "D", "source": "D-font.json", "original": "AM", "context": "Clock direct glyph index $65, character $85; N_DRAW_CLOCK_AM_PM"},
+    {"id": "bitmap.d.pm", "file": "D", "source": "D-font.json", "original": "PM", "context": "Clock direct glyph index $66, character $86; N_DRAW_CLOCK_AM_PM"}
+  ],
+  "survey": [
+    {"assets": "S2-00 through S2-29", "finding": "No additional readable narrative lettering. Baghdad doorway has decorative building marks; retain as landmark artwork."},
+    {"assets": "C-icon-00 through C-icon-29; R-glyph-00 through R-glyph-07; T/U sprites", "finding": "Pictures and animations, no additional narrative text identified."},
+    {"assets": "O-01, O-02, O-03; S-01", "finding": "Panels, globe and world map; no narrative lettering identified."},
+    {"assets": "D special key glyphs", "finding": "Return/Escape keycap icons are protected input symbols, not Korean input. AM/PM are separately cataloged."},
+    {"assets": "P-00", "finding": "Overlapping alternate stream view is not readable lettering; P-05 contains the JAIL sign."}
+  ]
+}

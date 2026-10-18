@@ -1,0 +1,7301 @@
+{
+  "format": 1,
+  "status": "pass",
+  "session": "mame-final-messages-01",
+  "synthetic_image_sha256": "9225c9957a7fbe07d810c5be83c0e887a247d56fe55aef8008df95225dd057e9",
+  "fixture": {
+    "format": 1,
+    "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+    "probes": [
+      {
+        "name": "00",
+        "groups": [
+          "welcome/max_bytes",
+          "welcome/max_lines"
+        ],
+        "bytes": 52,
+        "sha256": "9f7edc0c3f650f739833ad7f78b5d17e5da44020ae2920364fafa5d54c8175a4",
+        "synthetic_text": "<CTRL:8D><CTRL:8D>실월음 환일행슷닉단: !!!!!!!!!!!!!!!. 협쟁 진기: ",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "glyph",
+            "id": 454
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 688
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "glyph",
+            "id": 664
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 676
+          },
+          {
+            "kind": "glyph",
+            "id": 486
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 516
+          },
+          {
+            "kind": "glyph",
+            "id": 55
+          },
+          {
+            "kind": "native",
+            "code": 58
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41264,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "01",
+        "groups": [
+          "failed-header/max_bytes"
+        ],
+        "bytes": 30,
+        "sha256": "7d07d468d4b1e675d503848aa04eebc70ee54dc2ace2116f4d863db2870568bf",
+        "synthetic_text": "순실 탑제: !!!!!!!!!!!!!!!.  ",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 2,
+        "source_nul": 41242,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "02",
+        "groups": [
+          "failed-header/max_lines"
+        ],
+        "bytes": 25,
+        "sha256": "4b5c23997d8f80e4fd60451c5fec00f425252ea1a912b3f73b3fc5c46cfa2bdc",
+        "synthetic_text": "순실 탑제: #%\\\\\\\\\\\\\\\\.  ",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41237,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "03",
+        "groups": [
+          "next-case/max_bytes"
+        ],
+        "bytes": 61,
+        "sha256": "76d448aceb7de1ae6fb270929002079531786f47f14cb1547f3f8f9c3d7b2520",
+        "synthetic_text": "<CTRL:8D>단의 삭걸엔 독절함 탑제: !!!!!!!!!!!!!!!. 식잔함깔욕? (Y/N)",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 17
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 490
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "glyph",
+            "id": 480
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "glyph",
+            "id": 62
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 63
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 89
+          },
+          {
+            "kind": "native",
+            "code": 47
+          },
+          {
+            "kind": "native",
+            "code": 78
+          },
+          {
+            "kind": "native",
+            "code": 41
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41273,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "04",
+        "groups": [
+          "next-case/max_lines"
+        ],
+        "bytes": 56,
+        "sha256": "acb3f9b0636d4c99479490f1db8f29ca44e8e1786a030b2a70bc0ee70a7f7538",
+        "synthetic_text": "<CTRL:8D>단의 삭걸엔 독절함 탑제: #%\\\\\\\\\\\\\\\\. 식잔함깔욕? (Y/N)",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 17
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 490
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "glyph",
+            "id": 480
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "glyph",
+            "id": 62
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 63
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 89
+          },
+          {
+            "kind": "native",
+            "code": 47
+          },
+          {
+            "kind": "native",
+            "code": 78
+          },
+          {
+            "kind": "native",
+            "code": 41
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41268,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "05",
+        "groups": [
+          "rank/max_bytes",
+          "rank/max_lines"
+        ],
+        "bytes": 13,
+        "sha256": "321491cbdd2a630b4c3b0f8af566ab9d685aaa8735b898f418f7db2203f1873f",
+        "synthetic_text": "추곡 몇탑제.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 547
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 1,
+        "source_nul": 41225,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "06",
+        "groups": [
+          "promotion/max_bytes",
+          "promotion/max_lines"
+        ],
+        "bytes": 43,
+        "sha256": "4591f587895092965ae40a848286d58e17e3a58e3baf861764cf5f475e3f9b69",
+        "synthetic_text": "<CTRL:8D>시질음 출학항닉단! 색 진기:  추곡 몇탑제.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "glyph",
+            "id": 517
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 549
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 661
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 336
+          },
+          {
+            "kind": "glyph",
+            "id": 516
+          },
+          {
+            "kind": "glyph",
+            "id": 55
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 547
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41255,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "07",
+        "groups": [
+          "news/max_bytes",
+          "news/max_lines"
+        ],
+        "bytes": 56,
+        "sha256": "0cdd436487908fbb865af6ea26bfd43d68279967c57c82b2b956e519356a8834",
+        "synthetic_text": "<CTRL:8D><CTRL:8D>*** 손복 ***<CTRL:8D><CTRL:8D>군복 독날! 밤샴 독식: 북엔녹슨악인렉슨.",
+        "expected_trace": [
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 355
+          },
+          {
+            "kind": "glyph",
+            "id": 302
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "native",
+            "code": 42
+          },
+          {
+            "kind": "glyph",
+            "id": 42
+          },
+          {
+            "kind": "glyph",
+            "id": 302
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 77
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 281
+          },
+          {
+            "kind": "glyph",
+            "id": 339
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 308
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 100
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "glyph",
+            "id": 394
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 195
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41268,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "08",
+        "groups": [
+          "suspect-sex/max_bytes",
+          "suspect-sex/max_lines"
+        ],
+        "bytes": 40,
+        "sha256": "3707711e08a1476b104edf106638af65536e7e7977db4aaa009014e3b8906195",
+        "synthetic_text": "<CTRL:8D>납세 우이작각 협재엔석 몬견된에슷닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 79
+          },
+          {
+            "kind": "glyph",
+            "id": 349
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 676
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 342
+          },
+          {
+            "kind": "glyph",
+            "id": 259
+          },
+          {
+            "kind": "glyph",
+            "id": 24
+          },
+          {
+            "kind": "glyph",
+            "id": 147
+          },
+          {
+            "kind": "glyph",
+            "id": 419
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41252,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "09",
+        "groups": [
+          "mission/max_bytes",
+          "mission/max_lines"
+        ],
+        "bytes": 81,
+        "sha256": "3e967120feab5d8a193557f4d68f695883fb8ab02c42f349833edb7e6308dba6",
+        "synthetic_text": "<CTRL:8D>법일 축전 입묵: 북엔녹슨악인렉슨 춤밤. 법일이 을실척름 채악 법일음 쳐폭학센욕.<CTRL:8D>",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 291
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 548
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 474
+          },
+          {
+            "kind": "glyph",
+            "id": 265
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 308
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 100
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "glyph",
+            "id": 394
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 195
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 550
+          },
+          {
+            "kind": "glyph",
+            "id": 281
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 291
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "glyph",
+            "id": 537
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 534
+          },
+          {
+            "kind": "glyph",
+            "id": 394
+          },
+          {
+            "kind": "glyph",
+            "id": 291
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 350
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41293,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "10",
+        "groups": [
+          "successful-police/max_bytes",
+          "successful-police/max_lines"
+        ],
+        "bytes": 70,
+        "sha256": "5ace1e27a2b48040d80bb084fe44d113dfe085b9b8b173c8d2528ecdf0214a6c",
+        "synthetic_text": "대실 던불엔 북엔녹슨악인렉슨 계참인 것걱할 우이작: 인혹른 인혹록빅친.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 130
+          },
+          {
+            "kind": "glyph",
+            "id": 310
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 308
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 100
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "glyph",
+            "id": 394
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 195
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 28
+          },
+          {
+            "kind": "glyph",
+            "id": 529
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 19
+          },
+          {
+            "kind": "glyph",
+            "id": 15
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41282,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "11",
+        "groups": [
+          "treasure/max_bytes",
+          "treasure/max_lines"
+        ],
+        "bytes": 53,
+        "sha256": "6750a287e8b43d59dafd15bb52f536b76c44c6255094c3157e95f4d0e7abcff5",
+        "synthetic_text": "<CTRL:8D>환일될 독날풍: 엔벤렉슨특살은록 각늘 소른판이 직독.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 688
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "glyph",
+            "id": 148
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 77
+          },
+          {
+            "kind": "glyph",
+            "id": 647
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 294
+          },
+          {
+            "kind": "glyph",
+            "id": 195
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "glyph",
+            "id": 617
+          },
+          {
+            "kind": "glyph",
+            "id": 329
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "glyph",
+            "id": 353
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 626
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41265,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "12",
+        "groups": [
+          "successful-loot/max_bytes"
+        ],
+        "bytes": 112,
+        "sha256": "f87a49f733c3f1d3469ceb7859235e39885bac78223c2e6f1f6b7e57659c9045",
+        "synthetic_text": "<CTRL:8D>인혹른 인혹록빅친이 재뭔: 엔벤렉슨특살은록 각늘 소른판이 직독. 인름 동력발곡 곡막원함 죽밀등이 독식: 칵특많둔.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "glyph",
+            "id": 270
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 294
+          },
+          {
+            "kind": "glyph",
+            "id": 195
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "glyph",
+            "id": 617
+          },
+          {
+            "kind": "glyph",
+            "id": 329
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 353
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 626
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 144
+          },
+          {
+            "kind": "glyph",
+            "id": 199
+          },
+          {
+            "kind": "glyph",
+            "id": 280
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "glyph",
+            "id": 233
+          },
+          {
+            "kind": "glyph",
+            "id": 453
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "glyph",
+            "id": 506
+          },
+          {
+            "kind": "glyph",
+            "id": 274
+          },
+          {
+            "kind": "glyph",
+            "id": 158
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 561
+          },
+          {
+            "kind": "glyph",
+            "id": 617
+          },
+          {
+            "kind": "glyph",
+            "id": 235
+          },
+          {
+            "kind": "glyph",
+            "id": 150
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41324,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "13",
+        "groups": [
+          "successful-loot/max_lines"
+        ],
+        "bytes": 108,
+        "sha256": "5b156774d81d3fdeefcc1506c06d4f8e843f5aeaca52a28971b6be9702a12c4d",
+        "synthetic_text": "<CTRL:8D>인혹른 인혹록빅친이 재뭔: 암파(Althing)엔석 쓴덜 이삭봤. 인름 동력발곡 곡막원함 죽밀등이 독식: 렉인커빅큰.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "glyph",
+            "id": 270
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 398
+          },
+          {
+            "kind": "glyph",
+            "id": 625
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 65
+          },
+          {
+            "kind": "native",
+            "code": 108
+          },
+          {
+            "kind": "native",
+            "code": 116
+          },
+          {
+            "kind": "native",
+            "code": 104
+          },
+          {
+            "kind": "native",
+            "code": 105
+          },
+          {
+            "kind": "native",
+            "code": 110
+          },
+          {
+            "kind": "native",
+            "code": 103
+          },
+          {
+            "kind": "native",
+            "code": 41
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 342
+          },
+          {
+            "kind": "glyph",
+            "id": 390
+          },
+          {
+            "kind": "glyph",
+            "id": 131
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 306
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "glyph",
+            "id": 144
+          },
+          {
+            "kind": "glyph",
+            "id": 199
+          },
+          {
+            "kind": "glyph",
+            "id": 280
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "glyph",
+            "id": 233
+          },
+          {
+            "kind": "glyph",
+            "id": 453
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "glyph",
+            "id": 506
+          },
+          {
+            "kind": "glyph",
+            "id": 274
+          },
+          {
+            "kind": "glyph",
+            "id": 158
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 195
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 568
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 588
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 8,
+        "source_nul": 41320,
+        "first_text_final_row": 83
+      },
+      {
+        "name": "14",
+        "groups": [
+          "deadline/max_bytes"
+        ],
+        "bytes": 75,
+        "sha256": "c84be0415fccbf46b4b12bfbafc7b16261b0e2caebbc0429b63421cb4e309330",
+        "synthetic_text": "쳐폭 식할: 웜욕읽, 10식(옥절). 향울음 빙닉단, !!!!!!!!!!!!!!!.<CTRL:8D><CTRL:8D><CTRL:80>     군재",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 455
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "glyph",
+            "id": 472
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 49
+          },
+          {
+            "kind": "native",
+            "code": 48
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "glyph",
+            "id": 432
+          },
+          {
+            "kind": "glyph",
+            "id": 490
+          },
+          {
+            "kind": "native",
+            "code": 41
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 665
+          },
+          {
+            "kind": "glyph",
+            "id": 448
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "glyph",
+            "id": 318
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 42
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41287,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "15",
+        "groups": [
+          "deadline/max_lines"
+        ],
+        "bytes": 70,
+        "sha256": "e579cb5616408766973081091ed0b134bfe6c6a06f2a0c6eecf3ae92b6c2002d",
+        "synthetic_text": "쳐폭 식할: 웜욕읽, 10식(옥절). 향울음 빙닉단, #%\\\\\\\\\\\\\\\\.<CTRL:8D><CTRL:8D><CTRL:80>     군재",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 455
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "glyph",
+            "id": 472
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 49
+          },
+          {
+            "kind": "native",
+            "code": 48
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "glyph",
+            "id": 432
+          },
+          {
+            "kind": "glyph",
+            "id": 490
+          },
+          {
+            "kind": "native",
+            "code": 41
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 665
+          },
+          {
+            "kind": "glyph",
+            "id": 448
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "glyph",
+            "id": 318
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 42
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41282,
+        "first_text_final_row": 93
+      },
+      {
+        "name": "16",
+        "groups": [
+          "timeout/max_bytes",
+          "timeout/max_lines"
+        ],
+        "bytes": 117,
+        "sha256": "2ac6c8647e5c633cec6f509e58bf8db8c155d3e838b75f52d7cb5bc9bc1770c5",
+        "synthetic_text": "일테푈있닉단.<CTRL:8D><CTRL:8D>낙사 속신있닉단...<CTRL:8D><CTRL:8D>순삭각 니억조 뇌초 번릴 우이작: 인혹른 인혹록빅친! 배급 독죽 속신인 등억왕슷닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "glyph",
+            "id": 604
+          },
+          {
+            "kind": "glyph",
+            "id": 642
+          },
+          {
+            "kind": "glyph",
+            "id": 475
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 74
+          },
+          {
+            "kind": "glyph",
+            "id": 326
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 354
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "glyph",
+            "id": 475
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 117
+          },
+          {
+            "kind": "glyph",
+            "id": 411
+          },
+          {
+            "kind": "glyph",
+            "id": 498
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 106
+          },
+          {
+            "kind": "glyph",
+            "id": 543
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 288
+          },
+          {
+            "kind": "glyph",
+            "id": 228
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 283
+          },
+          {
+            "kind": "glyph",
+            "id": 54
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 506
+          },
+          {
+            "kind": "glyph",
+            "id": 354
+          },
+          {
+            "kind": "glyph",
+            "id": 375
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 158
+          },
+          {
+            "kind": "glyph",
+            "id": 411
+          },
+          {
+            "kind": "glyph",
+            "id": 441
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 8,
+        "source_nul": 41329,
+        "first_text_final_row": 73
+      },
+      {
+        "name": "17",
+        "groups": [
+          "warrant-name/max_bytes",
+          "warrant-name/max_lines"
+        ],
+        "bytes": 19,
+        "sha256": "58eb7e6f1e212f767c217a2437f86ec3440f74213da4c9839f0125eff68cb177",
+        "synthetic_text": "인혹른 인혹록빅친.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 1,
+        "source_nul": 41231,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "18",
+        "groups": [
+          "no-warrant/max_bytes"
+        ],
+        "bytes": 121,
+        "sha256": "2ebe24efd52387d1b6978c899983ac5c64e48f0ca414ebb42356db0c58d162ce",
+        "synthetic_text": "순실 탑제: !!!!!!!!!!!!!!!.  땅락장을 우이작: 인혹른 인혹록빅친.<CTRL:8D><CTRL:8D>학직많 쳐폭 예재 었인늘 항벗전은록 쳐폭함 순 었슷닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 164
+          },
+          {
+            "kind": "glyph",
+            "id": 177
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 235
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 429
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 418
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "glyph",
+            "id": 661
+          },
+          {
+            "kind": "glyph",
+            "id": 292
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 418
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 7,
+        "source_nul": 41333,
+        "first_text_final_row": 83
+      },
+      {
+        "name": "19",
+        "groups": [
+          "no-warrant/max_lines"
+        ],
+        "bytes": 116,
+        "sha256": "0130323e63cad78cb78afc1cc3e670de855a66b794f37b3b957a4e3515e6a6bc",
+        "synthetic_text": "순실 탑제: #%\\\\\\\\\\\\\\\\.  땅락장을 우이작: 인혹른 인혹록빅친.<CTRL:8D><CTRL:8D>학직많 쳐폭 예재 었인늘 항벗전은록 쳐폭함 순 었슷닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 164
+          },
+          {
+            "kind": "glyph",
+            "id": 177
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 235
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 429
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 418
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "glyph",
+            "id": 661
+          },
+          {
+            "kind": "glyph",
+            "id": 292
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 418
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 8,
+        "source_nul": 41328,
+        "first_text_final_row": 73
+      },
+      {
+        "name": "20",
+        "groups": [
+          "wrong-trail/max_bytes"
+        ],
+        "bytes": 73,
+        "sha256": "1473f6f16cb35ec87dcdef219a1f8e11e9a5d04da171bf5afb14a852b913ccac",
+        "synthetic_text": "순실 탑제: !!!!!!!!!!!!!!!.  제환힌 축전했 낼 우이작: 인혹른 인혹록빅친.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "glyph",
+            "id": 688
+          },
+          {
+            "kind": "glyph",
+            "id": 708
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 548
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "glyph",
+            "id": 663
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 84
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41285,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "21",
+        "groups": [
+          "wrong-trail/max_lines"
+        ],
+        "bytes": 68,
+        "sha256": "9da43da28600b7958a3b94dc2eedfba81cd140ac361dcd864141f92bcf0a42c6",
+        "synthetic_text": "순실 탑제: #%\\\\\\\\\\\\\\\\.  제환힌 축전했 낼 우이작: 인혹른 인혹록빅친.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 35
+          },
+          {
+            "kind": "native",
+            "code": 37
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 92
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "glyph",
+            "id": 688
+          },
+          {
+            "kind": "glyph",
+            "id": 708
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 548
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "glyph",
+            "id": 663
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 84
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41280,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "22",
+        "groups": [
+          "wrong-warrant/max_bytes",
+          "wrong-warrant/max_lines"
+        ],
+        "bytes": 49,
+        "sha256": "3022b1e78efefe9740cce50fc491c36eb24f9dbb6e97f0a5ddeae72c0e2c2f9b",
+        "synthetic_text": "<CTRL:8D>않탄께겠독 예재엔 전힐 인릅: 인혹른 인혹록빅친.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 396
+          },
+          {
+            "kind": "glyph",
+            "id": 595
+          },
+          {
+            "kind": "glyph",
+            "id": 64
+          },
+          {
+            "kind": "glyph",
+            "id": 21
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 429
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 489
+          },
+          {
+            "kind": "glyph",
+            "id": 709
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 225
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41261,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "23",
+        "groups": [
+          "promotion-progress/max_bytes",
+          "promotion-progress/max_lines"
+        ],
+        "bytes": 47,
+        "sha256": "825b48d2a90f917f573c7851d34cf18624e67f9826361994b0304d4ff7e809ce",
+        "synthetic_text": "<CTRL:8D>단성 걸 덕 했겼학멸 단의 진기은록 시질항닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "glyph",
+            "id": 348
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 17
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 129
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 663
+          },
+          {
+            "kind": "glyph",
+            "id": 26
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 254
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 516
+          },
+          {
+            "kind": "glyph",
+            "id": 55
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "glyph",
+            "id": 517
+          },
+          {
+            "kind": "glyph",
+            "id": 661
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41259,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "24",
+        "groups": [
+          "direct-report-19/max_bytes",
+          "direct-report-19/max_lines"
+        ],
+        "bytes": 28,
+        "sha256": "270363e3152af0e961c3640ddb51cb7a71b9e83cfba34816623986b998c295f6",
+        "synthetic_text": "탑제 인릅(예묻, 추더 15작):",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 225
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "glyph",
+            "id": 429
+          },
+          {
+            "kind": "glyph",
+            "id": 268
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 547
+          },
+          {
+            "kind": "glyph",
+            "id": 128
+          },
+          {
+            "kind": "native",
+            "code": 49
+          },
+          {
+            "kind": "native",
+            "code": 53
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 41
+          },
+          {
+            "kind": "native",
+            "code": 58
+          }
+        ],
+        "expected_scrolls": 2,
+        "source_nul": 41240,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "25",
+        "groups": [
+          "direct-report-20/max_bytes",
+          "direct-report-20/max_lines"
+        ],
+        "bytes": 45,
+        "sha256": "209177ed3c1256f02f0b67d7279e889196ed05743a93a9c4be9b5a7138721f6b",
+        "synthetic_text": "<CTRL:8D><CTRL:8D>법주 긴론인 잉슷닉단. 젓글음 걱북항닉단.<CTRL:8D><CTRL:8D>",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 291
+          },
+          {
+            "kind": "glyph",
+            "id": 505
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 56
+          },
+          {
+            "kind": "glyph",
+            "id": 206
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 476
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 493
+          },
+          {
+            "kind": "glyph",
+            "id": 52
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 15
+          },
+          {
+            "kind": "glyph",
+            "id": 308
+          },
+          {
+            "kind": "glyph",
+            "id": 661
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 6,
+        "source_nul": 41257,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "26",
+        "groups": [
+          "direct-report-21/max_bytes",
+          "direct-report-21/max_lines"
+        ],
+        "bytes": 47,
+        "sha256": "b156f28b7115705469c467cc80ad2e7db2098f9b8e765b8cd1d3936416c76457",
+        "synthetic_text": "<CTRL:8D><CTRL:8D>긴론엔 었늘 인릅있닉단. 색 탑제일각욕? (Y/N)",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 56
+          },
+          {
+            "kind": "glyph",
+            "id": 206
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 418
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 225
+          },
+          {
+            "kind": "glyph",
+            "id": 475
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 336
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 63
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 89
+          },
+          {
+            "kind": "native",
+            "code": 47
+          },
+          {
+            "kind": "native",
+            "code": 78
+          },
+          {
+            "kind": "native",
+            "code": 41
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41259,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "27",
+        "groups": [
+          "direct-report-22/max_bytes",
+          "direct-report-22/max_lines"
+        ],
+        "bytes": 65,
+        "sha256": "e44be983a19460447ce4c8c29c09798879e86e18c5be06eac803188390b32136",
+        "synthetic_text": "<CTRL:8D>탑제 몇북각 각든 창슷닉단. Control-D 킬록 할 몇음 산젤학센욕.<CTRL:8D><CTRL:8D>",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 308
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "glyph",
+            "id": 155
+          },
+          {
+            "kind": "glyph",
+            "id": 532
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 67
+          },
+          {
+            "kind": "native",
+            "code": 111
+          },
+          {
+            "kind": "native",
+            "code": 110
+          },
+          {
+            "kind": "native",
+            "code": 116
+          },
+          {
+            "kind": "native",
+            "code": 114
+          },
+          {
+            "kind": "native",
+            "code": 111
+          },
+          {
+            "kind": "native",
+            "code": 108
+          },
+          {
+            "kind": "native",
+            "code": 45
+          },
+          {
+            "kind": "native",
+            "code": 68
+          },
+          {
+            "kind": "glyph",
+            "id": 592
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "glyph",
+            "id": 328
+          },
+          {
+            "kind": "glyph",
+            "id": 496
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 350
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 7,
+        "source_nul": 41277,
+        "first_text_final_row": 93
+      },
+      {
+        "name": "28",
+        "groups": [
+          "direct-report-23/max_bytes",
+          "direct-report-23/max_lines"
+        ],
+        "bytes": 35,
+        "sha256": "008801f13898f15394f72a731ceb62c69c93c0afde83e2f86eeecfb262265b60",
+        "synthetic_text": "<CTRL:8D><CTRL:8D>포속 삭우학늘 인릅음 있련학센욕.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 639
+          },
+          {
+            "kind": "glyph",
+            "id": 354
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 225
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "glyph",
+            "id": 475
+          },
+          {
+            "kind": "glyph",
+            "id": 200
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 350
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41247,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "29",
+        "groups": [
+          "direct-report-26/max_bytes",
+          "direct-report-26/max_lines"
+        ],
+        "bytes": 67,
+        "sha256": "c25c9fd49710314894e5cf6a368c3bb0e8e42797a5d7021fa0c07bb2a65e3b53",
+        "synthetic_text": "<CTRL:8D>적재할 삭걸음 인억 함깔욕? 걱점학멸 적재 낸우인 직원짓닉단. (Y/N)",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 17
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 411
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "glyph",
+            "id": 62
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 63
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 15
+          },
+          {
+            "kind": "glyph",
+            "id": 491
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 254
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "glyph",
+            "id": 83
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 453
+          },
+          {
+            "kind": "glyph",
+            "id": 519
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 40
+          },
+          {
+            "kind": "native",
+            "code": 89
+          },
+          {
+            "kind": "native",
+            "code": 47
+          },
+          {
+            "kind": "native",
+            "code": 78
+          },
+          {
+            "kind": "native",
+            "code": 41
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41279,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "30",
+        "groups": [
+          "direct-report-38/max_bytes",
+          "direct-report-38/max_lines"
+        ],
+        "bytes": 129,
+        "sha256": "36cdca2067a70bcbe1219201e484d1a2c6fb10a5937a5c85e0519e68fd3307b2",
+        "synthetic_text": "<CTRL:8D><CTRL:8D>대실을 육몇할 추곡 몇탑제있닉단!<CTRL:8D><CTRL:8D>억딩각이 앗삶 몇닫엔 인릅인 옷락 잉음직독 목리닉단....<CTRL:8D><CTRL:8D><CTRL:8D>각몇은록 디론학늘 펼인 좌겨슷닉단.<CTRL:8D>",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "glyph",
+            "id": 376
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 461
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 547
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "glyph",
+            "id": 475
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "glyph",
+            "id": 411
+          },
+          {
+            "kind": "glyph",
+            "id": 162
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 399
+          },
+          {
+            "kind": "glyph",
+            "id": 330
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 123
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 225
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 435
+          },
+          {
+            "kind": "glyph",
+            "id": 177
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 476
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 141
+          },
+          {
+            "kind": "glyph",
+            "id": 258
+          },
+          {
+            "kind": "glyph",
+            "id": 226
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 159
+          },
+          {
+            "kind": "glyph",
+            "id": 206
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 637
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 503
+          },
+          {
+            "kind": "glyph",
+            "id": 22
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 13,
+        "source_nul": 41341,
+        "first_text_final_row": 43
+      },
+      {
+        "name": "31",
+        "groups": [
+          "direct-report-39/max_bytes",
+          "direct-report-39/max_lines"
+        ],
+        "bytes": 4,
+        "sha256": "0cee211dfbf712960c338b3905e093940d5422431dee8c4348e7fb7be9eec113",
+        "synthetic_text": "<CTRL:8D><CTRL:8D><CTRL:8D>",
+        "expected_trace": [],
+        "expected_scrolls": 4,
+        "source_nul": 41216,
+        "first_text_final_row": null
+      },
+      {
+        "name": "32",
+        "groups": [
+          "direct-report-61/max_bytes",
+          "direct-report-61/max_lines"
+        ],
+        "bytes": 11,
+        "sha256": "1c2d810709ea2e2e650dd268e0121b42ee7ac82b48813d42acef30b4add7b685",
+        "synthetic_text": "줄빅 왈루.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 508
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 438
+          },
+          {
+            "kind": "glyph",
+            "id": 212
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 1,
+        "source_nul": 41223,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "33",
+        "groups": [
+          "direct-report-62/max_bytes",
+          "direct-report-62/max_lines"
+        ],
+        "bytes": 23,
+        "sha256": "65b60d891a24ec1db4a662ae279446453ebe49b80b0eba628bd2cbb5fd76d0a4",
+        "synthetic_text": "<CTRL:8D><CTRL:8D>쳐폭 예재 밤북 더새:",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 429
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 281
+          },
+          {
+            "kind": "glyph",
+            "id": 308
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 128
+          },
+          {
+            "kind": "glyph",
+            "id": 335
+          },
+          {
+            "kind": "native",
+            "code": 58
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41235,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "34",
+        "groups": [
+          "direct-report-63/max_bytes",
+          "direct-report-63/max_lines"
+        ],
+        "bytes": 14,
+        "sha256": "6724a6382cf7583d672b76064bac816ee13031352a37ed943fa7d586dd8247fe",
+        "synthetic_text": "<CTRL:8D>우이작 몇닫:",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 123
+          },
+          {
+            "kind": "native",
+            "code": 58
+          }
+        ],
+        "expected_scrolls": 2,
+        "source_nul": 41226,
+        "first_text_final_row": 143
+      },
+      {
+        "name": "35",
+        "groups": [
+          "direct-report-64/max_bytes",
+          "direct-report-64/max_lines"
+        ],
+        "bytes": 35,
+        "sha256": "9f8d92f2c19c8c2205cd3e1462cf453246dde2dd50233db0f295feeabbb32bcf",
+        "synthetic_text": "<CTRL:8D>인 제복엔 맡늘 우이작각 었슷닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "glyph",
+            "id": 302
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 239
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "glyph",
+            "id": 1
+          },
+          {
+            "kind": "glyph",
+            "id": 418
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41247,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "36",
+        "groups": [
+          "direct-report-74/max_bytes",
+          "direct-report-74/max_lines"
+        ],
+        "bytes": 62,
+        "sha256": "94b7b6eaed42aedb739f3db4de736973ad4cefd38e0ba9e1317ac77f5f05d4da",
+        "synthetic_text": "잠행슷닉단! V.I.L.E.이 운둔먹린 칵른멜 생딕엔곡름 장앙슷닉단!",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 482
+          },
+          {
+            "kind": "glyph",
+            "id": 664
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 86
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 73
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 76
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 69
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 447
+          },
+          {
+            "kind": "glyph",
+            "id": 150
+          },
+          {
+            "kind": "glyph",
+            "id": 244
+          },
+          {
+            "kind": "glyph",
+            "id": 227
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 561
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 250
+          },
+          {
+            "kind": "glyph",
+            "id": 338
+          },
+          {
+            "kind": "glyph",
+            "id": 160
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "glyph",
+            "id": 224
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 484
+          },
+          {
+            "kind": "glyph",
+            "id": 401
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 33
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41274,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "37",
+        "groups": [
+          "direct-report-75/max_bytes",
+          "direct-report-75/max_lines"
+        ],
+        "bytes": 78,
+        "sha256": "73106436a7c0af2d9585c2c4c3ae7973db7873aee38106b88509a4c2436ccedd",
+        "synthetic_text": "<CTRL:8D>추곡 몇탑제은록 시질행슷닉단. 몇옛롱겠 을투했 ACME 몇옛이 절대엔 옷랑슷닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 547
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "glyph",
+            "id": 465
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 373
+          },
+          {
+            "kind": "glyph",
+            "id": 517
+          },
+          {
+            "kind": "glyph",
+            "id": 664
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 430
+          },
+          {
+            "kind": "glyph",
+            "id": 210
+          },
+          {
+            "kind": "glyph",
+            "id": 21
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "glyph",
+            "id": 614
+          },
+          {
+            "kind": "glyph",
+            "id": 663
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 65
+          },
+          {
+            "kind": "native",
+            "code": 67
+          },
+          {
+            "kind": "native",
+            "code": 77
+          },
+          {
+            "kind": "native",
+            "code": 69
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 430
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 490
+          },
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 435
+          },
+          {
+            "kind": "glyph",
+            "id": 183
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41290,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "38",
+        "groups": [
+          "direct-report-81/max_bytes",
+          "direct-report-81/max_lines"
+        ],
+        "bytes": 53,
+        "sha256": "3010831cc8d251c46686ec0894429edba24ca44a2e8e97722561248821e67a89",
+        "synthetic_text": "<CTRL:8D>일테푈을 인벌 삭걸엔석 복역 줄 황양엔 값삭득링닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 471
+          },
+          {
+            "kind": "glyph",
+            "id": 604
+          },
+          {
+            "kind": "glyph",
+            "id": 642
+          },
+          {
+            "kind": "glyph",
+            "id": 466
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 289
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 17
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 342
+          },
+          {
+            "kind": "glyph",
+            "id": 302
+          },
+          {
+            "kind": "glyph",
+            "id": 423
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 508
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 690
+          },
+          {
+            "kind": "glyph",
+            "id": 409
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 5
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 154
+          },
+          {
+            "kind": "glyph",
+            "id": 231
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41265,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "39",
+        "groups": [
+          "direct-report-82/max_bytes",
+          "direct-report-82/max_lines"
+        ],
+        "bytes": 39,
+        "sha256": "576fafad9216c1e37c01432da4b4e76781f8a8ccbfcf88ade756512c15d12aff",
+        "synthetic_text": "<CTRL:8D>인벌 세과음 탑제 긴론엔 납긴겨슷닉단.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 289
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 349
+          },
+          {
+            "kind": "glyph",
+            "id": 35
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 56
+          },
+          {
+            "kind": "glyph",
+            "id": 206
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 79
+          },
+          {
+            "kind": "glyph",
+            "id": 56
+          },
+          {
+            "kind": "glyph",
+            "id": 22
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 3,
+        "source_nul": 41251,
+        "first_text_final_row": 133
+      },
+      {
+        "name": "40",
+        "groups": [
+          "direct-report-87/max_bytes",
+          "direct-report-87/max_lines"
+        ],
+        "bytes": 79,
+        "sha256": "bc6f1a204ae28125575a5bd58e61674915f5cd3dae05a31d76fa799ba746ecea",
+        "synthetic_text": "<CTRL:8D>족십학센욕. 북대 쳐폭록 목둔 곡속대함 순 잉슷닉단! 단의엔늘 덕 잠했 죽싱식옥.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 499
+          },
+          {
+            "kind": "glyph",
+            "id": 379
+          },
+          {
+            "kind": "glyph",
+            "id": 656
+          },
+          {
+            "kind": "glyph",
+            "id": 350
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 308
+          },
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 542
+          },
+          {
+            "kind": "glyph",
+            "id": 640
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 258
+          },
+          {
+            "kind": "glyph",
+            "id": 150
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "glyph",
+            "id": 354
+          },
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "glyph",
+            "id": 659
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 362
+          },
+          {
+            "kind": "glyph",
+            "id": 476
+          },
+          {
+            "kind": "glyph",
+            "id": 371
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 33
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "glyph",
+            "id": 468
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 129
+          },
+          {
+            "kind": "glyph",
+            "id": 482
+          },
+          {
+            "kind": "glyph",
+            "id": 663
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 506
+          },
+          {
+            "kind": "glyph",
+            "id": 380
+          },
+          {
+            "kind": "glyph",
+            "id": 374
+          },
+          {
+            "kind": "glyph",
+            "id": 432
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 5,
+        "source_nul": 41291,
+        "first_text_final_row": 113
+      },
+      {
+        "name": "41",
+        "groups": [
+          "direct-report-90/max_bytes",
+          "direct-report-90/max_lines"
+        ],
+        "bytes": 47,
+        "sha256": "0b82b8312457c347bd660ebd86668269b436f6e52966d9f665899d66e218a06b",
+        "synthetic_text": "<CTRL:8D>칵른멜 읽대인 뚝 할 걸음 적직른곡 담악낭굴욕.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 561
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 250
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 472
+          },
+          {
+            "kind": "glyph",
+            "id": 127
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 171
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "glyph",
+            "id": 17
+          },
+          {
+            "kind": "glyph",
+            "id": 467
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 488
+          },
+          {
+            "kind": "glyph",
+            "id": 515
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "glyph",
+            "id": 125
+          },
+          {
+            "kind": "glyph",
+            "id": 394
+          },
+          {
+            "kind": "glyph",
+            "id": 81
+          },
+          {
+            "kind": "glyph",
+            "id": 43
+          },
+          {
+            "kind": "glyph",
+            "id": 444
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 4,
+        "source_nul": 41259,
+        "first_text_final_row": 123
+      },
+      {
+        "name": "42",
+        "groups": [
+          "direct-report-98/max_bytes",
+          "direct-report-98/max_lines"
+        ],
+        "bytes": 64,
+        "sha256": "d944ac873672293d1c547a9760968af90b2895232ce2266c49353e5e1432f817",
+        "synthetic_text": "<CTRL:8D><CTRL:8D>ACME늘 탑제다이 훑르할 황양엔 까인 값삭득링닉단.<CTRL:8D><CTRL:8D><CTRL:80>      군재",
+        "expected_trace": [
+          {
+            "kind": "native",
+            "code": 65
+          },
+          {
+            "kind": "native",
+            "code": 67
+          },
+          {
+            "kind": "native",
+            "code": 77
+          },
+          {
+            "kind": "native",
+            "code": 69
+          },
+          {
+            "kind": "glyph",
+            "id": 115
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 598
+          },
+          {
+            "kind": "glyph",
+            "id": 495
+          },
+          {
+            "kind": "glyph",
+            "id": 121
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 698
+          },
+          {
+            "kind": "glyph",
+            "id": 221
+          },
+          {
+            "kind": "glyph",
+            "id": 658
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 690
+          },
+          {
+            "kind": "glyph",
+            "id": 409
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 61
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 5
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "glyph",
+            "id": 154
+          },
+          {
+            "kind": "glyph",
+            "id": 231
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "glyph",
+            "id": 122
+          },
+          {
+            "kind": "native",
+            "code": 46
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 42
+          },
+          {
+            "kind": "glyph",
+            "id": 485
+          }
+        ],
+        "expected_scrolls": 7,
+        "source_nul": 41276,
+        "first_text_final_row": 103
+      },
+      {
+        "name": "43",
+        "groups": [
+          "complete-warrant-list"
+        ],
+        "bytes": 154,
+        "sha256": "3d3da3d0d2e5059012605c56b8bdbeaa9f3dc88fe199f27d11d96b5111f59cc0",
+        "synthetic_text": "<CTRL:8D>우이작 몇닫:<CTRL:8D>칵른멜 생딕엔곡,<CTRL:8D>멕린 락록큰,<CTRL:8D>더즘 액닉,<CTRL:8D>렉인딕 액걱삭,<CTRL:8D>캔석릴 득린블,<CTRL:8D>렘 범큰,<CTRL:8D>슨칵 극렉인농특,<CTRL:8D>닐 블럴친,<CTRL:8D>남썰 엔딕 B,<CTRL:8D>인혹른 인혹록빅친.",
+        "expected_trace": [
+          {
+            "kind": "glyph",
+            "id": 446
+          },
+          {
+            "kind": "glyph",
+            "id": 469
+          },
+          {
+            "kind": "glyph",
+            "id": 479
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 256
+          },
+          {
+            "kind": "glyph",
+            "id": 123
+          },
+          {
+            "kind": "native",
+            "code": 58
+          },
+          {
+            "kind": "glyph",
+            "id": 561
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "glyph",
+            "id": 250
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 338
+          },
+          {
+            "kind": "glyph",
+            "id": 160
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 30
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 248
+          },
+          {
+            "kind": "glyph",
+            "id": 227
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 177
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 588
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 128
+          },
+          {
+            "kind": "glyph",
+            "id": 512
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 404
+          },
+          {
+            "kind": "glyph",
+            "id": 118
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 195
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 160
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 404
+          },
+          {
+            "kind": "glyph",
+            "id": 15
+          },
+          {
+            "kind": "glyph",
+            "id": 327
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 566
+          },
+          {
+            "kind": "glyph",
+            "id": 342
+          },
+          {
+            "kind": "glyph",
+            "id": 228
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 154
+          },
+          {
+            "kind": "glyph",
+            "id": 227
+          },
+          {
+            "kind": "glyph",
+            "id": 313
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 197
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 290
+          },
+          {
+            "kind": "glyph",
+            "id": 588
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 368
+          },
+          {
+            "kind": "glyph",
+            "id": 561
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 50
+          },
+          {
+            "kind": "glyph",
+            "id": 195
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 103
+          },
+          {
+            "kind": "glyph",
+            "id": 617
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 119
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 313
+          },
+          {
+            "kind": "glyph",
+            "id": 191
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 78
+          },
+          {
+            "kind": "glyph",
+            "id": 387
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 420
+          },
+          {
+            "kind": "glyph",
+            "id": 160
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "native",
+            "code": 66
+          },
+          {
+            "kind": "native",
+            "code": 44
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 222
+          },
+          {
+            "kind": "native",
+            "code": 32
+          },
+          {
+            "kind": "glyph",
+            "id": 470
+          },
+          {
+            "kind": "glyph",
+            "id": 681
+          },
+          {
+            "kind": "glyph",
+            "id": 205
+          },
+          {
+            "kind": "glyph",
+            "id": 315
+          },
+          {
+            "kind": "glyph",
+            "id": 557
+          },
+          {
+            "kind": "native",
+            "code": 46
+          }
+        ],
+        "expected_scrolls": 12,
+        "source_nul": 41366,
+        "first_text_final_row": 43
+      },
+      {
+        "name": "44",
+        "groups": [
+          "terminal-empty-run"
+        ],
+        "bytes": 1,
+        "sha256": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d",
+        "synthetic_text": "",
+        "expected_trace": [],
+        "expected_scrolls": 1,
+        "source_nul": 41213,
+        "first_text_final_row": null
+      },
+      {
+        "name": "45",
+        "groups": [
+          "terminal-empty-run"
+        ],
+        "bytes": 2,
+        "sha256": "932384db456fdda7b944825262cdac005dc55a94c9d857d4376a468041c5d6db",
+        "synthetic_text": "<CTRL:8D>",
+        "expected_trace": [],
+        "expected_scrolls": 2,
+        "source_nul": 41214,
+        "first_text_final_row": null
+      },
+      {
+        "name": "46",
+        "groups": [
+          "terminal-empty-run"
+        ],
+        "bytes": 3,
+        "sha256": "4754cf3fe1da50efa2da7730c317f7bbc9dd6269f5be62ade4188d917c0cd720",
+        "synthetic_text": "<CTRL:8D><CTRL:80>",
+        "expected_trace": [],
+        "expected_scrolls": 2,
+        "source_nul": 41215,
+        "first_text_final_row": null
+      },
+      {
+        "name": "47",
+        "groups": [
+          "terminal-empty-run"
+        ],
+        "bytes": 4,
+        "sha256": "5bb952d9443c0cdaeb299aa0b2607d78521ece9563b6fb08fc2a507d05972291",
+        "synthetic_text": "<CTRL:8D>  ",
+        "expected_trace": [],
+        "expected_scrolls": 2,
+        "source_nul": 41216,
+        "first_text_final_row": null
+      }
+    ],
+    "symbols": {
+      "PROBE_DONE": 2106,
+      "CLEAR": 2063,
+      "PROBE_ENTRY": 2048,
+      "CPU_65CE02": 8226,
+      "CPU_W65C02": 4146,
+      "CPU_45GS02": 11298,
+      "CPU_4510": 9250,
+      "CPU_M740": 514,
+      "CPU_HUC6280": 306,
+      "CPU_SWEET16": 128,
+      "CPU_65816": 82,
+      "CPU_65C02": 50,
+      "CPU_65SC02": 18,
+      "CPU_6502DTV": 10,
+      "CPU_6502X": 6,
+      "CPU_6502": 2,
+      "CPU_NONE": 1,
+      "CPU_ISET_65CE02": 8192,
+      "CPU_ISET_W65C02": 4096,
+      "CPU_ISET_45GS02": 2048,
+      "CPU_ISET_4510": 1024,
+      "CPU_ISET_M740": 512,
+      "CPU_ISET_HUC6280": 256,
+      "CPU_ISET_SWEET16": 128,
+      "CPU_ISET_65816": 64,
+      "CPU_ISET_65C02": 32,
+      "CPU_ISET_65SC02": 16,
+      "CPU_ISET_6502DTV": 8,
+      "CPU_ISET_6502X": 4,
+      "CPU_ISET_6502": 2,
+      "CPU_ISET_NONE": 1
+    },
+    "probe_sha256": "7cf6f1597644b3a298f96fa52c0633e0b99a1f9d42e0eca0c98502507f78b3cb",
+    "message_groups_measured": 37,
+    "dynamic_combinations": 1697,
+    "warrant_subsets": 1023
+  },
+  "probes": [
+    {
+      "name": "00",
+      "groups": [
+        "welcome/max_bytes",
+        "welcome/max_lines"
+      ],
+      "glyphs": 34,
+      "scrolls": 5,
+      "source_nul": 41264,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "01",
+      "groups": [
+        "failed-header/max_bytes"
+      ],
+      "glyphs": 23,
+      "scrolls": 2,
+      "source_nul": 41242,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "02",
+      "groups": [
+        "failed-header/max_lines"
+      ],
+      "glyphs": 17,
+      "scrolls": 3,
+      "source_nul": 41237,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "03",
+      "groups": [
+        "next-case/max_bytes"
+      ],
+      "glyphs": 42,
+      "scrolls": 4,
+      "source_nul": 41273,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "04",
+      "groups": [
+        "next-case/max_lines"
+      ],
+      "glyphs": 36,
+      "scrolls": 5,
+      "source_nul": 41268,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "05",
+      "groups": [
+        "rank/max_bytes",
+        "rank/max_lines"
+      ],
+      "glyphs": 7,
+      "scrolls": 1,
+      "source_nul": 41225,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "06",
+      "groups": [
+        "promotion/max_bytes",
+        "promotion/max_lines"
+      ],
+      "glyphs": 24,
+      "scrolls": 3,
+      "source_nul": 41255,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "07",
+      "groups": [
+        "news/max_bytes",
+        "news/max_lines"
+      ],
+      "glyphs": 32,
+      "scrolls": 6,
+      "source_nul": 41268,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "08",
+      "groups": [
+        "suspect-sex/max_bytes",
+        "suspect-sex/max_lines"
+      ],
+      "glyphs": 20,
+      "scrolls": 3,
+      "source_nul": 41252,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "09",
+      "groups": [
+        "mission/max_bytes",
+        "mission/max_lines"
+      ],
+      "glyphs": 42,
+      "scrolls": 6,
+      "source_nul": 41293,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "10",
+      "groups": [
+        "successful-police/max_bytes",
+        "successful-police/max_lines"
+      ],
+      "glyphs": 36,
+      "scrolls": 4,
+      "source_nul": 41282,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "11",
+      "groups": [
+        "treasure/max_bytes",
+        "treasure/max_lines"
+      ],
+      "glyphs": 27,
+      "scrolls": 4,
+      "source_nul": 41265,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "12",
+      "groups": [
+        "successful-loot/max_bytes"
+      ],
+      "glyphs": 59,
+      "scrolls": 6,
+      "source_nul": 41324,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "13",
+      "groups": [
+        "successful-loot/max_lines"
+      ],
+      "glyphs": 59,
+      "scrolls": 8,
+      "source_nul": 41320,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "14",
+      "groups": [
+        "deadline/max_bytes"
+      ],
+      "glyphs": 51,
+      "scrolls": 5,
+      "source_nul": 41287,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "15",
+      "groups": [
+        "deadline/max_lines"
+      ],
+      "glyphs": 45,
+      "scrolls": 6,
+      "source_nul": 41282,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "16",
+      "groups": [
+        "timeout/max_bytes",
+        "timeout/max_lines"
+      ],
+      "glyphs": 62,
+      "scrolls": 8,
+      "source_nul": 41329,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "17",
+      "groups": [
+        "warrant-name/max_bytes",
+        "warrant-name/max_lines"
+      ],
+      "glyphs": 10,
+      "scrolls": 1,
+      "source_nul": 41231,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "18",
+      "groups": [
+        "no-warrant/max_bytes"
+      ],
+      "glyphs": 71,
+      "scrolls": 7,
+      "source_nul": 41333,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "19",
+      "groups": [
+        "no-warrant/max_lines"
+      ],
+      "glyphs": 65,
+      "scrolls": 8,
+      "source_nul": 41328,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "20",
+      "groups": [
+        "wrong-trail/max_bytes"
+      ],
+      "glyphs": 46,
+      "scrolls": 4,
+      "source_nul": 41285,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "21",
+      "groups": [
+        "wrong-trail/max_lines"
+      ],
+      "glyphs": 40,
+      "scrolls": 5,
+      "source_nul": 41280,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "22",
+      "groups": [
+        "wrong-warrant/max_bytes",
+        "wrong-warrant/max_lines"
+      ],
+      "glyphs": 26,
+      "scrolls": 3,
+      "source_nul": 41261,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "23",
+      "groups": [
+        "promotion-progress/max_bytes",
+        "promotion-progress/max_lines"
+      ],
+      "glyphs": 24,
+      "scrolls": 4,
+      "source_nul": 41259,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "24",
+      "groups": [
+        "direct-report-19/max_bytes",
+        "direct-report-19/max_lines"
+      ],
+      "glyphs": 17,
+      "scrolls": 2,
+      "source_nul": 41240,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "25",
+      "groups": [
+        "direct-report-20/max_bytes",
+        "direct-report-20/max_lines"
+      ],
+      "glyphs": 22,
+      "scrolls": 6,
+      "source_nul": 41257,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "26",
+      "groups": [
+        "direct-report-21/max_bytes",
+        "direct-report-21/max_lines"
+      ],
+      "glyphs": 26,
+      "scrolls": 5,
+      "source_nul": 41259,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "27",
+      "groups": [
+        "direct-report-22/max_bytes",
+        "direct-report-22/max_lines"
+      ],
+      "glyphs": 37,
+      "scrolls": 7,
+      "source_nul": 41277,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "28",
+      "groups": [
+        "direct-report-23/max_bytes",
+        "direct-report-23/max_lines"
+      ],
+      "glyphs": 17,
+      "scrolls": 4,
+      "source_nul": 41247,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "29",
+      "groups": [
+        "direct-report-26/max_bytes",
+        "direct-report-26/max_lines"
+      ],
+      "glyphs": 37,
+      "scrolls": 5,
+      "source_nul": 41279,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "30",
+      "groups": [
+        "direct-report-38/max_bytes",
+        "direct-report-38/max_lines"
+      ],
+      "glyphs": 65,
+      "scrolls": 13,
+      "source_nul": 41341,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "31",
+      "groups": [
+        "direct-report-39/max_bytes",
+        "direct-report-39/max_lines"
+      ],
+      "glyphs": 0,
+      "scrolls": 4,
+      "source_nul": 41216,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "32",
+      "groups": [
+        "direct-report-61/max_bytes",
+        "direct-report-61/max_lines"
+      ],
+      "glyphs": 6,
+      "scrolls": 1,
+      "source_nul": 41223,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "33",
+      "groups": [
+        "direct-report-62/max_bytes",
+        "direct-report-62/max_lines"
+      ],
+      "glyphs": 12,
+      "scrolls": 3,
+      "source_nul": 41235,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "34",
+      "groups": [
+        "direct-report-63/max_bytes",
+        "direct-report-63/max_lines"
+      ],
+      "glyphs": 7,
+      "scrolls": 2,
+      "source_nul": 41226,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "35",
+      "groups": [
+        "direct-report-64/max_bytes",
+        "direct-report-64/max_lines"
+      ],
+      "glyphs": 18,
+      "scrolls": 3,
+      "source_nul": 41247,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "36",
+      "groups": [
+        "direct-report-74/max_bytes",
+        "direct-report-74/max_lines"
+      ],
+      "glyphs": 36,
+      "scrolls": 3,
+      "source_nul": 41274,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "37",
+      "groups": [
+        "direct-report-75/max_bytes",
+        "direct-report-75/max_lines"
+      ],
+      "glyphs": 42,
+      "scrolls": 5,
+      "source_nul": 41290,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "38",
+      "groups": [
+        "direct-report-81/max_bytes",
+        "direct-report-81/max_lines"
+      ],
+      "glyphs": 27,
+      "scrolls": 4,
+      "source_nul": 41265,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "39",
+      "groups": [
+        "direct-report-82/max_bytes",
+        "direct-report-82/max_lines"
+      ],
+      "glyphs": 20,
+      "scrolls": 3,
+      "source_nul": 41251,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "40",
+      "groups": [
+        "direct-report-87/max_bytes",
+        "direct-report-87/max_lines"
+      ],
+      "glyphs": 42,
+      "scrolls": 5,
+      "source_nul": 41291,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "41",
+      "groups": [
+        "direct-report-90/max_bytes",
+        "direct-report-90/max_lines"
+      ],
+      "glyphs": 24,
+      "scrolls": 4,
+      "source_nul": 41259,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "42",
+      "groups": [
+        "direct-report-98/max_bytes",
+        "direct-report-98/max_lines"
+      ],
+      "glyphs": 35,
+      "scrolls": 7,
+      "source_nul": 41276,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "43",
+      "groups": [
+        "complete-warrant-list"
+      ],
+      "glyphs": 83,
+      "scrolls": 12,
+      "source_nul": 41366,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "44",
+      "groups": [
+        "terminal-empty-run"
+      ],
+      "glyphs": 0,
+      "scrolls": 1,
+      "source_nul": 41213,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "45",
+      "groups": [
+        "terminal-empty-run"
+      ],
+      "glyphs": 0,
+      "scrolls": 2,
+      "source_nul": 41214,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "46",
+      "groups": [
+        "terminal-empty-run"
+      ],
+      "glyphs": 0,
+      "scrolls": 2,
+      "source_nul": 41215,
+      "all_expected_glyphs_and_scrolls_match": true
+    },
+    {
+      "name": "47",
+      "groups": [
+        "terminal-empty-run"
+      ],
+      "glyphs": 0,
+      "scrolls": 2,
+      "source_nul": 41216,
+      "all_expected_glyphs_and_scrolls_match": true
+    }
+  ],
+  "artifacts": {
+    "message-00-page1.hgr": "a26117fb8ed909e4b2806aea45cdeb1f75228af571f0a9e18a6dfec601d768fc",
+    "message-00-page2.hgr": "6cbe5b5e5349c780ee7315d5ca75da3ac4b3c70f389b89ac1bb4f565b7bf7ad6",
+    "message-00.json": "88bf27677b548bea557fbb5b7d9ae991495207d2f3146a46ff748c4c5ec3f0f0",
+    "message-01-page1.hgr": "7e4220d581d11299a5104c8eb8cd1e15ea467fe928a8d7a6f0f3b3ba015daba8",
+    "message-01-page2.hgr": "1fbfc5c01f71c8d5e485039cbdd2d73eff64436404f58b349ce9a592d9b9861a",
+    "message-01.json": "d360ff5214554545be69e34c3df966aca7f563baaabf17531ea4b3d24d2a27dc",
+    "message-02-page1.hgr": "38b4b51a6cc7ddc11e666c81cc9772f79eb74637b31526880c51a27584b996c1",
+    "message-02-page2.hgr": "df34fdb24ec9c973619b3ca57e581a98315de5620849a01bfa194e6e47b8d043",
+    "message-02.json": "1698aaa5406c5c92cfe8c6783c5fc6e45cffb7e1badb93bab690afa37fd7d96e",
+    "message-03-page1.hgr": "59be0c0984a558eb35c346342823b69ea6554e4e1e349510684ee5f1b465e0ee",
+    "message-03-page2.hgr": "5855a697c907d9364bb3ca1f50757a5d7cefb2e3f59d624203fce6984d4bbb07",
+    "message-03.json": "5afc8c4ea041cb4484e3252ece24106309be48446fc6723c6ea183a934c2d5a7",
+    "message-04-page1.hgr": "dd62b65aa81f2954a4029c0e757d9bfc733f488357d66013f44c5a4e5688c8ad",
+    "message-04-page2.hgr": "48d334dc40689451ae941c173504b77784146c4b36cb3a99d50f713a1fde734a",
+    "message-04.json": "d30afe53a519d72356acc37aeaf434576c5410307f1b8208a820846797652c7e",
+    "message-05-page1.hgr": "38a40862c1cd191abd9fd778dae0129736063391b1bf0ba3522ec1628dab1df9",
+    "message-05-page2.hgr": "65cad9f02dc6984b49daa7a09cd76eef5b296d0aba824677fa6c3cac1b5ec39a",
+    "message-05.json": "44f1dc6d86f690c1f99dfb2bc41c36a02e7307350f872daa5b3bb389a1e3da49",
+    "message-06-page1.hgr": "a12270eb8e097e28b8686f148fab1b93d2b5abe3e6759529cb4403b126a5e8b9",
+    "message-06-page2.hgr": "68f0008b8b49ccaef9693147d0cd4850a034853baa59e7879c01537de76197c6",
+    "message-06.json": "7e84f6d0cd27195adfbe7d825f4a4b72c11c8e851275e35b85a521efabbe9543",
+    "message-07-page1.hgr": "f4ec5955bc237f6445c016e67356ff94345edee2cde574a52f381a5105da4ca5",
+    "message-07-page2.hgr": "be084c164028206f933e07a80257220d75ee1616ac8b2262f5f1ee3a5286a163",
+    "message-07.json": "c1f04a50a0400a0da33da7794f7c36724296fa273fc7fda04e688c7344f94f69",
+    "message-08-page1.hgr": "5dae379cf095090ad59f44fc099e3f3ae4106c927a70800d3b9d337b4f3ea2cc",
+    "message-08-page2.hgr": "037da008f72c9ded2c5687f14d78bb87b0782abedb6972bfe5fdca7d19773d17",
+    "message-08.json": "9b29227f005d19592e3ea2e0d25ecbc49cb79d878d10c3b7e426dff2ec6ec2dd",
+    "message-09-page1.hgr": "2ccdeac4b0f545c596a2b6fba33fcb04cae548b588a6efd94af39c5bf12b5304",
+    "message-09-page2.hgr": "18b0fb3db808561dc83529905238fe6b811788ab114c7763c9b9a5fc7d180484",
+    "message-09.json": "e3fcf1df60c3dedbfd231c6f88a8c1cb13b5ff157d01a8c68ee306a8cf4bca47",
+    "message-10-page1.hgr": "c147b6a11b6de5244685581e470a829de9c1a39649ba4686b899d0fa8b54615c",
+    "message-10-page2.hgr": "76c7733f31ba3dd49f97805c321d22dce78ff36918eb47083beafcf246fd6338",
+    "message-10.json": "19e4601304fc60ba4652b234c3ca78b349cba1ff2d8d60ee6d9e7ae3610430d9",
+    "message-11-page1.hgr": "39bf5b35af0453d8404569686305bdddad0d3e879d07042ac2257e64b6956239",
+    "message-11-page2.hgr": "17d857486be636534d545aecd0ba3e65958f5a10ef0b33851ab5305e7966fb00",
+    "message-11.json": "80c135185b1e7eb5a13c98c85624bf97a5e5bd4937db7b4c0b65df81d6862e9c",
+    "message-12-page1.hgr": "ab4120abf70e1651ac64541f7006f06ec7a0ec55c955dcb7e8f337fa55c09062",
+    "message-12-page2.hgr": "09a25aba7740a1b665a919c8091dd19497c4ef42492495adcb478dfcb65dd87b",
+    "message-12.json": "7dc186aa03548ff69f35c239cc5364840106a176c9f0f89d89f29a2c9bcde162",
+    "message-13-page1.hgr": "b38884115d704dd960afe66c5148da2568bc241f541bdf2eddd0215e8e92265d",
+    "message-13-page2.hgr": "afffcdefd9b9447a78da9ce69da1228feb52001cd351814134f893534086d9c9",
+    "message-13.json": "2d38d1da0e629589f81160af3ec6659f1f3ae45051892b30d6dea8e841693904",
+    "message-14-page1.hgr": "70a054ba3092b029bfe74aa12ceb3973e74c4a5616bf2fb59bb87c8d5ab7e09f",
+    "message-14-page2.hgr": "ca5bd185603170549cdd8b7ed05007c1b62facc8eaffcbad52c0686a0f64bda2",
+    "message-14.json": "bc028d287392ef2f782adf7d79c0697a261f6fa3da86b208e34f01cdc1905672",
+    "message-15-page1.hgr": "9c14e83e941854f82f530112c3b5b03dec648ab195275efbe0df2d21e854374b",
+    "message-15-page2.hgr": "8fc0cd8a1fea3b3251c890e820839c388ef98bb22423fb8cfba99c722442a197",
+    "message-15.json": "bdb3ab924fb399cac0b8b1a3db9516c9c0a25056b947f154a433d5af52755976",
+    "message-16-page1.hgr": "d051c6566cce2dd1cc9d495e2305143a479e3f5b056321fb0825fe2391827629",
+    "message-16-page2.hgr": "ff3ae2e0201933aa1270839204bdee67ca448f60d52acef13bfc0221603991c6",
+    "message-16.json": "889294b5aeaeeb9b16ea0c0a2749ecc72bbea0a24fb5b09cb44e5826e23ed7bd",
+    "message-17-page1.hgr": "f85d9fe589cdcae61506adb6b27730c783624a622bffaff7e4f08db78b94750b",
+    "message-17-page2.hgr": "b2e8f740a210ee5a8987b96f4a97a6863535f49f1bb2c40778e97a8da6e21e64",
+    "message-17.json": "5b87da8464e8aaebe989a1056b2117e2080e304bb94fc33be1841c461f9fe7e7",
+    "message-18-page1.hgr": "2bd077dac8263aa8e27420bd59543c6c10438f5d85238c8097b8ccefa1ce7d92",
+    "message-18-page2.hgr": "64da6680000a40cc2798d51c70d6549e4b28bcc4125e27c0d1ee2cb77bf69257",
+    "message-18.json": "c84b3395f6dcaad4a01345da78022ed053b68c61ea066bb3ff30aafc2b734336",
+    "message-19-page1.hgr": "c62bc239511da268933753ed91c1973d4ac60321851c3e52df6fb45655be0997",
+    "message-19-page2.hgr": "2c8a7db9f1698c32a0983b1bb0068efdda58443604107529f6334784c1285715",
+    "message-19.json": "c38bb4bef6c5fed561951c84f99d46fa9b8360c7d304a3a04f86f33a9111236a",
+    "message-20-page1.hgr": "b5d19b52033e73de099a9912c11943d4ec0ba3797f6d0b2dbc14f0f89487bcb6",
+    "message-20-page2.hgr": "1003c219e5679f5d398c8e5fed91bc89f75234f9b4b1e8d13701ebc6404e690d",
+    "message-20.json": "bbc5cea05633be7e77d41b616f6fa7ca126c1d33813fd0e113a3e66811f535a0",
+    "message-21-page1.hgr": "1417ab0dbf879d0c689b84807e4d45a7b75f17146e6ad91c1c8fe3d4d803b62c",
+    "message-21-page2.hgr": "4b9df3da70a64615437a808fe91d49a2f91faf72f9e4661318e242067eab5018",
+    "message-21.json": "d0180d663647cdb0fdf1b7a0b8ed04098e2ccc8322aa8a1940ba355e4d0cedb2",
+    "message-22-page1.hgr": "12d5fe9ab3f33e960f61e448546165182ca19ee0c59b76c0fb4416323cda34f1",
+    "message-22-page2.hgr": "aee3d6f4c5bafb12db014d6512a480000fbc2971a6230638221b79994ea4e739",
+    "message-22.json": "619287abd0882038b850732c5da7affa9a60cbca563b55093e56362bdf3a9c9c",
+    "message-23-page1.hgr": "91012c2abfd1421d020d45601a360f3a8cb60a169f573e9180e399d8999b8633",
+    "message-23-page2.hgr": "c8a8521fa2cd740a75c915b142d58ac2c13efa5842309da77b787b759e54fe0b",
+    "message-23.json": "bc10117408e124f2afab13d2efc80ed9aed8d0fde1ca0efc14565dd43bf20b1c",
+    "message-24-page1.hgr": "5bf4ff83b06e53a37e9103083466e554b7820e8189fd972059acf6e21c20ba98",
+    "message-24-page2.hgr": "ed27b6e9d55c75c2aec900d6b03a85ed21a5930378d30530b3559c5a3a51d792",
+    "message-24.json": "62d35f13ab346233762095c4b18b38d298f0974b4dc3d907e14147b85c514ffe",
+    "message-25-page1.hgr": "5cd5e4d4581c09c2b796b3223f3d5ca980e0aeef3ebb3fa8ea40342066106d66",
+    "message-25-page2.hgr": "ed804ae58cb4af905a2586cd9edef7bd5a22a7428d76f495870338d5049c8875",
+    "message-25.json": "996c06e66c64e5034a7cebb273e9ab8daaf0720e530cce800c72e599fb0178ff",
+    "message-26-page1.hgr": "4978561d602366bf1e949f3f4b5749a20c3d71305125ae353e508129270688b8",
+    "message-26-page2.hgr": "de92687334fb4e8aa9ea93993a7ec9f860452c895dd1d10c92c71f2fc8ff63df",
+    "message-26.json": "971d5f42e1ec184e5e4f77103cba65ed8001dd309abbd20c3c2dec86fbf2b515",
+    "message-27-page1.hgr": "6eea2ac969c54c2cf071e2a99125097730544f9cc8993ba285aa086bbf7d7827",
+    "message-27-page2.hgr": "1cbc583dedc58d0dd7b67efeca7476de2685acf750140d436621dbd55945caa5",
+    "message-27.json": "965e2d2950bd36c0c8b099047e22accec1e15fec371294c7bc1795710c29a816",
+    "message-28-page1.hgr": "0dff291c546a8819107041ba2bf51b13f51a2bc1db1d981151ca776332889381",
+    "message-28-page2.hgr": "189049318c603eef7162627cd9423bf298962b361047c484b18da724fe3abfac",
+    "message-28.json": "9fc6d10870eaec8a3c4eba63bc3e836c289028514f05363f12b3e65c2a64193a",
+    "message-29-page1.hgr": "6ef168ce77df82065c7e3f7e721c389cb05f6b6e68e403ded7164fd952550b94",
+    "message-29-page2.hgr": "a1c0b2a7fa4eb75b2b28bfd2704a72bd866f5f6a8e3f2faca8021bb3eaf60331",
+    "message-29.json": "6000616f0d04d31f06b6daeb7f6f6cdb46fd1384c98a403ac2be212278bbfa50",
+    "message-30-page1.hgr": "44925710acf5338e4e817bc9e01583d47057f099f90382288aed10b4b5b11389",
+    "message-30-page2.hgr": "45c61093f51f30ce49a4665d360b0cee2bcf59c0dd1cedb17565e9db25f9ddd2",
+    "message-30.json": "5c38bc0c4d2357258d19aaf762da716cd9b4ceb96c88071cb61a703fe45135ed",
+    "message-31-page1.hgr": "03cfeea4e6ae52dfa962ff69c2573ca3036afaa2b13db150f2be761dd76e5bba",
+    "message-31-page2.hgr": "7342753c473515bd52dbbb22f50e6eb0c25dbb08f2d20a0a313512fe99bbc37b",
+    "message-31.json": "513b17628ad0b19fd6a5c2dd7394ab241abc5edf1adb6b24443b01af43e3382d",
+    "message-32-page1.hgr": "02624fa2b8def5fea6a3822201c2ec99a8292951717d91a511a7afbc97652e3e",
+    "message-32-page2.hgr": "cb489dc9b4a509b4748d0bee0e96754c56f513791941beeb73404e45b79084db",
+    "message-32.json": "97254d9031f0786ef3a48d699bcb3bef686984a6fb4294217fbd8e63b41aa40c",
+    "message-33-page1.hgr": "b77280045d63d0c245f4190c2e13b4c097457f68afb69786e7d67446cbee69f5",
+    "message-33-page2.hgr": "5cc2e8e63d12202a32e94966d75aa70d8a5eb65dadfa529387958ff35846ee3d",
+    "message-33.json": "46567033a7fdafa7d6f4833e9c6d555786932af23c1cb31a1b21bcf66fd02753",
+    "message-34-page1.hgr": "78e350fde81b5ffc56c35e1329d861d47791a86c8ca2a8804cefbcb97fc58dea",
+    "message-34-page2.hgr": "e502b4e1486f1b8139e22c2f9b3e8efb4e5e05f574ddd513b3c2425613b845ad",
+    "message-34.json": "62f14faa45df8bd5ff06bb0f5eb659cd40571762dbad0229075a5bddd0aeedd0",
+    "message-35-page1.hgr": "87a311c0b787035bf6829bca7a440ea73b2c56abf3dce2cbb7cca7a66cfe2ba8",
+    "message-35-page2.hgr": "d4b4d126f2c4b6c680c96d169f694709bda2f8cca260a8f165c8ac3717eeca3e",
+    "message-35.json": "351be6e64d56aa97313f06bc4a6cfa3bd187f7b8310a60557b079d0778db3456",
+    "message-36-page1.hgr": "c0786a688bd90bed47ca4945f6af2dd4aab20363dde149a95bf5aef6c0937f04",
+    "message-36-page2.hgr": "551bc562a935413831055a915efedb677126966d6cc6b249fdd5a79af63ec883",
+    "message-36.json": "6eab3846f4506f0b204a654937df7ec311a30a42c5a358d6be4a0dbe59bb9f45",
+    "message-37-page1.hgr": "7c25c97b08351385f211f52d6cec80f3115f706298363a4d1d576cbcaf59a79c",
+    "message-37-page2.hgr": "08a232c19c6635409b12dbb684b3cf124fd18ae88c6d8853e7a03517ee37f5b7",
+    "message-37.json": "3af7fa948c5df0ca3391d3c8ae8497cce9cf370a7c38144ae2bfcdf3ad9aff4e",
+    "message-38-page1.hgr": "3751ecd0d89857ec0c040c6f4343d237887dc6c4cd14633f75f4964e27dae2d1",
+    "message-38-page2.hgr": "1272e63bf8f877553b1e433b1de91a1515380538175e7e88ab161ddda6807791",
+    "message-38.json": "250ff5a80f5ec68476dc48b493945c4cb9f1bc6f22defb8dc9616bfb590f088e",
+    "message-39-page1.hgr": "a463c2aafc6fbfa01756bb8d6bf059f69616df38cbffa887d26283031303be15",
+    "message-39-page2.hgr": "2e48da47fa4ecb1cc7ca2ed6413a8d572142a9083e4631263fe96392863e95f2",
+    "message-39.json": "acd9153c534573c02571b7aa7d9d89e96b1ace643a5b300c8bb5555fda720593",
+    "message-40-page1.hgr": "baad8a79247b9b71553c15ca2420a7d579275492ebe99aaf0a7dcf2ff2034ccc",
+    "message-40-page2.hgr": "0d227e4566ba7be1f25ff0fde6e907d82286f70b3d81ce8b5257a07f7ceb0d20",
+    "message-40.json": "06198da6126b935a43493c2fe79c2abd56cfb045ad4a688d88256971f5471946",
+    "message-41-page1.hgr": "474642dc8e204c9d7faca25b3840e1699a1e2a4435279090957f1c74d73c74be",
+    "message-41-page2.hgr": "ec0ffd66f63b547174dfb80cafbc8fed676790a332eadd04a1f3ddebec00a82d",
+    "message-41.json": "5238a830b25ade4e2845512d8f726bbe62fc076521112e497db3489710f9d6d2",
+    "message-42-page1.hgr": "9dbfeb2215528ebe1e694e6f9e76e8bce0ff69c643f528dc650c7342c5bdfedf",
+    "message-42-page2.hgr": "e25f274c4c8ea791306e4ad332ce44f813adddf565afe893dce5fea1e135fa02",
+    "message-42.json": "fc093574770de0bf6fe7dbef8898ed862155a9e5b44aac81a5dab5d2f976ccff",
+    "message-43-page1.hgr": "21f4c9b701bca31f137799f6d7ebdd815e8d00a7979ac70287cb61bcb9f56cb4",
+    "message-43-page2.hgr": "eb0affa5dd63c6a495d5648159f5160b189337105300f2b4bef0da0e2f2dc0a8",
+    "message-43.json": "0d47503c08d6ada4ec45501b20abdc60d9a2004c6e6fcb8872dc68bc5a01d897",
+    "message-44-page1.hgr": "0db05cdd610e3c6df45af4beccba6c9a1227d3e302fecb4d0f0cb068be920b34",
+    "message-44-page2.hgr": "01843e7235ffa7ad9461f421d50fc286a2115e69fc38d64c84de747b74844cd0",
+    "message-44.json": "f2f35fa84cd1b395e062fd03ec395cae236c34d32c5da27597076550ca3186a6",
+    "message-45-page1.hgr": "d9f1622eb8d91568981357d125c90032d061e04d0c6f0d27dd40155a79f794a3",
+    "message-45-page2.hgr": "b37cf5ebdd4748fc222622ea3ebc182dae4167fdd1143167a1a4711bdc3bffcf",
+    "message-45.json": "a76c036c9d04f6e5b45b6b2ed9935a98f69abe393974d9f89f9f4de183eb00d5",
+    "message-46-page1.hgr": "d9f1622eb8d91568981357d125c90032d061e04d0c6f0d27dd40155a79f794a3",
+    "message-46-page2.hgr": "b37cf5ebdd4748fc222622ea3ebc182dae4167fdd1143167a1a4711bdc3bffcf",
+    "message-46.json": "70bc18c213f415296f6b7a3b59cd110dbce4d7b4da2642e1866b3697697cec14",
+    "message-47-page1.hgr": "d9f1622eb8d91568981357d125c90032d061e04d0c6f0d27dd40155a79f794a3",
+    "message-47-page2.hgr": "b37cf5ebdd4748fc222622ea3ebc182dae4167fdd1143167a1a4711bdc3bffcf",
+    "message-47.json": "061a5d8ea355a5ebbe294a0feaa2ba6f01b6940bace3b06ee88dd489d743fb15",
+    "synthetic-messages-after-synthetic.json": "00c8d06541aef6d7b147912e357399251649005f48318732e06a25bd63cc3045",
+    "synthetic-messages-after.json": "df34cb51c102bdaa82b7fb18ec9888702b9e21dcf95fbab52cea74df40a16989",
+    "synthetic-messages-before-synthetic.json": "af92881491895b6cee88c72fedad302053852c7b13d04522e707e85684f147b4",
+    "synthetic-messages-before.json": "e113f3e881c7f27dfc7ccf7ab792685630b8e41f47a8cf4f548863ec8d068585"
+  },
+  "checks": [
+    "Native witnesses for every assembled-message byte/line extremum and the complete ten-suspect list",
+    "Every actual drawing-call glyph matches independent layout; measurement calls excluded by return address",
+    "Actual report-page changes count every line and terminal-NUL scroll, including final empty runs",
+    "Source terminators, buffer tail, decoder status and final cursor match; caller/RAM restored; media unchanged"
+  ],
+  "scope": "Synthetic output witnesses for source-derived message extrema; not execution of every originating gameplay branch"
+}

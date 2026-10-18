@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "status": "pass",
+  "mode": "synthetic",
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "verifier_sha256": "0b9aa1f19ee44d94beed904e2a703720ecfe3b06f8925cc5cd55db76e1d80770",
+  "image_sha256": "9225c9957a7fbe07d810c5be83c0e887a247d56fe55aef8008df95225dd057e9",
+  "files_verified": 27,
+  "free_blocks": 1179,
+  "po_translation_targets_verified": 1286,
+  "font_bytes": 5680,
+  "cities": [
+    {
+      "city": 0,
+      "strings": 30,
+      "text_bytes": 1360,
+      "picture_bytes": 1964,
+      "picture_sha256": "d44158019eddbfcf1f28b66fed15084d6db5249622a7574e467e55ec3d880d87",
+      "selected_description_with_nul": 117,
+      "three_clues_with_nuls": 170
+    },
+    {
+      "city": 1,
+      "strings": 32,
+      "text_bytes": 1485,
+      "picture_bytes": 1465,
+      "picture_sha256": "c6ad3ae0666aabca2593b42c58e6c0139f8a8c615418d80690eafbf1ac529898",
+      "selected_description_with_nul": 132,
+      "three_clues_with_nuls": 185
+    },
+    {
+      "city": 2,
+      "strings": 32,
+      "text_bytes": 1323,
+      "picture_bytes": 1094,
+      "picture_sha256": "7b3b0fb7ed54ddf83c471f5adb6e5a8f77b8afa0b25a9bca85f9902c7568f5c1",
+      "selected_description_with_nul": 116,
+      "three_clues_with_nuls": 165
+    },
+    {
+      "city": 3,
+      "strings": 32,
+      "text_bytes": 1343,
+      "picture_bytes": 2307,
+      "picture_sha256": "dcb4e842d8c4e564460019934acc79a095c3d94134115c4654a3b76f195bb9e2",
+      "selected_description_with_nul": 107,
+      "three_clues_with_nuls": 185
+    },
+    {
+      "city": 4,
+      "strings": 29,
+      "text_bytes": 1279,
+      "picture_bytes": 2005,
+      "picture_sha256": "7c636afa0fdf7b00c9f9ec4ab422c8217995879c6ae7e004a2229a5b84459db6",
+      "selected_description_with_nul": 119,
+      "three_clues_with_nuls": 161
+    },
+    {
+      "city": 5,
+      "strings": 32,
+      "text_bytes": 1457,
+      "picture_bytes": 2384,
+      "picture_sha256": "f4c41833261ec21bde55a39f112425da0844b42f9ae1f772b3636f7d8239cbd8",
+      "selected_description_with_nul": 136,
+      "three_clues_with_nuls": 157
+    },
+    {
+      "city": 6,
+      "strings": 33,
+      "text_bytes": 1412,
+      "picture_bytes": 2017,
+      "picture_sha256": "b284afaf8f977fdcb6b3a24a723694a69f3c4e7638e64c737e77484e36a9b26b",
+      "selected_description_with_nul": 119,
+      "three_clues_with_nuls": 176
+    },
+    {
+      "city": 7,
+      "strings": 34,
+      "text_bytes": 1353,
+      "picture_bytes": 2460,
+      "picture_sha256": "599adfba31fec45684c971b28a93f8dda9e8c1ffa8a560b2703b4ca558692302",
+      "selected_description_with_nul": 91,
+      "three_clues_with_nuls": 170
+    },
+    {
+      "city": 8,
+      "strings": 30,
+      "text_bytes": 1253,
+      "picture_bytes": 2152,
+      "picture_sha256": "77dcc4427f4abcef9f630def94d200bcebfab3abe99cfecbfab1bf6c61ec6ff6",
+      "selected_description_with_nul": 97,
+      "three_clues_with_nuls": 168
+    },
+    {
+      "city": 9,
+      "strings": 30,
+      "text_bytes": 1188,
+      "picture_bytes": 2397,
+      "picture_sha256": "24d910ca0462b48dd67bd2db157cf41efafbd3fe3a237e15f51b25080be8009b",
+      "selected_description_with_nul": 103,
+      "three_clues_with_nuls": 151
+    },
+    {
+      "city": 10,
+      "strings": 34,
+      "text_bytes": 1381,
+      "picture_bytes": 2533,
+      "picture_sha256": "20144e68e80d5e55581bc7332c7785b8d224ea4f550b29485a7b3ce873a14ed9",
+      "selected_description_with_nul": 91,
+      "three_clues_with_nuls": 182
+    },
+    {
+      "city": 11,
+      "strings": 33,
+      "text_bytes": 1335,
+      "picture_bytes": 2293,
+      "picture_sha256": "add4f3ed5eaafcd7cdec84e480b937efabc4f489d9ec8dd17a8f39b1fb11a1d6",
+      "selected_description_with_nul": 115,
+      "three_clues_with_nuls": 165
+    },
+    {
+      "city": 12,
+      "strings": 31,
+      "text_bytes": 1344,
+      "picture_bytes": 1309,
+      "picture_sha256": "cc3c285faa2a557c866132a0eea9ec6dcb0b0436c80787f80dae233595285d30",
+      "selected_description_with_nul": 91,
+      "three_clues_with_nuls": 175
+    },
+    {
+      "city": 13,
+      "strings": 31,
+      "text_bytes": 1356,
+      "picture_bytes": 1728,
+      "picture_sha256": "b1c3ae7f9b9407cda83d07b078d1bd649c511f2183a60e290595fa01e7b8983d",
+      "selected_description_with_nul": 124,
+      "three_clues_with_nuls": 170
+    },
+    {
+      "city": 14,
+      "strings": 32,
+      "text_bytes": 1285,
+      "picture_bytes": 2130,
+      "picture_sha256": "f8cb50dda9194073d42414b92d9896b1a6f091ed6e80f7e587860221b9777506",
+      "selected_description_with_nul": 90,
+      "three_clues_with_nuls": 173
+    },
+    {
+      "city": 15,
+      "strings": 31,
+      "text_bytes": 1281,
+      "picture_bytes": 2078,
+      "picture_sha256": "65d7daa8fa076e16703b5b8ed8475c0b046c387ba15791679cdf2f53a79c9344",
+      "selected_description_with_nul": 126,
+      "three_clues_with_nuls": 166
+    },
+    {
+      "city": 16,
+      "strings": 34,
+      "text_bytes": 1317,
+      "picture_bytes": 2049,
+      "picture_sha256": "400b15c4f970a5fcea14d1427f60466d1a988d5bad5a86f3a2f2e5c95b1af9c7",
+      "selected_description_with_nul": 103,
+      "three_clues_with_nuls": 156
+    },
+    {
+      "city": 17,
+      "strings": 33,
+      "text_bytes": 1371,
+      "picture_bytes": 1859,
+      "picture_sha256": "8842bf4b9e3ab1e33c63f28921c7c933a063e69f477018a9211250453db28f88",
+      "selected_description_with_nul": 136,
+      "three_clues_with_nuls": 163
+    },
+    {
+      "city": 18,
+      "strings": 33,
+      "text_bytes": 1452,
+      "picture_bytes": 1638,
+      "picture_sha256": "4854f5c196b480907b5639f563235a3f5609c17dcb4651c3c4831f23aa4ffde0",
+      "selected_description_with_nul": 88,
+      "three_clues_with_nuls": 190
+    },
+    {
+      "city": 19,
+      "strings": 31,
+      "text_bytes": 1351,
+      "picture_bytes": 2339,
+      "picture_sha256": "94751e699b79ee1d71686726c72a2e130ef154b6e1970943f42b298924e7f7c2",
+      "selected_description_with_nul": 113,
+      "three_clues_with_nuls": 170
+    },
+    {
+      "city": 20,
+      "strings": 32,
+      "text_bytes": 1324,
+      "picture_bytes": 2414,
+      "picture_sha256": "33ec2135c16b89a0873b06ca9e225eea9a01f483ef16f1156f9074c0496a8978",
+      "selected_description_with_nul": 85,
+      "three_clues_with_nuls": 181
+    },
+    {
+      "city": 21,
+      "strings": 31,
+      "text_bytes": 1138,
+      "picture_bytes": 2031,
+      "picture_sha256": "538dc76e205d37d0a1eb3e3cbaa4bee474782e0ccfaef3912a916c2cf95165e1",
+      "selected_description_with_nul": 86,
+      "three_clues_with_nuls": 147
+    },
+    {
+      "city": 22,
+      "strings": 32,
+      "text_bytes": 1299,
+      "picture_bytes": 2604,
+      "picture_sha256": "0aaa3013c800b41d077ab8fc7f4cfe1aed9e4cf81c79e2c42c27f96fe2f08f3f",
+      "selected_description_with_nul": 103,
+      "three_clues_with_nuls": 180
+    },
+    {
+      "city": 23,
+      "strings": 32,
+      "text_bytes": 1249,
+      "picture_bytes": 1871,
+      "picture_sha256": "e32b50c61a6c24709655135b0abea5a1c38efe760fc357dfc435c4a9670557e3",
+      "selected_description_with_nul": 98,
+      "three_clues_with_nuls": 167
+    },
+    {
+      "city": 24,
+      "strings": 32,
+      "text_bytes": 1380,
+      "picture_bytes": 1573,
+      "picture_sha256": "d15ada82a96c4573df04c7956a7e225776d5c98908a0822a889340fb5dabdcfb",
+      "selected_description_with_nul": 105,
+      "three_clues_with_nuls": 188
+    },
+    {
+      "city": 25,
+      "strings": 32,
+      "text_bytes": 1358,
+      "picture_bytes": 2381,
+      "picture_sha256": "8555fc15af0cbaaeb3a6d1b48c9305cc249ab27e8017d62d99e1041710283092",
+      "selected_description_with_nul": 112,
+      "three_clues_with_nuls": 171
+    },
+    {
+      "city": 26,
+      "strings": 28,
+      "text_bytes": 1297,
+      "picture_bytes": 2001,
+      "picture_sha256": "ac9c0f8c2c76d8eac876bf8ca85af08004db0f0d3852c0a7b355076d95536276",
+      "selected_description_with_nul": 110,
+      "three_clues_with_nuls": 175
+    },
+    {
+      "city": 27,
+      "strings": 33,
+      "text_bytes": 1285,
+      "picture_bytes": 2086,
+      "picture_sha256": "279d3f10f1816a78a5cb4416d1501be9d1990de80f8e364877d7d4222cce4770",
+      "selected_description_with_nul": 88,
+      "three_clues_with_nuls": 156
+    },
+    {
+      "city": 28,
+      "strings": 31,
+      "text_bytes": 1324,
+      "picture_bytes": 1354,
+      "picture_sha256": "c21e93bd9c8fb306176c240892b320243718c3c08b72c3163812ab45fc8b0fe6",
+      "selected_description_with_nul": 109,
+      "three_clues_with_nuls": 181
+    },
+    {
+      "city": 29,
+      "strings": 40,
+      "text_bytes": 1410,
+      "picture_bytes": 2397,
+      "picture_sha256": "3e44a3884d200eda91439d9a5c962134735601450e3fb590ed7073e6ce5bf543",
+      "selected_description_with_nul": 73,
+      "three_clues_with_nuls": 142
+    }
+  ],
+  "scope": "Pristine image hashes, source pins, payloads/metadata, original exclusions and all 800K translation data. No CPU/gameplay or cross-edition save execution is claimed."
+}

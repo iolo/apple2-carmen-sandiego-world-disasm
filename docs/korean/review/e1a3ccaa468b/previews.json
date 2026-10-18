@@ -1,0 +1,931 @@
+[
+  {
+    "file": "previews/caption-R0.png",
+    "caption": "Draft caption on original bitmap: R0",
+    "ids": [
+      "bitmap.s.presents"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/caption-R2.png",
+    "caption": "Draft caption on original bitmap: R2",
+    "ids": [
+      "bitmap.s.title"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/caption-R3.png",
+    "caption": "Draft caption on original bitmap: R3",
+    "ids": [
+      "bitmap.s.agency"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/caption-N4.png",
+    "caption": "Draft caption on original bitmap: N4",
+    "ids": [
+      "bitmap.o.sex",
+      "bitmap.o.hobby",
+      "bitmap.o.hair",
+      "bitmap.o.feature",
+      "bitmap.o.auto",
+      "bitmap.o.food",
+      "bitmap.o.computer"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/caption-N5.png",
+    "caption": "Draft caption on original bitmap: N5",
+    "ids": [
+      "bitmap.p.jail"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-00-description.png",
+    "caption": "City 00: deepest description",
+    "ids": [
+      "s2.city00.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-00-investigation.png",
+    "caption": "City 00: deepest combined investigation",
+    "ids": [
+      "s2.city00.line14",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-01-description.png",
+    "caption": "City 01: deepest description",
+    "ids": [
+      "s2.city01.line01"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-01-investigation.png",
+    "caption": "City 01: deepest combined investigation",
+    "ids": [
+      "s2.city01.line06",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-02-description.png",
+    "caption": "City 02: deepest description",
+    "ids": [
+      "s2.city02.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-02-investigation.png",
+    "caption": "City 02: deepest combined investigation",
+    "ids": [
+      "s2.city02.line18",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-03-description.png",
+    "caption": "City 03: deepest description",
+    "ids": [
+      "s2.city03.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-03-investigation.png",
+    "caption": "City 03: deepest combined investigation",
+    "ids": [
+      "s2.city03.line10",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-04-description.png",
+    "caption": "City 04: deepest description",
+    "ids": [
+      "s2.city04.line01"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-04-investigation.png",
+    "caption": "City 04: deepest combined investigation",
+    "ids": [
+      "s2.city04.line26",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-05-description.png",
+    "caption": "City 05: deepest description",
+    "ids": [
+      "s2.city05.line02"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-05-investigation.png",
+    "caption": "City 05: deepest combined investigation",
+    "ids": [
+      "s2.city05.line13",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-06-description.png",
+    "caption": "City 06: deepest description",
+    "ids": [
+      "s2.city06.line02"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-06-investigation.png",
+    "caption": "City 06: deepest combined investigation",
+    "ids": [
+      "s2.city06.line17",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-07-description.png",
+    "caption": "City 07: deepest description",
+    "ids": [
+      "s2.city07.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-07-investigation.png",
+    "caption": "City 07: deepest combined investigation",
+    "ids": [
+      "s2.city07.line15",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-08-description.png",
+    "caption": "City 08: deepest description",
+    "ids": [
+      "s2.city08.line01"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-08-investigation.png",
+    "caption": "City 08: deepest combined investigation",
+    "ids": [
+      "s2.city08.line13",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-09-description.png",
+    "caption": "City 09: deepest description",
+    "ids": [
+      "s2.city09.line01"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-09-investigation.png",
+    "caption": "City 09: deepest combined investigation",
+    "ids": [
+      "s2.city09.line08",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-10-description.png",
+    "caption": "City 10: deepest description",
+    "ids": [
+      "s2.city10.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-10-investigation.png",
+    "caption": "City 10: deepest combined investigation",
+    "ids": [
+      "s2.city10.line25",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-11-description.png",
+    "caption": "City 11: deepest description",
+    "ids": [
+      "s2.city11.line02"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-11-investigation.png",
+    "caption": "City 11: deepest combined investigation",
+    "ids": [
+      "s2.city11.line28",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-12-description.png",
+    "caption": "City 12: deepest description",
+    "ids": [
+      "s2.city12.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-12-investigation.png",
+    "caption": "City 12: deepest combined investigation",
+    "ids": [
+      "s2.city12.line16",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-13-description.png",
+    "caption": "City 13: deepest description",
+    "ids": [
+      "s2.city13.line01"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-13-investigation.png",
+    "caption": "City 13: deepest combined investigation",
+    "ids": [
+      "s2.city13.line16",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-14-description.png",
+    "caption": "City 14: deepest description",
+    "ids": [
+      "s2.city14.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-14-investigation.png",
+    "caption": "City 14: deepest combined investigation",
+    "ids": [
+      "s2.city14.line07",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-15-description.png",
+    "caption": "City 15: deepest description",
+    "ids": [
+      "s2.city15.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-15-investigation.png",
+    "caption": "City 15: deepest combined investigation",
+    "ids": [
+      "s2.city15.line14",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-16-description.png",
+    "caption": "City 16: deepest description",
+    "ids": [
+      "s2.city16.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-16-investigation.png",
+    "caption": "City 16: deepest combined investigation",
+    "ids": [
+      "s2.city16.line10",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-17-description.png",
+    "caption": "City 17: deepest description",
+    "ids": [
+      "s2.city17.line02"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-17-investigation.png",
+    "caption": "City 17: deepest combined investigation",
+    "ids": [
+      "s2.city17.line18",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-18-description.png",
+    "caption": "City 18: deepest description",
+    "ids": [
+      "s2.city18.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-18-investigation.png",
+    "caption": "City 18: deepest combined investigation",
+    "ids": [
+      "s2.city18.line17",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-19-description.png",
+    "caption": "City 19: deepest description",
+    "ids": [
+      "s2.city19.line01"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-19-investigation.png",
+    "caption": "City 19: deepest combined investigation",
+    "ids": [
+      "s2.city19.line27",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-20-description.png",
+    "caption": "City 20: deepest description",
+    "ids": [
+      "s2.city20.line01"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-20-investigation.png",
+    "caption": "City 20: deepest combined investigation",
+    "ids": [
+      "s2.city20.line15",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-21-description.png",
+    "caption": "City 21: deepest description",
+    "ids": [
+      "s2.city21.line02"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-21-investigation.png",
+    "caption": "City 21: deepest combined investigation",
+    "ids": [
+      "s2.city21.line24",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-22-description.png",
+    "caption": "City 22: deepest description",
+    "ids": [
+      "s2.city22.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-22-investigation.png",
+    "caption": "City 22: deepest combined investigation",
+    "ids": [
+      "s2.city22.line21",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-23-description.png",
+    "caption": "City 23: deepest description",
+    "ids": [
+      "s2.city23.line02"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-23-investigation.png",
+    "caption": "City 23: deepest combined investigation",
+    "ids": [
+      "s2.city23.line13",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-24-description.png",
+    "caption": "City 24: deepest description",
+    "ids": [
+      "s2.city24.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-24-investigation.png",
+    "caption": "City 24: deepest combined investigation",
+    "ids": [
+      "s2.city24.line25",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-25-description.png",
+    "caption": "City 25: deepest description",
+    "ids": [
+      "s2.city25.line02"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-25-investigation.png",
+    "caption": "City 25: deepest combined investigation",
+    "ids": [
+      "s2.city25.line19",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-26-description.png",
+    "caption": "City 26: deepest description",
+    "ids": [
+      "s2.city26.line01"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-26-investigation.png",
+    "caption": "City 26: deepest combined investigation",
+    "ids": [
+      "s2.city26.line09",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-27-description.png",
+    "caption": "City 27: deepest description",
+    "ids": [
+      "s2.city27.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-27-investigation.png",
+    "caption": "City 27: deepest combined investigation",
+    "ids": [
+      "s2.city27.line23",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-28-description.png",
+    "caption": "City 28: deepest description",
+    "ids": [
+      "s2.city28.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-28-investigation.png",
+    "caption": "City 28: deepest combined investigation",
+    "ids": [
+      "s2.city28.line21",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-29-description.png",
+    "caption": "City 29: deepest description",
+    "ids": [
+      "s2.city29.line00"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/city-29-investigation.png",
+    "caption": "City 29: deepest combined investigation",
+    "ids": [
+      "s2.city29.line20",
+      "k.015"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-welcome.png",
+    "caption": "Report extent: welcome",
+    "ids": [
+      "c.ui.024",
+      "c.ui.025"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-failed-header.png",
+    "caption": "Report extent: failed-header",
+    "ids": [
+      "c.ui.076",
+      "c.ui.056"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-next-case.png",
+    "caption": "Report extent: next-case",
+    "ids": [
+      "c.ui.093",
+      "c.ui.094"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-rank.png",
+    "caption": "Report extent: rank",
+    "ids": [
+      "c.detective_ranks.05",
+      "c.ui.099"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-promotion.png",
+    "caption": "Report extent: promotion",
+    "ids": [
+      "c.ui.096",
+      "c.detective_ranks.05",
+      "c.ui.058"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-news.png",
+    "caption": "Report extent: news",
+    "ids": [
+      "c.ui.027",
+      "c.cities.05"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-suspect-sex.png",
+    "caption": "Report extent: suspect-sex",
+    "ids": [
+      "c.ui.029",
+      "c.ui.031"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-mission.png",
+    "caption": "Report extent: mission",
+    "ids": [
+      "c.ui.032",
+      "c.cities.05",
+      "c.ui.033",
+      "c.ui.101",
+      "c.ui.034",
+      "c.ui.069"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-successful-police.png",
+    "caption": "Report extent: successful-police",
+    "ids": [
+      "c.ui.077",
+      "c.cities.05",
+      "c.ui.078",
+      "c.suspects.09"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-treasure.png",
+    "caption": "Report extent: treasure",
+    "ids": [
+      "c.ui.028",
+      "i.029"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-successful-loot.png",
+    "caption": "Report extent: successful-loot",
+    "ids": [
+      "c.ui.102",
+      "c.suspects.09",
+      "c.ui.079",
+      "i.069",
+      "c.ui.080",
+      "c.cities.23"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-deadline.png",
+    "caption": "Report extent: deadline",
+    "ids": [
+      "c.ui.035",
+      "c.weekdays.00",
+      "c.weekday_suffixes.00",
+      "c.ui.071",
+      "c.ui.072",
+      "c.ui.036",
+      "c.ui.037"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-timeout.png",
+    "caption": "Report extent: timeout",
+    "ids": [
+      "c.ui.083",
+      "c.ui.091",
+      "c.suspects.09",
+      "c.ui.092"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-warrant-name.png",
+    "caption": "Report extent: warrant-name",
+    "ids": [
+      "c.suspects.09",
+      "c.ui.058"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-no-warrant.png",
+    "caption": "Report extent: no-warrant",
+    "ids": [
+      "c.ui.076",
+      "c.ui.056",
+      "c.ui.088",
+      "c.suspects.09",
+      "c.ui.089"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-wrong-trail.png",
+    "caption": "Report extent: wrong-trail",
+    "ids": [
+      "c.ui.076",
+      "c.ui.056",
+      "c.ui.084",
+      "c.suspects.09",
+      "c.ui.085"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-wrong-warrant.png",
+    "caption": "Report extent: wrong-warrant",
+    "ids": [
+      "c.ui.086",
+      "c.suspects.09"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-promotion-progress.png",
+    "caption": "Report extent: promotion-progress",
+    "ids": [
+      "c.ui.102",
+      "c.ui.111",
+      "c.ui.106",
+      "c.ui.095"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-19.png",
+    "caption": "Report extent: direct-report-19",
+    "ids": [
+      "c.ui.019"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-20.png",
+    "caption": "Report extent: direct-report-20",
+    "ids": [
+      "c.ui.020"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-21.png",
+    "caption": "Report extent: direct-report-21",
+    "ids": [
+      "c.ui.021"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-22.png",
+    "caption": "Report extent: direct-report-22",
+    "ids": [
+      "c.ui.022"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-23.png",
+    "caption": "Report extent: direct-report-23",
+    "ids": [
+      "c.ui.023"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-26.png",
+    "caption": "Report extent: direct-report-26",
+    "ids": [
+      "c.ui.026"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-38.png",
+    "caption": "Report extent: direct-report-38",
+    "ids": [
+      "c.ui.038"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-39.png",
+    "caption": "Report extent: direct-report-39",
+    "ids": [
+      "c.ui.039"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-61.png",
+    "caption": "Report extent: direct-report-61",
+    "ids": [
+      "c.ui.061"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-62.png",
+    "caption": "Report extent: direct-report-62",
+    "ids": [
+      "c.ui.062"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-63.png",
+    "caption": "Report extent: direct-report-63",
+    "ids": [
+      "c.ui.063"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-64.png",
+    "caption": "Report extent: direct-report-64",
+    "ids": [
+      "c.ui.064"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-74.png",
+    "caption": "Report extent: direct-report-74",
+    "ids": [
+      "c.ui.074"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-75.png",
+    "caption": "Report extent: direct-report-75",
+    "ids": [
+      "c.ui.075"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-81.png",
+    "caption": "Report extent: direct-report-81",
+    "ids": [
+      "c.ui.081"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-82.png",
+    "caption": "Report extent: direct-report-82",
+    "ids": [
+      "c.ui.082"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-87.png",
+    "caption": "Report extent: direct-report-87",
+    "ids": [
+      "c.ui.087"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-90.png",
+    "caption": "Report extent: direct-report-90",
+    "ids": [
+      "c.ui.090"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/report-direct-report-98.png",
+    "caption": "Report extent: direct-report-98",
+    "ids": [
+      "c.ui.098"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/complete-warrant-list.png",
+    "caption": "Complete ten-suspect list after native terminal scrolls",
+    "ids": [
+      "c.suspects.00",
+      "c.suspects.01",
+      "c.suspects.02",
+      "c.suspects.03",
+      "c.suspects.04",
+      "c.suspects.05",
+      "c.suspects.06",
+      "c.suspects.07",
+      "c.suspects.08",
+      "c.suspects.09"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/save-dialog.png",
+    "caption": "Save dialog field at its actual coordinates",
+    "ids": [
+      "n.save_dialog"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  },
+  {
+    "file": "previews/floppy-only-variant.png",
+    "caption": "Floppy-only variant; outside 800K image",
+    "ids": [
+      "s2.city21.line24.disk2"
+    ],
+    "kind": "offline real-draft raster; not translated gameplay evidence"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "bundle_sha256": "66af8eacdf8c1706b723c529f0bfe3e4f090d4341cdf59436798e9c3ea3dc513",
+  "directory": "e1a3ccaa468b",
+  "index": "e1a3ccaa468b/index.html",
+  "status": "approved",
+  "approval": "assets/korean/approval.json",
+  "approval_sha256": "2ad3c35d6922ab2495532ea4ccd5360f5cd90cfa03a7d94ab41e82ffaf3a1969"
+}

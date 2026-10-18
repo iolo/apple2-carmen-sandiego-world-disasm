@@ -96,3 +96,16 @@ assembles back to its original bytes. `E` is regenerated from its decoded
 shift-table formula. Some retained routines have no identified caller, and
 several small data regions and controller firmware behaviors remain unresolved;
 see the [analysis limits](docs/reconstruction.md#current-reverse-engineering-limits).
+
+## Korean edition
+
+The approved Korean edition requires a **128K Apple //e**.
+
+```sh
+make korean
+make korean-image-check
+```
+
+Output: `build/korean/approved/carmen-world-ko.po` (800K ProDOS).
+Names and keyboard input remain English. See the [Korean documentation](docs/korean/README.md)
+for screenshots, save compatibility, implementation details and verification.

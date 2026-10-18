@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "source": "Human conversation in this task",
+  "user_statement": "I confirmed the translation.",
+  "selected_response": "All translations (Recommended)",
+  "accepted_decisions": {
+    "Carmen Sandiego": "카르멘 샌디에고",
+    "i.000": "프리아모스의 가면",
+    "i.040": "몬테수마의 복수(?)의 비밀 치료법"
+  },
+  "recorded_at": "2026-10-18T12:23:01.269090+00:00",
+  "note": "Recorded after the explicit user scope confirmation. Exact time of the preceding user response is unavailable; the approval receipt timestamp is the recording time. Scope context is an agent summary; user_statement and selected_response preserve the human responses.",
+  "scope_confirmation_context": "Does confirmation cover all 1,287 translations, keeping i.000 unchanged and changing i.040 to 몬테수마의 복수(?)의 비밀 치료법, or only i.040?"
+}

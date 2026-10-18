@@ -1,0 +1,39 @@
+{
+  "format": 1,
+  "status": "pass",
+  "synthetic_image_sha256": "9225c9957a7fbe07d810c5be83c0e887a247d56fe55aef8008df95225dd057e9",
+  "probes": [
+    {
+      "name": "pristine-synthetic",
+      "status": "pass",
+      "files": 27,
+      "targets": 1286
+    },
+    {
+      "name": "whole-image-byte-drift",
+      "status": "pass",
+      "rejection": "Whole image SHA-256 differs"
+    },
+    {
+      "name": "file-length",
+      "status": "pass",
+      "rejection": "Image payload differs: C"
+    },
+    {
+      "name": "file-metadata",
+      "status": "pass",
+      "rejection": "Image metadata differs: C/aux"
+    },
+    {
+      "name": "stale-source-ledger",
+      "status": "pass",
+      "rejection": "Image build source is stale: tools/korean/synthetic.py"
+    },
+    {
+      "name": "bad-font-with-updated-outer-hashes",
+      "status": "pass",
+      "rejection": "Installed font file differs from pinned BDF cells"
+    }
+  ],
+  "scope": "Pristine synthetic verification and temporary corruption/manifest tests. No approval receipt or real-translation media is created."
+}

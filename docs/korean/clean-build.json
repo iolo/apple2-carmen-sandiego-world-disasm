@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "status": "pass",
+  "mode": "approved",
+  "image_sha256": "890fca81bd99fcdd747b594536781d4c7ce8c52e82fb443fcd4939a0c913eeda",
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "approval_sha256": "2ad3c35d6922ab2495532ea4ccd5360f5cd90cfa03a7d94ab41e82ffaf3a1969",
+  "fresh_source_copy": true,
+  "copied_build_artifacts": false,
+  "two_builds_identical": true,
+  "read_only_image_check": "pass",
+  "log_sha256": "88d85bf28eec078765bc9cb28fbff4b3382d722250d5b97994ef1ee9a01218ce",
+  "temporary_source_removed": true
+}

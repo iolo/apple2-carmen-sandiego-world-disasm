@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "status": "pass",
+  "mode": "approved",
+  "image_sha256": "890fca81bd99fcdd747b594536781d4c7ce8c52e82fb443fcd4939a0c913eeda",
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "approval_sha256": "2ad3c35d6922ab2495532ea4ccd5360f5cd90cfa03a7d94ab41e82ffaf3a1969",
+  "original_inputs": {
+    "manifest_sha256": "ceff8224d042e93979e52d986fb31097c9ff3f3e5e60a16f714907b8a5c6116b",
+    "images": {
+      "disk1": {
+        "path": "carmen-world-disk1.dsk",
+        "sha256": "d322484a14f53ab9ed0bc8e3ac2b046250d775dd52eb956dbac578e13912afd2",
+        "verified_extracted_files": 21
+      },
+      "disk2": {
+        "path": "carmen-world-disk2.dsk",
+        "sha256": "caf57f337eeb72860aa51e993b9ea99d9bd2b76a2bb8f49c4cf36d462a71800e",
+        "verified_extracted_files": 2
+      },
+      "po": {
+        "path": "carmen-world.po",
+        "sha256": "d9557dfed56f35de21350b3bbcddcd38af99a1629ffc80a578fef797dda9a091",
+        "verified_extracted_files": 25
+      }
+    }
+  },
+  "reports": {
+    "docs/korean/runtime/approved/synthetic-text.json": "010d4822e90c44a24af77d3f2990aba3587307fd0d56f3bf955953721e2e05e7",
+    "docs/korean/runtime/approved/native-readers.json": "3d014fc662153d4c5cfa8252c485c13050f299f7d213279727cfaef2343b7426",
+    "docs/korean/runtime/approved/native-clock.json": "51a49e9eaf49c046008248cdf123079ab593ed427165b9342fd0f63ad8115b21",
+    "docs/korean/runtime/approved/native-captions.json": "574de14c58c48f55e1fb8a892b7d5659e34b4d9887b0773d094870f8b52962b7",
+    "docs/korean/runtime/approved/native-messages.json": "292078437e532addc5ee1f5ee61b8d82c375e9c09ea633a03b69a26ecb03a1f2",
+    "docs/korean/runtime/approved/native-cities.json": "28294e7e85e42643c441662a2301faea8a82bd5fe1b04458de3f7384c05c65a1",
+    "docs/korean/runtime/approved/gameplay.json": "79016ddf637a2aa0502bf0d34599c1c13fa7d32fb1fc355e0bc01ef4b2ac07df",
+    "docs/korean/runtime/approved/save-compatibility.json": "ef37be18831c3388cbe9877a52413e2bfd46ea3e79b3dbdb213a475433d88b7b",
+    "docs/korean/runtime/approved/disk-errors.json": "0bb4eb07c85123085d65d53b42b7034264319c4a6fe6b26c48aa58f448196d54",
+    "docs/korean/runtime/approved/visual.json": "9d635f0e9bd1b29ad41eb6bc0b09484c4491a9d64da91a1b44ab60cbfbf7d102",
+    "docs/korean/runtime/native-font.json": "e5eee9f2e5335a38c44751fbd5683592d16ffd68a3e6499ad2af443491fbeb34",
+    "docs/korean/runtime/native-renderers.json": "be55f750552c182e2fe2efd0302d672bcd9f77c291a78667b4eefe15394bdffc",
+    "docs/korean/clean-build.json": "f7af31aeece9677aa9d3187b397ff391e06221551645a35ab8f1f306815e5560",
+    "docs/korean/english-baseline.json": "d8aab9770c27be8c5a4fa05b9d8fb00fab0e2ab9eec09dbc7eb99cbb1bac00df",
+    "docs/korean/approved-image-check.json": "d4be7008bacdb85143820d6007d6de379f6de28261dc41b663468abf891e1e15",
+    "docs/korean/image-check-rejections.json": "81a5e2b15572dc1b71b4470e0d7507e6de51e02947c88a3fa1f85162e987f011"
+  },
+  "machine_profiles": {
+    "docs/korean/runtime/approved/profiles/mame-approved-life-final1.json": "a3b3ff135f549a450cd0c3295f5cbe9df1389322b462892aeb7e04f7334bb886",
+    "docs/korean/runtime/approved/profiles/mame-approved-life-final2.json": "bc57e4e13d0d903b0dde521aa9b2d867cb196d9e5655a9ebac62ca385d083c9a",
+    "docs/korean/runtime/approved/profiles/mame-approved-readers-01.json": "82b0a69fe3c0b373dd8ac2aa287a6cedc7c7bd5b1b6f07581103b845e99b5e0a",
+    "docs/korean/runtime/approved/profiles/mame-approved-clock-01.json": "8fbf03d7aa80217fb621669bb2ff692ef14de8a1f44744f6569e5ffafe65dd9e",
+    "docs/korean/runtime/approved/profiles/mame-approved-captions-01.json": "299e4131518b76b50ebcc6c633015c7ba6580870dc17fc49f9d65f02605a2228",
+    "docs/korean/runtime/approved/profiles/mame-approved-messages-01.json": "287c429f2b9b3c5a422c7340f8767b06080f6b6d858bce5f441c126c3929f4e3",
+    "docs/korean/runtime/approved/profiles/mame-approved-cities-01.json": "39064d6dac09a62dd761c854ffe5e8315ffe373798e64bbc1d2ffe0f801cb043",
+    "docs/korean/runtime/approved/profiles/mame-finalplay30-seed.json": "b7cb39ed4fcff027fa5be236f7e424f84e19dbb5aaf405b98b653248f24ed0a2",
+    "docs/korean/runtime/approved/profiles/mame-finalplay31-seed.json": "858f9dd516629744042929f7d4f4174cb1677bd653e313ba41aa2e0d9294fdeb",
+    "docs/korean/runtime/approved/profiles/mame-finalplay34-seed.json": "fa5d30f9c17cffc253d6f6d4412c9257bc3933fdb07a7a9d9524a3f7253c5a96",
+    "docs/korean/runtime/approved/profiles/mame-finalplay3-no-warrant-english.json": "c4c29997f4127b3067a01bef337c41e74b0731c0f197b32dded57a85f92ab773",
+    "docs/korean/runtime/approved/profiles/mame-finalplay3-no-warrant-korean.json": "7cb13ace1074ea6cb77ef7255d1d45c39802c353b004bb7de3bb6774a539ea19",
+    "docs/korean/runtime/approved/profiles/mame-finalplay3-wrong-english.json": "d10d9fb97b976147d0d710b05d6343bb0961337ddb818aeb599d2259370bdc3c",
+    "docs/korean/runtime/approved/profiles/mame-finalplay3-wrong-korean.json": "dc5bff38fa2cdcd3084667d49c9d8438f7242d24569f339037865e7c795618c0",
+    "docs/korean/runtime/approved/profiles/mame-finalplay3-promotion-english.json": "f3aaa0dae1126dc59189072b7b29accf5517b68a3e5a596f7ef14e15493c9c6f",
+    "docs/korean/runtime/approved/profiles/mame-finalplay3-promotion-korean.json": "4d2164232e538bc7c88ba839f843a18e932c1d08accc95ddc2f53a11a4e242b1",
+    "docs/korean/runtime/approved/profiles/mame-finalplay3-correct-english.json": "f2d0053d757c2fc8e8ab5205471afe61e02295eb4a2058f3f9d6f026d4401375",
+    "docs/korean/runtime/approved/profiles/mame-finalplay3-correct-korean.json": "bc3602fa3e97361be0359c3c9f6cb296f4b938c2148cd0caa36a2060d09cc3ed",
+    "docs/korean/runtime/approved/profiles/mame-finalplay5-retirement-english.json": "24d2d93e3120e046150fce70cb081314f7cc85ad026bfaa90be6d1433157d600",
+    "docs/korean/runtime/approved/profiles/mame-finalplay5-retirement-korean.json": "d26662cbfd977c560de08cef50d70913b035ca63adc8572b3079253c4e55652a",
+    "docs/korean/runtime/approved/profiles/mame-finalplay5-timeout-english.json": "2b421b49143ab5d2b173c3b3ce5c68a10e885b83f47a3a9b9649e5f63b9a6333",
+    "docs/korean/runtime/approved/profiles/mame-finalplay5-timeout-korean.json": "c94ade6be84bc9372bb6c3a1b99c340c6fd7f312a71e7e3ca6dfb83b5f89d7d7",
+    "docs/korean/runtime/approved/profiles/mame-finalcross-english-save.json": "d6d4c7eac86da489bf2a8a5c2916d20580a1e9948b626522251e53f899186986",
+    "docs/korean/runtime/approved/profiles/mame-finalcross-english-to-korean.json": "601161dbc8b2eb3c217d7852f15122d2212823b8b4089fe3e5856b5acaf3f887",
+    "docs/korean/runtime/approved/profiles/mame-approved-life-01.json": "a41fb9c1a9609ec6fe5e0029194791b23f67c0b511334c7bda6cc911ad48fbcb",
+    "docs/korean/runtime/approved/profiles/mame-finalcross-korean-to-english.json": "a03a5bec59bc18f7b65b0a5da27c223875d36426b2e18540be89923359578a8e",
+    "docs/korean/runtime/approved/profiles/mame-finalfault2-hgr-error.json": "bb57ed4504e6d95a9870404548626608ad4dc97ec937d63afa4f65ce3a4d34d3",
+    "docs/korean/runtime/approved/profiles/mame-finalvisual2-visual.json": "3d463df09abfaccc26e7a163e52f00b88aaf23ccfd260c8b0a90860888b0a5fa",
+    "docs/korean/runtime/approved/profiles/mame-native-03.json": "48cd3e5ab3dae7862192710f014ab6f96a81f513ae914d6c7f681e30161f6339",
+    "docs/korean/runtime/approved/profiles/mame-render-06.json": "fc15839f219ef0d80f9ba3f8427b5134bca7c46e9d42ec66716b06c296b2b79b"
+  },
+  "all_nonretirement_case_bytes_match_english": true,
+  "retirement_progress_roster_and_hall_match_english": true,
+  "limits": [
+    "Not every random route, clue pick, roster capacity, name editing or hall replacement branch was played.",
+    "All city/trait/message layouts and every 800K translation are covered statically; native extrema/readers/city reads supplement representative gameplay.",
+    "Fourteen retained S2 tails and unused/floppy-only UI have offline coverage, not live branch evidence.",
+    "140K Korean port and floppy save interchange remain outside scope."
+  ]
+}

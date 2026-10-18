@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "emulator": "Apple2TS",
+  "session": {
+    "serverInstanceId": "b1146495-6172-4c9a-b818-d307d0001992",
+    "rendererId": "031cc427-1431-4a7d-af30-2312b38254a2",
+    "targetId": "b1146495-6172-4c9a-b818-d307d0001992:031cc427-1431-4a7d-af30-2312b38254a2"
+  },
+  "machine": "APPLE2EE",
+  "main_kib": 64,
+  "auxiliary_kib": 64,
+  "uploaded_image": {
+    "path": "build/carmen-world.po",
+    "sha256": "bb326a125d3666c1b22fb0588a23f6a7055864deb78f17cd7e330ee93418dc36",
+    "bytes": 819200
+  },
+  "events": [
+    {
+      "checkpoint": "first_city_Montreal",
+      "case_state": {
+        "emulator": {
+          "serverInstanceId": "b1146495-6172-4c9a-b818-d307d0001992",
+          "rendererId": "031cc427-1431-4a7d-af30-2312b38254a2",
+          "targetId": "b1146495-6172-4c9a-b818-d307d0001992:031cc427-1431-4a7d-af30-2312b38254a2"
+        },
+        "value": {
+          "address": 0,
+          "length": 33,
+          "bytes": [
+            2,
+            3,
+            1,
+            14,
+            4,
+            24,
+            0,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            0,
+            14,
+            3,
+            17,
+            2,
+            17,
+            0,
+            255,
+            1,
+            44,
+            2,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255
+          ],
+          "requestedSpace": "active",
+          "effectiveAuxBank": 0,
+          "effectiveSegments": [
+            {
+              "address": 0,
+              "length": 33,
+              "space": "aux",
+              "auxBank": 0
+            }
+          ],
+          "mapping": {
+            "RAMRD": false,
+            "RAMWRT": false,
+            "ALTZP": true,
+            "80STORE": false,
+            "PAGE2": true,
+            "HIRES": true
+          }
+        }
+      }
+    },
+    {
+      "checkpoint": "investigation",
+      "case_state": {
+        "emulator": {
+          "serverInstanceId": "b1146495-6172-4c9a-b818-d307d0001992",
+          "rendererId": "031cc427-1431-4a7d-af30-2312b38254a2",
+          "targetId": "b1146495-6172-4c9a-b818-d307d0001992:031cc427-1431-4a7d-af30-2312b38254a2"
+        },
+        "value": {
+          "address": 0,
+          "length": 33,
+          "bytes": [
+            2,
+            3,
+            1,
+            14,
+            4,
+            24,
+            0,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            0,
+            14,
+            3,
+            18,
+            2,
+            17,
+            1,
+            255,
+            1,
+            44,
+            2,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255
+          ],
+          "requestedSpace": "active",
+          "effectiveAuxBank": 0,
+          "effectiveSegments": [
+            {
+              "address": 0,
+              "length": 33,
+              "space": "aux",
+              "auxBank": 0
+            }
+          ],
+          "mapping": {
+            "RAMRD": false,
+            "RAMWRT": false,
+            "ALTZP": true,
+            "80STORE": false,
+            "PAGE2": true,
+            "HIRES": true
+          }
+        }
+      }
+    },
+    {
+      "checkpoint": "travel_Montreal_to_Budapest",
+      "case_state": {
+        "emulator": {
+          "serverInstanceId": "b1146495-6172-4c9a-b818-d307d0001992",
+          "rendererId": "031cc427-1431-4a7d-af30-2312b38254a2",
+          "targetId": "b1146495-6172-4c9a-b818-d307d0001992:031cc427-1431-4a7d-af30-2312b38254a2"
+        },
+        "value": {
+          "address": 0,
+          "length": 33,
+          "bytes": [
+            2,
+            3,
+            2,
+            14,
+            4,
+            24,
+            0,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255,
+            0,
+            4,
+            4,
+            7,
+            2,
+            17,
+            0,
+            255,
+            1,
+            44,
+            2,
+            255,
+            255,
+            255,
+            255,
+            255,
+            255
+          ],
+          "requestedSpace": "active",
+          "effectiveAuxBank": 0,
+          "effectiveSegments": [
+            {
+              "address": 0,
+              "length": 33,
+              "space": "aux",
+              "auxBank": 0
+            }
+          ],
+          "mapping": {
+            "RAMRD": false,
+            "RAMWRT": false,
+            "ALTZP": true,
+            "80STORE": false,
+            "PAGE2": true,
+            "HIRES": true
+          }
+        }
+      }
+    },
+    {
+      "checkpoint": "after_save",
+      "execution": {
+        "emulator": {
+          "serverInstanceId": "b1146495-6172-4c9a-b818-d307d0001992",
+          "rendererId": "031cc427-1431-4a7d-af30-2312b38254a2",
+          "targetId": "b1146495-6172-4c9a-b818-d307d0001992:031cc427-1431-4a7d-af30-2312b38254a2"
+        },
+        "outcome": "stopped",
+        "expectationMatched": null,
+        "state": {
+          "executionSequence": 12,
+          "state": "paused",
+          "pauseReason": "explicit",
+          "breakpoint": null,
+          "memoryWrite": null,
+          "PC": 30957,
+          "A": 13,
+          "X": 0,
+          "Y": 255,
+          "S": 253,
+          "PStatus": 52,
+          "machineName": "APPLE2EE",
+          "memoryConfiguration": {
+            "slot3Card": "aux",
+            "ramWorksKb": 64
+          }
+        }
+      }
+    }
+  ],
+  "limitations": [
+    "Save was invoked and returned to sign-in; fresh-boot restore is not yet verified in this session.",
+    "$9200-$97FF watchpoint had no hits from briefing through investigation, travel and save; this does not prove all game branches.",
+    "Further automation moved to MAME Lua at user suggestion."
+  ],
+  "cleanup": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"stopped\":true}"
+      }
+    ],
+    "structuredContent": {
+      "stopped": true
+    }
+  }
+}

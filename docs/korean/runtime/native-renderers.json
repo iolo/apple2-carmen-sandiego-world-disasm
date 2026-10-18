@@ -1,0 +1,1799 @@
+{
+  "format": 1,
+  "status": "pass",
+  "session": "mame-render-06",
+  "profile": {
+    "command": [
+      "/usr/games/mame",
+      "apple2e",
+      "-noreadconfig",
+      "-rompath",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-render-06/roms;/home/iolo/workspace/retro/a2x/mame/roms",
+      "-aux",
+      "ext80",
+      "-ramsize",
+      "64K",
+      "-sl7",
+      "cffa202",
+      "-hard1",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-render-06/carmen-world.hdv",
+      "-pluginspath",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/tools/korean/mame_plugins;/usr/share/games/mame/plugins",
+      "-plugin",
+      "carmen_mailbox",
+      "-skip_gameinfo",
+      "-window",
+      "-nomouse",
+      "-nothrottle",
+      "-homepath",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-render-06",
+      "-video",
+      "none",
+      "-sound",
+      "none",
+      "-debug",
+      "-debugger",
+      "qt",
+      "-cfg_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-render-06/cfg_directory",
+      "-nvram_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-render-06/nvram_directory",
+      "-snapshot_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-render-06/snapshot_directory",
+      "-state_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-render-06/state_directory",
+      "-diff_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-render-06/diff_directory"
+    ],
+    "machine": "apple2e",
+    "pid": 416819,
+    "main_kib": 64,
+    "auxiliary_kib": 64,
+    "aux_card": "ext80",
+    "controller": "cffa202",
+    "image_source": "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/carmen-world.po",
+    "image_sha256": "00d0c21b489431ced3b0577248f1c8bf09daf1117b53eb034d985b40ce9e69d9",
+    "cffa_sha256": "3d7f6918f9af3828f5a6299299a817df0d354ee62e547bc0238755de66162a88",
+    "note": "Disposable media; saves must not touch original images or English build output"
+  },
+  "library": {
+    "format": 1,
+    "catalog_sha256": "f137e56a1a88e32735aacfa80d39470136557ddad6d5c5529fb537f3d7703e23",
+    "font_sha256": "6ebc033129da27c6df4c6d60a8b417d837c7bf69b5610d8ab1804b814ff7ac54",
+    "font_bytes": 5680,
+    "address": 37376,
+    "bytes": 444,
+    "sha256": "c9b945a51f7fc6e58ee3601d59ed6e358c75b1995ac18ab3dc024fd9173a29be",
+    "symbols": {
+      "K_PROGRAM_END": 37820,
+      "K_COPY_INIT_BYTE": 37795,
+      "K_POP_INIT_ZP": 37778,
+      "K_COPY_INIT_TAIL": 37764,
+      "K_COPY_INIT_PAGES": 37793,
+      "K_HARD_BREAK": 37816,
+      "K_PUSH_INIT_ZP": 37697,
+      "K_HELPER_ROW": 37676,
+      "K_HELPER_SOURCE": 37671,
+      "K_INSTALL_HELPER_BYTE": 37661,
+      "K_HELPER_BYTES": 17,
+      "K_FETCH_DONE": 37644,
+      "K_FETCH_LC_ROW": 37616,
+      "K_FETCH_AUX_NORMAL": 37633,
+      "K_ADVANCE_DONE": 37568,
+      "K_ERROR": 37811,
+      "K_ACCEPT_GLYPH": 37524,
+      "K_OFFSET_LO": 37812,
+      "K_OFFSET_HI": 37813,
+      "K_ADVANCE_SOURCE": 37562,
+      "K_BAD_GLYPH": 37536,
+      "K_READ_DONE": 37551,
+      "K_RESULT": 37819,
+      "K_PENDING": 37810,
+      "K_ADVANCE_HIGH": 37566,
+      "K_SCAN_FIRST_HI": 37815,
+      "K_SCAN_FIRST_LO": 37814,
+      "K_POINTER_SELECTED": 37430,
+      "K_ADVANCE_BYTE": 37562,
+      "K_LOAD_TRAIL": 37468,
+      "K_LOAD_FIRST": 37441,
+      "K_SAVED_Y": 37818,
+      "K_SAVED_X": 37817,
+      "K_READ_AT": 37397,
+      "K_INSTALL_HELPER": 37659,
+      "K_FETCH": 37569,
+      "K_READ_C6": 37395,
+      "K_READ_C2": 37391,
+      "K_INIT": 37688,
+      "K_CACHE": 38880,
+      "K_COPY_HELPER": 53504,
+      "K_LEAD_OFFSET_HI": 55920,
+      "K_LEAD_OFFSET_LO": 55808,
+      "K_TRAIL_MAP": 55552,
+      "K_FONT_BYTES": 5680,
+      "CPU_65CE02": 8226,
+      "CPU_W65C02": 4146,
+      "CPU_45GS02": 11298,
+      "CPU_4510": 9250,
+      "CPU_M740": 514,
+      "CPU_HUC6280": 306,
+      "CPU_SWEET16": 128,
+      "CPU_65816": 82,
+      "CPU_65C02": 50,
+      "CPU_65SC02": 18,
+      "CPU_6502DTV": 10,
+      "CPU_6502X": 6,
+      "CPU_6502": 2,
+      "CPU_NONE": 1,
+      "CPU_ISET_65CE02": 8192,
+      "CPU_ISET_W65C02": 4096,
+      "CPU_ISET_45GS02": 2048,
+      "CPU_ISET_4510": 1024,
+      "CPU_ISET_M740": 512,
+      "CPU_ISET_HUC6280": 256,
+      "CPU_ISET_SWEET16": 128,
+      "CPU_ISET_65816": 64,
+      "CPU_ISET_65C02": 32,
+      "CPU_ISET_65SC02": 16,
+      "CPU_ISET_6502DTV": 8,
+      "CPU_ISET_6502X": 4,
+      "CPU_ISET_6502": 2,
+      "CPU_ISET_NONE": 1
+    },
+    "lookup_tables": {
+      "trail-map": {
+        "address": 55552,
+        "bytes": 256
+      },
+      "lead-lo": {
+        "address": 55808,
+        "bytes": 111
+      },
+      "lead-hi": {
+        "address": 55920,
+        "bytes": 111
+      }
+    },
+    "status": "assembled RAM library; exact runtime evidence is recorded separately under docs/korean/runtime",
+    "probes": {
+      "C2": {
+        "bytes": 340,
+        "sha256": "7ced0c6606b5071ee6fbfeb1c354b35d0c5cfa1d9a1d280a648245f2f4745a3d",
+        "symbols": {
+          "PROBE_DONE": 36940,
+          "PROBE_TERMINATOR": 36910,
+          "PROBE_COPY_ROW": 36866,
+          "PROBE_P": 36945,
+          "PROBE_A": 36944,
+          "PROBE_FLAG_BITS": 36947,
+          "PROBE_EXPECTED_P": 36946,
+          "PROBE_NEXT": 36640,
+          "PROBE_ERROR": 36943,
+          "PROBE_ENTRY": 36608,
+          "GLYPH_COUNT": 710,
+          "SOURCE_PTR": 194,
+          "K_ERROR": 37811,
+          "K_PENDING": 37810,
+          "K_FETCH": 37569,
+          "K_READ": 37391,
+          "K_INIT": 37688,
+          "CPU_65CE02": 8226,
+          "CPU_W65C02": 4146,
+          "CPU_45GS02": 11298,
+          "CPU_4510": 9250,
+          "CPU_M740": 514,
+          "CPU_HUC6280": 306,
+          "CPU_SWEET16": 128,
+          "CPU_65816": 82,
+          "CPU_65C02": 50,
+          "CPU_65SC02": 18,
+          "CPU_6502DTV": 10,
+          "CPU_6502X": 6,
+          "CPU_6502": 2,
+          "CPU_NONE": 1,
+          "CPU_ISET_65CE02": 8192,
+          "CPU_ISET_W65C02": 4096,
+          "CPU_ISET_45GS02": 2048,
+          "CPU_ISET_4510": 1024,
+          "CPU_ISET_M740": 512,
+          "CPU_ISET_HUC6280": 256,
+          "CPU_ISET_SWEET16": 128,
+          "CPU_ISET_65816": 64,
+          "CPU_ISET_65C02": 32,
+          "CPU_ISET_65SC02": 16,
+          "CPU_ISET_6502DTV": 8,
+          "CPU_ISET_6502X": 4,
+          "CPU_ISET_6502": 2,
+          "CPU_ISET_NONE": 1
+        }
+      },
+      "C6": {
+        "bytes": 340,
+        "sha256": "bc065fbf796e2ce18d3c666c07f7b6ec76c513a71fe8da284d2656b6fe5a0756",
+        "symbols": {
+          "PROBE_DONE": 36940,
+          "PROBE_TERMINATOR": 36910,
+          "PROBE_COPY_ROW": 36866,
+          "PROBE_P": 36945,
+          "PROBE_A": 36944,
+          "PROBE_FLAG_BITS": 36947,
+          "PROBE_EXPECTED_P": 36946,
+          "PROBE_NEXT": 36640,
+          "PROBE_ERROR": 36943,
+          "PROBE_ENTRY": 36608,
+          "GLYPH_COUNT": 710,
+          "SOURCE_PTR": 198,
+          "K_ERROR": 37811,
+          "K_PENDING": 37810,
+          "K_FETCH": 37569,
+          "K_READ": 37395,
+          "K_INIT": 37688,
+          "CPU_65CE02": 8226,
+          "CPU_W65C02": 4146,
+          "CPU_45GS02": 11298,
+          "CPU_4510": 9250,
+          "CPU_M740": 514,
+          "CPU_HUC6280": 306,
+          "CPU_SWEET16": 128,
+          "CPU_65816": 82,
+          "CPU_65C02": 50,
+          "CPU_65SC02": 18,
+          "CPU_6502DTV": 10,
+          "CPU_6502X": 6,
+          "CPU_6502": 2,
+          "CPU_NONE": 1,
+          "CPU_ISET_65CE02": 8192,
+          "CPU_ISET_W65C02": 4096,
+          "CPU_ISET_45GS02": 2048,
+          "CPU_ISET_4510": 1024,
+          "CPU_ISET_M740": 512,
+          "CPU_ISET_HUC6280": 256,
+          "CPU_ISET_SWEET16": 128,
+          "CPU_ISET_65816": 64,
+          "CPU_ISET_65C02": 32,
+          "CPU_ISET_65SC02": 16,
+          "CPU_ISET_6502DTV": 8,
+          "CPU_ISET_6502X": 4,
+          "CPU_ISET_6502": 2,
+          "CPU_ISET_NONE": 1
+        }
+      }
+    }
+  },
+  "renderers": {
+    "format": 1,
+    "library_sha256": "c9b945a51f7fc6e58ee3601d59ed6e358c75b1995ac18ab3dc024fd9173a29be",
+    "modules": {
+      "N": {
+        "path": "build/korean/renderers/N/N.bin",
+        "bytes": 12212,
+        "extension_bytes": 212,
+        "limit_exclusive": 37376,
+        "sha256": "971b0b0858d529fbb50a6a7956360db912ac773ef4b1c85eda49c861866ec4bd",
+        "original_sha256": "05b53463af7f031fe24716c6633e29a131e05abec541570b9a2b066d4ee5d0c1",
+        "hooks": {
+          "HOOK_TW_INCREMENT_SEPARATOR": 36779,
+          "HOOK_TW_SEPARATOR": 36766,
+          "HOOK_TW_RUN_READY": 36763,
+          "HOOK_TW_HARD_BREAK": 36748,
+          "HOOK_TW_CHECK_SPACE": 36731,
+          "HOOK_TW_BACKTRACK": 36719,
+          "HOOK_TW_SCAN": 36708,
+          "HOOK_INCREMENT_SEPARATOR": 36699,
+          "HOOK_SEPARATOR": 36686,
+          "HOOK_RUN_READY": 36683,
+          "HOOK_HARD_BREAK": 36668,
+          "HOOK_CHECK_SPACE": 36651,
+          "HOOK_BACKTRACK": 36639,
+          "HOOK_ASCII": 36627,
+          "HOOK_CHAR": 36604,
+          "HOOK_DRAW": 36598,
+          "HOOK_CENTER": 36587,
+          "HOOK_SCAN": 36576,
+          "MODE_N": 1,
+          "K_HARD_BREAK": 37816,
+          "K_SCAN_FIRST_HI": 37815,
+          "K_SCAN_FIRST_LO": 37814,
+          "K_PENDING": 37810,
+          "K_FETCH": 37569,
+          "K_READ_C6": 37395,
+          "K_READ_C2": 37391,
+          "TW_SEPARATOR_NEXT": 34069,
+          "TW_BACKTRACK_READY": 33928,
+          "TW_SCAN_NONZERO": 33871,
+          "TW_SCAN_SITE": 33852,
+          "SEPARATOR_NEXT": 30776,
+          "BACKTRACK_READY": 30719,
+          "CHAR_HEADER": 30545,
+          "CHAR_INDEX": 30517,
+          "DRAW_GLYPH": 30460,
+          "CENTER_ZERO": 30840,
+          "CENTER_SITE": 30821,
+          "SCAN_NONZERO": 30662,
+          "SCAN_SITE": 30643,
+          "CPU_65CE02": 8226,
+          "CPU_W65C02": 4146,
+          "CPU_45GS02": 11298,
+          "CPU_4510": 9250,
+          "CPU_M740": 514,
+          "CPU_HUC6280": 306,
+          "CPU_SWEET16": 128,
+          "CPU_65816": 82,
+          "CPU_65C02": 50,
+          "CPU_65SC02": 18,
+          "CPU_6502DTV": 10,
+          "CPU_6502X": 6,
+          "CPU_6502": 2,
+          "CPU_NONE": 1,
+          "CPU_ISET_65CE02": 8192,
+          "CPU_ISET_W65C02": 4096,
+          "CPU_ISET_45GS02": 2048,
+          "CPU_ISET_4510": 1024,
+          "CPU_ISET_M740": 512,
+          "CPU_ISET_HUC6280": 256,
+          "CPU_ISET_SWEET16": 128,
+          "CPU_ISET_65816": 64,
+          "CPU_ISET_65C02": 32,
+          "CPU_ISET_65SC02": 16,
+          "CPU_ISET_6502DTV": 8,
+          "CPU_ISET_6502X": 4,
+          "CPU_ISET_6502": 2,
+          "CPU_ISET_NONE": 1
+        },
+        "patches": [
+          {
+            "address": 30643,
+            "bytes": 4,
+            "original_hex": "a1c6d00f",
+            "patched_hex": "4ce08eea",
+            "purpose": "multibyte line measurement"
+          },
+          {
+            "address": 30821,
+            "bytes": 4,
+            "original_hex": "a1c2f00f",
+            "patched_hex": "4ceb8eea",
+            "purpose": "multibyte centered measurement"
+          },
+          {
+            "address": 30727,
+            "bytes": 5,
+            "original_hex": "a1c220fc76",
+            "patched_hex": "20f68eeaea",
+            "purpose": "multibyte glyph drawing"
+          },
+          {
+            "address": 30514,
+            "bytes": 3,
+            "original_hex": "38e920",
+            "patched_hex": "4cfc8e",
+            "purpose": "shared font cache; preserve direct glyph-index ABI"
+          },
+          {
+            "address": 30702,
+            "bytes": 6,
+            "original_hex": "a1c6c920f00b",
+            "patched_hex": "4c1f8feaeaea",
+            "purpose": "bounded word backtracking"
+          },
+          {
+            "address": 30770,
+            "bytes": 4,
+            "original_hex": "e6c6d002",
+            "patched_hex": "4c4e8fea",
+            "purpose": "retain glyph after hard line break"
+          },
+          {
+            "address": 33852,
+            "bytes": 4,
+            "original_hex": "a1c6d00f",
+            "patched_hex": "4c648fea",
+            "purpose": "multibyte typewriter measurement"
+          },
+          {
+            "address": 33941,
+            "bytes": 5,
+            "original_hex": "a1c220fc76",
+            "patched_hex": "20f68eeaea",
+            "purpose": "multibyte typewriter drawing"
+          },
+          {
+            "address": 33911,
+            "bytes": 6,
+            "original_hex": "a1c6c920f00b",
+            "patched_hex": "4c6f8feaeaea",
+            "purpose": "bounded typewriter backtracking"
+          },
+          {
+            "address": 34063,
+            "bytes": 4,
+            "original_hex": "e6c6d002",
+            "patched_hex": "4c9e8fea",
+            "purpose": "retain glyph after typewriter hard break"
+          }
+        ]
+      },
+      "R": {
+        "path": "build/korean/renderers/R/R.bin",
+        "bytes": 5224,
+        "extension_bytes": 130,
+        "limit_exclusive": 30720,
+        "sha256": "ec2f5bbbb8b6c6e7cc68194676d4a877b93ae59e1a42538774777cbf2806d050",
+        "original_sha256": "7519dc80037293ffb3b6b0f0777a73617bdd7965d54112a87905eb5b29d52229",
+        "hooks": {
+          "HOOK_INCREMENT_SEPARATOR": 29791,
+          "HOOK_SEPARATOR": 29778,
+          "HOOK_RUN_READY": 29775,
+          "HOOK_HARD_BREAK": 29760,
+          "HOOK_CHECK_SPACE": 29743,
+          "HOOK_BACKTRACK": 29731,
+          "HOOK_ASCII": 29719,
+          "HOOK_CHAR": 29698,
+          "HOOK_DRAW": 29692,
+          "HOOK_CENTER": 29681,
+          "HOOK_SCAN": 29670,
+          "MODE_N": 0,
+          "K_HARD_BREAK": 37816,
+          "K_SCAN_FIRST_HI": 37815,
+          "K_SCAN_FIRST_LO": 37814,
+          "K_PENDING": 37810,
+          "K_FETCH": 37569,
+          "K_READ_C6": 37395,
+          "K_READ_C2": 37391,
+          "SEPARATOR_NEXT": 25936,
+          "BACKTRACK_READY": 25879,
+          "CHAR_HEADER": 25740,
+          "CHAR_INDEX": 25710,
+          "DRAW_GLYPH": 25618,
+          "CENTER_ZERO": 26010,
+          "CENTER_SITE": 25989,
+          "SCAN_NONZERO": 25820,
+          "SCAN_SITE": 25801,
+          "CPU_65CE02": 8226,
+          "CPU_W65C02": 4146,
+          "CPU_45GS02": 11298,
+          "CPU_4510": 9250,
+          "CPU_M740": 514,
+          "CPU_HUC6280": 306,
+          "CPU_SWEET16": 128,
+          "CPU_65816": 82,
+          "CPU_65C02": 50,
+          "CPU_65SC02": 18,
+          "CPU_6502DTV": 10,
+          "CPU_6502X": 6,
+          "CPU_6502": 2,
+          "CPU_NONE": 1,
+          "CPU_ISET_65CE02": 8192,
+          "CPU_ISET_W65C02": 4096,
+          "CPU_ISET_45GS02": 2048,
+          "CPU_ISET_4510": 1024,
+          "CPU_ISET_M740": 512,
+          "CPU_ISET_HUC6280": 256,
+          "CPU_ISET_SWEET16": 128,
+          "CPU_ISET_65816": 64,
+          "CPU_ISET_65C02": 32,
+          "CPU_ISET_65SC02": 16,
+          "CPU_ISET_6502DTV": 8,
+          "CPU_ISET_6502X": 4,
+          "CPU_ISET_6502": 2,
+          "CPU_ISET_NONE": 1
+        },
+        "patches": [
+          {
+            "address": 25801,
+            "bytes": 4,
+            "original_hex": "a1c6d00f",
+            "patched_hex": "4ce673ea",
+            "purpose": "multibyte line measurement"
+          },
+          {
+            "address": 25989,
+            "bytes": 4,
+            "original_hex": "a1c2f011",
+            "patched_hex": "4cf173ea",
+            "purpose": "multibyte centered measurement"
+          },
+          {
+            "address": 25887,
+            "bytes": 5,
+            "original_hex": "a1c2201264",
+            "patched_hex": "20fc73eaea",
+            "purpose": "multibyte glyph drawing"
+          },
+          {
+            "address": 25707,
+            "bytes": 3,
+            "original_hex": "38e920",
+            "patched_hex": "4c0274",
+            "purpose": "shared font cache; preserve direct glyph-index ABI"
+          },
+          {
+            "address": 25862,
+            "bytes": 6,
+            "original_hex": "a1c6c920f00b",
+            "patched_hex": "4c2374eaeaea",
+            "purpose": "bounded word backtracking"
+          },
+          {
+            "address": 25930,
+            "bytes": 4,
+            "original_hex": "e6c6d002",
+            "patched_hex": "4c5274ea",
+            "purpose": "retain glyph after hard line break"
+          }
+        ]
+      }
+    },
+    "status": "RAM fixtures only; native renderer tests and synthetic game integration pending"
+  },
+  "fixture": {
+    "format": 1,
+    "probes": {
+      "N": {
+        "address": 36800,
+        "bytes": 131,
+        "sha256": "aa09c099bf2361e212a1cc7c062b9077fc00b9f122d6ecf2b6ecf9cc9a42702f",
+        "symbols": {
+          "PROBE_DONE": 36923,
+          "PROBE_BODY_PTR": 36929,
+          "PROBE_BODY_ROW": 36928,
+          "PROBE_BODY_BIT": 36927,
+          "PROBE_BODY_COLUMN": 36926,
+          "PROBE_CLEAR": 36819,
+          "PROBE_RENDER": 36806,
+          "PROBE_INITIALIZED": 36803,
+          "PROBE_ENTRY": 36800,
+          "CENTER_LOOP": 30821,
+          "DRAW_STRING": 30605,
+          "TYPEWRITER": 0,
+          "K_INIT": 37688,
+          "CPU_65CE02": 8226,
+          "CPU_W65C02": 4146,
+          "CPU_45GS02": 11298,
+          "CPU_4510": 9250,
+          "CPU_M740": 514,
+          "CPU_HUC6280": 306,
+          "CPU_SWEET16": 128,
+          "CPU_65816": 82,
+          "CPU_65C02": 50,
+          "CPU_65SC02": 18,
+          "CPU_6502DTV": 10,
+          "CPU_6502X": 6,
+          "CPU_6502": 2,
+          "CPU_NONE": 1,
+          "CPU_ISET_65CE02": 8192,
+          "CPU_ISET_W65C02": 4096,
+          "CPU_ISET_45GS02": 2048,
+          "CPU_ISET_4510": 1024,
+          "CPU_ISET_M740": 512,
+          "CPU_ISET_HUC6280": 256,
+          "CPU_ISET_SWEET16": 128,
+          "CPU_ISET_65816": 64,
+          "CPU_ISET_65C02": 32,
+          "CPU_ISET_65SC02": 16,
+          "CPU_ISET_6502DTV": 8,
+          "CPU_ISET_6502X": 4,
+          "CPU_ISET_6502": 2,
+          "CPU_ISET_NONE": 1
+        }
+      },
+      "R": {
+        "address": 36800,
+        "bytes": 131,
+        "sha256": "9150feea65b609b9be57eba59aaced198c6da2c5d68ff5264ae19d44440a2998",
+        "symbols": {
+          "PROBE_DONE": 36923,
+          "PROBE_BODY_PTR": 36929,
+          "PROBE_BODY_ROW": 36928,
+          "PROBE_BODY_BIT": 36927,
+          "PROBE_BODY_COLUMN": 36926,
+          "PROBE_CLEAR": 36819,
+          "PROBE_RENDER": 36806,
+          "PROBE_INITIALIZED": 36803,
+          "PROBE_ENTRY": 36800,
+          "CENTER_LOOP": 25989,
+          "DRAW_STRING": 25763,
+          "TYPEWRITER": 0,
+          "K_INIT": 37688,
+          "CPU_65CE02": 8226,
+          "CPU_W65C02": 4146,
+          "CPU_45GS02": 11298,
+          "CPU_4510": 9250,
+          "CPU_M740": 514,
+          "CPU_HUC6280": 306,
+          "CPU_SWEET16": 128,
+          "CPU_65816": 82,
+          "CPU_65C02": 50,
+          "CPU_65SC02": 18,
+          "CPU_6502DTV": 10,
+          "CPU_6502X": 6,
+          "CPU_6502": 2,
+          "CPU_NONE": 1,
+          "CPU_ISET_65CE02": 8192,
+          "CPU_ISET_W65C02": 4096,
+          "CPU_ISET_45GS02": 2048,
+          "CPU_ISET_4510": 1024,
+          "CPU_ISET_M740": 512,
+          "CPU_ISET_HUC6280": 256,
+          "CPU_ISET_SWEET16": 128,
+          "CPU_ISET_65816": 64,
+          "CPU_ISET_65C02": 32,
+          "CPU_ISET_65SC02": 16,
+          "CPU_ISET_6502DTV": 8,
+          "CPU_ISET_6502X": 4,
+          "CPU_ISET_6502": 2,
+          "CPU_ISET_NONE": 1
+        }
+      },
+      "TW": {
+        "address": 36800,
+        "bytes": 106,
+        "sha256": "e4f5bbc66e7bb1ae60704d49319aa0e2d36edc37736acdede886d2f7a3deeac3",
+        "symbols": {
+          "PROBE_DONE": 36898,
+          "PROBE_BODY_PTR": 36904,
+          "PROBE_BODY_ROW": 36903,
+          "PROBE_BODY_BIT": 36902,
+          "PROBE_BODY_COLUMN": 36901,
+          "PROBE_CLEAR": 36819,
+          "PROBE_RENDER": 36806,
+          "PROBE_INITIALIZED": 36803,
+          "PROBE_ENTRY": 36800,
+          "CENTER_LOOP": 30821,
+          "DRAW_STRING": 33826,
+          "TYPEWRITER": 1,
+          "K_INIT": 37688,
+          "CPU_65CE02": 8226,
+          "CPU_W65C02": 4146,
+          "CPU_45GS02": 11298,
+          "CPU_4510": 9250,
+          "CPU_M740": 514,
+          "CPU_HUC6280": 306,
+          "CPU_SWEET16": 128,
+          "CPU_65816": 82,
+          "CPU_65C02": 50,
+          "CPU_65SC02": 18,
+          "CPU_6502DTV": 10,
+          "CPU_6502X": 6,
+          "CPU_6502": 2,
+          "CPU_NONE": 1,
+          "CPU_ISET_65CE02": 8192,
+          "CPU_ISET_W65C02": 4096,
+          "CPU_ISET_45GS02": 2048,
+          "CPU_ISET_4510": 1024,
+          "CPU_ISET_M740": 512,
+          "CPU_ISET_HUC6280": 256,
+          "CPU_ISET_SWEET16": 128,
+          "CPU_ISET_65816": 64,
+          "CPU_ISET_65C02": 32,
+          "CPU_ISET_65SC02": 16,
+          "CPU_ISET_6502DTV": 8,
+          "CPU_ISET_6502X": 4,
+          "CPU_ISET_6502": 2,
+          "CPU_ISET_NONE": 1
+        }
+      }
+    },
+    "body": "MB 가 널 넓 대 더 명 몇 즐 즘 힐 ABC 123<CTRL:8D>WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW<CTRL:8D>가널넓대더명몇즐즘힐가널넓대더명몇즐즘힐가널넓대더명몇즐즘힐가널넓대더명<CTRL:8D>End <CTRL:80><CTRL:81><CTRL:82> 힐",
+    "centered": "가명즘힐 123",
+    "glyph_ids": [
+      0,
+      89,
+      90,
+      127,
+      128,
+      255,
+      256,
+      511,
+      512,
+      709
+    ],
+    "layout": {
+      "lines": [
+        "MB 가 널 넓 대 더 명 몇 즐 즘 힐 ABC 123",
+        "WWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+        "WWWWWWWWWWWW",
+        "가널넓대더명몇즐즘힐가널넓대더명몇즐즘힐가널넓대더명몇즐즘힐가널",
+        "넓대더명",
+        "End <CTRL:80><CTRL:81><CTRL:82> 힐"
+      ],
+      "line_count": 6,
+      "hard_breaks": [
+        59,
+        104
+      ]
+    },
+    "body_end_x": 142,
+    "body_end_row": 58,
+    "body_terminator": 41377,
+    "center_width": 60,
+    "center_left": 110,
+    "typewriter_layout": {
+      "lines": [
+        "MB 가 널 넓 대 더",
+        "명 몇 즐 즘 힐 ABC",
+        "123",
+        "WWWWWWWWWWW",
+        "WWWWWWWWWWW",
+        "WWWWWWWWWWW",
+        "WWWWWWW",
+        "가널넓대더명몇즐즘힐가널",
+        "넓대더명몇즐즘힐가널넓대",
+        "더명몇즐즘힐가널넓대더명",
+        "End",
+        "<CTRL:81><CTRL:82> 힐"
+      ],
+      "line_count": 12,
+      "hard_breaks": [
+        42,
+        53,
+        64,
+        84,
+        96
+      ]
+    },
+    "typewriter_trace": [
+      {
+        "kind": "native",
+        "code": 77
+      },
+      {
+        "kind": "native",
+        "code": 66
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 0
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 89
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 90
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 127
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 128
+      },
+      {
+        "kind": "glyph",
+        "id": 255
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 256
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 511
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 512
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 709
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "native",
+        "code": 65
+      },
+      {
+        "kind": "native",
+        "code": 66
+      },
+      {
+        "kind": "native",
+        "code": 67
+      },
+      {
+        "kind": "native",
+        "code": 49
+      },
+      {
+        "kind": "native",
+        "code": 50
+      },
+      {
+        "kind": "native",
+        "code": 51
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "native",
+        "code": 87
+      },
+      {
+        "kind": "glyph",
+        "id": 0
+      },
+      {
+        "kind": "glyph",
+        "id": 89
+      },
+      {
+        "kind": "glyph",
+        "id": 90
+      },
+      {
+        "kind": "glyph",
+        "id": 127
+      },
+      {
+        "kind": "glyph",
+        "id": 128
+      },
+      {
+        "kind": "glyph",
+        "id": 255
+      },
+      {
+        "kind": "glyph",
+        "id": 256
+      },
+      {
+        "kind": "glyph",
+        "id": 511
+      },
+      {
+        "kind": "glyph",
+        "id": 512
+      },
+      {
+        "kind": "glyph",
+        "id": 709
+      },
+      {
+        "kind": "glyph",
+        "id": 0
+      },
+      {
+        "kind": "glyph",
+        "id": 89
+      },
+      {
+        "kind": "glyph",
+        "id": 90
+      },
+      {
+        "kind": "glyph",
+        "id": 127
+      },
+      {
+        "kind": "glyph",
+        "id": 128
+      },
+      {
+        "kind": "glyph",
+        "id": 255
+      },
+      {
+        "kind": "glyph",
+        "id": 256
+      },
+      {
+        "kind": "glyph",
+        "id": 511
+      },
+      {
+        "kind": "glyph",
+        "id": 512
+      },
+      {
+        "kind": "glyph",
+        "id": 709
+      },
+      {
+        "kind": "glyph",
+        "id": 0
+      },
+      {
+        "kind": "glyph",
+        "id": 89
+      },
+      {
+        "kind": "glyph",
+        "id": 90
+      },
+      {
+        "kind": "glyph",
+        "id": 127
+      },
+      {
+        "kind": "glyph",
+        "id": 128
+      },
+      {
+        "kind": "glyph",
+        "id": 255
+      },
+      {
+        "kind": "glyph",
+        "id": 256
+      },
+      {
+        "kind": "glyph",
+        "id": 511
+      },
+      {
+        "kind": "glyph",
+        "id": 512
+      },
+      {
+        "kind": "glyph",
+        "id": 709
+      },
+      {
+        "kind": "glyph",
+        "id": 0
+      },
+      {
+        "kind": "glyph",
+        "id": 89
+      },
+      {
+        "kind": "glyph",
+        "id": 90
+      },
+      {
+        "kind": "glyph",
+        "id": 127
+      },
+      {
+        "kind": "glyph",
+        "id": 128
+      },
+      {
+        "kind": "glyph",
+        "id": 255
+      },
+      {
+        "kind": "native",
+        "code": 69
+      },
+      {
+        "kind": "native",
+        "code": 110
+      },
+      {
+        "kind": "native",
+        "code": 100
+      },
+      {
+        "kind": "native",
+        "code": 129
+      },
+      {
+        "kind": "native",
+        "code": 130
+      },
+      {
+        "kind": "native",
+        "code": 32
+      },
+      {
+        "kind": "glyph",
+        "id": 709
+      }
+    ],
+    "expected_hgr_sha256": "756f2e40097128cd8ea1053a5af2e5b07868e302e615f3b51e0749726ffd0c26",
+    "status": "synthetic RAM-only fixture; actual N/R output must match independent glyph-pixel reference"
+  },
+  "probes": [
+    {
+      "reference_pixels_match": true,
+      "decoder_error": 0,
+      "body_pointer": 41377,
+      "original_c_restored": true,
+      "saved_cpu": {
+        "P": 54,
+        "Y": 0,
+        "PC": 24604,
+        "GENPC": 24604,
+        "CURPC": 24604,
+        "X": 0,
+        "A": 255,
+        "SP": 511,
+        "IR": 32,
+        "CURFLAGS": 54
+      },
+      "cpu_restored": {
+        "P": 54,
+        "Y": 0,
+        "PC": 24604,
+        "GENPC": 24604,
+        "CURPC": 24604,
+        "X": 0,
+        "A": 255,
+        "SP": 511,
+        "IR": 32,
+        "CURFLAGS": 54
+      },
+      "hard_break_flag": 0,
+      "module": "R",
+      "cpu": {
+        "P": 55,
+        "Y": 24,
+        "PC": 36923,
+        "GENPC": 36923,
+        "CURPC": 36923,
+        "X": 0,
+        "A": 0,
+        "SP": 511,
+        "IR": 76,
+        "CURFLAGS": 55
+      },
+      "body_cursor": {
+        "bit": 2,
+        "row": 58,
+        "column": 20
+      }
+    },
+    {
+      "reference_pixels_match": true,
+      "decoder_error": 0,
+      "body_pointer": 41377,
+      "original_c_restored": true,
+      "saved_cpu": {
+        "P": 54,
+        "Y": 0,
+        "PC": 24604,
+        "GENPC": 24604,
+        "CURPC": 24604,
+        "X": 0,
+        "A": 255,
+        "SP": 511,
+        "IR": 32,
+        "CURFLAGS": 54
+      },
+      "cpu_restored": {
+        "P": 54,
+        "Y": 0,
+        "PC": 24604,
+        "GENPC": 24604,
+        "CURPC": 24604,
+        "X": 0,
+        "A": 255,
+        "SP": 511,
+        "IR": 32,
+        "CURFLAGS": 54
+      },
+      "hard_break_flag": 0,
+      "module": "N",
+      "cpu": {
+        "P": 55,
+        "Y": 24,
+        "PC": 36923,
+        "GENPC": 36923,
+        "CURPC": 36923,
+        "X": 0,
+        "A": 0,
+        "SP": 511,
+        "IR": 76,
+        "CURFLAGS": 55
+      },
+      "body_cursor": {
+        "bit": 2,
+        "row": 58,
+        "column": 20
+      }
+    },
+    {
+      "decoder_error": 0,
+      "body_pointer": 41377,
+      "original_c_restored": true,
+      "saved_cpu": {
+        "P": 54,
+        "Y": 0,
+        "PC": 24604,
+        "GENPC": 24604,
+        "CURPC": 24604,
+        "X": 0,
+        "A": 255,
+        "SP": 511,
+        "IR": 32,
+        "CURFLAGS": 54
+      },
+      "glyph_trace": [
+        {
+          "kind": "native",
+          "code": 77
+        },
+        {
+          "kind": "native",
+          "code": 66
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 0
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 89
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 90
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 127
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 128
+        },
+        {
+          "kind": "glyph",
+          "id": 255
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 256
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 511
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 512
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 709
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "native",
+          "code": 65
+        },
+        {
+          "kind": "native",
+          "code": 66
+        },
+        {
+          "kind": "native",
+          "code": 67
+        },
+        {
+          "kind": "native",
+          "code": 49
+        },
+        {
+          "kind": "native",
+          "code": 50
+        },
+        {
+          "kind": "native",
+          "code": 51
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "native",
+          "code": 87
+        },
+        {
+          "kind": "glyph",
+          "id": 0
+        },
+        {
+          "kind": "glyph",
+          "id": 89
+        },
+        {
+          "kind": "glyph",
+          "id": 90
+        },
+        {
+          "kind": "glyph",
+          "id": 127
+        },
+        {
+          "kind": "glyph",
+          "id": 128
+        },
+        {
+          "kind": "glyph",
+          "id": 255
+        },
+        {
+          "kind": "glyph",
+          "id": 256
+        },
+        {
+          "kind": "glyph",
+          "id": 511
+        },
+        {
+          "kind": "glyph",
+          "id": 512
+        },
+        {
+          "kind": "glyph",
+          "id": 709
+        },
+        {
+          "kind": "glyph",
+          "id": 0
+        },
+        {
+          "kind": "glyph",
+          "id": 89
+        },
+        {
+          "kind": "glyph",
+          "id": 90
+        },
+        {
+          "kind": "glyph",
+          "id": 127
+        },
+        {
+          "kind": "glyph",
+          "id": 128
+        },
+        {
+          "kind": "glyph",
+          "id": 255
+        },
+        {
+          "kind": "glyph",
+          "id": 256
+        },
+        {
+          "kind": "glyph",
+          "id": 511
+        },
+        {
+          "kind": "glyph",
+          "id": 512
+        },
+        {
+          "kind": "glyph",
+          "id": 709
+        },
+        {
+          "kind": "glyph",
+          "id": 0
+        },
+        {
+          "kind": "glyph",
+          "id": 89
+        },
+        {
+          "kind": "glyph",
+          "id": 90
+        },
+        {
+          "kind": "glyph",
+          "id": 127
+        },
+        {
+          "kind": "glyph",
+          "id": 128
+        },
+        {
+          "kind": "glyph",
+          "id": 255
+        },
+        {
+          "kind": "glyph",
+          "id": 256
+        },
+        {
+          "kind": "glyph",
+          "id": 511
+        },
+        {
+          "kind": "glyph",
+          "id": 512
+        },
+        {
+          "kind": "glyph",
+          "id": 709
+        },
+        {
+          "kind": "glyph",
+          "id": 0
+        },
+        {
+          "kind": "glyph",
+          "id": 89
+        },
+        {
+          "kind": "glyph",
+          "id": 90
+        },
+        {
+          "kind": "glyph",
+          "id": 127
+        },
+        {
+          "kind": "glyph",
+          "id": 128
+        },
+        {
+          "kind": "glyph",
+          "id": 255
+        },
+        {
+          "kind": "native",
+          "code": 69
+        },
+        {
+          "kind": "native",
+          "code": 110
+        },
+        {
+          "kind": "native",
+          "code": 100
+        },
+        {
+          "kind": "native",
+          "code": 129
+        },
+        {
+          "kind": "native",
+          "code": 130
+        },
+        {
+          "kind": "native",
+          "code": 32
+        },
+        {
+          "kind": "glyph",
+          "id": 709
+        }
+      ],
+      "cpu_restored": {
+        "P": 54,
+        "Y": 0,
+        "PC": 24604,
+        "GENPC": 24604,
+        "CURPC": 24604,
+        "X": 0,
+        "A": 255,
+        "SP": 511,
+        "IR": 32,
+        "CURFLAGS": 54
+      },
+      "hard_break_flag": 0,
+      "module": "TW",
+      "cpu": {
+        "P": 180,
+        "Y": 5,
+        "PC": 36898,
+        "GENPC": 36898,
+        "CURPC": 36898,
+        "X": 0,
+        "A": 161,
+        "SP": 511,
+        "IR": 76,
+        "CURFLAGS": 180
+      },
+      "body_cursor": {
+        "bit": 3,
+        "row": 153,
+        "column": 3
+      }
+    }
+  ],
+  "artifacts": {
+    "renderer-N.hgr": "756f2e40097128cd8ea1053a5af2e5b07868e302e615f3b51e0749726ffd0c26",
+    "renderer-N.json": "308f03cf945e4af1913a5cc2def0a5ef91f01fe496d90610cd299220018a9c72",
+    "renderer-N.png": "44c9ae5aab6cc31e8ef6609602adbe2f4fecf7105a87cec274e3bb02debdd063",
+    "renderer-R.hgr": "756f2e40097128cd8ea1053a5af2e5b07868e302e615f3b51e0749726ffd0c26",
+    "renderer-R.json": "34d2970264bc1f14c33f710622a0b689cee86efe52d64f7d171121a4a3226520",
+    "renderer-R.png": "44c9ae5aab6cc31e8ef6609602adbe2f4fecf7105a87cec274e3bb02debdd063",
+    "renderer-TW-page2.hgr": "e4352cfa6ab6eea5280db810630333f508908639c2761fdae6e67ec397d89f42",
+    "renderer-TW.hgr": "f62e13173835a505cc336ba25a037383759d677692bb50985bd609613bb7a062",
+    "renderer-TW.json": "085201b053e42f7f3c1e8c008f9ad7afc56baf25bc64c2c8a9cbc18958fe19a8",
+    "renderer-TW.png": "80106d247347e014d43153ab8f9f5dc786cb1ed609f1c5fa5ac0c650dab0c0da"
+  },
+  "checks": [
+    "N and R mixed-script raster matches independent pixel reference byte-for-byte",
+    "Native controls 80/81/82, forced 8D break, centered width and NUL termination",
+    "Lead at A0FF and trail at A100; IDs above 255 and bank split above 511",
+    "Unspaced ASCII and Hangul words wrap at a complete glyph boundary",
+    "Typewriter drawing-call data trace matches every expected glyph; measurement calls excluded by stack return address",
+    "Typewriter retains native leading-80 marker and indentation semantics",
+    "CPU, C data, banks, both borrowed HGR pages restored; disk unchanged"
+  ],
+  "scope": "Synthetic RAM probes of text measurement/drawing; full synthetic game/bitmap integration remains required"
+}

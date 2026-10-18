@@ -1,0 +1,32 @@
+{
+  "format": 1,
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "original_inputs": {
+    "manifest_sha256": "ceff8224d042e93979e52d986fb31097c9ff3f3e5e60a16f714907b8a5c6116b",
+    "images": {
+      "disk1": {
+        "path": "carmen-world-disk1.dsk",
+        "sha256": "d322484a14f53ab9ed0bc8e3ac2b046250d775dd52eb956dbac578e13912afd2",
+        "verified_extracted_files": 21
+      },
+      "disk2": {
+        "path": "carmen-world-disk2.dsk",
+        "sha256": "caf57f337eeb72860aa51e993b9ea99d9bd2b76a2bb8f49c4cf36d462a71800e",
+        "verified_extracted_files": 2
+      },
+      "po": {
+        "path": "carmen-world.po",
+        "sha256": "d9557dfed56f35de21350b3bbcddcd38af99a1629ffc80a578fef797dda9a091",
+        "verified_extracted_files": 25
+      }
+    }
+  },
+  "strings_roundtripped": 1287,
+  "non_ascii_glyphs": 710,
+  "hangul_syllables": 710,
+  "font_bytes": 5680,
+  "font_sha256": "6ebc033129da27c6df4c6d60a8b417d837c7bf69b5610d8ab1804b814ff7ac54",
+  "synthetic": "bijective rotation of non-ASCII glyphs; same charset, metrics, encoded lengths and controls",
+  "directory": "build/korean/draft-fixtures",
+  "status": "compiler fixtures only; native evidence and remaining integration gates recorded separately under docs/korean/runtime"
+}

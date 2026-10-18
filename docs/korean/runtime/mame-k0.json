@@ -1,0 +1,1104 @@
+{
+  "format": 1,
+  "original_inputs": {
+    "manifest_sha256": "ceff8224d042e93979e52d986fb31097c9ff3f3e5e60a16f714907b8a5c6116b",
+    "images": {
+      "disk1": {
+        "path": "carmen-world-disk1.dsk",
+        "sha256": "d322484a14f53ab9ed0bc8e3ac2b046250d775dd52eb956dbac578e13912afd2",
+        "verified_extracted_files": 21
+      },
+      "disk2": {
+        "path": "carmen-world-disk2.dsk",
+        "sha256": "caf57f337eeb72860aa51e993b9ea99d9bd2b76a2bb8f49c4cf36d462a71800e",
+        "verified_extracted_files": 2
+      },
+      "po": {
+        "path": "carmen-world.po",
+        "sha256": "d9557dfed56f35de21350b3bbcddcd38af99a1629ffc80a578fef797dda9a091",
+        "verified_extracted_files": 25
+      }
+    }
+  },
+  "configuration": {
+    "command": [
+      "/usr/games/mame",
+      "apple2e",
+      "-noreadconfig",
+      "-rompath",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-k0-03/roms;/home/iolo/workspace/retro/a2x/mame/roms",
+      "-aux",
+      "ext80",
+      "-ramsize",
+      "64K",
+      "-sl7",
+      "cffa202",
+      "-hard1",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-k0-03/carmen-world.hdv",
+      "-console",
+      "-pluginspath",
+      "/usr/share/games/mame/plugins",
+      "-skip_gameinfo",
+      "-window",
+      "-nomouse",
+      "-nothrottle",
+      "-homepath",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-k0-03",
+      "-video",
+      "none",
+      "-sound",
+      "none",
+      "-debug",
+      "-debugger",
+      "qt",
+      "-cfg_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-k0-03/cfg_directory",
+      "-nvram_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-k0-03/nvram_directory",
+      "-snapshot_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-k0-03/snapshot_directory",
+      "-state_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-k0-03/state_directory",
+      "-diff_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-k0-03/diff_directory"
+    ],
+    "machine": "apple2e",
+    "main_kib": 64,
+    "auxiliary_kib": 64,
+    "aux_card": "ext80",
+    "controller": "cffa202",
+    "image_source": "build/korean/mame-k0-01/carmen-world.hdv",
+    "image_sha256": "b2348f95038149a9c7bad4802b65948a7da7bd27bf87df6954a7942e95076665",
+    "cffa_sha256": "3d7f6918f9af3828f5a6299299a817df0d354ee62e547bc0238755de66162a88",
+    "note": "Disposable media; saves must not touch original images or English build output"
+  },
+  "baseline": {
+    "first_city_index": 6,
+    "traveled_city_index": 8,
+    "investigation_count_before": 0,
+    "investigation_count_after": 1
+  },
+  "stages": {
+    "intro-resident": {
+      "receipt": {
+        "last_key": 0,
+        "case_state": [
+          0,
+          255,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "source": "CPU-visible memory with mapping recorded",
+        "mapping": {
+          "RAMRD": false,
+          "LCBANK2": true,
+          "LCRAM": true,
+          "RAMWRT": false,
+          "STORE80": false,
+          "PAGE2": true,
+          "ALTZP": true,
+          "HIRES": true
+        },
+        "name": "intro-resident",
+        "ramrd_restored": true,
+        "status": {
+          "version": "0.285",
+          "debugger": "stop",
+          "time": 4.7878528087664,
+          "driver": "apple2e",
+          "paused": false
+        },
+        "dump_ranges": {
+          "aux": {
+            "last": 49151,
+            "first": 512
+          },
+          "active_lc": {
+            "last": 65535,
+            "first": 53248
+          },
+          "main": {
+            "last": 49151,
+            "first": 512
+          }
+        },
+        "cpu": {
+          "A": 255,
+          "P": 54,
+          "GENPC": 24604,
+          "IR": 32,
+          "Y": 0,
+          "X": 0,
+          "CURPC": 24604,
+          "CURFLAGS": 54,
+          "PC": 24604,
+          "SP": 511
+        },
+        "menu_state": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "observed_modules": [
+        {
+          "file": "C",
+          "bank": "active-lc",
+          "address": 53760,
+          "bytes": 10105,
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "equals_original": true
+        },
+        {
+          "file": "C",
+          "bank": "aux",
+          "address": 8192,
+          "bytes": 10105,
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "equals_original": true
+        },
+        {
+          "file": "D",
+          "bank": "main",
+          "address": 47360,
+          "bytes": 1475,
+          "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762",
+          "equals_original": true
+        },
+        {
+          "file": "E",
+          "bank": "main",
+          "address": 45568,
+          "bytes": 1792,
+          "sha256": "2ead67e72e3109f60036c59931119a0dbe715155f80655e8ab35e16a77c6cd62",
+          "equals_original": true
+        },
+        {
+          "file": "I",
+          "bank": "aux",
+          "address": 24576,
+          "bytes": 2167,
+          "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd",
+          "equals_original": true
+        },
+        {
+          "file": "K",
+          "bank": "aux",
+          "address": 20480,
+          "bytes": 1275,
+          "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a",
+          "equals_original": true
+        },
+        {
+          "file": "J",
+          "bank": "aux",
+          "address": 28672,
+          "bytes": 2048,
+          "sha256": "774fb15630eeee2525f7dc530083e9b7b6d4a7695b7e57acfa4a7405fbdbc2b6",
+          "equals_original": true
+        },
+        {
+          "file": "P",
+          "bank": "aux",
+          "address": 32768,
+          "bytes": 1060,
+          "sha256": "2bc9b66538d34e2294a8e9cc083b1f6560640337c2cdad73ef6a5e5411c3eecc",
+          "equals_original": true
+        },
+        {
+          "file": "T",
+          "bank": "aux",
+          "address": 34048,
+          "bytes": 3750,
+          "sha256": "fdde2f5c24e12c6293e0e62085c5433813f5783db802834002128c3fbd8d363e",
+          "equals_original": true
+        },
+        {
+          "file": "U",
+          "bank": "aux",
+          "address": 37888,
+          "bytes": 3379,
+          "sha256": "7acb695a017698b441060c41eb37e8101c29850549bf4f9648342e683eb760c0",
+          "equals_original": true
+        },
+        {
+          "file": "O",
+          "bank": "main",
+          "address": 42752,
+          "bytes": 2816,
+          "sha256": "d42f4225746b280acf347a5bcf75d3156bac4b1e9e3094c579ad8ccac0ace90e",
+          "equals_original": true
+        },
+        {
+          "file": "R",
+          "bank": "main",
+          "address": 24576,
+          "bytes": 5094,
+          "sha256": "7519dc80037293ffb3b6b0f0777a73617bdd7965d54112a87905eb5b29d52229",
+          "equals_original": true
+        },
+        {
+          "file": "S",
+          "bank": "main",
+          "address": 30720,
+          "bytes": 6592,
+          "sha256": "2d25d8b1b644fb9fbad012d49dae7000a06057ad724d65bb057803f2e5a5ccb4",
+          "equals_original": true
+        }
+      ]
+    },
+    "intro-after-probe": {
+      "receipt": {
+        "last_key": 0,
+        "case_state": [
+          0,
+          255,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "source": "CPU-visible memory with mapping recorded",
+        "mapping": {
+          "RAMRD": false,
+          "LCBANK2": true,
+          "LCRAM": true,
+          "RAMWRT": false,
+          "STORE80": false,
+          "PAGE2": false,
+          "ALTZP": true,
+          "HIRES": true
+        },
+        "name": "intro-after-probe",
+        "ramrd_restored": true,
+        "status": {
+          "version": "0.285",
+          "debugger": "stop",
+          "time": 926.61666764485,
+          "driver": "apple2e",
+          "paused": false
+        },
+        "dump_ranges": {
+          "aux": {
+            "last": 49151,
+            "first": 512
+          },
+          "active_lc": {
+            "last": 65535,
+            "first": 53248
+          },
+          "main": {
+            "last": 49151,
+            "first": 512
+          }
+        },
+        "cpu": {
+          "A": 255,
+          "P": 54,
+          "GENPC": 24604,
+          "IR": 32,
+          "Y": 0,
+          "X": 0,
+          "CURPC": 24604,
+          "CURFLAGS": 54,
+          "PC": 24604,
+          "SP": 511
+        },
+        "menu_state": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "observed_modules": [
+        {
+          "file": "C",
+          "bank": "active-lc",
+          "address": 53760,
+          "bytes": 10105,
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "equals_original": true
+        },
+        {
+          "file": "C",
+          "bank": "aux",
+          "address": 8192,
+          "bytes": 10105,
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "equals_original": true
+        },
+        {
+          "file": "D",
+          "bank": "main",
+          "address": 47360,
+          "bytes": 1475,
+          "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762",
+          "equals_original": true
+        },
+        {
+          "file": "E",
+          "bank": "main",
+          "address": 45568,
+          "bytes": 1792,
+          "sha256": "2ead67e72e3109f60036c59931119a0dbe715155f80655e8ab35e16a77c6cd62",
+          "equals_original": true
+        },
+        {
+          "file": "I",
+          "bank": "aux",
+          "address": 24576,
+          "bytes": 2167,
+          "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd",
+          "equals_original": true
+        },
+        {
+          "file": "K",
+          "bank": "aux",
+          "address": 20480,
+          "bytes": 1275,
+          "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a",
+          "equals_original": true
+        },
+        {
+          "file": "J",
+          "bank": "aux",
+          "address": 28672,
+          "bytes": 2048,
+          "sha256": "774fb15630eeee2525f7dc530083e9b7b6d4a7695b7e57acfa4a7405fbdbc2b6",
+          "equals_original": true
+        },
+        {
+          "file": "P",
+          "bank": "aux",
+          "address": 32768,
+          "bytes": 1060,
+          "sha256": "2bc9b66538d34e2294a8e9cc083b1f6560640337c2cdad73ef6a5e5411c3eecc",
+          "equals_original": true
+        },
+        {
+          "file": "T",
+          "bank": "aux",
+          "address": 34048,
+          "bytes": 3750,
+          "sha256": "fdde2f5c24e12c6293e0e62085c5433813f5783db802834002128c3fbd8d363e",
+          "equals_original": true
+        },
+        {
+          "file": "U",
+          "bank": "aux",
+          "address": 37888,
+          "bytes": 3379,
+          "sha256": "7acb695a017698b441060c41eb37e8101c29850549bf4f9648342e683eb760c0",
+          "equals_original": true
+        },
+        {
+          "file": "O",
+          "bank": "main",
+          "address": 42752,
+          "bytes": 2816,
+          "sha256": "d42f4225746b280acf347a5bcf75d3156bac4b1e9e3094c579ad8ccac0ace90e",
+          "equals_original": true
+        },
+        {
+          "file": "R",
+          "bank": "main",
+          "address": 24576,
+          "bytes": 5094,
+          "sha256": "7519dc80037293ffb3b6b0f0777a73617bdd7965d54112a87905eb5b29d52229",
+          "equals_original": true
+        },
+        {
+          "file": "S",
+          "bank": "main",
+          "address": 30720,
+          "bytes": 6592,
+          "sha256": "2d25d8b1b644fb9fbad012d49dae7000a06057ad724d65bb057803f2e5a5ccb4",
+          "equals_original": true
+        }
+      ]
+    },
+    "game-entry": {
+      "receipt": {
+        "last_key": 0,
+        "case_state": [
+          0,
+          255,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "source": "CPU-visible memory with mapping recorded",
+        "mapping": {
+          "RAMRD": false,
+          "LCBANK2": true,
+          "LCRAM": true,
+          "RAMWRT": false,
+          "STORE80": false,
+          "PAGE2": true,
+          "ALTZP": true,
+          "HIRES": true
+        },
+        "name": "game-entry",
+        "ramrd_restored": true,
+        "status": {
+          "version": "0.285",
+          "debugger": "stop",
+          "time": 927.87697396703,
+          "driver": "apple2e",
+          "paused": false
+        },
+        "dump_ranges": {
+          "aux": {
+            "last": 49151,
+            "first": 512
+          },
+          "active_lc": {
+            "last": 65535,
+            "first": 53248
+          },
+          "main": {
+            "last": 49151,
+            "first": 512
+          }
+        },
+        "cpu": {
+          "A": 76,
+          "P": 180,
+          "GENPC": 24576,
+          "IR": 162,
+          "Y": 12,
+          "X": 128,
+          "CURPC": 24576,
+          "CURFLAGS": 180,
+          "PC": 24576,
+          "SP": 507
+        },
+        "menu_state": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          31,
+          0,
+          135,
+          0
+        ]
+      },
+      "observed_modules": [
+        {
+          "file": "C",
+          "bank": "active-lc",
+          "address": 53760,
+          "bytes": 10105,
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "equals_original": true
+        },
+        {
+          "file": "C",
+          "bank": "aux",
+          "address": 8192,
+          "bytes": 10105,
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "equals_original": true
+        },
+        {
+          "file": "D",
+          "bank": "main",
+          "address": 47360,
+          "bytes": 1475,
+          "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762",
+          "equals_original": true
+        },
+        {
+          "file": "E",
+          "bank": "main",
+          "address": 45568,
+          "bytes": 1792,
+          "sha256": "2ead67e72e3109f60036c59931119a0dbe715155f80655e8ab35e16a77c6cd62",
+          "equals_original": true
+        },
+        {
+          "file": "I",
+          "bank": "aux",
+          "address": 24576,
+          "bytes": 2167,
+          "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd",
+          "equals_original": true
+        },
+        {
+          "file": "K",
+          "bank": "aux",
+          "address": 20480,
+          "bytes": 1275,
+          "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a",
+          "equals_original": true
+        },
+        {
+          "file": "J",
+          "bank": "aux",
+          "address": 28672,
+          "bytes": 2048,
+          "sha256": "774fb15630eeee2525f7dc530083e9b7b6d4a7695b7e57acfa4a7405fbdbc2b6",
+          "equals_original": true
+        },
+        {
+          "file": "P",
+          "bank": "aux",
+          "address": 32768,
+          "bytes": 1060,
+          "sha256": "2bc9b66538d34e2294a8e9cc083b1f6560640337c2cdad73ef6a5e5411c3eecc",
+          "equals_original": true
+        },
+        {
+          "file": "T",
+          "bank": "aux",
+          "address": 34048,
+          "bytes": 3750,
+          "sha256": "fdde2f5c24e12c6293e0e62085c5433813f5783db802834002128c3fbd8d363e",
+          "equals_original": true
+        },
+        {
+          "file": "U",
+          "bank": "aux",
+          "address": 37888,
+          "bytes": 3379,
+          "sha256": "7acb695a017698b441060c41eb37e8101c29850549bf4f9648342e683eb760c0",
+          "equals_original": true
+        },
+        {
+          "file": "O",
+          "bank": "main",
+          "address": 42752,
+          "bytes": 2816,
+          "sha256": "d42f4225746b280acf347a5bcf75d3156bac4b1e9e3094c579ad8ccac0ace90e",
+          "equals_original": true
+        },
+        {
+          "file": "N",
+          "bank": "main",
+          "address": 24576,
+          "bytes": 12000,
+          "sha256": "05b53463af7f031fe24716c6633e29a131e05abec541570b9a2b066d4ee5d0c1",
+          "equals_original": true
+        }
+      ]
+    },
+    "restored-city": {
+      "receipt": {
+        "last_key": 13,
+        "case_state": [
+          1,
+          0,
+          1,
+          6,
+          19,
+          23,
+          17,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          17,
+          8,
+          3,
+          9,
+          1,
+          12,
+          0,
+          255,
+          1,
+          20,
+          2,
+          255,
+          255,
+          255,
+          255,
+          255,
+          255
+        ],
+        "source": "CPU-visible memory with mapping recorded",
+        "mapping": {
+          "RAMRD": false,
+          "LCBANK2": true,
+          "LCRAM": true,
+          "RAMWRT": false,
+          "STORE80": false,
+          "PAGE2": false,
+          "ALTZP": true,
+          "HIRES": true
+        },
+        "name": "restored-city",
+        "ramrd_restored": true,
+        "status": {
+          "version": "0.285",
+          "debugger": "stop",
+          "time": 7556.7310471678,
+          "driver": "apple2e",
+          "paused": false
+        },
+        "dump_ranges": {
+          "aux": {
+            "last": 49151,
+            "first": 512
+          },
+          "active_lc": {
+            "last": 65535,
+            "first": 53248
+          },
+          "main": {
+            "last": 49151,
+            "first": 512
+          }
+        },
+        "cpu": {
+          "A": 128,
+          "P": 55,
+          "GENPC": 25587,
+          "IR": 44,
+          "Y": 0,
+          "X": 0,
+          "CURPC": 25587,
+          "CURFLAGS": 55,
+          "PC": 25587,
+          "SP": 509
+        },
+        "menu_state": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          3,
+          34,
+          3,
+          177,
+          78
+        ]
+      },
+      "observed_modules": [
+        {
+          "file": "C",
+          "bank": "active-lc",
+          "address": 53760,
+          "bytes": 10105,
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "equals_original": true
+        },
+        {
+          "file": "C",
+          "bank": "aux",
+          "address": 8192,
+          "bytes": 10105,
+          "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528",
+          "equals_original": true
+        },
+        {
+          "file": "D",
+          "bank": "main",
+          "address": 47360,
+          "bytes": 1475,
+          "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762",
+          "equals_original": true
+        },
+        {
+          "file": "E",
+          "bank": "main",
+          "address": 45568,
+          "bytes": 1792,
+          "sha256": "2ead67e72e3109f60036c59931119a0dbe715155f80655e8ab35e16a77c6cd62",
+          "equals_original": true
+        },
+        {
+          "file": "I",
+          "bank": "aux",
+          "address": 24576,
+          "bytes": 2167,
+          "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd",
+          "equals_original": true
+        },
+        {
+          "file": "K",
+          "bank": "aux",
+          "address": 20480,
+          "bytes": 1275,
+          "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a",
+          "equals_original": true
+        },
+        {
+          "file": "J",
+          "bank": "aux",
+          "address": 28672,
+          "bytes": 2048,
+          "sha256": "774fb15630eeee2525f7dc530083e9b7b6d4a7695b7e57acfa4a7405fbdbc2b6",
+          "equals_original": true
+        },
+        {
+          "file": "P",
+          "bank": "aux",
+          "address": 32768,
+          "bytes": 1060,
+          "sha256": "2bc9b66538d34e2294a8e9cc083b1f6560640337c2cdad73ef6a5e5411c3eecc",
+          "equals_original": true
+        },
+        {
+          "file": "T",
+          "bank": "aux",
+          "address": 34048,
+          "bytes": 3750,
+          "sha256": "fdde2f5c24e12c6293e0e62085c5433813f5783db802834002128c3fbd8d363e",
+          "equals_original": true
+        },
+        {
+          "file": "U",
+          "bank": "aux",
+          "address": 37888,
+          "bytes": 3379,
+          "sha256": "7acb695a017698b441060c41eb37e8101c29850549bf4f9648342e683eb760c0",
+          "equals_original": true
+        },
+        {
+          "file": "O",
+          "bank": "main",
+          "address": 42752,
+          "bytes": 2816,
+          "sha256": "d42f4225746b280acf347a5bcf75d3156bac4b1e9e3094c579ad8ccac0ace90e",
+          "equals_original": true
+        }
+      ]
+    }
+  },
+  "probes": {
+    "R": {
+      "receipt": {
+        "stopped": {
+          "A": 189,
+          "P": 181,
+          "GENPC": 37493,
+          "IR": 76,
+          "Y": 25,
+          "X": 0,
+          "CURPC": 37493,
+          "CURFLAGS": 181,
+          "PC": 37493,
+          "SP": 511
+        },
+        "module": "R",
+        "font_pointers_restored": true,
+        "cpu_restored": {
+          "A": 255,
+          "P": 54,
+          "GENPC": 24604,
+          "IR": 32,
+          "Y": 0,
+          "X": 0,
+          "CURPC": 24604,
+          "CURFLAGS": 54,
+          "PC": 24604,
+          "SP": 511
+        },
+        "cursor": {
+          "row": 58,
+          "bit": 5,
+          "column": 25
+        },
+        "probe": {
+          "bytes": 328,
+          "renderer_address": 25763,
+          "done": 37493,
+          "path": "build/korean/probe/R.bin",
+          "sha256": "6215697c23d0b26db8f843f04e35947b062b50a14510397bfc2a82219404393d"
+        }
+      },
+      "hgr_sha256": "c952bbbdf07fb2fdcea99a459bbc35da73e3dd4eb0b27eb5d30bcbae73e88847"
+    },
+    "N": {
+      "receipt": {
+        "stopped": {
+          "A": 189,
+          "P": 181,
+          "GENPC": 37493,
+          "IR": 76,
+          "Y": 25,
+          "X": 0,
+          "CURPC": 37493,
+          "CURFLAGS": 181,
+          "PC": 37493,
+          "SP": 507
+        },
+        "module": "N",
+        "font_pointers_restored": true,
+        "cpu_restored": {
+          "A": 76,
+          "P": 180,
+          "GENPC": 24576,
+          "IR": 162,
+          "Y": 12,
+          "X": 128,
+          "CURPC": 24576,
+          "CURFLAGS": 180,
+          "PC": 24576,
+          "SP": 507
+        },
+        "cursor": {
+          "row": 58,
+          "bit": 5,
+          "column": 25
+        },
+        "probe": {
+          "bytes": 328,
+          "renderer_address": 30605,
+          "done": 37493,
+          "path": "build/korean/probe/N.bin",
+          "sha256": "497ef59a700ddf5570db715605dbb642a4da47e7e8e61d7f5e83ad48da72ed19"
+        }
+      },
+      "hgr_sha256": "c952bbbdf07fb2fdcea99a459bbc35da73e3dd4eb0b27eb5d30bcbae73e88847"
+    }
+  },
+  "save_restore": {
+    "format": 1,
+    "saved_image": "build/korean/mame-k0-01/carmen-world.hdv",
+    "saved_image_sha256": "b2348f95038149a9c7bad4802b65948a7da7bd27bf87df6954a7942e95076665",
+    "detective": "KO18",
+    "slot": 3,
+    "case_state": [
+      1,
+      0,
+      1,
+      6,
+      19,
+      23,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      17,
+      8,
+      3,
+      9,
+      1,
+      12,
+      0,
+      255,
+      1,
+      20,
+      3,
+      255,
+      255,
+      255,
+      255,
+      255,
+      255
+    ],
+    "resume_flag": 1,
+    "modified_files": [
+      "F",
+      "H"
+    ],
+    "saved_case_and_padding_match": true,
+    "fresh_process_restore": {
+      "checkpoint": "build/korean/mame-k0-03/restored-city.json",
+      "case_state": [
+        1,
+        0,
+        1,
+        6,
+        19,
+        23,
+        17,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        17,
+        8,
+        3,
+        9,
+        1,
+        12,
+        0,
+        255,
+        1,
+        20,
+        2,
+        255,
+        255,
+        255,
+        255,
+        255,
+        255
+      ],
+      "restored_image": "build/korean/mame-k0-03/carmen-world.hdv",
+      "restored_image_sha256": "2be97e610812f2c30b346eb4cc92de96643beaaf7024f7d1680b76bbb9a5807b",
+      "expected_change": "N_RESTORE_SAVED_CASE sets byte $1A (menu selection) to 2",
+      "changed_case_offsets": [
+        26
+      ],
+      "resume_flag_after_restore": 0
+    }
+  },
+  "runtime_source_sha256": "3b0a569a2fc82bdce0cc8f18fcbf65c64624a6256090774e4f0f8eb4d3549f21",
+  "font_source": {
+    "family": "GalmuriMono7",
+    "upstream": "https://github.com/quiple/galmuri",
+    "revision": "71e1cacf1437a11220307120e63e30bc275312d4",
+    "license": "SIL Open Font License 1.1",
+    "files": {
+      "GalmuriMono7.bdf": "089d8f9cbb4f037d39f136e23827caed7001f9cf1153de5c8069835e768709a4",
+      "LICENSE.txt": "86a3ee9495f942f0243f18c103da9faca27adb88142613edb8bb852e56c892c1"
+    }
+  },
+  "probe_allocation": {
+    "bank": "main",
+    "start": 37376,
+    "bytes": 328,
+    "available_candidate_bytes": 1536,
+    "remaining_bytes": 1208
+  },
+  "limits": [
+    "Two synthetic proxy glyphs, not the final multibyte encoding or full font",
+    "One rookie case; no full-case completion, promotion or every error branch",
+    "Full-draft RAM/disk capacity and final renderer lifecycle remain K2/K4 gates",
+    "Probe register changes require debugger instruction-boundary stops; ordinary pauses are insufficient"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "plugin": {
+    "name": "carmen_mailbox",
+    "description": "Owned Carmen development session file mailbox",
+    "version": "0.1.0",
+    "author": "Carmen reconstruction project",
+    "type": "plugin",
+    "start": "false"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "status": "User approved all translations, including the decisions below; receipt is recorded separately after the final bundle is frozen.",
+  "notes": [
+    {
+      "ids": [
+        "s2.city01.line27"
+      ],
+      "decision": "Render date as 대추야자 to retain the commodity clue. The English also suggests a romantic date; that pun does not survive the Korean draft."
+    },
+    {
+      "ids": [
+        "s2.city10.line26"
+      ],
+      "decision": "Preserve the deliberately incongruous Hutu tutu as 후투족의 진짜 튀튀 발레 치마; do not claim this is a documented traditional garment."
+    },
+    {
+      "ids": [
+        "s2.city19.line15"
+      ],
+      "decision": "Translate the swimming action and the Lapp people separately. The English laps/Lapps sound pun is lost."
+    },
+    {
+      "ids": [
+        "s2.city28.line06"
+      ],
+      "decision": "Render down under as 남쪽 대륙, retaining a regional clue instead of adding the destination country name."
+    },
+    {
+      "ids": [
+        "s2.city07.line02",
+        "s2.city22.line10"
+      ],
+      "decision": "Preserve the source statements 1972 independence and an eleven-letter alphabet for traceability; any factual correction requires a reviewed editorial decision."
+    },
+    {
+      "ids": [
+        "s2.city06.line00",
+        "s2.city29.line02"
+      ],
+      "decision": "Preserve the original geographic descriptions rather than silently correcting or adding detail."
+    },
+    {
+      "ids": [
+        "s2.city21.line24",
+        "s2.city21.line24.disk2"
+      ],
+      "decision": "Both original subject markers remain, so the Korean repeats 자신. The floppy original has need instead of needed; both yield the same Korean draft."
+    },
+    {
+      "ids": [
+        "s2.city24.line11"
+      ],
+      "decision": "Keep a phonetic animal name plus 뱀. The specialist database identifies the common name with Bothrops asper; do not silently substitute a different snake.",
+      "sources": [
+        "https://reptile-database.reptarium.cz/Bothrops/asper"
+      ]
+    },
+    {
+      "ids": [
+        "s2.city24.line17"
+      ],
+      "decision": "가는가시호저 is a descriptive translation of the source common name, not a claim of an official Korean taxonomic name. Mammal Diversity Database lists thin-spined porcupine under Chaetomys subspinosus.",
+      "sources": [
+        "https://www.mammaldiversity.org/taxon/1001238/"
+      ]
+    },
+    {
+      "ids": [
+        "s2.city24.line13",
+        "s2.city24.line26"
+      ],
+      "decision": "황금앵무 is the Korean descriptive rendering of golden parakeet. Preserve the species-specific English name in the review glossary.",
+      "sources": [
+        "https://doi.org/10.2305/IUCN.UK.2018-2.RLTS.T22724703A132029835.en"
+      ]
+    },
+    {
+      "ids": [
+        "s2.city22.line00",
+        "s2.city19.line05"
+      ],
+      "decision": "Period terminology is retained in the draft. The review should assess the Korean wording alongside the original, without introducing new geographic hints."
+    },
+    {
+      "ids": [
+        "bitmap.s.title"
+      ],
+      "decision": "The pinned BDF lacks U+00A9. Translate the copyright symbol as 저작권 while preserving both dates and the Roman owner name. Do not synthesize a replacement font glyph."
+    },
+    {
+      "ids": [
+        "c.ui.009",
+        "c.ui.010",
+        "c.ui.011"
+      ],
+      "decision": "The three continuation lines read 아무 키 또는 / 버튼을 눌러 / 계속하세요, preserving the original key-or-button alternative."
+    },
+    {
+      "ids": [
+        "c.ui.019"
+      ],
+      "decision": "최대 15자 is an upper bound. Original input also rejects a new glyph starting at byte column 16 or later; wide ASCII names can stop earlier. No new input restriction is introduced."
+    },
+    {
+      "ids": [
+        "s2.city03.line28",
+        "s2.city03.line29",
+        "s2.city03.line30",
+        "s2.city12.line28",
+        "s2.city12.line29",
+        "s2.city29.line30",
+        "s2.city29.line31",
+        "s2.city29.line32",
+        "s2.city29.line33",
+        "s2.city29.line34",
+        "s2.city29.line35",
+        "s2.city29.line36",
+        "s2.city29.line37",
+        "s2.city29.line38"
+      ],
+      "decision": "Preserve these original nonempty S2 tails and their draft translations even though the native raw-NUL selector ranges do not select them. Do not remove repeats or shift native string indexes. Offline previews are not live-branch evidence."
+    },
+    {
+      "ids": [
+        "c.suspects.00",
+        "c.ui.005",
+        "c.ui.074",
+        "bitmap.s.title"
+      ],
+      "decision": "User correction: use 카르멘 샌디에고 for Carmen Sandiego throughout the Korean translation and glossary."
+    },
+    {
+      "ids": [
+        "i.000"
+      ],
+      "decision": "User explicitly chose to retain 프리아모스의 가면 for the original game text the Mask of Priam. Do not silently replace the original object with the Treasure of Priam or the Mask of Agamemnon."
+    },
+    {
+      "ids": [
+        "i.040"
+      ],
+      "decision": "User supplied and approved 몬테수마의 복수(?)의 비밀 치료법. The (?) marks an implicit meaning. Remove the explicit 여행자 설사 explanation from the game text."
+    }
+  ]
+}

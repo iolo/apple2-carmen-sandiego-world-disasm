@@ -1,0 +1,3614 @@
+{
+  "format": 1,
+  "catalog_sha256": "e1a3ccaa468b8df7501e82408c15cc1cb452e1f082787ea9d704b1cb65118195",
+  "file_sizes": {
+    "I": 1698,
+    "K": 1178,
+    "C_UI": 2427,
+    "C_names_before_DD00": 455,
+    "S2": 101155,
+    "KF": 5680
+  },
+  "maxima": {
+    "stored_city_text": 1485,
+    "selected_description_with_nul": 136,
+    "three_clues_with_nuls": 190,
+    "investigation_with_nul": 133,
+    "description_rows": 64,
+    "investigation_rows": 84
+  },
+  "bounds": {
+    "I_boot_reservation": {
+      "required": 1698,
+      "available": 4096,
+      "fits": true
+    },
+    "K_boot_reservation": {
+      "required": 1178,
+      "available": 4096,
+      "fits": true
+    },
+    "C_UI_before_icons": {
+      "required": 2427,
+      "available": 3072,
+      "fits": true
+    },
+    "C_names_before_DD00": {
+      "required": 455,
+      "available": 495,
+      "fits": true
+    },
+    "stored_city_text_before_O": {
+      "required": 1485,
+      "available": 1792,
+      "fits": true
+    },
+    "selected_description_page": {
+      "required": 136,
+      "available": 256,
+      "fits": true
+    },
+    "selected_clues_before_image": {
+      "required": 190,
+      "available": 512,
+      "fits": true
+    },
+    "expanded_investigation_before_O": {
+      "required": 133,
+      "available": 1792,
+      "fits": true
+    },
+    "city_description_panel": {
+      "required": 64,
+      "available": 136,
+      "fits": true
+    },
+    "investigation_panel": {
+      "required": 84,
+      "available": 136,
+      "fits": true
+    }
+  },
+  "cities": [
+    {
+      "city": 0,
+      "stored_text_bytes": 1360,
+      "record_bytes": 3326,
+      "image_bytes_unchanged": 1964,
+      "description_with_nul": 117,
+      "three_distinct_category_clues_with_nuls": 170
+    },
+    {
+      "city": 1,
+      "stored_text_bytes": 1485,
+      "record_bytes": 2952,
+      "image_bytes_unchanged": 1465,
+      "description_with_nul": 132,
+      "three_distinct_category_clues_with_nuls": 185
+    },
+    {
+      "city": 2,
+      "stored_text_bytes": 1323,
+      "record_bytes": 2419,
+      "image_bytes_unchanged": 1094,
+      "description_with_nul": 116,
+      "three_distinct_category_clues_with_nuls": 165
+    },
+    {
+      "city": 3,
+      "stored_text_bytes": 1343,
+      "record_bytes": 3652,
+      "image_bytes_unchanged": 2307,
+      "description_with_nul": 107,
+      "three_distinct_category_clues_with_nuls": 185
+    },
+    {
+      "city": 4,
+      "stored_text_bytes": 1279,
+      "record_bytes": 3286,
+      "image_bytes_unchanged": 2005,
+      "description_with_nul": 119,
+      "three_distinct_category_clues_with_nuls": 161
+    },
+    {
+      "city": 5,
+      "stored_text_bytes": 1457,
+      "record_bytes": 3843,
+      "image_bytes_unchanged": 2384,
+      "description_with_nul": 136,
+      "three_distinct_category_clues_with_nuls": 157
+    },
+    {
+      "city": 6,
+      "stored_text_bytes": 1412,
+      "record_bytes": 3431,
+      "image_bytes_unchanged": 2017,
+      "description_with_nul": 119,
+      "three_distinct_category_clues_with_nuls": 176
+    },
+    {
+      "city": 7,
+      "stored_text_bytes": 1353,
+      "record_bytes": 3815,
+      "image_bytes_unchanged": 2460,
+      "description_with_nul": 91,
+      "three_distinct_category_clues_with_nuls": 170
+    },
+    {
+      "city": 8,
+      "stored_text_bytes": 1253,
+      "record_bytes": 3407,
+      "image_bytes_unchanged": 2152,
+      "description_with_nul": 97,
+      "three_distinct_category_clues_with_nuls": 168
+    },
+    {
+      "city": 9,
+      "stored_text_bytes": 1188,
+      "record_bytes": 3587,
+      "image_bytes_unchanged": 2397,
+      "description_with_nul": 103,
+      "three_distinct_category_clues_with_nuls": 151
+    },
+    {
+      "city": 10,
+      "stored_text_bytes": 1381,
+      "record_bytes": 3916,
+      "image_bytes_unchanged": 2533,
+      "description_with_nul": 91,
+      "three_distinct_category_clues_with_nuls": 182
+    },
+    {
+      "city": 11,
+      "stored_text_bytes": 1335,
+      "record_bytes": 3630,
+      "image_bytes_unchanged": 2293,
+      "description_with_nul": 115,
+      "three_distinct_category_clues_with_nuls": 165
+    },
+    {
+      "city": 12,
+      "stored_text_bytes": 1344,
+      "record_bytes": 2655,
+      "image_bytes_unchanged": 1309,
+      "description_with_nul": 91,
+      "three_distinct_category_clues_with_nuls": 175
+    },
+    {
+      "city": 13,
+      "stored_text_bytes": 1356,
+      "record_bytes": 3086,
+      "image_bytes_unchanged": 1728,
+      "description_with_nul": 124,
+      "three_distinct_category_clues_with_nuls": 170
+    },
+    {
+      "city": 14,
+      "stored_text_bytes": 1285,
+      "record_bytes": 3417,
+      "image_bytes_unchanged": 2130,
+      "description_with_nul": 90,
+      "three_distinct_category_clues_with_nuls": 173
+    },
+    {
+      "city": 15,
+      "stored_text_bytes": 1281,
+      "record_bytes": 3361,
+      "image_bytes_unchanged": 2078,
+      "description_with_nul": 126,
+      "three_distinct_category_clues_with_nuls": 166
+    },
+    {
+      "city": 16,
+      "stored_text_bytes": 1317,
+      "record_bytes": 3368,
+      "image_bytes_unchanged": 2049,
+      "description_with_nul": 103,
+      "three_distinct_category_clues_with_nuls": 156
+    },
+    {
+      "city": 17,
+      "stored_text_bytes": 1371,
+      "record_bytes": 3232,
+      "image_bytes_unchanged": 1859,
+      "description_with_nul": 136,
+      "three_distinct_category_clues_with_nuls": 163
+    },
+    {
+      "city": 18,
+      "stored_text_bytes": 1452,
+      "record_bytes": 3092,
+      "image_bytes_unchanged": 1638,
+      "description_with_nul": 88,
+      "three_distinct_category_clues_with_nuls": 190
+    },
+    {
+      "city": 19,
+      "stored_text_bytes": 1351,
+      "record_bytes": 3692,
+      "image_bytes_unchanged": 2339,
+      "description_with_nul": 113,
+      "three_distinct_category_clues_with_nuls": 170
+    },
+    {
+      "city": 20,
+      "stored_text_bytes": 1324,
+      "record_bytes": 3740,
+      "image_bytes_unchanged": 2414,
+      "description_with_nul": 85,
+      "three_distinct_category_clues_with_nuls": 181
+    },
+    {
+      "city": 21,
+      "stored_text_bytes": 1138,
+      "record_bytes": 3171,
+      "image_bytes_unchanged": 2031,
+      "description_with_nul": 86,
+      "three_distinct_category_clues_with_nuls": 147
+    },
+    {
+      "city": 22,
+      "stored_text_bytes": 1299,
+      "record_bytes": 3905,
+      "image_bytes_unchanged": 2604,
+      "description_with_nul": 103,
+      "three_distinct_category_clues_with_nuls": 180
+    },
+    {
+      "city": 23,
+      "stored_text_bytes": 1249,
+      "record_bytes": 3122,
+      "image_bytes_unchanged": 1871,
+      "description_with_nul": 98,
+      "three_distinct_category_clues_with_nuls": 167
+    },
+    {
+      "city": 24,
+      "stored_text_bytes": 1380,
+      "record_bytes": 2955,
+      "image_bytes_unchanged": 1573,
+      "description_with_nul": 105,
+      "three_distinct_category_clues_with_nuls": 188
+    },
+    {
+      "city": 25,
+      "stored_text_bytes": 1358,
+      "record_bytes": 3741,
+      "image_bytes_unchanged": 2381,
+      "description_with_nul": 112,
+      "three_distinct_category_clues_with_nuls": 171
+    },
+    {
+      "city": 26,
+      "stored_text_bytes": 1297,
+      "record_bytes": 3300,
+      "image_bytes_unchanged": 2001,
+      "description_with_nul": 110,
+      "three_distinct_category_clues_with_nuls": 175
+    },
+    {
+      "city": 27,
+      "stored_text_bytes": 1285,
+      "record_bytes": 3373,
+      "image_bytes_unchanged": 2086,
+      "description_with_nul": 88,
+      "three_distinct_category_clues_with_nuls": 156
+    },
+    {
+      "city": 28,
+      "stored_text_bytes": 1324,
+      "record_bytes": 2680,
+      "image_bytes_unchanged": 1354,
+      "description_with_nul": 109,
+      "three_distinct_category_clues_with_nuls": 181
+    },
+    {
+      "city": 29,
+      "stored_text_bytes": 1410,
+      "record_bytes": 3809,
+      "image_bytes_unchanged": 2397,
+      "description_with_nul": 73,
+      "three_distinct_category_clues_with_nuls": 142
+    }
+  ],
+  "descriptions": [
+    {
+      "id": "s2.city00.line00",
+      "encoded_with_nul": 114,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "그리스는 산이 많고",
+        "해안선이 험하며, 크레타,",
+        "로도스, 델로스, 미코노스 등",
+        "수천 개의 섬이 바다에 흩어져",
+        "있는 나라다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city00.line01",
+      "encoded_with_nul": 116,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "고대 아테네는 이웃",
+        "스파르타와 전쟁을 벌인",
+        "강력한 도시 국가였으며,",
+        "철학, 과학, 연극, 미술에",
+        "길이 남을 업적을 세웠다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city00.line02",
+      "encoded_with_nul": 118,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "그리스의 수도 아테네에는",
+        "유명한 파르테논 신전이 있다.",
+        "인구가 300만 명이 넘는",
+        "아테네는 현대 그리스에서",
+        "가장 큰 도시다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city01.line00",
+      "encoded_with_nul": 64,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "인구 약 350만 명의",
+        "바그다드는 이라크의 수도이자",
+        "가장 큰 도시다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city01.line01",
+      "encoded_with_nul": 133,
+      "last_pixel_row_exclusive": 64,
+      "lines": [
+        "고대 이라크는",
+        "메소포타미아로 알려져 있었다.",
+        "현대 이라크는 요르단,",
+        "시리아, 터키, 이란,",
+        "쿠웨이트, 사우디아라비아와",
+        "국경을 맞대고 있다."
+      ],
+      "line_count": 6,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city01.line02",
+      "encoded_with_nul": 65,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "이라크의 수도 바그다드는",
+        "8세기에 아랍인이 세운 유서",
+        "깊은 도시다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city02.line00",
+      "encoded_with_nul": 117,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "인구 약 80만 명의",
+        "바마코는 말리에서 사실상",
+        "유일한 도시다. 서아프리카의",
+        "건조한 나라 말리는 사하라",
+        "사막까지 뻗어 있다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city02.line01",
+      "encoded_with_nul": 94,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "15세기까지 말리는 강대한",
+        "말리 제국의 일부였다. 고도",
+        "팀북투는 이슬람 학문의",
+        "중요한 중심지였다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city02.line02",
+      "encoded_with_nul": 65,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "바마코는 한때 프랑스",
+        "식민지였던 서아프리카의 나라",
+        "말리의 수도다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city03.line00",
+      "encoded_with_nul": 108,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "옛 이름이 시암인 태국은",
+        "텍사스주와 크기가 비슷하며",
+        "버마, 라오스, 캄보디아,",
+        "말레이시아와 국경을 맞대고",
+        "있다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city03.line01",
+      "encoded_with_nul": 108,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "인도차이나반도와",
+        "말레이반도에 걸쳐 있는",
+        "태국은 동남아시아에서",
+        "유일하게 유럽 열강의 지배를",
+        "받지 않은 나라다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city03.line02",
+      "encoded_with_nul": 84,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "태국의 수도 방콕은 운하가",
+        "얽혀 있고 왓이라 부르는",
+        "사원이 곳곳에 있는 활기찬",
+        "도시다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city04.line00",
+      "encoded_with_nul": 84,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "헝가리의 수도 부다페스트는",
+        "한때 도나우강을 사이에 둔",
+        "부다와 페스트라는 두",
+        "도시였다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city04.line01",
+      "encoded_with_nul": 120,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "면적이 인디애나주보다 조금",
+        "작은 헝가리는 체코슬로바키아,",
+        "오스트리아, 유고슬라비아,",
+        "루마니아, 소련과 국경을",
+        "맞대고 있다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city04.line02",
+      "encoded_with_nul": 96,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "사자 장식이 있는",
+        "부다페스트의 도나우강 다리는",
+        "헝가리 수도를 찾는",
+        "방문객들이 즐겨 만나는",
+        "장소다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city05.line00",
+      "encoded_with_nul": 123,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "아르헨티나의 수도이자 최대",
+        "도시인 부에노스아이레스는",
+        "프랑스, 독일, 이탈리아, 영국",
+        "출신 주민이 많아 국제적인",
+        "분위기를 띤다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city05.line01",
+      "encoded_with_nul": 119,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "비옥한 평원인 아르헨티나의",
+        "팜파스는 소와 카우보이의",
+        "땅이다. 수출과 국내 소비에",
+        "쓰일 쇠고기와 곡물을",
+        "풍부하게 생산한다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city05.line02",
+      "encoded_with_nul": 137,
+      "last_pixel_row_exclusive": 64,
+      "lines": [
+        "아르헨티나는 브라질에 이어",
+        "남미에서 두 번째로 큰",
+        "나라다. 북쪽의 열대림부터",
+        "남쪽의 춥고 황량한",
+        "티에라델푸에고까지 다양한",
+        "지형이 펼쳐진다."
+      ],
+      "line_count": 6,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city06.line00",
+      "encoded_with_nul": 59,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "나일강 어귀에 자리한",
+        "카이로는 아프리카에서 가장",
+        "큰 도시다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city06.line01",
+      "encoded_with_nul": 84,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "수천 년 전 고대 이집트의",
+        "파라오들이 세운 피라미드는",
+        "현대 카이로의 주요 관광",
+        "명소다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city06.line02",
+      "encoded_with_nul": 120,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "이집트의 수도 카이로에는",
+        "옛것과 새것이 공존한다. 현대",
+        "도시에서 멀지 않은 곳에",
+        "유명한 스핑크스상과 고대",
+        "피라미드가 있다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city07.line00",
+      "encoded_with_nul": 92,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "인구 120만 명이 넘는",
+        "콜롬보는 인도 남동쪽 해안",
+        "밖의 섬나라 스리랑카의",
+        "수도이자 중심 도시다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city07.line01",
+      "encoded_with_nul": 75,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "스리랑카의 기후는 덥고",
+        "습하다. 이 섬나라의 주요",
+        "작물은 차, 코코넛, 쌀이다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city07.line02",
+      "encoded_with_nul": 87,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "한때 실론이라 불린",
+        "스리랑카는 거의 200년 동안",
+        "영국의 지배를 받았다.",
+        "1972년에 독립했다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city08.line00",
+      "encoded_with_nul": 71,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "지금은 이스탄불이라 부르는",
+        "콘스탄티노플은 터키 오스만",
+        "제국의 수도였다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city08.line01",
+      "encoded_with_nul": 98,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "여름은 덥고 건조하며",
+        "겨울은 추운 터키는 서쪽",
+        "국경을 제외한 모든 방향이",
+        "높은 산으로 둘러싸여 있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city08.line02",
+      "encoded_with_nul": 77,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "터키 최대 도시 이스탄불의",
+        "가장 아름다운 명소 중 하나는",
+        "유명한 블루 모스크다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city09.line00",
+      "encoded_with_nul": 77,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "인구 약 42만 2천 명의",
+        "카트만두는 히말라야산맥에",
+        "있는 네팔의 유일한 대도시다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city09.line01",
+      "encoded_with_nul": 104,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "네팔은 수 세기 동안 외부에",
+        "문을 닫았지만, 지금은 인도,",
+        "파키스탄, 티베트에서 비행기나",
+        "도로로 갈 수 있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city09.line02",
+      "encoded_with_nul": 89,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "네팔의 수도 카트만두는",
+        "히말라야 고지대에 있다. 세계",
+        "최고봉인 에베레스트산이",
+        "근처에 있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city10.line00",
+      "encoded_with_nul": 81,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "키갈리는 아프리카 중동부의",
+        "나라 르완다에서 가장 큰",
+        "도시로 인구는 약 15만",
+        "명이다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city10.line01",
+      "encoded_with_nul": 76,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "르완다의 공용어는",
+        "프랑스어와 키냐르완다어다.",
+        "스와힐리어를 쓰는 사람도",
+        "많다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city10.line02",
+      "encoded_with_nul": 92,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "키갈리는 울창한 밀림의",
+        "나라 르완다의 수도다.",
+        "이곳에는 멸종 위기에 놓인",
+        "마운틴고릴라가 산다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city11.line00",
+      "encoded_with_nul": 100,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "리마는 페루의 수도이자",
+        "최대 도시다. 유명한 명소인",
+        "대주교 궁전은 페루의 식민지",
+        "시절을 떠올리게 한다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city11.line01",
+      "encoded_with_nul": 97,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "페루는 알래스카보다 조금",
+        "작으며 에콰도르, 콜롬비아,",
+        "브라질, 볼리비아, 칠레와",
+        "국경을 맞대고 있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city11.line02",
+      "encoded_with_nul": 116,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "한때 강대한 잉카 제국의",
+        "중심지였던 페루는",
+        "안데스산맥이 지배하는 험준한",
+        "땅이다. 숲과 밀림이 국토의",
+        "절반을 덮고 있다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city12.line00",
+      "encoded_with_nul": 92,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "인구 650만 명이 넘는",
+        "런던은 영국에서 가장 큰",
+        "도시다. 수많은 명소 중",
+        "하나가 빅벤 시계탑이다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city12.line01",
+      "encoded_with_nul": 87,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "영국은 입헌 군주국이다.",
+        "군주는 여왕이지만 실제",
+        "정치는 민주적으로 선출된",
+        "의회가 맡는다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city12.line02",
+      "encoded_with_nul": 74,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "런던은 잉글랜드,",
+        "스코틀랜드, 웨일스,",
+        "북아일랜드로 이루어진 영국의",
+        "수도다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city13.line00",
+      "encoded_with_nul": 97,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "멕시코는 텍사스주의 약 세",
+        "배 크기이며 험준한 산,",
+        "혹독한 사막, 열대 저지대 등",
+        "다양한 지형이 있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city13.line01",
+      "encoded_with_nul": 125,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "멕시코 최대 도시인",
+        "멕시코시티의 대도시권에는",
+        "1,500만 명 이상이 산다.",
+        "멕시코에서 가장 유명한 산 중",
+        "하나가 포포카테페틀산이다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city13.line02",
+      "encoded_with_nul": 92,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "스페인의 식민지가 되기 전",
+        "멕시코에는 마야, 톨테크,",
+        "아스테카 등 발달한 원주민",
+        "문명이 있었다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city14.line00",
+      "encoded_with_nul": 91,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "몬트리올은 캐나다에서 두",
+        "번째로 큰 도시다. 유명한",
+        "명소로 노트르담 드 봉스쿠르",
+        "성당이 있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city14.line01",
+      "encoded_with_nul": 91,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "캐나다는 국토 면적으로",
+        "세계에서 두 번째로 큰",
+        "나라로, 10개 주와 두 개의",
+        "넓은 준주로 나뉜다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city14.line02",
+      "encoded_with_nul": 84,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "캐나다는 의회 민주주의",
+        "국가이며 영연방의 일원이다.",
+        "수도 오타와는 온타리오주에",
+        "있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city15.line00",
+      "encoded_with_nul": 127,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "마다가스카르와 아프리카",
+        "남동부 사이에 있는 코모로",
+        "이슬람 연방 공화국은 세",
+        "섬으로 이루어져 있으며, 그중",
+        "하나에는 활화산이 있다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city15.line01",
+      "encoded_with_nul": 54,
+      "last_pixel_row_exclusive": 24,
+      "lines": [
+        "코모로의 주산업은 섬에서",
+        "재배한 식물로 만드는 향수다."
+      ],
+      "line_count": 2,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city15.line02",
+      "encoded_with_nul": 66,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "모로니는 한때 프랑스의",
+        "지배를 받은 이슬람 공화국",
+        "코모로의 수도다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city16.line00",
+      "encoded_with_nul": 104,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "인구 약 900만 명의",
+        "모스크바는 소련에서 가장 큰",
+        "도시다. 붉은 광장에 있는",
+        "유명한 성 바실리 성당이",
+        "명소다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city16.line01",
+      "encoded_with_nul": 69,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "소련은 세계에서 가장 큰",
+        "나라다. 지구 육지 면적의",
+        "6분의 1을 차지한다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city16.line02",
+      "encoded_with_nul": 81,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "소련의 수도 모스크바에는",
+        "한때 러시아 황제가 살던",
+        "거대한 크렘린 궁전 단지가",
+        "있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city17.line00",
+      "encoded_with_nul": 79,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "인구 500만 명이 넘는",
+        "뉴델리는 인구 8억 명 이상인",
+        "인도에서 세 번째로 큰",
+        "도시다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city17.line01",
+      "encoded_with_nul": 92,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "인도에서는 16가지 언어를",
+        "쓴다. 정부와 상업 분야의",
+        "공용어인 힌디어와 영어도",
+        "그중에 포함된다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city17.line02",
+      "encoded_with_nul": 137,
+      "last_pixel_row_exclusive": 64,
+      "lines": [
+        "무굴 왕궁이던 유명한 붉은",
+        "요새는 12세기부터",
+        "19세기까지 이슬람 인도의",
+        "수도였던 올드델리에 있다.",
+        "현대의 수도 뉴델리는",
+        "1911년에 건설되었다."
+      ],
+      "line_count": 6,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city18.line00",
+      "encoded_with_nul": 89,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "뉴욕은 미국에서 가장 크고",
+        "중요한 도시 중 하나다. 세계",
+        "무역, 금융, 출판, 미술의",
+        "중심지다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city18.line01",
+      "encoded_with_nul": 82,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "오랜 세월 뉴욕항의 유명한",
+        "자유의 여신상은 미국으로",
+        "오는 수백만 이민자를",
+        "맞이했다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city18.line02",
+      "encoded_with_nul": 61,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "뉴욕에 있는 유엔 본부는 이",
+        "도시의 다문화적 성격을 더해",
+        "준다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city19.line00",
+      "encoded_with_nul": 73,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "노르웨이 최대 도시",
+        "오슬로는 정부 소재지이자",
+        "주요 산업과 해운의 중심지다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city19.line01",
+      "encoded_with_nul": 114,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "한때 바이킹의 땅이었던",
+        "노르웨이의 해안에는 피오르라",
+        "부르는 깊은 만이 많다.",
+        "내륙에는 험준한 산과 높은",
+        "고원이 있다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city19.line02",
+      "encoded_with_nul": 72,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "오슬로는 아름다운 피오르와",
+        "험준한 산으로 유명한 나라",
+        "노르웨이의 수도다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city20.line00",
+      "encoded_with_nul": 67,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "인구 약 5,500만 명의",
+        "프랑스는 음식, 포도주, 패션,",
+        "미술로 유명하다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city20.line01",
+      "encoded_with_nul": 78,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "넓고 비옥한 평원이 있는",
+        "프랑스는 서유럽의 어느",
+        "나라보다 많은 식량을",
+        "생산한다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city20.line02",
+      "encoded_with_nul": 86,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "프랑스의 수도 파리는",
+        "예술과 문화의 중심지이며",
+        "세계적으로 유명한 에펠탑이",
+        "있는 곳이다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city21.line00",
+      "encoded_with_nul": 68,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "인구 약 900만 명의",
+        "베이징은 중화인민공화국에서",
+        "두 번째로 큰 도시다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city21.line01",
+      "encoded_with_nul": 73,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "인구가 10억 명이 넘는",
+        "중화인민공화국은 세계에서",
+        "인구가 가장 많은 나라다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city21.line02",
+      "encoded_with_nul": 87,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "베이징은 중화인민공화국의",
+        "수도다. 이 나라에서 가장",
+        "유명한 명소 중 하나가",
+        "만리장성이다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city22.line00",
+      "encoded_with_nul": 104,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "파푸아뉴기니에는 수백 개의",
+        "원시 부족이 살며, 세계에서",
+        "알파벳 수가 가장 적은",
+        "로토카스어도 이곳의 언어다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city22.line01",
+      "encoded_with_nul": 96,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "파푸아뉴기니는 1975년에",
+        "독립국이 되었다. 가장 가까운",
+        "이웃 나라는 인도네시아와",
+        "오스트레일리아다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city22.line02",
+      "encoded_with_nul": 64,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "포트모르즈비는 밀림, 화산,",
+        "극락조의 땅인 파푸아뉴기니의",
+        "수도다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city23.line00",
+      "encoded_with_nul": 75,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "아이슬란드의 의회인 알팅은",
+        "지금까지 남아 있는 세계에서",
+        "가장 오래된 의회다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city23.line01",
+      "encoded_with_nul": 73,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "아이슬란드에는 광대한 빙하",
+        "지대와 용암 사막이 있고",
+        "온천과 간헐천도 많다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city23.line02",
+      "encoded_with_nul": 99,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "아이슬란드의 수도",
+        "레이캬비크는 그림 같은 해변",
+        "도시로, 전국 인구 약 25만",
+        "명 중 3분의 1 이상이 산다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city24.line00",
+      "encoded_with_nul": 106,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "리우데자네이루는 브라질에서",
+        "두 번째로 큰 도시다. 유명한",
+        "슈거로프봉에서 아름다운 천연",
+        "항구가 내려다보인다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city24.line01",
+      "encoded_with_nul": 59,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "한때 포르투갈 식민지였던",
+        "브라질은 남미에서 가장 큰",
+        "나라다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city24.line02",
+      "encoded_with_nul": 61,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "브라질의 수도는 최근",
+        "내륙에 새로 건설한 도시인",
+        "브라질리아다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city25.line00",
+      "encoded_with_nul": 80,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "로마는 한때 로마 제국의",
+        "수도였다. 이 제국은",
+        "5세기까지 서유럽 대부분을",
+        "차지했다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city25.line01",
+      "encoded_with_nul": 106,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "르네상스 시대 이탈리아는",
+        "수많은 도시 국가로 나뉘어",
+        "있었으며, 이들은 예술, 과학,",
+        "학문의 중요한 중심지였다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city25.line02",
+      "encoded_with_nul": 113,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "이탈리아의 수도이자 최대",
+        "도시인 현대 로마에는 로마",
+        "유적이 많다. 검투사들이",
+        "싸우던 유명한 콜로세움도",
+        "그중 하나다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city26.line00",
+      "encoded_with_nul": 101,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "인구 약 2만 3천 명,",
+        "면적 24제곱마일에 불과한",
+        "산마리노 공화국은 유럽에서",
+        "가장 작고 오래된 공화국이다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city26.line01",
+      "encoded_with_nul": 111,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "티타노산 비탈에 있는",
+        "산마리노는 이탈리아에 완전히",
+        "둘러싸인 작은 나라 산마리노",
+        "공화국의 수도이자 유일한",
+        "도시다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city26.line02",
+      "encoded_with_nul": 100,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "산마리노의 최대 산업은",
+        "우표와 관광이다. 이 작은",
+        "나라의 정식 국호는 가장",
+        "고귀한 산마리노 공화국이다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city27.line00",
+      "encoded_with_nul": 89,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "싱가포르 공화국의 인구는",
+        "250만 명이 넘으며, 세계",
+        "최대 규모의 항구 중 하나가",
+        "이곳에 있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city27.line01",
+      "encoded_with_nul": 82,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "동남아시아 적도 부근에",
+        "있는 싱가포르는 큰 섬 하나와",
+        "작은 섬 40개로 이루어져",
+        "있다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city27.line02",
+      "encoded_with_nul": 72,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "싱가포르는 중국 문화의",
+        "영향을 강하게 받는다. 주민의",
+        "4분의 3이 중국계다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city28.line00",
+      "encoded_with_nul": 110,
+      "last_pixel_row_exclusive": 54,
+      "lines": [
+        "인구 340만 명이 넘는",
+        "시드니는 오스트레일리아 최대",
+        "도시다. 독특한 설계의 시드니",
+        "오페라 하우스가 유명한",
+        "명소다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city28.line01",
+      "encoded_with_nul": 86,
+      "last_pixel_row_exclusive": 44,
+      "lines": [
+        "섬 대륙 오스트레일리아는",
+        "미국과 거의 같은 크기지만",
+        "인구는 미국의 15분의 1에",
+        "불과하다."
+      ],
+      "line_count": 4,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city28.line02",
+      "encoded_with_nul": 74,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "오스트레일리아의 수도",
+        "캔버라는 국토 남동쪽의",
+        "시드니와 멜버른 사이에 있다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city29.line00",
+      "encoded_with_nul": 57,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "인구 830만 명이 넘는",
+        "도쿄는 일본의 수도이자 최대",
+        "도시다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city29.line01",
+      "encoded_with_nul": 71,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "일본의 주요 섬은 네 개다.",
+        "도쿄가 있는 혼슈와 홋카이도,",
+        "규슈, 시코쿠다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    },
+    {
+      "id": "s2.city29.line02",
+      "encoded_with_nul": 74,
+      "last_pixel_row_exclusive": 34,
+      "lines": [
+        "일본의 수도 도쿄를",
+        "굽어보는 후지산은 일본에서",
+        "가장 유명한 명소 중 하나다."
+      ],
+      "line_count": 3,
+      "hard_breaks": [],
+      "final_empty_line": false
+    }
+  ],
+  "investigations": [
+    {
+      "city": 0,
+      "route_id": "s2.city00.line14",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 126,
+      "text": "그녀는 자신이 헬라스 공화국에 관한 책을 어디서 구할 수 있는지 알고 싶어 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 헬라스",
+        "공화국에 관한 책을 어디서",
+        "구할 수 있는지 알고 싶어",
+        "했다.  그녀는 자신이 위험한",
+        "운동을 싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 126
+    },
+    {
+      "city": 1,
+      "route_id": "s2.city01.line06",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 122,
+      "text": "그녀는 자신이 증기선을 타고 티그리스강을 내려갈 수 있는지 알고 싶어 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 증기선을 타고",
+        "티그리스강을 내려갈 수",
+        "있는지 알고 싶어 했다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 122
+    },
+    {
+      "city": 2,
+      "route_id": "s2.city02.line18",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 114,
+      "text": "그녀는 초록색, 노란색, 빨간색 깃발을 단 노 젓는 배를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 초록색, 노란색,",
+        "빨간색 깃발을 단 노 젓는",
+        "배를 타고 떠났다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 114
+    },
+    {
+      "city": 3,
+      "route_id": "s2.city03.line10",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 123,
+      "text": "그녀는 자신이 시암의 가장 훌륭한 미술품 모음을 어디서 볼 수 있는지 물었다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 시암의 가장",
+        "훌륭한 미술품 모음을 어디서",
+        "볼 수 있는지 물었다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 123
+    },
+    {
+      "city": 4,
+      "route_id": "s2.city04.line26",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 115,
+      "text": "그녀는 빨간색, 흰색, 초록색 깃발을 단 차량을 타고 쏜살같이 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 빨간색, 흰색, 초록색",
+        "깃발을 단 차량을 타고",
+        "쏜살같이 떠났다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 115
+    },
+    {
+      "city": 5,
+      "route_id": "s2.city05.line13",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 117,
+      "text": "그녀는 자신이 글라이더를 타고 그란차코 평원 위를 날 계획이라고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 글라이더를",
+        "타고 그란차코 평원 위를 날",
+        "계획이라고 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 117
+    },
+    {
+      "city": 6,
+      "route_id": "s2.city06.line17",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 119,
+      "text": "그녀는 날개에 빨간색, 흰색, 검은색 깃발이 그려진 비행기를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 날개에 빨간색, 흰색,",
+        "검은색 깃발이 그려진",
+        "비행기를 타고 떠났다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 119
+    },
+    {
+      "city": 7,
+      "route_id": "s2.city07.line15",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 117,
+      "text": "그녀는 싱할라인과 타밀인 사이의 긴장에 관한 신문 기사를 찾고 있었다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 싱할라인과 타밀인",
+        "사이의 긴장에 관한 신문",
+        "기사를 찾고 있었다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 117
+    },
+    {
+      "city": 8,
+      "route_id": "s2.city08.line13",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 133,
+      "text": "그녀는 자신이 석유 시추대에서 일할 만큼 튼튼해지도록 자신의 근육을 키우고 싶어 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 84,
+      "lines": [
+        "그녀는 자신이 석유",
+        "시추대에서 일할 만큼",
+        "튼튼해지도록 자신의 근육을",
+        "키우고 싶어 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 6,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 133
+    },
+    {
+      "city": 9,
+      "route_id": "s2.city09.line08",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 114,
+      "text": "그녀는 자신이 힌두교 사원에서 자신의 신발을 벗어야 하는지 물었다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 힌두교",
+        "사원에서 자신의 신발을",
+        "벗어야 하는지 물었다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 114
+    },
+    {
+      "city": 10,
+      "route_id": "s2.city10.line25",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 125,
+      "text": "그녀는 자신이 철망간중석을 사고 싶지만 자신은 어떻게 생겼는지 모른다고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 철망간중석을",
+        "사고 싶지만 자신은 어떻게",
+        "생겼는지 모른다고 했다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 125
+    },
+    {
+      "city": 11,
+      "route_id": "s2.city11.line28",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 116,
+      "text": "그녀는 자신이 아이마라 도자기를 어디서 살 수 있는지 알고 싶어 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 아이마라",
+        "도자기를 어디서 살 수 있는지",
+        "알고 싶어 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 116
+    },
+    {
+      "city": 12,
+      "route_id": "s2.city12.line16",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 119,
+      "text": "그녀는 날개에 빨간색, 흰색, 파란색 깃발이 그려진 비행기를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 날개에 빨간색, 흰색,",
+        "파란색 깃발이 그려진",
+        "비행기를 타고 떠났다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 119
+    },
+    {
+      "city": 13,
+      "route_id": "s2.city13.line16",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 119,
+      "text": "그녀는 날개에 빨간색, 초록색, 흰색 깃발이 그려진 비행기를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 날개에 빨간색,",
+        "초록색, 흰색 깃발이 그려진",
+        "비행기를 타고 떠났다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 119
+    },
+    {
+      "city": 14,
+      "route_id": "s2.city14.line07",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 120,
+      "text": "그녀는 자신이 늘 통을 타고 몽모랑시 폭포에서 떨어져 보고 싶었다고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 늘 통을 타고",
+        "몽모랑시 폭포에서 떨어져",
+        "보고 싶었다고 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 120
+    },
+    {
+      "city": 15,
+      "route_id": "s2.city15.line14",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 121,
+      "text": "그녀는 희귀한 앙주앙소쩍새를 자신의 평생 탐조 목록에 추가하고 싶어 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 희귀한 앙주앙소쩍새를",
+        "자신의 평생 탐조 목록에",
+        "추가하고 싶어 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 121
+    },
+    {
+      "city": 16,
+      "route_id": "s2.city16.line10",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 114,
+      "text": "그녀는 자신이 진짜 제정 러시아 보물을 어디서 볼 수 있는지 물었다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 진짜 제정",
+        "러시아 보물을 어디서 볼 수",
+        "있는지 물었다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 114
+    },
+    {
+      "city": 17,
+      "route_id": "s2.city17.line18",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 119,
+      "text": "그녀는 날개에 주황색, 흰색, 초록색 깃발이 그려진 비행기를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 날개에 주황색, 흰색,",
+        "초록색 깃발이 그려진",
+        "비행기를 타고 떠났다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 119
+    },
+    {
+      "city": 18,
+      "route_id": "s2.city18.line17",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 123,
+      "text": "그녀는 자신이 고층 빌딩의 사회 경제적 영향에 관한 논문을 쓰고 있다고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 고층 빌딩의",
+        "사회 경제적 영향에 관한",
+        "논문을 쓰고 있다고 했다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 123
+    },
+    {
+      "city": 19,
+      "route_id": "s2.city19.line27",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 121,
+      "text": "그녀는 자신이 황철석에 투자하고 싶지만 자신은 그것이 뭔지 모른다고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 황철석에",
+        "투자하고 싶지만 자신은",
+        "그것이 뭔지 모른다고 했다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 121
+    },
+    {
+      "city": 20,
+      "route_id": "s2.city20.line15",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 119,
+      "text": "그녀는 날개에 빨간색, 흰색, 파란색 깃발이 그려진 비행기를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 날개에 빨간색, 흰색,",
+        "파란색 깃발이 그려진",
+        "비행기를 타고 떠났다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 119
+    },
+    {
+      "city": 21,
+      "route_id": "s2.city21.line24",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 119,
+      "text": "그녀는 자신이 온도계 공장을 열 수 있게 자신이 수은을 사야 한다고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 온도계 공장을",
+        "열 수 있게 자신이 수은을",
+        "사야 한다고 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 119
+    },
+    {
+      "city": 22,
+      "route_id": "s2.city22.line21",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 121,
+      "text": "그녀는 날개에 빨간색, 노란색, 검은색 깃발이 그려진 비행기를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 날개에 빨간색,",
+        "노란색, 검은색 깃발이 그려진",
+        "비행기를 타고 떠났다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 121
+    },
+    {
+      "city": 23,
+      "route_id": "s2.city23.line13",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 114,
+      "text": "그녀는 자신이 용암 사막을 가로질러 배낭여행을 할 예정이라고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 용암 사막을",
+        "가로질러 배낭여행을 할",
+        "예정이라고 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 114
+    },
+    {
+      "city": 24,
+      "route_id": "s2.city24.line25",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 123,
+      "text": "그녀는 자신이 타이타늄을 사고 싶지만 자신은 어떻게 생겼는지 모른다고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 타이타늄을",
+        "사고 싶지만 자신은 어떻게",
+        "생겼는지 모른다고 했다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 123
+    },
+    {
+      "city": 25,
+      "route_id": "s2.city25.line19",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 119,
+      "text": "그녀는 날개에 초록색, 흰색, 빨간색 깃발이 그려진 비행기를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 날개에 초록색, 흰색,",
+        "빨간색 깃발이 그려진",
+        "비행기를 타고 떠났다. ",
+        "그녀는 자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 119
+    },
+    {
+      "city": 26,
+      "route_id": "s2.city26.line09",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 119,
+      "text": "그녀는 자신이 유럽 최고령 공화국을 연구할 지원금을 신청 중이라고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 유럽 최고령",
+        "공화국을 연구할 지원금을",
+        "신청 중이라고 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 119
+    },
+    {
+      "city": 27,
+      "route_id": "s2.city27.line23",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 114,
+      "text": "그녀는 자신이 자신의 돈을 동남아시아 은행에 맡길 계획이라고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이 자신의 돈을",
+        "동남아시아 은행에 맡길",
+        "계획이라고 했다.  그녀는",
+        "자신이 위험한 운동을",
+        "싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 114
+    },
+    {
+      "city": 28,
+      "route_id": "s2.city28.line21",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 122,
+      "text": "그녀는 자신이 태즈메이니아데빌의 성질에 관한 연구서를 쓸 계획이라고 했다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 자신이",
+        "태즈메이니아데빌의 성질에",
+        "관한 연구서를 쓸 계획이라고",
+        "했다.  그녀는 자신이 위험한",
+        "운동을 싫어한다고 말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 122
+    },
+    {
+      "city": 29,
+      "route_id": "s2.city29.line20",
+      "trait_id": "k.015",
+      "female": true,
+      "encoded_with_nul": 112,
+      "text": "그녀는 날개에 빨간색과 흰색 깃발이 그려진 비행기를 타고 떠났다.  그녀는 자신이 위험한 운동을 싫어한다고 말했다.",
+      "last_pixel_row_exclusive": 74,
+      "lines": [
+        "그녀는 날개에 빨간색과 흰색",
+        "깃발이 그려진 비행기를 타고",
+        "떠났다.  그녀는 자신이",
+        "위험한 운동을 싫어한다고",
+        "말했다."
+      ],
+      "line_count": 5,
+      "hard_breaks": [],
+      "final_empty_line": false,
+      "maximum_encoded_with_nul": 112
+    }
+  ],
+  "covered_catalog_ids": [
+    "c.service.he",
+    "c.service.she",
+    "c.ui.056",
+    "c.ui.059",
+    "c.ui.060",
+    "c.ui.067",
+    "c.ui.068",
+    "c.ui.103",
+    "c.ui.104",
+    "c.ui.105",
+    "k.008",
+    "k.009",
+    "k.010",
+    "k.011",
+    "k.012",
+    "k.013",
+    "k.014",
+    "k.015",
+    "k.016",
+    "k.017",
+    "k.018",
+    "k.019",
+    "k.020",
+    "k.021",
+    "k.022",
+    "k.023",
+    "k.024",
+    "k.025",
+    "k.026",
+    "k.027",
+    "k.028",
+    "k.029",
+    "k.030",
+    "k.031",
+    "k.032",
+    "k.033",
+    "k.034",
+    "k.035",
+    "k.036",
+    "k.037",
+    "k.038",
+    "k.039",
+    "k.040",
+    "s2.city00.line00",
+    "s2.city00.line01",
+    "s2.city00.line02",
+    "s2.city00.line03",
+    "s2.city00.line04",
+    "s2.city00.line05",
+    "s2.city00.line06",
+    "s2.city00.line07",
+    "s2.city00.line08",
+    "s2.city00.line09",
+    "s2.city00.line10",
+    "s2.city00.line11",
+    "s2.city00.line12",
+    "s2.city00.line13",
+    "s2.city00.line14",
+    "s2.city00.line15",
+    "s2.city00.line16",
+    "s2.city00.line17",
+    "s2.city00.line18",
+    "s2.city00.line19",
+    "s2.city00.line20",
+    "s2.city00.line21",
+    "s2.city00.line22",
+    "s2.city00.line23",
+    "s2.city00.line24",
+    "s2.city00.line25",
+    "s2.city00.line26",
+    "s2.city00.line27",
+    "s2.city00.line28",
+    "s2.city01.line00",
+    "s2.city01.line01",
+    "s2.city01.line02",
+    "s2.city01.line03",
+    "s2.city01.line04",
+    "s2.city01.line05",
+    "s2.city01.line06",
+    "s2.city01.line07",
+    "s2.city01.line08",
+    "s2.city01.line09",
+    "s2.city01.line10",
+    "s2.city01.line11",
+    "s2.city01.line12",
+    "s2.city01.line13",
+    "s2.city01.line14",
+    "s2.city01.line15",
+    "s2.city01.line16",
+    "s2.city01.line17",
+    "s2.city01.line18",
+    "s2.city01.line19",
+    "s2.city01.line20",
+    "s2.city01.line21",
+    "s2.city01.line22",
+    "s2.city01.line23",
+    "s2.city01.line24",
+    "s2.city01.line25",
+    "s2.city01.line26",
+    "s2.city01.line27",
+    "s2.city01.line28",
+    "s2.city01.line29",
+    "s2.city01.line30",
+    "s2.city02.line00",
+    "s2.city02.line01",
+    "s2.city02.line02",
+    "s2.city02.line03",
+    "s2.city02.line04",
+    "s2.city02.line05",
+    "s2.city02.line06",
+    "s2.city02.line07",
+    "s2.city02.line08",
+    "s2.city02.line09",
+    "s2.city02.line10",
+    "s2.city02.line11",
+    "s2.city02.line12",
+    "s2.city02.line13",
+    "s2.city02.line14",
+    "s2.city02.line15",
+    "s2.city02.line16",
+    "s2.city02.line17",
+    "s2.city02.line18",
+    "s2.city02.line19",
+    "s2.city02.line20",
+    "s2.city02.line21",
+    "s2.city02.line22",
+    "s2.city02.line23",
+    "s2.city02.line24",
+    "s2.city02.line25",
+    "s2.city02.line26",
+    "s2.city02.line27",
+    "s2.city02.line28",
+    "s2.city02.line29",
+    "s2.city02.line30",
+    "s2.city03.line00",
+    "s2.city03.line01",
+    "s2.city03.line02",
+    "s2.city03.line03",
+    "s2.city03.line04",
+    "s2.city03.line05",
+    "s2.city03.line06",
+    "s2.city03.line07",
+    "s2.city03.line08",
+    "s2.city03.line09",
+    "s2.city03.line10",
+    "s2.city03.line11",
+    "s2.city03.line12",
+    "s2.city03.line13",
+    "s2.city03.line14",
+    "s2.city03.line15",
+    "s2.city03.line16",
+    "s2.city03.line17",
+    "s2.city03.line18",
+    "s2.city03.line19",
+    "s2.city03.line20",
+    "s2.city03.line21",
+    "s2.city03.line22",
+    "s2.city03.line23",
+    "s2.city03.line24",
+    "s2.city03.line25",
+    "s2.city03.line26",
+    "s2.city03.line28",
+    "s2.city03.line29",
+    "s2.city03.line30",
+    "s2.city04.line00",
+    "s2.city04.line01",
+    "s2.city04.line02",
+    "s2.city04.line03",
+    "s2.city04.line04",
+    "s2.city04.line05",
+    "s2.city04.line06",
+    "s2.city04.line07",
+    "s2.city04.line08",
+    "s2.city04.line09",
+    "s2.city04.line10",
+    "s2.city04.line11",
+    "s2.city04.line12",
+    "s2.city04.line13",
+    "s2.city04.line14",
+    "s2.city04.line15",
+    "s2.city04.line16",
+    "s2.city04.line17",
+    "s2.city04.line18",
+    "s2.city04.line19",
+    "s2.city04.line20",
+    "s2.city04.line21",
+    "s2.city04.line22",
+    "s2.city04.line23",
+    "s2.city04.line24",
+    "s2.city04.line25",
+    "s2.city04.line26",
+    "s2.city04.line27",
+    "s2.city05.line00",
+    "s2.city05.line01",
+    "s2.city05.line02",
+    "s2.city05.line03",
+    "s2.city05.line04",
+    "s2.city05.line05",
+    "s2.city05.line06",
+    "s2.city05.line07",
+    "s2.city05.line08",
+    "s2.city05.line09",
+    "s2.city05.line10",
+    "s2.city05.line11",
+    "s2.city05.line12",
+    "s2.city05.line13",
+    "s2.city05.line14",
+    "s2.city05.line15",
+    "s2.city05.line16",
+    "s2.city05.line17",
+    "s2.city05.line18",
+    "s2.city05.line19",
+    "s2.city05.line20",
+    "s2.city05.line21",
+    "s2.city05.line22",
+    "s2.city05.line23",
+    "s2.city05.line24",
+    "s2.city05.line25",
+    "s2.city05.line26",
+    "s2.city05.line27",
+    "s2.city05.line28",
+    "s2.city05.line29",
+    "s2.city05.line30",
+    "s2.city06.line00",
+    "s2.city06.line01",
+    "s2.city06.line02",
+    "s2.city06.line03",
+    "s2.city06.line04",
+    "s2.city06.line05",
+    "s2.city06.line06",
+    "s2.city06.line07",
+    "s2.city06.line08",
+    "s2.city06.line09",
+    "s2.city06.line10",
+    "s2.city06.line11",
+    "s2.city06.line12",
+    "s2.city06.line13",
+    "s2.city06.line14",
+    "s2.city06.line15",
+    "s2.city06.line16",
+    "s2.city06.line17",
+    "s2.city06.line18",
+    "s2.city06.line19",
+    "s2.city06.line20",
+    "s2.city06.line21",
+    "s2.city06.line22",
+    "s2.city06.line23",
+    "s2.city06.line24",
+    "s2.city06.line25",
+    "s2.city06.line26",
+    "s2.city06.line27",
+    "s2.city06.line28",
+    "s2.city06.line29",
+    "s2.city06.line30",
+    "s2.city06.line31",
+    "s2.city07.line00",
+    "s2.city07.line01",
+    "s2.city07.line02",
+    "s2.city07.line03",
+    "s2.city07.line04",
+    "s2.city07.line05",
+    "s2.city07.line06",
+    "s2.city07.line07",
+    "s2.city07.line08",
+    "s2.city07.line09",
+    "s2.city07.line10",
+    "s2.city07.line11",
+    "s2.city07.line12",
+    "s2.city07.line13",
+    "s2.city07.line14",
+    "s2.city07.line15",
+    "s2.city07.line16",
+    "s2.city07.line17",
+    "s2.city07.line18",
+    "s2.city07.line19",
+    "s2.city07.line20",
+    "s2.city07.line21",
+    "s2.city07.line22",
+    "s2.city07.line23",
+    "s2.city07.line24",
+    "s2.city07.line25",
+    "s2.city07.line26",
+    "s2.city07.line27",
+    "s2.city07.line28",
+    "s2.city07.line29",
+    "s2.city07.line30",
+    "s2.city08.line00",
+    "s2.city08.line01",
+    "s2.city08.line02",
+    "s2.city08.line03",
+    "s2.city08.line04",
+    "s2.city08.line05",
+    "s2.city08.line06",
+    "s2.city08.line07",
+    "s2.city08.line08",
+    "s2.city08.line09",
+    "s2.city08.line10",
+    "s2.city08.line11",
+    "s2.city08.line12",
+    "s2.city08.line13",
+    "s2.city08.line14",
+    "s2.city08.line15",
+    "s2.city08.line16",
+    "s2.city08.line17",
+    "s2.city08.line18",
+    "s2.city08.line19",
+    "s2.city08.line20",
+    "s2.city08.line21",
+    "s2.city08.line22",
+    "s2.city08.line23",
+    "s2.city08.line24",
+    "s2.city08.line25",
+    "s2.city08.line26",
+    "s2.city08.line27",
+    "s2.city08.line28",
+    "s2.city09.line00",
+    "s2.city09.line01",
+    "s2.city09.line02",
+    "s2.city09.line03",
+    "s2.city09.line04",
+    "s2.city09.line05",
+    "s2.city09.line06",
+    "s2.city09.line07",
+    "s2.city09.line08",
+    "s2.city09.line09",
+    "s2.city09.line10",
+    "s2.city09.line11",
+    "s2.city09.line12",
+    "s2.city09.line13",
+    "s2.city09.line14",
+    "s2.city09.line15",
+    "s2.city09.line16",
+    "s2.city09.line17",
+    "s2.city09.line18",
+    "s2.city09.line19",
+    "s2.city09.line20",
+    "s2.city09.line21",
+    "s2.city09.line22",
+    "s2.city09.line23",
+    "s2.city09.line24",
+    "s2.city09.line25",
+    "s2.city09.line26",
+    "s2.city09.line27",
+    "s2.city09.line28",
+    "s2.city10.line00",
+    "s2.city10.line01",
+    "s2.city10.line02",
+    "s2.city10.line03",
+    "s2.city10.line04",
+    "s2.city10.line05",
+    "s2.city10.line06",
+    "s2.city10.line07",
+    "s2.city10.line08",
+    "s2.city10.line09",
+    "s2.city10.line10",
+    "s2.city10.line11",
+    "s2.city10.line12",
+    "s2.city10.line13",
+    "s2.city10.line14",
+    "s2.city10.line15",
+    "s2.city10.line16",
+    "s2.city10.line17",
+    "s2.city10.line18",
+    "s2.city10.line19",
+    "s2.city10.line20",
+    "s2.city10.line21",
+    "s2.city10.line22",
+    "s2.city10.line23",
+    "s2.city10.line24",
+    "s2.city10.line25",
+    "s2.city10.line26",
+    "s2.city10.line27",
+    "s2.city10.line28",
+    "s2.city10.line29",
+    "s2.city10.line30",
+    "s2.city11.line00",
+    "s2.city11.line01",
+    "s2.city11.line02",
+    "s2.city11.line03",
+    "s2.city11.line04",
+    "s2.city11.line05",
+    "s2.city11.line06",
+    "s2.city11.line07",
+    "s2.city11.line08",
+    "s2.city11.line09",
+    "s2.city11.line10",
+    "s2.city11.line11",
+    "s2.city11.line12",
+    "s2.city11.line13",
+    "s2.city11.line14",
+    "s2.city11.line15",
+    "s2.city11.line16",
+    "s2.city11.line17",
+    "s2.city11.line18",
+    "s2.city11.line19",
+    "s2.city11.line20",
+    "s2.city11.line21",
+    "s2.city11.line22",
+    "s2.city11.line23",
+    "s2.city11.line24",
+    "s2.city11.line25",
+    "s2.city11.line26",
+    "s2.city11.line27",
+    "s2.city11.line28",
+    "s2.city11.line29",
+    "s2.city11.line30",
+    "s2.city12.line00",
+    "s2.city12.line01",
+    "s2.city12.line02",
+    "s2.city12.line03",
+    "s2.city12.line04",
+    "s2.city12.line05",
+    "s2.city12.line06",
+    "s2.city12.line07",
+    "s2.city12.line08",
+    "s2.city12.line09",
+    "s2.city12.line10",
+    "s2.city12.line11",
+    "s2.city12.line12",
+    "s2.city12.line13",
+    "s2.city12.line14",
+    "s2.city12.line15",
+    "s2.city12.line16",
+    "s2.city12.line17",
+    "s2.city12.line18",
+    "s2.city12.line19",
+    "s2.city12.line20",
+    "s2.city12.line21",
+    "s2.city12.line22",
+    "s2.city12.line23",
+    "s2.city12.line24",
+    "s2.city12.line25",
+    "s2.city12.line26",
+    "s2.city12.line27",
+    "s2.city12.line28",
+    "s2.city12.line29",
+    "s2.city13.line00",
+    "s2.city13.line01",
+    "s2.city13.line02",
+    "s2.city13.line03",
+    "s2.city13.line04",
+    "s2.city13.line05",
+    "s2.city13.line06",
+    "s2.city13.line07",
+    "s2.city13.line08",
+    "s2.city13.line09",
+    "s2.city13.line10",
+    "s2.city13.line11",
+    "s2.city13.line12",
+    "s2.city13.line13",
+    "s2.city13.line14",
+    "s2.city13.line15",
+    "s2.city13.line16",
+    "s2.city13.line17",
+    "s2.city13.line18",
+    "s2.city13.line19",
+    "s2.city13.line20",
+    "s2.city13.line21",
+    "s2.city13.line22",
+    "s2.city13.line23",
+    "s2.city13.line24",
+    "s2.city13.line25",
+    "s2.city13.line26",
+    "s2.city13.line27",
+    "s2.city13.line28",
+    "s2.city13.line29",
+    "s2.city14.line00",
+    "s2.city14.line01",
+    "s2.city14.line02",
+    "s2.city14.line03",
+    "s2.city14.line04",
+    "s2.city14.line05",
+    "s2.city14.line06",
+    "s2.city14.line07",
+    "s2.city14.line08",
+    "s2.city14.line09",
+    "s2.city14.line10",
+    "s2.city14.line11",
+    "s2.city14.line12",
+    "s2.city14.line13",
+    "s2.city14.line14",
+    "s2.city14.line15",
+    "s2.city14.line16",
+    "s2.city14.line17",
+    "s2.city14.line18",
+    "s2.city14.line19",
+    "s2.city14.line20",
+    "s2.city14.line21",
+    "s2.city14.line22",
+    "s2.city14.line23",
+    "s2.city14.line24",
+    "s2.city14.line25",
+    "s2.city14.line26",
+    "s2.city14.line27",
+    "s2.city14.line28",
+    "s2.city15.line00",
+    "s2.city15.line01",
+    "s2.city15.line02",
+    "s2.city15.line03",
+    "s2.city15.line04",
+    "s2.city15.line05",
+    "s2.city15.line06",
+    "s2.city15.line07",
+    "s2.city15.line08",
+    "s2.city15.line09",
+    "s2.city15.line10",
+    "s2.city15.line11",
+    "s2.city15.line12",
+    "s2.city15.line13",
+    "s2.city15.line14",
+    "s2.city15.line15",
+    "s2.city15.line16",
+    "s2.city15.line17",
+    "s2.city15.line18",
+    "s2.city15.line19",
+    "s2.city15.line20",
+    "s2.city15.line21",
+    "s2.city15.line22",
+    "s2.city15.line23",
+    "s2.city15.line24",
+    "s2.city15.line25",
+    "s2.city15.line26",
+    "s2.city15.line27",
+    "s2.city15.line28",
+    "s2.city15.line29",
+    "s2.city16.line00",
+    "s2.city16.line01",
+    "s2.city16.line02",
+    "s2.city16.line03",
+    "s2.city16.line04",
+    "s2.city16.line05",
+    "s2.city16.line06",
+    "s2.city16.line07",
+    "s2.city16.line08",
+    "s2.city16.line09",
+    "s2.city16.line10",
+    "s2.city16.line11",
+    "s2.city16.line12",
+    "s2.city16.line13",
+    "s2.city16.line14",
+    "s2.city16.line15",
+    "s2.city16.line16",
+    "s2.city16.line17",
+    "s2.city16.line18",
+    "s2.city16.line19",
+    "s2.city16.line20",
+    "s2.city16.line21",
+    "s2.city16.line22",
+    "s2.city16.line23",
+    "s2.city16.line24",
+    "s2.city16.line25",
+    "s2.city16.line26",
+    "s2.city16.line27",
+    "s2.city16.line28",
+    "s2.city16.line29",
+    "s2.city16.line30",
+    "s2.city16.line31",
+    "s2.city17.line00",
+    "s2.city17.line01",
+    "s2.city17.line02",
+    "s2.city17.line03",
+    "s2.city17.line04",
+    "s2.city17.line05",
+    "s2.city17.line06",
+    "s2.city17.line07",
+    "s2.city17.line08",
+    "s2.city17.line09",
+    "s2.city17.line10",
+    "s2.city17.line11",
+    "s2.city17.line12",
+    "s2.city17.line13",
+    "s2.city17.line14",
+    "s2.city17.line15",
+    "s2.city17.line16",
+    "s2.city17.line17",
+    "s2.city17.line18",
+    "s2.city17.line19",
+    "s2.city17.line20",
+    "s2.city17.line21",
+    "s2.city17.line22",
+    "s2.city17.line23",
+    "s2.city17.line24",
+    "s2.city17.line25",
+    "s2.city17.line26",
+    "s2.city17.line27",
+    "s2.city17.line28",
+    "s2.city17.line29",
+    "s2.city17.line30",
+    "s2.city17.line31",
+    "s2.city18.line00",
+    "s2.city18.line01",
+    "s2.city18.line02",
+    "s2.city18.line03",
+    "s2.city18.line04",
+    "s2.city18.line05",
+    "s2.city18.line06",
+    "s2.city18.line07",
+    "s2.city18.line08",
+    "s2.city18.line09",
+    "s2.city18.line10",
+    "s2.city18.line11",
+    "s2.city18.line12",
+    "s2.city18.line13",
+    "s2.city18.line14",
+    "s2.city18.line15",
+    "s2.city18.line16",
+    "s2.city18.line17",
+    "s2.city18.line18",
+    "s2.city18.line19",
+    "s2.city18.line20",
+    "s2.city18.line21",
+    "s2.city18.line22",
+    "s2.city18.line23",
+    "s2.city18.line24",
+    "s2.city18.line25",
+    "s2.city18.line26",
+    "s2.city18.line27",
+    "s2.city18.line28",
+    "s2.city18.line29",
+    "s2.city18.line30",
+    "s2.city18.line31",
+    "s2.city19.line00",
+    "s2.city19.line01",
+    "s2.city19.line02",
+    "s2.city19.line03",
+    "s2.city19.line04",
+    "s2.city19.line05",
+    "s2.city19.line06",
+    "s2.city19.line07",
+    "s2.city19.line08",
+    "s2.city19.line09",
+    "s2.city19.line10",
+    "s2.city19.line11",
+    "s2.city19.line12",
+    "s2.city19.line13",
+    "s2.city19.line14",
+    "s2.city19.line15",
+    "s2.city19.line16",
+    "s2.city19.line17",
+    "s2.city19.line18",
+    "s2.city19.line19",
+    "s2.city19.line20",
+    "s2.city19.line21",
+    "s2.city19.line22",
+    "s2.city19.line23",
+    "s2.city19.line24",
+    "s2.city19.line25",
+    "s2.city19.line26",
+    "s2.city19.line27",
+    "s2.city19.line28",
+    "s2.city19.line29",
+    "s2.city20.line00",
+    "s2.city20.line01",
+    "s2.city20.line02",
+    "s2.city20.line03",
+    "s2.city20.line04",
+    "s2.city20.line05",
+    "s2.city20.line06",
+    "s2.city20.line07",
+    "s2.city20.line08",
+    "s2.city20.line09",
+    "s2.city20.line10",
+    "s2.city20.line11",
+    "s2.city20.line12",
+    "s2.city20.line13",
+    "s2.city20.line14",
+    "s2.city20.line15",
+    "s2.city20.line16",
+    "s2.city20.line17",
+    "s2.city20.line18",
+    "s2.city20.line19",
+    "s2.city20.line20",
+    "s2.city20.line21",
+    "s2.city20.line22",
+    "s2.city20.line23",
+    "s2.city20.line24",
+    "s2.city20.line25",
+    "s2.city20.line26",
+    "s2.city20.line27",
+    "s2.city20.line28",
+    "s2.city20.line29",
+    "s2.city20.line30",
+    "s2.city21.line00",
+    "s2.city21.line01",
+    "s2.city21.line02",
+    "s2.city21.line03",
+    "s2.city21.line04",
+    "s2.city21.line05",
+    "s2.city21.line06",
+    "s2.city21.line07",
+    "s2.city21.line08",
+    "s2.city21.line09",
+    "s2.city21.line10",
+    "s2.city21.line11",
+    "s2.city21.line12",
+    "s2.city21.line13",
+    "s2.city21.line14",
+    "s2.city21.line15",
+    "s2.city21.line16",
+    "s2.city21.line17",
+    "s2.city21.line18",
+    "s2.city21.line19",
+    "s2.city21.line20",
+    "s2.city21.line21",
+    "s2.city21.line22",
+    "s2.city21.line23",
+    "s2.city21.line24",
+    "s2.city21.line25",
+    "s2.city21.line26",
+    "s2.city21.line27",
+    "s2.city21.line28",
+    "s2.city21.line29",
+    "s2.city22.line00",
+    "s2.city22.line01",
+    "s2.city22.line02",
+    "s2.city22.line03",
+    "s2.city22.line04",
+    "s2.city22.line05",
+    "s2.city22.line06",
+    "s2.city22.line07",
+    "s2.city22.line08",
+    "s2.city22.line09",
+    "s2.city22.line10",
+    "s2.city22.line11",
+    "s2.city22.line12",
+    "s2.city22.line13",
+    "s2.city22.line14",
+    "s2.city22.line15",
+    "s2.city22.line16",
+    "s2.city22.line17",
+    "s2.city22.line18",
+    "s2.city22.line19",
+    "s2.city22.line20",
+    "s2.city22.line21",
+    "s2.city22.line22",
+    "s2.city22.line23",
+    "s2.city22.line24",
+    "s2.city22.line25",
+    "s2.city22.line26",
+    "s2.city22.line27",
+    "s2.city22.line28",
+    "s2.city22.line29",
+    "s2.city22.line30",
+    "s2.city23.line00",
+    "s2.city23.line01",
+    "s2.city23.line02",
+    "s2.city23.line03",
+    "s2.city23.line04",
+    "s2.city23.line05",
+    "s2.city23.line06",
+    "s2.city23.line07",
+    "s2.city23.line08",
+    "s2.city23.line09",
+    "s2.city23.line10",
+    "s2.city23.line11",
+    "s2.city23.line12",
+    "s2.city23.line13",
+    "s2.city23.line14",
+    "s2.city23.line15",
+    "s2.city23.line16",
+    "s2.city23.line17",
+    "s2.city23.line18",
+    "s2.city23.line19",
+    "s2.city23.line20",
+    "s2.city23.line21",
+    "s2.city23.line22",
+    "s2.city23.line23",
+    "s2.city23.line24",
+    "s2.city23.line25",
+    "s2.city23.line26",
+    "s2.city23.line27",
+    "s2.city23.line28",
+    "s2.city23.line29",
+    "s2.city23.line30",
+    "s2.city24.line00",
+    "s2.city24.line01",
+    "s2.city24.line02",
+    "s2.city24.line03",
+    "s2.city24.line04",
+    "s2.city24.line05",
+    "s2.city24.line06",
+    "s2.city24.line07",
+    "s2.city24.line08",
+    "s2.city24.line09",
+    "s2.city24.line10",
+    "s2.city24.line11",
+    "s2.city24.line12",
+    "s2.city24.line13",
+    "s2.city24.line14",
+    "s2.city24.line15",
+    "s2.city24.line16",
+    "s2.city24.line17",
+    "s2.city24.line18",
+    "s2.city24.line19",
+    "s2.city24.line20",
+    "s2.city24.line21",
+    "s2.city24.line22",
+    "s2.city24.line23",
+    "s2.city24.line24",
+    "s2.city24.line25",
+    "s2.city24.line26",
+    "s2.city24.line27",
+    "s2.city24.line28",
+    "s2.city24.line29",
+    "s2.city24.line30",
+    "s2.city25.line00",
+    "s2.city25.line01",
+    "s2.city25.line02",
+    "s2.city25.line03",
+    "s2.city25.line04",
+    "s2.city25.line05",
+    "s2.city25.line06",
+    "s2.city25.line07",
+    "s2.city25.line08",
+    "s2.city25.line09",
+    "s2.city25.line10",
+    "s2.city25.line11",
+    "s2.city25.line12",
+    "s2.city25.line13",
+    "s2.city25.line14",
+    "s2.city25.line15",
+    "s2.city25.line16",
+    "s2.city25.line17",
+    "s2.city25.line18",
+    "s2.city25.line19",
+    "s2.city25.line20",
+    "s2.city25.line21",
+    "s2.city25.line22",
+    "s2.city25.line23",
+    "s2.city25.line24",
+    "s2.city25.line25",
+    "s2.city25.line26",
+    "s2.city25.line27",
+    "s2.city25.line28",
+    "s2.city25.line29",
+    "s2.city25.line30",
+    "s2.city26.line00",
+    "s2.city26.line01",
+    "s2.city26.line02",
+    "s2.city26.line03",
+    "s2.city26.line04",
+    "s2.city26.line05",
+    "s2.city26.line06",
+    "s2.city26.line07",
+    "s2.city26.line08",
+    "s2.city26.line09",
+    "s2.city26.line10",
+    "s2.city26.line11",
+    "s2.city26.line12",
+    "s2.city26.line13",
+    "s2.city26.line14",
+    "s2.city26.line15",
+    "s2.city26.line16",
+    "s2.city26.line17",
+    "s2.city26.line18",
+    "s2.city26.line19",
+    "s2.city26.line20",
+    "s2.city26.line21",
+    "s2.city26.line22",
+    "s2.city26.line23",
+    "s2.city26.line24",
+    "s2.city26.line25",
+    "s2.city26.line26",
+    "s2.city27.line00",
+    "s2.city27.line01",
+    "s2.city27.line02",
+    "s2.city27.line03",
+    "s2.city27.line04",
+    "s2.city27.line05",
+    "s2.city27.line06",
+    "s2.city27.line07",
+    "s2.city27.line08",
+    "s2.city27.line09",
+    "s2.city27.line10",
+    "s2.city27.line11",
+    "s2.city27.line12",
+    "s2.city27.line13",
+    "s2.city27.line14",
+    "s2.city27.line15",
+    "s2.city27.line16",
+    "s2.city27.line17",
+    "s2.city27.line18",
+    "s2.city27.line19",
+    "s2.city27.line20",
+    "s2.city27.line21",
+    "s2.city27.line22",
+    "s2.city27.line23",
+    "s2.city27.line24",
+    "s2.city27.line25",
+    "s2.city27.line26",
+    "s2.city27.line27",
+    "s2.city27.line28",
+    "s2.city27.line29",
+    "s2.city27.line30",
+    "s2.city28.line00",
+    "s2.city28.line01",
+    "s2.city28.line02",
+    "s2.city28.line03",
+    "s2.city28.line04",
+    "s2.city28.line05",
+    "s2.city28.line06",
+    "s2.city28.line07",
+    "s2.city28.line08",
+    "s2.city28.line09",
+    "s2.city28.line10",
+    "s2.city28.line11",
+    "s2.city28.line12",
+    "s2.city28.line13",
+    "s2.city28.line14",
+    "s2.city28.line15",
+    "s2.city28.line16",
+    "s2.city28.line17",
+    "s2.city28.line18",
+    "s2.city28.line19",
+    "s2.city28.line20",
+    "s2.city28.line21",
+    "s2.city28.line22",
+    "s2.city28.line23",
+    "s2.city28.line24",
+    "s2.city28.line25",
+    "s2.city28.line26",
+    "s2.city28.line27",
+    "s2.city28.line28",
+    "s2.city28.line29",
+    "s2.city29.line00",
+    "s2.city29.line01",
+    "s2.city29.line02",
+    "s2.city29.line03",
+    "s2.city29.line04",
+    "s2.city29.line05",
+    "s2.city29.line06",
+    "s2.city29.line07",
+    "s2.city29.line08",
+    "s2.city29.line09",
+    "s2.city29.line10",
+    "s2.city29.line11",
+    "s2.city29.line12",
+    "s2.city29.line13",
+    "s2.city29.line14",
+    "s2.city29.line15",
+    "s2.city29.line16",
+    "s2.city29.line17",
+    "s2.city29.line18",
+    "s2.city29.line19",
+    "s2.city29.line20",
+    "s2.city29.line21",
+    "s2.city29.line22",
+    "s2.city29.line23",
+    "s2.city29.line24",
+    "s2.city29.line25",
+    "s2.city29.line26",
+    "s2.city29.line27",
+    "s2.city29.line28",
+    "s2.city29.line29",
+    "s2.city29.line30",
+    "s2.city29.line31",
+    "s2.city29.line32",
+    "s2.city29.line33",
+    "s2.city29.line34",
+    "s2.city29.line35",
+    "s2.city29.line36",
+    "s2.city29.line37",
+    "s2.city29.line38"
+  ],
+  "investigation_combinations_measured": 53856,
+  "retained_outside_selector_previews": [
+    {
+      "id": "s2.city03.line28",
+      "female": false,
+      "text": "그는 암시장의 바트.",
+      "layout": {
+        "lines": [
+          "그는 암시장의 바트."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 34,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city03.line28",
+      "female": true,
+      "text": "그녀는 암시장의 바트.",
+      "layout": {
+        "lines": [
+          "그녀는 암시장의 바트."
+        ],
+        "line_count": 1,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 34,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city03.line29",
+      "female": false,
+      "text": "그는 왕과 함께 항해할 계획이었다.",
+      "layout": {
+        "lines": [
+          "그는 왕과 함께 항해할",
+          "계획이었다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city03.line29",
+      "female": true,
+      "text": "그녀는 왕과 함께 항해할 계획이었다.",
+      "layout": {
+        "lines": [
+          "그녀는 왕과 함께 항해할",
+          "계획이었다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city03.line30",
+      "female": false,
+      "text": "그는 빨간색, 흰색, 파란색 깃발을 단 차량을 타고 떠났다.",
+      "layout": {
+        "lines": [
+          "그는 빨간색, 흰색, 파란색",
+          "깃발을 단 차량을 타고",
+          "떠났다."
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 54,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city03.line30",
+      "female": true,
+      "text": "그녀는 빨간색, 흰색, 파란색 깃발을 단 차량을 타고 떠났다.",
+      "layout": {
+        "lines": [
+          "그녀는 빨간색, 흰색, 파란색",
+          "깃발을 단 차량을 타고",
+          "떠났다."
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 54,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city12.line28",
+      "female": false,
+      "text": "그는 빨간색, 흰색, 파란색 깃발을 단 차량을 타고 떠났다.",
+      "layout": {
+        "lines": [
+          "그는 빨간색, 흰색, 파란색",
+          "깃발을 단 차량을 타고",
+          "떠났다."
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 54,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city12.line28",
+      "female": true,
+      "text": "그녀는 빨간색, 흰색, 파란색 깃발을 단 차량을 타고 떠났다.",
+      "layout": {
+        "lines": [
+          "그녀는 빨간색, 흰색, 파란색",
+          "깃발을 단 차량을 타고",
+          "떠났다."
+        ],
+        "line_count": 3,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 54,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city12.line29",
+      "female": false,
+      "text": "그는 자신이 총리와 훈제 청어를 먹을 계획이라고 했다.",
+      "layout": {
+        "lines": [
+          "그는 자신이 총리와 훈제",
+          "청어를 먹을 계획이라고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city12.line29",
+      "female": true,
+      "text": "그녀는 자신이 총리와 훈제 청어를 먹을 계획이라고 했다.",
+      "layout": {
+        "lines": [
+          "그녀는 자신이 총리와 훈제",
+          "청어를 먹을 계획이라고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line30",
+      "female": false,
+      "text": "그는 빨간색과 흰색 깃발을 단 차량을 타고 떠났다.",
+      "layout": {
+        "lines": [
+          "그는 빨간색과 흰색 깃발을 단",
+          "차량을 타고 떠났다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line30",
+      "female": true,
+      "text": "그녀는 빨간색과 흰색 깃발을 단 차량을 타고 떠났다.",
+      "layout": {
+        "lines": [
+          "그녀는 빨간색과 흰색 깃발을",
+          "단 차량을 타고 떠났다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line31",
+      "female": false,
+      "text": "그는 자신이 쌀값이 비싼 나라로 가고 싶다고 했다.",
+      "layout": {
+        "lines": [
+          "그는 자신이 쌀값이 비싼",
+          "나라로 가고 싶다고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line31",
+      "female": true,
+      "text": "그녀는 자신이 쌀값이 비싼 나라로 가고 싶다고 했다.",
+      "layout": {
+        "lines": [
+          "그녀는 자신이 쌀값이 비싼",
+          "나라로 가고 싶다고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line32",
+      "female": false,
+      "text": "그는 전자 회사에 투자하고 싶어 했다.",
+      "layout": {
+        "lines": [
+          "그는 전자 회사에 투자하고",
+          "싶어 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line32",
+      "female": true,
+      "text": "그녀는 전자 회사에 투자하고 싶어 했다.",
+      "layout": {
+        "lines": [
+          "그녀는 전자 회사에 투자하고",
+          "싶어 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line33",
+      "female": false,
+      "text": "그는 자동차 수출에 관심이 있었다.",
+      "layout": {
+        "lines": [
+          "그는 자동차 수출에 관심이",
+          "있었다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line33",
+      "female": true,
+      "text": "그녀는 자동차 수출에 관심이 있었다.",
+      "layout": {
+        "lines": [
+          "그녀는 자동차 수출에 관심이",
+          "있었다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line34",
+      "female": false,
+      "text": "그는 자신이 쌀 시장을 독점할 계획이라고 했다.",
+      "layout": {
+        "lines": [
+          "그는 자신이 쌀 시장을 독점할",
+          "계획이라고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line34",
+      "female": true,
+      "text": "그녀는 자신이 쌀 시장을 독점할 계획이라고 했다.",
+      "layout": {
+        "lines": [
+          "그녀는 자신이 쌀 시장을",
+          "독점할 계획이라고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line35",
+      "female": false,
+      "text": "그는 자신이 전자 산업에 거액을 투자했다고 했다.",
+      "layout": {
+        "lines": [
+          "그는 자신이 전자 산업에",
+          "거액을 투자했다고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line35",
+      "female": true,
+      "text": "그녀는 자신이 전자 산업에 거액을 투자했다고 했다.",
+      "layout": {
+        "lines": [
+          "그녀는 자신이 전자 산업에",
+          "거액을 투자했다고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line36",
+      "female": false,
+      "text": "그는 자동차 공장에 투자하고 싶어 했다.",
+      "layout": {
+        "lines": [
+          "그는 자동차 공장에 투자하고",
+          "싶어 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line36",
+      "female": true,
+      "text": "그녀는 자동차 공장에 투자하고 싶어 했다.",
+      "layout": {
+        "lines": [
+          "그녀는 자동차 공장에",
+          "투자하고 싶어 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line37",
+      "female": false,
+      "text": "그는 빨간색과 흰색 깃발을 단 차량을 타고 떠났다.",
+      "layout": {
+        "lines": [
+          "그는 빨간색과 흰색 깃발을 단",
+          "차량을 타고 떠났다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line37",
+      "female": true,
+      "text": "그녀는 빨간색과 흰색 깃발을 단 차량을 타고 떠났다.",
+      "layout": {
+        "lines": [
+          "그녀는 빨간색과 흰색 깃발을",
+          "단 차량을 타고 떠났다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line38",
+      "female": false,
+      "text": "그는 자신이 천황과 차를 마실 예정이라고 했다.",
+      "layout": {
+        "lines": [
+          "그는 자신이 천황과 차를 마실",
+          "예정이라고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    },
+    {
+      "id": "s2.city29.line38",
+      "female": true,
+      "text": "그녀는 자신이 천황과 차를 마실 예정이라고 했다.",
+      "layout": {
+        "lines": [
+          "그녀는 자신이 천황과 차를",
+          "마실 예정이라고 했다."
+        ],
+        "line_count": 2,
+        "hard_breaks": [],
+        "final_empty_line": false
+      },
+      "last_pixel_row_exclusive": 44,
+      "context": "Retained original nonempty tail outside this city row's native selector range; not a live-choice claim"
+    }
+  ],
+  "long_ascii_name": {
+    "lines": [
+      "WWWWWWWWWWW",
+      "WWWW"
+    ],
+    "line_count": 2,
+    "hard_breaks": [
+      11
+    ],
+    "final_empty_line": false
+  },
+  "required_runtime_changes": [
+    "Decode glyphs before native control classification and glyph lookup",
+    "Disable English S2 dictionary expansion for Korean payloads",
+    "Use UI 105 for female object pronouns as well as male object pronouns",
+    "Synchronize C/N append-page cursors and remove the English plural instruction span",
+    "Bound glyph wrapping for oversized unspaced ASCII/Hangul fixtures; retain the original input pixel-width limit",
+    "Prove font/helper bank ownership and clock/bitmap lettering layouts in MAME"
+  ],
+  "status": "pass; static city/trait bounds only; dynamic-message and native evidence are recorded separately"
+}

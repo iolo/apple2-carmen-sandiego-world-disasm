@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "status": "pass",
+  "session": "mame-mailbox-smoke-01",
+  "profile": {
+    "command": [
+      "/usr/games/mame",
+      "apple2e",
+      "-noreadconfig",
+      "-rompath",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01/roms;/home/iolo/workspace/retro/a2x/mame/roms",
+      "-aux",
+      "ext80",
+      "-ramsize",
+      "64K",
+      "-sl7",
+      "cffa202",
+      "-hard1",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01/carmen-world.hdv",
+      "-pluginspath",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/tools/korean/mame_plugins;/usr/share/games/mame/plugins",
+      "-plugin",
+      "carmen_mailbox",
+      "-skip_gameinfo",
+      "-window",
+      "-nomouse",
+      "-nothrottle",
+      "-homepath",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01",
+      "-video",
+      "none",
+      "-sound",
+      "none",
+      "-debug",
+      "-debugger",
+      "qt",
+      "-cfg_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01/cfg_directory",
+      "-nvram_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01/nvram_directory",
+      "-snapshot_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01/snapshot_directory",
+      "-state_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01/state_directory",
+      "-diff_directory",
+      "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01/diff_directory"
+    ],
+    "machine": "apple2e",
+    "pid": 379685,
+    "main_kib": 64,
+    "auxiliary_kib": 64,
+    "aux_card": "ext80",
+    "controller": "cffa202",
+    "image_source": "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/carmen-world.po",
+    "image_sha256": "00d0c21b489431ced3b0577248f1c8bf09daf1117b53eb034d985b40ce9e69d9",
+    "cffa_sha256": "3d7f6918f9af3828f5a6299299a817df0d354ee62e547bc0238755de66162a88",
+    "note": "Disposable media; saves must not touch original images or English build output"
+  },
+  "ready": {
+    "ok": true,
+    "version": "0.285",
+    "driver": "apple2e",
+    "transport": "workspace-file-mailbox"
+  },
+  "transport": "workspace JSON files; no stdin, terminal or network control",
+  "checks": [
+    "automatic startup while debugger stopped",
+    "arbitrary Lua return value",
+    "register read",
+    "breakpoint creation and actual stop at R initialization",
+    "runtime and syntax errors produce receipts without disabling the transport",
+    "ordinary pause",
+    "screenshot",
+    "owned exit without a console wakeup"
+  ],
+  "sources": {
+    "mame.py": "ebb1674f576cf740c015a467a746d794b5463e4e2919f1937f78c230abd58661",
+    "mame_rpc.py": "083e0bda674841e0053c52859767d6ca4d64d42ee79c1d308adc951a26ff45ad",
+    "mailbox_smoke.py": "4596f9d40e8b07ba9ebab66a23cc5acfdbd892e869c983fe9c4b7ce08a33f7a3",
+    "mame_plugins/carmen_mailbox/init.lua": "d6471ddc31510d1a4a927cd77b0da6749ccd3c85c80453bf92f7313c332f6c5a",
+    "mame_plugins/carmen_mailbox/plugin.json": "69d1e7b1307ec173e291bb2d9cf6d096ac040ef368d7e26e3b88e4f3712b01fe"
+  },
+  "receipts": [
+    {
+      "ok": true,
+      "id": "c25b557fa4f5470594a64747c0547370",
+      "result": {
+        "paused": false,
+        "version": "0.285",
+        "time": 7.829320806416e-06,
+        "driver": "apple2e",
+        "debugger": "stop"
+      }
+    },
+    {
+      "ok": true,
+      "id": "f719f48abf6d4e2daa9ace9744c0e690",
+      "result": 42
+    },
+    {
+      "ok": true,
+      "id": "ff3e0f148b0b4864a35d3caa92dec515",
+      "result": {
+        "CURFLAGS": 54,
+        "GENPC": 64098,
+        "P": 54,
+        "Y": 0,
+        "PC": 64098,
+        "IR": 216,
+        "SP": 509,
+        "CURPC": 64098,
+        "A": 0,
+        "X": 128
+      }
+    },
+    {
+      "ok": true,
+      "id": "6528bac456c94a02b072fed14b89c503",
+      "result": {
+        "id": 1
+      }
+    },
+    {
+      "ok": true,
+      "id": "f802f84c482046518adeffd41136fe7b",
+      "result": {
+        "scheduled": "go"
+      }
+    },
+    {
+      "ok": true,
+      "id": "6ce6d67a9f1b4a3f873eb60e160dcbc1",
+      "result": {
+        "paused": false,
+        "version": "0.285",
+        "time": 0.01666666666659,
+        "driver": "apple2e",
+        "debugger": "run"
+      }
+    },
+    {
+      "ok": true,
+      "id": "7a1a0af4209543f7b2636754fcaf3f86",
+      "result": {
+        "paused": false,
+        "version": "0.285",
+        "time": 2.9333333333198,
+        "driver": "apple2e",
+        "debugger": "run"
+      }
+    },
+    {
+      "ok": true,
+      "id": "a182f554ea204506a21d1af29ca9e5cf",
+      "result": {
+        "paused": false,
+        "version": "0.285",
+        "time": 4.7878528087664,
+        "driver": "apple2e",
+        "debugger": "stop"
+      }
+    },
+    {
+      "ok": true,
+      "id": "3b7a90636903434d8203dd131fd24367",
+      "result": {
+        "CURFLAGS": 54,
+        "GENPC": 24604,
+        "P": 54,
+        "Y": 0,
+        "PC": 24604,
+        "IR": 32,
+        "SP": 511,
+        "CURPC": 24604,
+        "A": 255,
+        "X": 0
+      }
+    },
+    {
+      "ok": false,
+      "id": "44e66957d49f4f7d873d1bfb39635a45",
+      "error": "[string \"mailbox:44e66957d49f4f7d873d1bfb39635a45\"]:1: intentional mailbox smoke error"
+    },
+    {
+      "ok": false,
+      "id": "3b27f9a04c7f4518b27b498a43ac9720",
+      "error": "...disasm/tools/korean/mame_plugins/carmen_mailbox/init.lua:55: [string \"mailbox:3b27f9a04c7f4518b27b498a43ac9720\"]:1: unexpected symbol near ')'"
+    },
+    {
+      "ok": true,
+      "id": "e0e843bcb748493f95c5ff91b30df3da",
+      "result": {
+        "paused": false,
+        "version": "0.285",
+        "time": 4.7878528087664,
+        "driver": "apple2e",
+        "debugger": "stop"
+      }
+    },
+    {
+      "ok": true,
+      "id": "b9d22ed4e63444f4845a10602ac3e24e",
+      "result": {
+        "paused": true,
+        "version": "0.285",
+        "time": 4.7878528087664,
+        "driver": "apple2e",
+        "debugger": "stop"
+      }
+    },
+    {
+      "ok": true,
+      "id": "64dc083b0e23443fa35550efcec3b3ae",
+      "result": {
+        "paused": true,
+        "version": "0.285",
+        "time": 4.7878528087664,
+        "driver": "apple2e",
+        "debugger": "stop"
+      }
+    },
+    {
+      "ok": true,
+      "id": "958e9f93d149463180b6085f654f9451",
+      "result": {
+        "path": "/home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/korean/mame-mailbox-smoke-01/mailbox-proof.png"
+      }
+    },
+    {
+      "ok": true,
+      "id": "d0a768617945437dad5917579fa8179f",
+      "result": {
+        "cleared": true
+      }
+    },
+    {
+      "ok": true,
+      "id": "d8e3922d80274f518639315e7dba21c0",
+      "result": {
+        "scheduled": "exit"
+      }
+    }
+  ],
+  "screenshot_sha256": "adaf1dd17fff5caf8cccca3e0f9d67b79d556484dce3cf74b4d8363142d39859",
+  "exit_code": 0
+}

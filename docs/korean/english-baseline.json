@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "original_inputs": {
+    "manifest_sha256": "ceff8224d042e93979e52d986fb31097c9ff3f3e5e60a16f714907b8a5c6116b",
+    "images": {
+      "disk1": {
+        "path": "carmen-world-disk1.dsk",
+        "sha256": "d322484a14f53ab9ed0bc8e3ac2b046250d775dd52eb956dbac578e13912afd2",
+        "verified_extracted_files": 21
+      },
+      "disk2": {
+        "path": "carmen-world-disk2.dsk",
+        "sha256": "caf57f337eeb72860aa51e993b9ea99d9bd2b76a2bb8f49c4cf36d462a71800e",
+        "verified_extracted_files": 2
+      },
+      "po": {
+        "path": "carmen-world.po",
+        "sha256": "d9557dfed56f35de21350b3bbcddcd38af99a1629ffc80a578fef797dda9a091",
+        "verified_extracted_files": 25
+      }
+    }
+  },
+  "commands": [
+    {
+      "command": [
+        "make",
+        "check"
+      ],
+      "exit_code": 0,
+      "output": "python3 tools/reconstruct.py build\nbuilt build/carmen-world-disk1.dsk\nbuilt build/carmen-world-disk2.dsk\nbuilt build/carmen-world.po\npython3 tools/reconstruct.py check\nchecked disk1: 21 files\nchecked disk2: 2 files\nchecked po: 25 files\nall rebuilt game files match their source files and required ProDOS metadata\n"
+    },
+    {
+      "command": [
+        "make",
+        "test"
+      ],
+      "exit_code": 0,
+      "output": "python3 -m unittest discover -s tools -p 'test_*.py'\n..................................\n----------------------------------------------------------------------\nRan 34 tests in 1.792s\n\nOK\n"
+    },
+    {
+      "command": [
+        "make",
+        "smoke"
+      ],
+      "exit_code": 0,
+      "output": "python3 tools/reconstruct.py smoke\nrunning mame apple2e -flop1 /home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/carmen-world-disk1.dsk -flop2 /home/iolo/workspace/retro/apple2-carmen-sandiego-world-disasm/build/carmen-world-disk2.dsk -video none -sound none -nothrottle -seconds_to_run 20 -rompath /home/iolo/workspace/retro/a2x/mame/roms\nAverage speed: 3369.60% (19 seconds)\n\nMAME ran the rebuilt floppy pair for 20 emulated seconds; gameplay remains to be checked interactively\n"
+    }
+  ],
+  "rebuilt_po_sha256": "4486e3b6efb24b0bf1372be2dc457506685d5e7712b2471c6078ef5c396be9fa",
+  "limits": [
+    "smoke covers the floppy pair; 800K gameplay needs runtime evidence",
+    "disk allocation and unused blocks may differ from originals"
+  ]
+}

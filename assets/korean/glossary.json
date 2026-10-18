@@ -1,0 +1,901 @@
+{
+  "format": 1,
+  "status": "draft",
+  "language": "ko",
+  "normalization": "NFC",
+  "policies": {
+    "geography": "Preserve period borders, currencies and names, including the Soviet Union, Yugoslavia and Czechoslovakia. Do not add a destination name when the original gives only a geographic clue.",
+    "voice": {
+      "interface": "Polite, direct instructions and concise labels.",
+      "city_descriptions": "Concise encyclopedic prose ending in -다.",
+      "clue_fragments": "Reported past tense, without a final period when N adds it."
+    },
+    "input": "Detective names stay ASCII, at most 15 characters. Preserve Y/N, Return/Escape and Control-D. Keep the original 15-entry English name blacklist separately from translated display names. The original glyph-start byte-column limit of 16 also remains; wide names can stop before 15 characters.",
+    "weekdays": "Clock uses one-syllable weekday stems. All weekday suffixes become empty; C UI 071 supplies 요일, in full deadline messages.",
+    "promotion_counter": "One/Two/Three/Four use 한/두/세/네 before 건. Remove N inline plural s and its append cursor increment; do not emit a Korean plural suffix.",
+    "embedded_pronouns": "Outer He/She prefixes retain 그는/그녀는. Embedded subject/object markers refer to the same suspect and use reflexive 자신; possessive uses 자신의. Keep #/@/^ markers and the game sex selection.",
+    "female_object_branch": "English her is shared by possessive @ and object ^ at C UI 104. K4 must route female ^ to the distinct object text at UI 105; a possessive must not appear in an object context.",
+    "real_creator_names": "Retain original Roman spelling in creator credits, including DANE BIGHAM, GENE PORTWOOD, LAUREN ELLIOTT and KEN BULL."
+  },
+  "names": {
+    "cities": [
+      {
+        "english": "Athens",
+        "korean": "아테네"
+      },
+      {
+        "english": "Baghdad",
+        "korean": "바그다드"
+      },
+      {
+        "english": "Bamako",
+        "korean": "바마코"
+      },
+      {
+        "english": "Bangkok",
+        "korean": "방콕"
+      },
+      {
+        "english": "Budapest",
+        "korean": "부다페스트"
+      },
+      {
+        "english": "Buenos Aires",
+        "korean": "부에노스아이레스"
+      },
+      {
+        "english": "Cairo",
+        "korean": "카이로"
+      },
+      {
+        "english": "Colombo",
+        "korean": "콜롬보"
+      },
+      {
+        "english": "Istanbul",
+        "korean": "이스탄불"
+      },
+      {
+        "english": "Kathmandu",
+        "korean": "카트만두"
+      },
+      {
+        "english": "Kigali",
+        "korean": "키갈리"
+      },
+      {
+        "english": "Lima",
+        "korean": "리마"
+      },
+      {
+        "english": "London",
+        "korean": "런던"
+      },
+      {
+        "english": "Mexico City",
+        "korean": "멕시코시티"
+      },
+      {
+        "english": "Montreal",
+        "korean": "몬트리올"
+      },
+      {
+        "english": "Moroni",
+        "korean": "모로니"
+      },
+      {
+        "english": "Moscow",
+        "korean": "모스크바"
+      },
+      {
+        "english": "New Delhi",
+        "korean": "뉴델리"
+      },
+      {
+        "english": "New York",
+        "korean": "뉴욕"
+      },
+      {
+        "english": "Oslo",
+        "korean": "오슬로"
+      },
+      {
+        "english": "Paris",
+        "korean": "파리"
+      },
+      {
+        "english": "Beijing",
+        "korean": "베이징"
+      },
+      {
+        "english": "Port Moresby",
+        "korean": "포트모르즈비"
+      },
+      {
+        "english": "Reykjavik",
+        "korean": "레이캬비크"
+      },
+      {
+        "english": "Rio de Janeiro",
+        "korean": "리우데자네이루"
+      },
+      {
+        "english": "Rome",
+        "korean": "로마"
+      },
+      {
+        "english": "San Marino",
+        "korean": "산마리노"
+      },
+      {
+        "english": "Singapore",
+        "korean": "싱가포르"
+      },
+      {
+        "english": "Sydney",
+        "korean": "시드니"
+      },
+      {
+        "english": "Tokyo",
+        "korean": "도쿄"
+      }
+    ],
+    "suspects": [
+      {
+        "english": "Carmen Sandiego",
+        "korean": "카르멘 샌디에고"
+      },
+      {
+        "english": "Merey LaRoc",
+        "korean": "메리 라로크"
+      },
+      {
+        "english": "Dazzle Annie",
+        "korean": "대즐 애니"
+      },
+      {
+        "english": "Lady Agatha",
+        "korean": "레이디 애거사"
+      },
+      {
+        "english": "Katherine Drib",
+        "korean": "캐서린 드리브"
+      },
+      {
+        "english": "Len Bulk",
+        "korean": "렌 벌크"
+      },
+      {
+        "english": "Scar Graynolt",
+        "korean": "스카 그레이놀트"
+      },
+      {
+        "english": "Nick Brunch",
+        "korean": "닉 브런치"
+      },
+      {
+        "english": "Fast Eddie B",
+        "korean": "날쌘 에디 B"
+      },
+      {
+        "english": "Ihor Ihorovitch",
+        "korean": "이호르 이호로비치"
+      }
+    ],
+    "detective_ranks": [
+      {
+        "english": "Rookie",
+        "korean": "신참 탐정"
+      },
+      {
+        "english": "Sleuth",
+        "korean": "탐정"
+      },
+      {
+        "english": "Private Eye",
+        "korean": "사립 탐정"
+      },
+      {
+        "english": "Investigator",
+        "korean": "수사관"
+      },
+      {
+        "english": "Ace Detective",
+        "korean": "명탐정"
+      },
+      {
+        "english": "Super Sleuth",
+        "korean": "최고 명탐정"
+      }
+    ],
+    "weekdays": [
+      {
+        "english": "Mon",
+        "korean": "월"
+      },
+      {
+        "english": "Tues",
+        "korean": "화"
+      },
+      {
+        "english": "Wed",
+        "korean": "수"
+      },
+      {
+        "english": "Thur",
+        "korean": "목"
+      },
+      {
+        "english": "Fri",
+        "korean": "금"
+      },
+      {
+        "english": "Sat",
+        "korean": "토"
+      },
+      {
+        "english": "Sun",
+        "korean": "일"
+      }
+    ],
+    "weekday_suffixes": [
+      {
+        "english": "",
+        "korean": ""
+      },
+      {
+        "english": "",
+        "korean": ""
+      },
+      {
+        "english": "nes",
+        "korean": ""
+      },
+      {
+        "english": "s",
+        "korean": ""
+      },
+      {
+        "english": "",
+        "korean": ""
+      },
+      {
+        "english": "ur",
+        "korean": ""
+      },
+      {
+        "english": "",
+        "korean": ""
+      }
+    ]
+  },
+  "clues": {
+    "sex": [
+      {
+        "english": "Male",
+        "korean": "남성"
+      },
+      {
+        "english": "Female",
+        "korean": "여성"
+      }
+    ],
+    "hobbies": [
+      {
+        "english": "Tennis",
+        "korean": "테니스"
+      },
+      {
+        "english": "Music",
+        "korean": "음악"
+      },
+      {
+        "english": "Mt.Climbing",
+        "korean": "등산"
+      },
+      {
+        "english": "Skydiving",
+        "korean": "스카이다이빙"
+      },
+      {
+        "english": "Swimming",
+        "korean": "수영"
+      },
+      {
+        "english": "Croquet",
+        "korean": "크로케"
+      }
+    ],
+    "hair": [
+      {
+        "english": "Brown",
+        "korean": "갈색"
+      },
+      {
+        "english": "Blond",
+        "korean": "금발"
+      },
+      {
+        "english": "Red",
+        "korean": "붉은색"
+      },
+      {
+        "english": "Black",
+        "korean": "검은색"
+      }
+    ],
+    "features": [
+      {
+        "english": "Limps",
+        "korean": "절뚝거림"
+      },
+      {
+        "english": "Ring",
+        "korean": "반지"
+      },
+      {
+        "english": "Tattoo",
+        "korean": "문신"
+      },
+      {
+        "english": "Scar",
+        "korean": "흉터"
+      },
+      {
+        "english": "Jewelry",
+        "korean": "장신구"
+      }
+    ],
+    "vehicles": [
+      {
+        "english": "Convertible",
+        "korean": "컨버터블"
+      },
+      {
+        "english": "Limousine",
+        "korean": "리무진"
+      },
+      {
+        "english": "Racecar",
+        "korean": "경주용 차"
+      },
+      {
+        "english": "Motorcycle",
+        "korean": "오토바이"
+      }
+    ],
+    "food": [
+      {
+        "english": "Mexican",
+        "korean": "멕시코 음식"
+      },
+      {
+        "english": "Seafood",
+        "korean": "해산물"
+      }
+    ]
+  },
+  "terms": {
+    "ACME Detective Agency": "ACME 탐정 사무소",
+    "V.I.L.E.": "V.I.L.E.",
+    "Interpol": "인터폴",
+    "detective": "탐정",
+    "case": "사건",
+    "suspect": "용의자",
+    "thief": "범인",
+    "warrant": "체포 영장",
+    "hideout": "은신처",
+    "national treasure": "국보",
+    "stolen treasure": "도난품",
+    "the Chief": "국장"
+  },
+  "period_country_names": {
+    "Greece": "그리스",
+    "Iraq": "이라크",
+    "Mali": "말리",
+    "Thailand": "태국",
+    "Hungary": "헝가리",
+    "Argentina": "아르헨티나",
+    "Egypt": "이집트",
+    "Sri Lanka": "스리랑카",
+    "Turkey": "터키",
+    "Nepal": "네팔",
+    "Rwanda": "르완다",
+    "Peru": "페루",
+    "England": "잉글랜드",
+    "United Kingdom": "영국",
+    "Great Britain": "그레이트브리튼",
+    "Mexico": "멕시코",
+    "Canada": "캐나다",
+    "Comoros": "코모로",
+    "Soviet Union": "소련",
+    "USSR": "소련",
+    "Russia": "러시아",
+    "India": "인도",
+    "United States": "미국",
+    "Norway": "노르웨이",
+    "France": "프랑스",
+    "China": "중국",
+    "Papua New Guinea": "파푸아뉴기니",
+    "Iceland": "아이슬란드",
+    "Brazil": "브라질",
+    "Italy": "이탈리아",
+    "San Marino": "산마리노",
+    "Singapore": "싱가포르",
+    "Australia": "오스트레일리아",
+    "Japan": "일본",
+    "Yugoslavia": "유고슬라비아",
+    "Czechoslovakia": "체코슬로바키아"
+  },
+  "aliases": {
+    "Peking": "베이징",
+    "Beijing": "베이징"
+  },
+  "treasures": [
+    {
+      "id": "i.000",
+      "english": "the Mask of Priam",
+      "korean": "프리아모스의 가면"
+    },
+    {
+      "id": "i.001",
+      "english": "Achilles' heel",
+      "korean": "아킬레스의 발꿈치"
+    },
+    {
+      "id": "i.002",
+      "english": "a sibyl's secret",
+      "korean": "시빌라의 비밀"
+    },
+    {
+      "id": "i.003",
+      "english": "a Babylonian tablet",
+      "korean": "바빌로니아 서판"
+    },
+    {
+      "id": "i.004",
+      "english": "Aladdin's lamp",
+      "korean": "알라딘의 요술 램프"
+    },
+    {
+      "id": "i.005",
+      "english": "a flying carpet",
+      "korean": "하늘을 나는 양탄자"
+    },
+    {
+      "id": "i.006",
+      "english": "the throne of Timbuktu",
+      "korean": "팀북투의 왕좌"
+    },
+    {
+      "id": "i.007",
+      "english": "Mali Empire jewelry",
+      "korean": "말리 제국의 장신구"
+    },
+    {
+      "id": "i.008",
+      "english": "a rare Islamic manuscript",
+      "korean": "희귀한 이슬람 필사본"
+    },
+    {
+      "id": "i.009",
+      "english": "the Golden Buddha",
+      "korean": "황금 불상"
+    },
+    {
+      "id": "i.010",
+      "english": "the King's sacred white elephant",
+      "korean": "국왕의 신성한 흰 코끼리"
+    },
+    {
+      "id": "i.011",
+      "english": "the Queen's prize Siamese cat",
+      "korean": "왕비가 아끼는 샴고양이"
+    },
+    {
+      "id": "i.012",
+      "english": "Attila the Hun's saddle",
+      "korean": "훈족 아틸라의 안장"
+    },
+    {
+      "id": "i.013",
+      "english": "a rare Transylvanian coffin collection",
+      "korean": "희귀한 트란실바니아 관 수집품"
+    },
+    {
+      "id": "i.014",
+      "english": "a stone lion guarding the Danube",
+      "korean": "다뉴브강을 지키는 돌사자"
+    },
+    {
+      "id": "i.015",
+      "english": "the Sword of San Martin",
+      "korean": "산마르틴의 검"
+    },
+    {
+      "id": "i.016",
+      "english": "an antique gaucho costume",
+      "korean": "오래된 가우초 의상"
+    },
+    {
+      "id": "i.017",
+      "english": "a solid gold bola",
+      "korean": "순금 볼라"
+    },
+    {
+      "id": "i.018",
+      "english": "King Tut's mask",
+      "korean": "투탕카멘의 가면"
+    },
+    {
+      "id": "i.019",
+      "english": "Cleopatra's asp",
+      "korean": "클레오파트라의 독사"
+    },
+    {
+      "id": "i.020",
+      "english": "the plans of the Great Pyramid",
+      "korean": "대피라미드의 설계도"
+    },
+    {
+      "id": "i.021",
+      "english": "the island's entire tea crop",
+      "korean": "섬의 찻잎 수확량 전부"
+    },
+    {
+      "id": "i.022",
+      "english": "an antique ivory fan",
+      "korean": "오래된 상아 부채"
+    },
+    {
+      "id": "i.023",
+      "english": "a priceless Serendip ruby",
+      "korean": "값을 매길 수 없는 세렌디프 루비"
+    },
+    {
+      "id": "i.024",
+      "english": "a Sultan's emerald ring",
+      "korean": "술탄의 에메랄드 반지"
+    },
+    {
+      "id": "i.025",
+      "english": "Constantine's jeweled cross",
+      "korean": "콘스탄티누스의 보석 십자가"
+    },
+    {
+      "id": "i.026",
+      "english": "Santa Sophia mosaics",
+      "korean": "성 소피아 성당의 모자이크"
+    },
+    {
+      "id": "i.027",
+      "english": "the Abominable Snowman",
+      "korean": "설인"
+    },
+    {
+      "id": "i.028",
+      "english": "the Royal Quartz Collection",
+      "korean": "왕실 석영 수집품"
+    },
+    {
+      "id": "i.029",
+      "english": "a sherpa's map to Mount Everest",
+      "korean": "에베레스트산으로 가는 셰르파의 지도"
+    },
+    {
+      "id": "i.030",
+      "english": "a Watusi king's headdress",
+      "korean": "와투시족 왕의 머리 장식"
+    },
+    {
+      "id": "i.031",
+      "english": "a rare white mountain gorilla",
+      "korean": "희귀한 흰 산악고릴라"
+    },
+    {
+      "id": "i.032",
+      "english": "a secret recipe for Pygmy poison darts",
+      "korean": "피그미족 독화살의 비밀 제조법"
+    },
+    {
+      "id": "i.033",
+      "english": "an Incan gold mask",
+      "korean": "잉카의 황금 가면"
+    },
+    {
+      "id": "i.034",
+      "english": "a silver llama statue",
+      "korean": "은으로 만든 라마상"
+    },
+    {
+      "id": "i.035",
+      "english": "Pizarro's sword",
+      "korean": "피사로의 검"
+    },
+    {
+      "id": "i.036",
+      "english": "Albert Hall",
+      "korean": "앨버트 홀"
+    },
+    {
+      "id": "i.037",
+      "english": "the Crown Jewels",
+      "korean": "왕실의 보석"
+    },
+    {
+      "id": "i.038",
+      "english": "the key to the Tower of London",
+      "korean": "런던탑의 열쇠"
+    },
+    {
+      "id": "i.039",
+      "english": "an ancient Aztec calendar",
+      "korean": "고대 아즈텍 달력"
+    },
+    {
+      "id": "i.040",
+      "english": "a secret remedy for Montezuma's revenge",
+      "korean": "몬테수마의 복수(?)의 비밀 치료법"
+    },
+    {
+      "id": "i.041",
+      "english": "an Orozco mural",
+      "korean": "오로스코의 벽화"
+    },
+    {
+      "id": "i.042",
+      "english": "Hudson Bay",
+      "korean": "허드슨만"
+    },
+    {
+      "id": "i.043",
+      "english": "a rare Eskimo ivory carving",
+      "korean": "희귀한 에스키모 상아 조각품"
+    },
+    {
+      "id": "i.044",
+      "english": "the Mounties' brass buttons",
+      "korean": "캐나다 기마경찰의 황동 단추"
+    },
+    {
+      "id": "i.045",
+      "english": "the Sultan's perfume bottle",
+      "korean": "술탄의 향수병"
+    },
+    {
+      "id": "i.046",
+      "english": "the plans to the Sultan's harem",
+      "korean": "술탄 하렘의 설계도"
+    },
+    {
+      "id": "i.047",
+      "english": "the entire year's copra crop",
+      "korean": "한 해 코프라 수확량 전부"
+    },
+    {
+      "id": "i.048",
+      "english": "the keys to the Kremlin",
+      "korean": "크렘린의 열쇠"
+    },
+    {
+      "id": "i.049",
+      "english": "Ivan the Terrible's crown",
+      "korean": "이반 뇌제의 왕관"
+    },
+    {
+      "id": "i.050",
+      "english": "a Siberian sable rug",
+      "korean": "시베리아 검은담비 깔개"
+    },
+    {
+      "id": "i.051",
+      "english": "Gandhi's glasses",
+      "korean": "간디의 안경"
+    },
+    {
+      "id": "i.052",
+      "english": "a statue of Shiva",
+      "korean": "시바 신상"
+    },
+    {
+      "id": "i.053",
+      "english": "a sacred monkey",
+      "korean": "신성한 원숭이"
+    },
+    {
+      "id": "i.054",
+      "english": "the Statue of Liberty's torch",
+      "korean": "자유의 여신상의 횃불"
+    },
+    {
+      "id": "i.055",
+      "english": "the Staten Island ferry",
+      "korean": "스태튼아일랜드 페리"
+    },
+    {
+      "id": "i.056",
+      "english": "the Rockettes",
+      "korean": "로케츠 무용단"
+    },
+    {
+      "id": "i.057",
+      "english": "Ibsen's doll's house",
+      "korean": "입센의 인형의 집"
+    },
+    {
+      "id": "i.058",
+      "english": "a Viking helmet",
+      "korean": "바이킹 투구"
+    },
+    {
+      "id": "i.059",
+      "english": "Harald the Fairhaired's shampoo",
+      "korean": "미발왕 하랄의 샴푸"
+    },
+    {
+      "id": "i.060",
+      "english": "the Mona Lisa",
+      "korean": "모나리자"
+    },
+    {
+      "id": "i.061",
+      "english": "the elevator from the Eiffel Tower",
+      "korean": "에펠탑의 엘리베이터"
+    },
+    {
+      "id": "i.062",
+      "english": "a secret recipe for escargot",
+      "korean": "에스카르고의 비밀 요리법"
+    },
+    {
+      "id": "i.063",
+      "english": "an ancient Tang horse",
+      "korean": "고대 당나라 말 조각상"
+    },
+    {
+      "id": "i.064",
+      "english": "a thousand year old egg",
+      "korean": "천 년 묵은 알"
+    },
+    {
+      "id": "i.065",
+      "english": "the keys to the Forbidden City",
+      "korean": "자금성의 열쇠"
+    },
+    {
+      "id": "i.066",
+      "english": "the letters in the Rotokas alphabet",
+      "korean": "로토카스 알파벳의 글자들"
+    },
+    {
+      "id": "i.067",
+      "english": "a boar's tusk necklace",
+      "korean": "멧돼지 엄니 목걸이"
+    },
+    {
+      "id": "i.068",
+      "english": "an ancient tribal totem",
+      "korean": "고대 부족의 토템"
+    },
+    {
+      "id": "i.069",
+      "english": "the gavel used in the Althing",
+      "korean": "알팅(Althing)에서 쓰던 의사봉"
+    },
+    {
+      "id": "i.070",
+      "english": "a Viking rune",
+      "korean": "바이킹 룬 문자"
+    },
+    {
+      "id": "i.071",
+      "english": "a Norse Saga manuscript",
+      "korean": "북유럽 사가 필사본"
+    },
+    {
+      "id": "i.072",
+      "english": "the architect's plans for Brasilia",
+      "korean": "브라질리아의 건축 설계도"
+    },
+    {
+      "id": "i.073",
+      "english": "the Carnival Queen's crown",
+      "korean": "카니발 여왕의 왕관"
+    },
+    {
+      "id": "i.074",
+      "english": "the Christ of the Andes",
+      "korean": "안데스의 그리스도상"
+    },
+    {
+      "id": "i.075",
+      "english": "the Pope's ring",
+      "korean": "교황의 반지"
+    },
+    {
+      "id": "i.076",
+      "english": "Caesar's crown",
+      "korean": "카이사르의 왕관"
+    },
+    {
+      "id": "i.077",
+      "english": "the ceiling of the Sistine Chapel",
+      "korean": "시스티나 예배당의 천장"
+    },
+    {
+      "id": "i.078",
+      "english": "the Regent's prized stamp collection",
+      "korean": "섭정이 아끼는 우표 수집품"
+    },
+    {
+      "id": "i.079",
+      "english": "a 4th century monk's robe",
+      "korean": "4세기 수도사의 수도복"
+    },
+    {
+      "id": "i.080",
+      "english": "an engraving of Mount Titano",
+      "korean": "티타노산의 판화"
+    },
+    {
+      "id": "i.081",
+      "english": "a rare orchid",
+      "korean": "희귀한 난초"
+    },
+    {
+      "id": "i.082",
+      "english": "Merlion",
+      "korean": "머라이언"
+    },
+    {
+      "id": "i.083",
+      "english": "a statue of Sir Stamford Raffles",
+      "korean": "스탬퍼드 래플스 경의 동상"
+    },
+    {
+      "id": "i.084",
+      "english": "an antique boomerang",
+      "korean": "오래된 부메랑"
+    },
+    {
+      "id": "i.085",
+      "english": "a rare black coral necklace",
+      "korean": "희귀한 검은 산호 목걸이"
+    },
+    {
+      "id": "i.086",
+      "english": "the chandelier from the Opera House",
+      "korean": "오페라 하우스의 샹들리에"
+    },
+    {
+      "id": "i.087",
+      "english": "a Samurai sword",
+      "korean": "사무라이의 검"
+    },
+    {
+      "id": "i.088",
+      "english": "the Emperor's netsuke",
+      "korean": "천황의 네쓰케"
+    },
+    {
+      "id": "i.089",
+      "english": "a prized royal carp",
+      "korean": "왕실이 아끼는 잉어"
+    }
+  ],
+  "uncommon_clue_terms": {
+    "barba amarilla": "바르바 아마리야 뱀",
+    "bushmaster": "부시마스터 뱀",
+    "thin-spined porcupine": "가는가시호저",
+    "golden parakeet": "황금앵무",
+    "hyacinth macaw": "히아신스마코앵무",
+    "Anjouan scops owl": "앙주앙소쩍새",
+    "whooping crane": "미국흰두루미",
+    "wolframite": "철망간중석",
+    "pyrite": "황철석",
+    "potash": "칼륨 비료",
+    "copra": "코프라",
+    "Most Serene Republic": "가장 고귀한 공화국",
+    "down under": "남쪽 대륙"
+  }
+}

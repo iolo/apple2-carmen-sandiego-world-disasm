@@ -1,0 +1,402 @@
+{
+  "format": 1,
+  "original_inputs": {
+    "manifest_sha256": "ceff8224d042e93979e52d986fb31097c9ff3f3e5e60a16f714907b8a5c6116b",
+    "images": {
+      "disk1": {
+        "path": "carmen-world-disk1.dsk",
+        "sha256": "d322484a14f53ab9ed0bc8e3ac2b046250d775dd52eb956dbac578e13912afd2",
+        "verified_extracted_files": 21
+      },
+      "disk2": {
+        "path": "carmen-world-disk2.dsk",
+        "sha256": "caf57f337eeb72860aa51e993b9ea99d9bd2b76a2bb8f49c4cf36d462a71800e",
+        "verified_extracted_files": 2
+      },
+      "po": {
+        "path": "carmen-world.po",
+        "sha256": "d9557dfed56f35de21350b3bbcddcd38af99a1629ffc80a578fef797dda9a091",
+        "verified_extracted_files": 25
+      }
+    }
+  },
+  "files": {
+    "C": {
+      "file_bytes": 10105,
+      "metadata_address": 53760,
+      "sha256": "d6c3d8fef74a9e282c919596bed43f0f8664612ee44d57aacee8e11197bf8528"
+    },
+    "D": {
+      "file_bytes": 1475,
+      "metadata_address": 47360,
+      "sha256": "7123969c4984f2fc749b4221f38215cf151885b1854ad2ac06ca0fff92644762"
+    },
+    "N": {
+      "file_bytes": 12000,
+      "metadata_address": 24576,
+      "sha256": "05b53463af7f031fe24716c6633e29a131e05abec541570b9a2b066d4ee5d0c1"
+    },
+    "R": {
+      "file_bytes": 5094,
+      "metadata_address": 24576,
+      "sha256": "7519dc80037293ffb3b6b0f0777a73617bdd7965d54112a87905eb5b29d52229"
+    },
+    "S2": {
+      "file_bytes": 96566,
+      "metadata_address": 0,
+      "sha256": "614ea24906c4f5a6dd9d13d6868c92e7ac843e9e053c4025e97bbb509786e0d4"
+    },
+    "I": {
+      "file_bytes": 2167,
+      "metadata_address": 8192,
+      "sha256": "8c94c037f5e473e3170b917e1358bbd9e6b81c467b303b189387ac495ed5d6bd"
+    },
+    "K": {
+      "file_bytes": 1275,
+      "metadata_address": 32768,
+      "sha256": "27cdde9a6440d745cb21108b98feee76a1f8dc6c59723caeac3cd26308c4e17a"
+    }
+  },
+  "disks": [
+    {
+      "path": "carmen-world.po",
+      "sha256": "d9557dfed56f35de21350b3bbcddcd38af99a1629ffc80a578fef797dda9a091",
+      "total_blocks": 1600,
+      "free_blocks": 1186,
+      "free_bytes": 607232,
+      "evidence": "volume header block 2 and MSB-first ProDOS allocation bitmap",
+      "note": "New files also require index blocks and directory entries."
+    },
+    {
+      "path": "build/carmen-world.po",
+      "sha256": "b3881e41d89224836f7d50c1bafd594fedc2d4eca73399e9e3578a7288411c62",
+      "total_blocks": 1600,
+      "free_blocks": 1206,
+      "free_bytes": 617472,
+      "evidence": "volume header block 2 and MSB-first ProDOS allocation bitmap",
+      "note": "New files also require index blocks and directory entries."
+    }
+  ],
+  "s2": [
+    {
+      "city": 0,
+      "record_bytes": 3145,
+      "stored_text_bytes": 1179,
+      "image_bytes": 1964,
+      "longest_stored_line_bytes": 136,
+      "longest_description_with_nul": 137,
+      "three_selected_distinct_category_clues_bytes": 141,
+      "longest_expanded_line_bytes": 156
+    },
+    {
+      "city": 1,
+      "record_bytes": 2736,
+      "stored_text_bytes": 1269,
+      "image_bytes": 1465,
+      "longest_stored_line_bytes": 133,
+      "longest_description_with_nul": 134,
+      "three_selected_distinct_category_clues_bytes": 161,
+      "longest_expanded_line_bytes": 148
+    },
+    {
+      "city": 2,
+      "record_bytes": 2344,
+      "stored_text_bytes": 1248,
+      "image_bytes": 1094,
+      "longest_stored_line_bytes": 125,
+      "longest_description_with_nul": 126,
+      "three_selected_distinct_category_clues_bytes": 149,
+      "longest_expanded_line_bytes": 156
+    },
+    {
+      "city": 3,
+      "record_bytes": 3422,
+      "stored_text_bytes": 1113,
+      "image_bytes": 2307,
+      "longest_stored_line_bytes": 114,
+      "longest_description_with_nul": 115,
+      "three_selected_distinct_category_clues_bytes": 152,
+      "longest_expanded_line_bytes": 145
+    },
+    {
+      "city": 4,
+      "record_bytes": 3124,
+      "stored_text_bytes": 1117,
+      "image_bytes": 2005,
+      "longest_stored_line_bytes": 117,
+      "longest_description_with_nul": 118,
+      "three_selected_distinct_category_clues_bytes": 125,
+      "longest_expanded_line_bytes": 133
+    },
+    {
+      "city": 5,
+      "record_bytes": 3673,
+      "stored_text_bytes": 1287,
+      "image_bytes": 2384,
+      "longest_stored_line_bytes": 138,
+      "longest_description_with_nul": 139,
+      "three_selected_distinct_category_clues_bytes": 127,
+      "longest_expanded_line_bytes": 169
+    },
+    {
+      "city": 6,
+      "record_bytes": 3206,
+      "stored_text_bytes": 1187,
+      "image_bytes": 2017,
+      "longest_stored_line_bytes": 122,
+      "longest_description_with_nul": 123,
+      "three_selected_distinct_category_clues_bytes": 121,
+      "longest_expanded_line_bytes": 154
+    },
+    {
+      "city": 7,
+      "record_bytes": 3734,
+      "stored_text_bytes": 1272,
+      "image_bytes": 2460,
+      "longest_stored_line_bytes": 122,
+      "longest_description_with_nul": 123,
+      "three_selected_distinct_category_clues_bytes": 140,
+      "longest_expanded_line_bytes": 158
+    },
+    {
+      "city": 8,
+      "record_bytes": 3306,
+      "stored_text_bytes": 1152,
+      "image_bytes": 2152,
+      "longest_stored_line_bytes": 95,
+      "longest_description_with_nul": 96,
+      "three_selected_distinct_category_clues_bytes": 168,
+      "longest_expanded_line_bytes": 110
+    },
+    {
+      "city": 9,
+      "record_bytes": 3485,
+      "stored_text_bytes": 1086,
+      "image_bytes": 2397,
+      "longest_stored_line_bytes": 101,
+      "longest_description_with_nul": 102,
+      "three_selected_distinct_category_clues_bytes": 150,
+      "longest_expanded_line_bytes": 124
+    },
+    {
+      "city": 10,
+      "record_bytes": 3753,
+      "stored_text_bytes": 1218,
+      "image_bytes": 2533,
+      "longest_stored_line_bytes": 91,
+      "longest_description_with_nul": 92,
+      "three_selected_distinct_category_clues_bytes": 151,
+      "longest_expanded_line_bytes": 118
+    },
+    {
+      "city": 11,
+      "record_bytes": 3458,
+      "stored_text_bytes": 1163,
+      "image_bytes": 2293,
+      "longest_stored_line_bytes": 127,
+      "longest_description_with_nul": 128,
+      "three_selected_distinct_category_clues_bytes": 127,
+      "longest_expanded_line_bytes": 146
+    },
+    {
+      "city": 12,
+      "record_bytes": 2493,
+      "stored_text_bytes": 1182,
+      "image_bytes": 1309,
+      "longest_stored_line_bytes": 136,
+      "longest_description_with_nul": 137,
+      "three_selected_distinct_category_clues_bytes": 132,
+      "longest_expanded_line_bytes": 151
+    },
+    {
+      "city": 13,
+      "record_bytes": 2965,
+      "stored_text_bytes": 1235,
+      "image_bytes": 1728,
+      "longest_stored_line_bytes": 133,
+      "longest_description_with_nul": 134,
+      "three_selected_distinct_category_clues_bytes": 133,
+      "longest_expanded_line_bytes": 156
+    },
+    {
+      "city": 14,
+      "record_bytes": 3287,
+      "stored_text_bytes": 1155,
+      "image_bytes": 2130,
+      "longest_stored_line_bytes": 114,
+      "longest_description_with_nul": 115,
+      "three_selected_distinct_category_clues_bytes": 152,
+      "longest_expanded_line_bytes": 136
+    },
+    {
+      "city": 15,
+      "record_bytes": 3157,
+      "stored_text_bytes": 1077,
+      "image_bytes": 2078,
+      "longest_stored_line_bytes": 115,
+      "longest_description_with_nul": 116,
+      "three_selected_distinct_category_clues_bytes": 131,
+      "longest_expanded_line_bytes": 149
+    },
+    {
+      "city": 16,
+      "record_bytes": 3235,
+      "stored_text_bytes": 1184,
+      "image_bytes": 2049,
+      "longest_stored_line_bytes": 117,
+      "longest_description_with_nul": 118,
+      "three_selected_distinct_category_clues_bytes": 138,
+      "longest_expanded_line_bytes": 151
+    },
+    {
+      "city": 17,
+      "record_bytes": 3093,
+      "stored_text_bytes": 1232,
+      "image_bytes": 1859,
+      "longest_stored_line_bytes": 153,
+      "longest_description_with_nul": 154,
+      "three_selected_distinct_category_clues_bytes": 142,
+      "longest_expanded_line_bytes": 183
+    },
+    {
+      "city": 18,
+      "record_bytes": 2878,
+      "stored_text_bytes": 1238,
+      "image_bytes": 1638,
+      "longest_stored_line_bytes": 101,
+      "longest_description_with_nul": 102,
+      "three_selected_distinct_category_clues_bytes": 160,
+      "longest_expanded_line_bytes": 135
+    },
+    {
+      "city": 19,
+      "record_bytes": 3481,
+      "stored_text_bytes": 1140,
+      "image_bytes": 2339,
+      "longest_stored_line_bytes": 129,
+      "longest_description_with_nul": 130,
+      "three_selected_distinct_category_clues_bytes": 134,
+      "longest_expanded_line_bytes": 153
+    },
+    {
+      "city": 20,
+      "record_bytes": 3544,
+      "stored_text_bytes": 1128,
+      "image_bytes": 2414,
+      "longest_stored_line_bytes": 82,
+      "longest_description_with_nul": 83,
+      "three_selected_distinct_category_clues_bytes": 142,
+      "longest_expanded_line_bytes": 103
+    },
+    {
+      "city": 21,
+      "record_bytes": 3127,
+      "stored_text_bytes": 1094,
+      "image_bytes": 2031,
+      "longest_stored_line_bytes": 100,
+      "longest_description_with_nul": 101,
+      "three_selected_distinct_category_clues_bytes": 142,
+      "longest_expanded_line_bytes": 119
+    },
+    {
+      "city": 22,
+      "record_bytes": 3721,
+      "stored_text_bytes": 1115,
+      "image_bytes": 2604,
+      "longest_stored_line_bytes": 93,
+      "longest_description_with_nul": 94,
+      "three_selected_distinct_category_clues_bytes": 128,
+      "longest_expanded_line_bytes": 123
+    },
+    {
+      "city": 23,
+      "record_bytes": 2988,
+      "stored_text_bytes": 1115,
+      "image_bytes": 1871,
+      "longest_stored_line_bytes": 127,
+      "longest_description_with_nul": 128,
+      "three_selected_distinct_category_clues_bytes": 129,
+      "longest_expanded_line_bytes": 141
+    },
+    {
+      "city": 24,
+      "record_bytes": 2754,
+      "stored_text_bytes": 1179,
+      "image_bytes": 1573,
+      "longest_stored_line_bytes": 108,
+      "longest_description_with_nul": 109,
+      "three_selected_distinct_category_clues_bytes": 146,
+      "longest_expanded_line_bytes": 110
+    },
+    {
+      "city": 25,
+      "record_bytes": 3565,
+      "stored_text_bytes": 1182,
+      "image_bytes": 2381,
+      "longest_stored_line_bytes": 118,
+      "longest_description_with_nul": 119,
+      "three_selected_distinct_category_clues_bytes": 125,
+      "longest_expanded_line_bytes": 143
+    },
+    {
+      "city": 26,
+      "record_bytes": 3175,
+      "stored_text_bytes": 1172,
+      "image_bytes": 2001,
+      "longest_stored_line_bytes": 124,
+      "longest_description_with_nul": 125,
+      "three_selected_distinct_category_clues_bytes": 149,
+      "longest_expanded_line_bytes": 155
+    },
+    {
+      "city": 27,
+      "record_bytes": 3264,
+      "stored_text_bytes": 1176,
+      "image_bytes": 2086,
+      "longest_stored_line_bytes": 96,
+      "longest_description_with_nul": 97,
+      "three_selected_distinct_category_clues_bytes": 149,
+      "longest_expanded_line_bytes": 127
+    },
+    {
+      "city": 28,
+      "record_bytes": 2551,
+      "stored_text_bytes": 1195,
+      "image_bytes": 1354,
+      "longest_stored_line_bytes": 136,
+      "longest_description_with_nul": 137,
+      "three_selected_distinct_category_clues_bytes": 152,
+      "longest_expanded_line_bytes": 154
+    },
+    {
+      "city": 29,
+      "record_bytes": 3710,
+      "stored_text_bytes": 1311,
+      "image_bytes": 2397,
+      "longest_stored_line_bytes": 86,
+      "longest_description_with_nul": 87,
+      "three_selected_distinct_category_clues_bytes": 111,
+      "longest_expanded_line_bytes": 99
+    }
+  ],
+  "limits": {
+    "city_description_copy_including_nul": 256,
+    "main_s2_text_read_before_O": 1792,
+    "aux_K_boot_copy": 4096,
+    "aux_I_boot_copy": 4096,
+    "C_UI_region_including_padding": 3072,
+    "D_before_ProDOS_MLI": 1536,
+    "common_main_probe_gap": {
+      "start": 37376,
+      "end_exclusive": 38912,
+      "bytes": 1536,
+      "status": "candidate; runtime watch and lifecycle checks required"
+    }
+  },
+  "symbols": "build/korean/maps/*-symbols.json",
+  "remaining": [
+    "Measure bank ownership through intro, S2 reads, image display and save/restore",
+    "Do not count unmeasured RAM gaps as approved font capacity",
+    "Re-measure using the complete translation draft before human review"
+  ]
+}
