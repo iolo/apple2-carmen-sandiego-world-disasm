@@ -1,0 +1,436 @@
+{
+  "date": "2026-10-19",
+  "image": "build/korean/approved/carmen-world-ko.po",
+  "image_sha256": "d5328b1570fe709811d55d5043c357d351b2f67262b1a23f446395df248e66e1",
+  "script_sha256": "4eea4540459edd1e415d4d670befa563c54d8c462a47e577446bd912a5fa5945",
+  "result": {
+    "hall_of_fame": true,
+    "mame": "0.285",
+    "keys": 2016,
+    "result": "carmen-arrested",
+    "state": {
+      "hideout": 1,
+      "suspect": 0,
+      "hour": 8,
+      "solved": 30,
+      "city": 1,
+      "route_index": 7,
+      "day": 2,
+      "rank": 5,
+      "warrant": 0
+    },
+    "assisted": true,
+    "detective": "LUASLEUTH",
+    "arrests": 30,
+    "elapsed_seconds": 59,
+    "cases": 30
+  },
+  "native_disk_checks": {
+    "hall_of_fame_contains_detective": true,
+    "retired_roster_entry_removed": true,
+    "modified_files": [
+      "G"
+    ],
+    "source_image_unchanged": true
+  },
+  "case_starts": [
+    {
+      "hideout": 29,
+      "suspect": 9,
+      "hour": 14,
+      "solved": 0,
+      "city": 3,
+      "route_index": 1,
+      "day": 2,
+      "rank": 0,
+      "warrant": 255
+    },
+    {
+      "hideout": 5,
+      "suspect": 8,
+      "hour": 16,
+      "solved": 1,
+      "city": 2,
+      "route_index": 1,
+      "day": 6,
+      "rank": 1,
+      "warrant": 255
+    },
+    {
+      "hideout": 20,
+      "suspect": 6,
+      "hour": 14,
+      "solved": 2,
+      "city": 1,
+      "route_index": 1,
+      "day": 3,
+      "rank": 1,
+      "warrant": 255
+    },
+    {
+      "hideout": 5,
+      "suspect": 8,
+      "hour": 16,
+      "solved": 3,
+      "city": 18,
+      "route_index": 1,
+      "day": 5,
+      "rank": 1,
+      "warrant": 255
+    },
+    {
+      "hideout": 11,
+      "suspect": 1,
+      "hour": 13,
+      "solved": 4,
+      "city": 1,
+      "route_index": 1,
+      "day": 2,
+      "rank": 1,
+      "warrant": 255
+    },
+    {
+      "hideout": 29,
+      "suspect": 3,
+      "hour": 10,
+      "solved": 5,
+      "city": 11,
+      "route_index": 1,
+      "day": 1,
+      "rank": 2,
+      "warrant": 255
+    },
+    {
+      "hideout": 12,
+      "suspect": 5,
+      "hour": 8,
+      "solved": 6,
+      "city": 14,
+      "route_index": 1,
+      "day": 2,
+      "rank": 2,
+      "warrant": 255
+    },
+    {
+      "hideout": 17,
+      "suspect": 6,
+      "hour": 16,
+      "solved": 7,
+      "city": 18,
+      "route_index": 1,
+      "day": 4,
+      "rank": 2,
+      "warrant": 255
+    },
+    {
+      "hideout": 3,
+      "suspect": 8,
+      "hour": 8,
+      "solved": 8,
+      "city": 20,
+      "route_index": 1,
+      "day": 0,
+      "rank": 2,
+      "warrant": 255
+    },
+    {
+      "hideout": 22,
+      "suspect": 5,
+      "hour": 13,
+      "solved": 9,
+      "city": 12,
+      "route_index": 1,
+      "day": 6,
+      "rank": 2,
+      "warrant": 255
+    },
+    {
+      "hideout": 24,
+      "suspect": 1,
+      "hour": 10,
+      "solved": 10,
+      "city": 26,
+      "route_index": 1,
+      "day": 1,
+      "rank": 2,
+      "warrant": 255
+    },
+    {
+      "hideout": 24,
+      "suspect": 4,
+      "hour": 9,
+      "solved": 11,
+      "city": 25,
+      "route_index": 1,
+      "day": 1,
+      "rank": 2,
+      "warrant": 255
+    },
+    {
+      "hideout": 15,
+      "suspect": 5,
+      "hour": 12,
+      "solved": 12,
+      "city": 9,
+      "route_index": 1,
+      "day": 4,
+      "rank": 3,
+      "warrant": 255
+    },
+    {
+      "hideout": 6,
+      "suspect": 9,
+      "hour": 17,
+      "solved": 13,
+      "city": 3,
+      "route_index": 1,
+      "day": 4,
+      "rank": 3,
+      "warrant": 255
+    },
+    {
+      "hideout": 6,
+      "suspect": 6,
+      "hour": 15,
+      "solved": 14,
+      "city": 29,
+      "route_index": 1,
+      "day": 2,
+      "rank": 3,
+      "warrant": 255
+    },
+    {
+      "hideout": 7,
+      "suspect": 8,
+      "hour": 13,
+      "solved": 15,
+      "city": 28,
+      "route_index": 1,
+      "day": 6,
+      "rank": 3,
+      "warrant": 255
+    },
+    {
+      "hideout": 29,
+      "suspect": 1,
+      "hour": 11,
+      "solved": 16,
+      "city": 1,
+      "route_index": 1,
+      "day": 0,
+      "rank": 3,
+      "warrant": 255
+    },
+    {
+      "hideout": 21,
+      "suspect": 2,
+      "hour": 12,
+      "solved": 17,
+      "city": 3,
+      "route_index": 1,
+      "day": 3,
+      "rank": 3,
+      "warrant": 255
+    },
+    {
+      "hideout": 28,
+      "suspect": 1,
+      "hour": 8,
+      "solved": 18,
+      "city": 23,
+      "route_index": 1,
+      "day": 3,
+      "rank": 3,
+      "warrant": 255
+    },
+    {
+      "hideout": 18,
+      "suspect": 4,
+      "hour": 11,
+      "solved": 19,
+      "city": 24,
+      "route_index": 1,
+      "day": 1,
+      "rank": 3,
+      "warrant": 255
+    },
+    {
+      "hideout": 24,
+      "suspect": 9,
+      "hour": 13,
+      "solved": 20,
+      "city": 11,
+      "route_index": 1,
+      "day": 2,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 23,
+      "suspect": 5,
+      "hour": 17,
+      "solved": 21,
+      "city": 16,
+      "route_index": 1,
+      "day": 0,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 10,
+      "suspect": 3,
+      "hour": 11,
+      "solved": 22,
+      "city": 6,
+      "route_index": 1,
+      "day": 5,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 12,
+      "suspect": 2,
+      "hour": 17,
+      "solved": 23,
+      "city": 22,
+      "route_index": 1,
+      "day": 5,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 22,
+      "suspect": 3,
+      "hour": 9,
+      "solved": 24,
+      "city": 20,
+      "route_index": 1,
+      "day": 0,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 14,
+      "suspect": 5,
+      "hour": 13,
+      "solved": 25,
+      "city": 10,
+      "route_index": 1,
+      "day": 1,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 17,
+      "suspect": 6,
+      "hour": 16,
+      "solved": 26,
+      "city": 11,
+      "route_index": 1,
+      "day": 0,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 27,
+      "suspect": 9,
+      "hour": 13,
+      "solved": 27,
+      "city": 19,
+      "route_index": 1,
+      "day": 4,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 23,
+      "suspect": 2,
+      "hour": 8,
+      "solved": 28,
+      "city": 12,
+      "route_index": 1,
+      "day": 4,
+      "rank": 4,
+      "warrant": 255
+    },
+    {
+      "hideout": 1,
+      "suspect": 0,
+      "hour": 17,
+      "solved": 29,
+      "city": 5,
+      "route_index": 1,
+      "day": 5,
+      "rank": 4,
+      "warrant": 255
+    }
+  ],
+  "additional_runs": {
+    "autoplay-smoke": {
+      "elapsed_seconds": 1,
+      "mame": "0.285",
+      "cases": 1,
+      "result": "case-limit",
+      "arrests": 1,
+      "hall_of_fame": false,
+      "keys": 67,
+      "state": {
+        "city": 29,
+        "route_index": 3,
+        "hideout": 29,
+        "hour": 13,
+        "warrant": 9,
+        "solved": 1,
+        "rank": 1,
+        "day": 3,
+        "suspect": 9
+      },
+      "detective": "LUASLEUTH",
+      "assisted": true
+    },
+    "autoplay-resume": {
+      "result": "case-limit",
+      "hall_of_fame": false,
+      "cases": 1,
+      "keys": 68,
+      "state": {
+        "solved": 2,
+        "hideout": 29,
+        "city": 29,
+        "day": 3,
+        "warrant": 9,
+        "route_index": 4,
+        "hour": 20,
+        "rank": 1,
+        "suspect": 9
+      },
+      "arrests": 1,
+      "detective": "LUASLEUTH",
+      "assisted": true,
+      "mame": "0.285",
+      "elapsed_seconds": 2
+    },
+    "autoplay-visible": {
+      "keys": 67,
+      "hall_of_fame": false,
+      "detective": "LUASLEUTH",
+      "arrests": 1,
+      "mame": "0.285",
+      "result": "case-limit",
+      "cases": 1,
+      "state": {
+        "suspect": 9,
+        "day": 3,
+        "route_index": 3,
+        "solved": 1,
+        "city": 29,
+        "warrant": 9,
+        "rank": 1,
+        "hour": 13,
+        "hideout": 29
+      },
+      "assisted": true,
+      "elapsed_seconds": 8
+    }
+  }
+}

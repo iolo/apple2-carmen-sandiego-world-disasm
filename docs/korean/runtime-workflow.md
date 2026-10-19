@@ -4,6 +4,9 @@ Start with `make korean` and `make korean-image-check`. The recorded checks
 are indexed in [runtime/README.md](runtime/README.md); their scope and visual
 results are in [release-checks.md](release-checks.md).
 
+For skill maintainers, [MAME control handoff](../mame-control-handoff.md) records
+the autoplay findings, corrected failures, and proposed `a2-mame` improvements.
+
 ## Reproduce the approved tests
 
 MAME 0.285, local Apple //e ROMs, CFFA 6502 firmware and the `a2-mame` skill's

@@ -6,3 +6,6 @@ a2 = dofile(os.getenv('CARMEN_MAME_CONTROL') or
 k0 = dofile(root .. '/tools/korean/runtime.lua')
 a2.call('attach', 'korean_attach', root, work)
 a2.call('devices', 'devices')
+if os.getenv('CARMEN_AUTOPLAY') == '1' then
+    carmen_player = dofile(root .. '/tools/korean/autoplay.lua')
+end

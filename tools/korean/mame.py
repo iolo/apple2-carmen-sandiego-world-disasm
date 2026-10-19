@@ -18,10 +18,25 @@ def main():
     parser.add_argument("--session", required=True, help="new directory below build/korean")
     parser.add_argument("--rompath", type=Path, default=Path("/home/iolo/workspace/retro/a2x/mame/roms"))
     parser.add_argument("--cffa-rom", type=Path, default=Path("/home/iolo/workspace/retro/a2x/disks/roms/cffa20ee02.bin"))
-    parser.add_argument("--image", type=Path, default=ROOT / "build/carmen-world.po")
+    parser.add_argument("--image", type=Path, help="defaults to approved Korean image for autoplay, English otherwise")
     parser.add_argument("--script", type=Path)
+    parser.add_argument("--autoplay", action="store_true", help="run autoplay.lua on the approved Korean image")
+    parser.add_argument("--detective", default="LUASLEUTH", help="autoplay detective name (1-15 ASCII letters)")
+    parser.add_argument("--case-limit", type=int, default=30, help="stop after this many successful arrests")
+    parser.add_argument("--exit-on-done", action="store_true", help="exit MAME after autoplay finishes")
+    parser.add_argument("--visible", action="store_true", help="show the emulated screen and enable sound")
+    parser.add_argument("--throttle", action="store_true", help="play at original machine speed instead of fast-forward")
     parser.add_argument("--console", action="store_true", help="opt into the old interactive stdin console")
     args = parser.parse_args()
+    if args.image is None:
+        args.image = BUILD / "approved/carmen-world-ko.po" if args.autoplay else ROOT / "build/carmen-world.po"
+    if args.autoplay:
+        if not args.detective.isascii() or not args.detective.isalpha() or not 1 <= len(args.detective) <= 15:
+            parser.error("detective must contain 1-15 ASCII letters")
+        if not 1 <= args.case_limit <= 30:
+            parser.error("case-limit must be between 1 and 30")
+        if args.script:
+            parser.error("--script and --autoplay cannot be combined")
     executable = shutil.which("mame")
     if not executable:
         parser.error("MAME is required")
@@ -40,12 +55,16 @@ def main():
     media = work / "carmen-world.hdv"
     shutil.copyfile(args.image, media)
     (work / "mailbox").mkdir()
-    command = [executable, "apple2e", "-noreadconfig", "-rompath", rompath,
+    command = [executable, "apple2e", "-rompath", rompath,
                "-aux", "ext80", "-ramsize", "64K", "-sl7", "cffa202", "-hard1", str(media),
                "-pluginspath", f"{ROOT / 'tools/korean/mame_plugins'};/usr/share/games/mame/plugins",
                "-plugin", "carmen_mailbox",
-               "-skip_gameinfo", "-window", "-nomouse", "-nothrottle", "-homepath", str(work),
-               "-video", "none", "-sound", "none", "-debug", "-debugger", "qt"]
+               "-skip_gameinfo", "-window", "-nomouse", "-throttle" if args.throttle else "-nothrottle", "-homepath", str(work),
+               "-debug", "-debugger", "qt"]
+    command += ["-video", "bgfx", "-bgfx_screen_chains", "crt-geom-deluxe,pillarbox_left_horizontal,pillarbox_right_horizontal"]
+    #command += ["-aviwrite", "/tmp/carmen-autoplay.avi"]
+    if not args.visible:
+        command += ["-video", "none", "-sound", "none"]
     if args.console:
         command += ["-console"]
     for option in ("cfg_directory", "nvram_directory", "snapshot_directory", "state_directory", "diff_directory"):
@@ -62,8 +81,16 @@ def main():
     print(f"Session: {work}", flush=True)
     print(f"Lua: python3 -m tools.korean.mame_rpc --session {args.session} --call status", flush=True)
     environment = os.environ.copy()
-    environment.update(SDL_VIDEODRIVER="dummy", SDL_AUDIODRIVER="dummy", QT_QPA_PLATFORM="offscreen")
+    if not args.visible:
+        environment.update(SDL_VIDEODRIVER="dummy", SDL_AUDIODRIVER="dummy", QT_QPA_PLATFORM="offscreen")
     environment.update(CARMEN_MAME_ROOT=str(ROOT), CARMEN_MAME_WORK=str(work))
+    # Do not inherit autoplay settings into unrelated development sessions.
+    for key in ("CARMEN_AUTOPLAY", "CARMEN_DETECTIVE", "CARMEN_CASE_LIMIT", "CARMEN_EXIT_ON_DONE"):
+        environment.pop(key, None)
+    if args.autoplay:
+        environment.update(CARMEN_AUTOPLAY="1", CARMEN_DETECTIVE=args.detective.upper(),
+                           CARMEN_CASE_LIMIT=str(args.case_limit),
+                           CARMEN_EXIT_ON_DONE="1" if args.exit_on_done else "0")
     if not args.console:
         # Keep diagnostics readable without polling a terminal/stdin tool.
         log = os.open(work / "mame.log", os.O_CREAT | os.O_WRONLY | os.O_EXCL, 0o600)

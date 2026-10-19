@@ -12,6 +12,7 @@ The user confirmed the image works in their own testing on 2026-10-19.
 
 ## Playing and checking the result
 
+- [MAME Lua autoplay](autoplay.md): memory-assisted play from a new detective through Carmen's arrest.
 - [Screenshots](screenshots/README.md): representative native screens.
 - [Save compatibility](save-compatibility.md): English↔Korean 800K saves and the F/G/H format.
 - [Release checks](release-checks.md): verified gameplay, visual inspection and coverage limits.
